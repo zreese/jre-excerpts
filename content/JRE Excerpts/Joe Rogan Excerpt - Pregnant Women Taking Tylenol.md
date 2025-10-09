@@ -1,9 +1,8 @@
 ---
 created: 2025-10-09T12:10
-updated: 2025-10-09T13:13
+updated: 2025-10-09T14:27
 youtube_url:
 ---
-# Rogan - Pregnant Women Taking Tylenol on TikTok
 ## Excerpt from [[jre-2385--rick-strassman--2025-09-26]]
 
 01:15:56	(Rick Strassman)	Yeah. What do you think's going on with American Health?
