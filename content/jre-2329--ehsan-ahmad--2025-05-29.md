@@ -1,22 +1,24 @@
 ---
 created: 2025-09-29T10:10
-updated: 2025-09-29T10:18
+updated: 2025-10-13T12:55
 tags:
   - source--podcast
   - transcription
 source_url:
 youtube_url: https://www.youtube.com/watch?v=RNJ82qpiZME
-media_series_title: ""
-media_episode_number:
+media_series_title: The Joe Rogan Experience
+media_episode_number: 2329
 people:
-media_title:
-publisher_notes: ""
-published_date:
-view_count:
-reach_estimate:
-gist: ""
+  - Ehsan Ahmad
+media_title: "Joe Rogan Experience #2329 - Ehsan Ahmad"
+publisher_notes: Ehsan Ahmad is a comedian and co-host of "The Solid Show" with Deric Poston.
+published_date: 2025-05-29
+view_count: 683186
+reach_estimate: 24000000
+gist: "Rogan and Ahmad fixate on elites and control: they riff on a viral clip that allegedly shows Brigitte Macron slapping Emmanuel Macron and lean into rumors about her grooming him as a teen, then pivot to Epstein, asserting the autopsy screams strangulation, speculating his muscle-bound cellmate is the perfect “hire,” and calling the public “hostage” video about the files proof of a cover-up. They frame U.S. politics as a grift machine: corrupt lifer politicians “ride it into the rocks,” Congress benefits from insider trading, search engines curate narratives to swing elections, and social platforms pay influencers to push candidates; they say media hid Biden’s decline and mock Kamala’s donation-first campaign site. They argue Texas’s looming anti-THC push empowers cartels, blame prison and pharma lobbies, and call porn ID rules a blackmail trap in an age of easy deepfakes. They highlight a Swiss university’s Reddit experiment where AI bots role-play trauma survivors to persuade users, claim LLMs talk about “cosmic unity,” even using Sanskrit, and warn that censorship only made Trump stronger as a performer who shrugs off indictments and even an assassination attempt. They hit culture beats and old scandals—Jimmy Savile, Sandusky, narco-corridos visas, Kenneth Copeland’s jet—and say false-flag tolerance explains Pearl Harbor, 9/11, and possibly Oct 7, insisting governments sometimes let attacks happen to justify crackdowns."
 ---
-# 0000-00-00 Title - Guest
+# 2025-05-29 Joe Rogan Experience 2329 - Ehsan Ahmad
+
 00:00:03‣(Joe Rogan)‣Oh, hey, fella.
 
 00:00:13‣(Ehsan Ahmad)‣Oh, what's up?
