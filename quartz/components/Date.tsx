@@ -10,6 +10,9 @@ interface Props {
 export type ValidDateType = keyof Required<QuartzPluginData>["dates"]
 
 export function getDate(cfg: GlobalConfiguration, data: QuartzPluginData): Date | undefined {
+  if (data.frontmatter?.published_date) {
+    return new globalThis.Date(String(data.frontmatter.published_date))
+  }
   if (!cfg.defaultDateType) {
     throw new Error(
       `Field 'defaultDateType' was not set in the configuration object of quartz.config.ts. See https://quartz.jzhao.xyz/configuration#general-configuration for more details.`,
@@ -17,6 +20,7 @@ export function getDate(cfg: GlobalConfiguration, data: QuartzPluginData): Date 
   }
   return data.dates?.[cfg.defaultDateType]
 }
+
 
 export function formatDate(d: Date, locale: ValidLocale = "en-US"): string {
   return d.toLocaleDateString(locale, {
@@ -27,5 +31,7 @@ export function formatDate(d: Date, locale: ValidLocale = "en-US"): string {
 }
 
 export function Date({ date, locale }: Props) {
-  return <time datetime={date.toISOString()}>{formatDate(date, locale)}</time>
+  if (!date) return null
+  return <time dateTime={date.toISOString()}>{formatDate(date, locale)}</time>
 }
+
