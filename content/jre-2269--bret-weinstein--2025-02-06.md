@@ -1,6 +1,6 @@
 ---
 created: 2025-02-07T13:15
-updated: 2025-09-19T14:30
+updated: 2025-10-22T14:55
 tags:
   - source--podcast
   - transcription
@@ -19,773 +19,1542 @@ gist: Weinstein and Rogan discuss alleged large-scale government corruption, par
 # 2025-02-06 The Joe Rogan Experience 2269 - Bret Weinstein
 ## Full Transcript
 00:12 	(Joe Rogan)	What's up? Uh, good to see you, my friend. 
+
 00:13 	(Bret Weinstein)	Great to see you, Joe. Wild times, uh, almost unbelievable.
+
 00:18 	(Joe Rogan)	Yeah. The last time you were here, we were really worried about what was gonna happen and now it seems like we're in a completely different timeline. 
+
 00:27 	(Bret Weinstein)	Yeah. I have to say, in addition to being just overarchingly worried about what was going to happen to the Republic and to, uh, the globe, I was personally worried about what would happen to people like you and me if we lost. 
+
 00:42 	(Joe Rogan)	Yeah. Probably wouldn't be so good for business. They probably would have cracked down. 
+
 00:47 	(Bret Weinstein)	There's that. But I must say, on my darker days, I had concerns even beyond that. 
+
 00:53 	(Joe Rogan)	You probably should. 
+
 00:54 	(Bret Weinstein)	Yeah. 
+
 00:55 	(Joe Rogan)	Yeah. In light of what we now know, you know, it's um, this USAID thing that's going on, you know, Mike Benz has been on that like a pit bull. And, uh, I've been following him on X and he's going to come back on here and kind of explain everything. But he explained it the last time he was here and I don't think I really grasped it until Elon's six wizards, they brought in some young wizards to go in there and go over the books and they are just finding crazy. 
+
 01:24 	(Joe Rogan)	It's great. And it's so interesting. I was listening to a, uh, left, uh, wing podcast today. 
+
 01:26 	(Joe Rogan)	I like to mix it up. You know, I listen to all kinds of different stuff and, and it was like I was listening to a different world. Like they weren't even talking about all of this corruption and all this obvious buying of influence. 
+
 01:42 	(Joe Rogan)	Instead they were talking about aid overseas and how people are going to starve. 
+
 01:46 	(Bret Weinstein)	And like it's mind boggling. And there's also, I uh, have to say I'm just, I'm upset at the general pattern of a failure to recognize how. Right. Those of us who hypothesized that there was a racket that had overtaken our entire governance structure, we turn out to be absolutely right about this and no one's gonna mention it. 
+
 02:11 	(Bret Weinstein)	That's mind blowing. 
+
 02:12 	(Joe Rogan)	It's very strange that the media's ignoring it, especially the left wing media. It's just too big of a win for the right. And so they're just ignoring it. And then they're just highlighting the good things that USA did, which I'm sure it probably did. 
+
 02:25 	(Joe Rogan)	Probably had to do some good things to like at least justify its existence. 
+
 02:29 	(Bret Weinstein)	As a cover story. I'm not Even sure, um, maybe it doesn't change anything. Obviously, this was a mechanism used to funnel money to all sorts of things that we didn't vote on that don't make sense in light of our constitutional structure. And, uh, I'm, you know, I obviously have concerns like everybody else about where this train takes us, but seeing that structure broken up is, It's a huge relief. 
+
 03:01 	(Joe Rogan)	They gave twenty seven million dollars to the George Soros Prosecutor Fund. So our own government is funding this left wing lunatic who is hiring the most insane prosecutors, who are letting people out of jail, who commit violent crimes. 
+
 03:20 	(Bret Weinstein)	And that's, that's exactly how this racket worked. Is that the ability to tax the American public and then effectively get us to pay for being propagandized, for being surveilled. That. That's the game. 
+
 03:38 	(Bret Weinstein)	And, um, I don't know what era we currently live in. Obviously there's a lot that's confusing about what the Trump administration is up to, but I don't think any reasonable person could be unhappy that we are exiting that era. 
+
 03:53 	(Joe Rogan)	I'm gonna read off some of the things that this guy KanekoaTheGreat on Twitter, uh, listed. And this is off the Jesse Water show. USAID, uh, uh, twenty million dollars for Iraqi Sesame Street. Two million dollars for Moroccan pottery classes. 
+
 04:09 	(Joe Rogan)	Eleven million dollars to tell Vietnam to stop burning trash. Twenty seven million dollars to give gift bags to illegals. Twenty seven million dollars, um, three hundred thirty million dollars to help Afghanis grow crops. 
+
 04:23 	(Joe Rogan)	Crops. I wonder what those crops are. What's their biggest crop, Brett? 
+
 04:28 	(Bret Weinstein)	Uh, it's gonna be the poppy seeds for bagels. 
+
 04:30 	(Joe Rogan)	I'm thinking, um, three hundred million dollars. Oh, two hundred million dollars, uh, on an unused Afghani dam. Two hundred fifty million dollars on an unused Afghani road. This is Wii old. 
+
 04:46 	(Joe Rogan)	I mean, some of this stuff is really, really crazy. 
+
 04:51 	(Bret Weinstein)	Well, yes. And you know, USAID is of course, riddled through whatever international madness it is that caused us to open our southern border and facilitate an invasion through the Darien Gap. So, you know, seeing that structure laid bare is. It almost feels like it can't be real. 
+
 05:13 	(Bret Weinstein)	Like, yeah, it can't have been this close to the surface. And yet here we are. 
+
 05:17 	(Joe Rogan)	They were spending. Is this number correct? I think the number that I read was six hundred million dollars every two months to ship in illegals. 
+
 05:27 	(Bret Weinstein)	Sounds, uh, right. I don't know the number offhand, but. 
+
 05:32 	(Joe Rogan)	What, uh, the fuck? 
+
 05:33 	(Bret Weinstein)	Well, you have to realize that basically we had a shadow apparatus functioning, and it involves all kinds of things. It involves Payoffs to people who didn't deserve them. It involves contracting to, uh, entities that were necessary to get the work done. So I don't think we can properly understand what these numbers mean and what they're actually being used for, but it was a racket. 
+
 06:03 	(Joe Rogan)	Well, we were always wondering, like, why is our debt so high? Why is the national debt so high? Like, why is our deficit so insane? Well, this is it. I mean, the. How about the one where they paid two hundred thirty six billion dollars, like for chargers? Do you know that they were trying to set up chargers? 
+
 06:26 	(Bret Weinstein)	You mean car chargers? And they only built a couple, excuse. 
+
 06:29 	(Joe Rogan)	Me, forty billion dollars for electric car ports. Eight ports have been built. You, um, know how crazy that is? Forty billion dollars. 
+
 06:39 	(Bret Weinstein)	I do carports. But I have to say, as much as this is shocking, I wasn't surprised. I thought that effectively our entire system had been turned into a racket and that we were basically being fed a cover story from it. And it's weird to now have the evidence of this, but I think it was apparent that whatever had taken over our system wasn't interested in the well being of average people, that it was interested in the power of the state to take people's resources and redistribute them. 
+
 06:57 	(Bret Weinstein)	And that, that really is what's been going on for most of our adult lives. 
+
 07:22 	(Joe Rogan)	And it's also important to note that this progressive left leaning, like radical left arm of the government of the country was manufactured. Yes, it's all manufactured. It's all manufactured and supported. It's not organic. 
+
 07:39 	(Joe Rogan)	Which is really fascinating about the other side, because the other side, the reaction to it is organic. Like, say what you want about the, you know, the Trump administration and what you think about him, that was an organic shift where people were like, e, fuck, enough, enough. 
+
 07:57 	(Bret Weinstein)	Yes, it was an overdue reaction. 
+
 08:01 	(Joe Rogan)	Yeah. 
+
 08:01 	(Bret Weinstein)	The COVID story that what we were up to was righting past wrongs was so pernicious and pervasive that it was hard to get our footing to challenge it. 
+
 08:14 	(Joe Rogan)	Right. 
+
 08:15 	(Bret Weinstein)	But it shouldn't really be surprising that that movement wasn't organic. Of course it was induced. It was a cover story for theft. And we're, uh, going to be waking up to the magnitude of that theft for quite some time. 
+
 08:32 	(Joe Rogan)	Have you ever heard of the audience effect? It is a psychological theory that our behavior changes when we know we're being watched. And here's the thing, we are being watched. When you use the Internet, data brokers watch and record everything you do online, even if you're using a private browser. But you don't have to become a slave to the digital surveillance state. 
+
 08:54 	(Joe Rogan)	You can free yourself with expressvpn. With expressvpn, one hundred percent of your online activity is rerouted through secure encrypted servers that hide your IP address. That means you can get to use the Internet with real freedom and privacy. 
+
 09:09 	(Joe Rogan)	Expressvpn also just rolled out a new feature for US customers called Identity Defender. It can remove your data from data brokers files, monitor the dark web for your info, and alert you when someone tries to use your Social Security number. Express VPN is easy to use. 
+
 09:15 	(Joe Rogan)	It takes just one click and it works on all of your devices. Even smart tv's. Use it on up to eight devices at the same time and protect your whole family with just one subscription. 
+
 09:38 	(Joe Rogan)	And the best part, Podcast listeners can get four extra months of expressvpn for free at uh, expressvpn dot com ROGAN or by tapping the banner. That's expressvpn dot com Rogan or tap the banner if you're watching on YouTube. You can get four free months by scanning the QR code on screen or by clicking the link in the description. 
+
 10:03 	(Joe Rogan)	I think this is going to take years. Chamath said that it's going to be like Iran Contra on steroids. That's what he said. 
+
 10:10 	(Joe Rogan)	He said when you get to the bottom of all this, it's going to be insane because they haven't even got to the Medicaid yet. They haven't even got to the medical stuff. There's so much they haven't even tapped into where they think the real motherlode of fraud is. 
+
 10:22 	(Bret Weinstein)	Yes. And I must say that there is also another aspect to this which we have to be careful about, which is that, um, the justifiable anger at discovering what it is that we've been dragged into as a nation is going to make it hard to see where the limits ought to be in terms of upending this stuff. In other words, at the moment I'm cheering for the wrecking ball, right? Break this stuff up, never again. Um, but there are. 
+
 10:54 	(Joe Rogan)	What's up, Jamie? 
+
 10:55 	(Jamie)	I was reading an article about the spending on the chargers. They said that they haven't actually, according to this, they haven't actually spent all that money yet. 
+
 11:03 	(Joe Rogan)	What, ah, do they do with it? 
+
 11:04 	(Jamie)	It's. They've spent some of it to make some of those things, but it's just that hasn't been allocated yet. So long article going through all the spending that's been done. It's uh, on factcheck dot org. 
+
 11:16 	(Joe Rogan)	Factcheck dot org who runs that? 
+
 11:18 	(Bret Weinstein)	I don't know. 
+
 11:19 	(Jamie)	Some of the chargers have been made. Some of them are on the way to be making. They built sixty one at fifteen stations since mid August or through mid August. Fourteen thousand nine hundred more are currently in some stage of development. 
+
 11:29 	(Jamie)	But that's where it goes into, like, where they are, what they have to be done and who's getting the money from them. Has to be done through a long process from each state. 
+
 11:38 	(Bret Weinstein)	Yeah. The question is, how can we get a proper accounting? As you point out, who the hell is fact check? 
+
 11:44 	(Joe Rogan)	Well, that's the problem with fact checking organizations. That should really be illegal. Like, I think if you're a fact checking organization, we should have stringent rules on what influence is being peddled. Like what, who's paying for these fact checkers, who's behind the scenes, what, what determine. 
+
 12:01 	(Joe Rogan)	It should be very transparent. How did you determine whether or not this was true or false? You know, because there are a lot of things that get said. Like, I don't know if you saw this, but Elizabeth Warren got confronted, and it's on, uh, Twitter this morning. 
+
 12:15 	(Joe Rogan)	She got confronted about the, uh, amount of money that she's received from pharmaceutical drug companies. She said she's never received any money from pharmaceutical drug companies and never received any monies from any pacs. And then of course, underneath it, Community notes strikes again. 
+
 12:26 	(Joe Rogan)	And of course she received millions. Yeah, she's a fucking liar. 
+
 12:33 	(Bret Weinstein)	Well, and you know, it's an arms race. You know, how can pharma, uh, cloak the money that it's giving so that there's plausible deniability at the point that Elizabeth Warren is confronted or Bernie Sanders. 
+
 12:43 	(Joe Rogan)	Bernie Sanders was hilarious. Only one point five billion. Only one point five million. Out of two hundred million. 
+
 12:45 	(Joe Rogan)	Only one point five. 
+
 12:51 	(Bret Weinstein)	Yep, that's what I saw as well. 
+
 12:52 	(Joe Rogan)	Is he trying to say nothing? Only the hard working people, the hard working people of this country gave him money. 
+
 12:58 	(Bret Weinstein)	Well, I don't think the Democrats understand that it's over and that there was a vast infrastructure that made their feeble arguments viable. And that infrastructure is now collapsing. People are far more aware and their lives aren't going to function anymore. 
+
 13:18 	(Joe Rogan)	Well, it makes sense now that we're seeing these numbers because, okay, this was what was funding the infrastructure now, now we get it. Because it wasn't otherwise. It's organic. This is the will of the people. 
+
 13:27 	(Joe Rogan)	This is how people are moving. It's not, it wasn't that at all. This was all organic and it was really about control and money. 
+
 13:34 	(Joe Rogan)	It had nothing to do with helping people, making people better, giving aid to foreign countries. That's all a cloak and dagger bullshit show. The reality was it's about money.
+
 13:44 	(Bret Weinstein)	Yeah, it's always money. It's always about power and limited resources. And this was a new game taking place at a level that was hard to believe and therefore many of us couldn't see it. 
+
 13:55 	(Joe Rogan)	Did you see how they used software to map out fifty five thousand different ngo's that were used as a, uh, branch of the democratic system? 
+
 14:04 	(Bret Weinstein)	No, I didn't catch that. 
+
 14:05 	(Joe Rogan)	I could send it to you. I think I sent it to you, Jamie. Right. We went over it on the podcast before. 
+
 14:10 	(Joe Rogan)	It's so nutty that this was all kind of like hidden until they started using software to try to like figure out like, well, and map out where all the influence goes. And the crazy thing about the ngo's and this is one of the things that Mike Benz has gone like so deep into, it's essentially like they contribute to the Democratic Party, the government pays them. It's like, it's all this like weird sort of like circular money transfer thing that's out in the open. 
+
 14:36 	(Bret Weinstein)	No, uh, it's a positive feedback. The whole idea is power is utilized to free resources that garner more power. And it is the exact inverse of the system that we are supposed to have. 
+
 14:49 	(Joe Rogan)	Yeah, um, it's very interesting. 
+
 14:51 	(Bret Weinstein)	Where we're headed. That's a harder question. 
+
 14:54 	(Joe Rogan)	Well, we're headed is, uh, we're going to own Gaza somehow. This is it. So fractal technology maps previously hidden connections between fifty five zero zero zero liberal ngo's, revealing how tax dollars allegedly flowed through major institutions like Vanguard and Morton Morgan Stanley to groups like the Chinese Progressive Association. This breakthrough tracking system can now monitor every dollar going to every ngo, exposing intricate funding webs that traditional tech couldn't detect. 
+
 15:00 	(Joe Rogan)	So example, black voters matter funds. Four million dollars distribution network was invisible until quantum mapping revealed dozens of subsidiary organizations. The unprecedented mapping reveals a previously hidden web of financial relationships. 
+
 15:38 	(Joe Rogan)	And that's what it's really all about. 
+
 15:40 	(Bret Weinstein)	Yes. The problem is I, you know, sometimes when I see like a list of preposterous scientific projects that have gotten big grants. 
+
 15:51 	(Joe Rogan)	Mhm. 
+
 15:52 	(Bret Weinstein)	I read it and I think I. Some of they all sound preposterous, but I don't know. Some of these things are likely to have had a good explanation and it just is not apparent in the sound bite. And some of them are every bit as preposterous as they seem. And so I can't look at a map like that and say what I would expect if the system was healthy. 
+
 16:15 	(Bret Weinstein)	So, um, I'm cautious about it. I don't think the system was healthy. I think the system was a racket from one end to the other. 
+
 16:20 	(Bret Weinstein)	And I've been saying that we've been living in the era of malignant governance where there's basically no element of this you couldn't turn off and make us better. But we have to be suspicious also of our understanding of how a properly functioning system would graph in something like that, um, so that we don't, we don't overrun the train station when we get there. 
+
 16:46 	(Joe Rogan)	Right. 
+
 16:46 	(Bret Weinstein)	And I will just say I was, I was talking to a friend of mine who runs an Alaska Native corporation which I don't know if we've talked about Alaska Native corporations before, but this is a, um, a corporation. The, it competes for federal contracts. It has some advantages in the competition for federal contracts and all of the profits go to Alaska Natives. And it is finding itself in a very difficult to navigate battle because of all of the successes of doge. 
+
 17:24 	(Bret Weinstein)	So the Alaska Native Corporation is utilizing something called the eight A program. The eight A program is a program that gives advantages to disadvantaged people. And at some point that ability to use the eight A program was granted to Alaska Native corporations. 
+
 17:45 	(Bret Weinstein)	Well, the eight A program is now under attack by some large corporations, federal contractors who do not like competition from things like Alaska Native corporations. And it is being portrayed as if it was based on race, which it isn't. Anybody can use it. 
+
 18:03 	(Bret Weinstein)	It's not a race based program. But because people are in a mood to dismantle all of this left wing solution making corruption, these mega corporations are finding it easy to target the eight A program. And they are persuading members of Congress that uh, it doesn't belong. 
+
 18:19 	(Bret Weinstein)	And this is going to be a, uh, tragic loss if this program, which works well, is dismantled in the fervor to go after all of the stuff that should never have been. 
+
 18:33 	(Joe Rogan)	What does this program do exactly? 
+
 18:35 	(Bret Weinstein)	It provides a mechanism for disadvantaged people to compete for grants. It's really not race based anybody, you know. 
+
 18:46 	(Joe Rogan)	So did you just have to live in Alaska? 
+
 18:47 	(Bret Weinstein)	No, no, no. So they're two separate things. Alaska Native corporations are for Alaska Natives. 
+
 18:52 	(Joe Rogan)	Right? Um, when you say Alaska Natives, you mean people who live in Alaska or. 
+
 18:57 	(Bret Weinstein)	No, no. 
+
 18:58 	(Joe Rogan)	Inuits. 
+
 18:58 	(Bret Weinstein)	I mean, uh, Arctic Peoples. 
+
 19:00 	(Joe Rogan)	Arctic peoples, yes. So the original people of Alaska before we bought it for fifty bucks from the Russians. 
+
 19:06 	(Bret Weinstein)	Exactly, we bought it for fifty bucks from the Russians. And then after the discovery of oil in Prudhoe Bay, the US Government realized that it could not afford to give the natives of Alaska sovereign land rights because it was going to need to do things like put a pipeline to transport oil. So instead of giving them reservations and sovereign land rights, it gave them, uh, some abilities to compete for federal contracts, uh, as Alaska Native corporations. So it's an interesting program that does a lot of good, but its connection to the eight A program now has the good that it does in jeopardy. 
+
 19:08 	(Bret Weinstein)	And I don't know how many stories there are like that, but we need to be careful that our excitement about watching all of this nonsense torn apart doesn't, uh, cause us to tear apart things that actually are functioning well and don't suffer from the defects of the DEI madness. 
+
 20:09 	(Joe Rogan)	Got it. So this thing that allows disadvantaged people to get grants, like how is it structured? 
+
 20:14 	(Bret Weinstein)	Oh, that I couldn't tell you. 
+
 20:16 	(Joe Rogan)	Okay. 
+
 20:16 	(Bret Weinstein)	Um, that I couldn't tell you. We could look into it. It's easy to look up. It's the eight A program. 
+
 20:23 	(Joe Rogan)	Uh, help small businesses owned by socially and economically disadvantaged individuals to compete for federal contracts. Provides training and technical assistance to help businesses compete. Categorizes eligible businesses as veteran owned, woman owned, minority owned, or owned by a person with disabilities. Certification does not guarantee contract awards, but it can help businesses pursue new opportunities. 
+
 20:46 	(Joe Rogan)	So that's, this is a, this is a question, right? The categories like veteran owned, uh, woman owned, and minority owned. Like what, why is that? Why is woman owned and minority owned? What, why would they. You know what I mean? That's one of the especially women owned. 
+
 21:02 	(Bret Weinstein)	Do. Are you. Is this grok. Is that what you're looking at there? So that is also. 
+
 21:10 	(Joe Rogan)	It's Google. Um, benefits for Native owned businesses Program helps Native communities develop economic ventures that support their communities. Profits generated from a native owned participant go back to their native community. Yeah. 
+
 21:26 	(Bret Weinstein)	So I'm not in a position to answer detailed questions about eight A, but what I would say is there are some good things. There are quite a number of success stories that uh, this is exactly what we want for disadvantaged, uh, people. 
+
 21:43 	(Joe Rogan)	We want to build a social safety net. Yeah. 
+
 21:44 	(Bret Weinstein)	Not only a social safety net, but something that provides an opportunity. Hey, build a business. Right? This is what we want you to do. This is the mythology of our system is pull yourself out of your disadvantaged state so that you don't need help. 
+
 21:57 	(Joe Rogan)	Yeah. 
+
 21:58 	(Bret Weinstein)	So anyway, we should be interested in maintaining those programs. At the same time we find the stuff that's actual nonsense and get rid of it as quickly as possible. And that's going to be a delicate balance so far. We're early in this process and you're going to have big wins like the revelations about USAID. 
+
 22:18 	(Bret Weinstein)	Um, but the day will come soon enough when we're talking about discussions where we actually have to do a cost benefit analysis on the programs that are targeted. 
+
 22:27 	(Joe Rogan)	Right. And we have to realize that there are programs that benefit people greatly and are really good for the entire country as a whole. 
+
 22:34 	(Bret Weinstein)	Absolutely. 
+
 22:35 	(Joe Rogan)	And that's, that's like the, the problem when you, like, if you want to, if you're a left wing progressive person like we both sort of identified with up until a while ago. And then all of a sudden the entire country takes a polar shift. You don't want to lose, uh, ideas about what's important and what things that we should contribute to with our tax dollars. Because, like, I think we both agree there is a lot of, there's a lot of good in taking taxes and providing social safety nets, providing food for poor people and homeless people, like helping people m. 
+
 23:11 	(Joe Rogan)	Welfare. All these things are important for, like, to not have people starving on your fucking streets. Like, all that stuff is like, if we were going to have a community which is essentially what a country is supposed to be, an enormous community, we have to support the members of our community. 
+
 23:25 	(Joe Rogan)	We just have to do it without grifters and do it without bullshit and do it without it being just a, uh, cleverly disguised ruse in order to gain political power. 
+
 23:35 	(Bret Weinstein)	Well, you may remember years ago, I used to say that, um, I want to live in a country so good that I get to be a conservative. Right. I'm a liberal. Because there's a lot of problems with the way our system works. 
+
 23:49 	(Bret Weinstein)	But the objective of all of that progressivism ought to be a system that doesn't require intervention in that way in which everybody does have access to the market. And so people really can be responsible for, you know, lifting themselves out of whatever. 
+
 24:04 	(Joe Rogan)	Literally, the rising tide lifts all boats, which should be everybody's thought process. 
+
 24:10 	(Bret Weinstein)	Yeah. A fair system in which everybody starts out with the tools that allow them to take advantage of the market. That's great. And I want a system in which lazy people don't have money to spend and are motivated to become unlazy. 
+
 24:17 	(Bret Weinstein)	I don't want people profiting from, uh, destroying opportunities that belong to other people. But if we had a system that was like that and everybody had the tools to utilize it, then we should want as little intervention as possible. 
+
 24:40 	(Joe Rogan)	Yeah, Wild times. Just wild. Like what A fun time to be alive. 
+
 24:47 	(Bret Weinstein)	It just feels different. I have to tell you. I don't know what's coming, but it's at least delightful not to know what to think. Right. 
+
 25:00 	(Bret Weinstein)	The cynicism that was required to understand what was going on two months ago is now no longer required. You actually have to think about what you're, what you're told is coming down the pike and think, well, I don't know, is that a solution? Is it a negotiating tactic or is it a solution that's actually being proposed and would it work? 
+
 25:20 	(Joe Rogan)	Right? Like, are we really taking over Gaza or is this just a bullshit marketing ploy? Like, what, is this like some negotiation tactic with Israel? Like what? Because, like the look on Netanyahu's face when Trump was talking about taking over Gaza, it was like, what? You could see his face. He was just like, what the fuck are you saying? 
+
 25:41 	(Bret Weinstein)	I have to say, I almost feel like it was worth the price of. 
+
 25:45 	(Joe Rogan)	Admission right there just to watch his face. Yeah. Like, look, you want to let us in? Oh, you want us help? Okay, we're going to, uh, set up bases there. And instead of, you know, someone was describing this on Twitter. 
+
 25:56 	(Joe Rogan)	Instead of a response time to any action Israel takes, taking days, it takes minutes. 
+
 26:01 	(Bret Weinstein)	Well, I am not a fan of Netanyahu's, as you probably know. Um, my sense is that the relationship of Netanyahu to the Israeli population is more or less like the Biden administration to the US Population. 
+
 26:17 	(Joe Rogan)	Well, they were not on the same team, even more, uh, against it, because they were protesting in the street, hundreds of thousands of people up until october seventh. That was one of the reasons, uh, apparently why they think they got their pants down or they got caught with their pants down on october seventh because they had so many troops that were around these protests. So they had hundreds of thousands of people protesting in the streets because Netanyahu was trying to expand his powers and. 
+
 26:42 	(Bret Weinstein)	This just so happened to put him back in charge. Um, but in any case, to see him back on his heels, that was a good sign. Now, I am, of course concerned about the idea of. I'm not even sure I know what I heard right. 
+
 27:00 	(Bret Weinstein)	We're going to make Gaza into, going. 
+
 27:02 	(Joe Rogan)	To be the Riviera of the Middle East. 
+
 27:06 	(Bret Weinstein)	That was a pretty good impression of the Middle East. 
+
 27:11 	(Joe Rogan)	Oh, my God, what a crazy time. And just to see all these politicians freaking out, that, that is amazing too. It's really amazing. It's amazing to watch. 
+
 27:20 	(Joe Rogan)	It's amazing to watch all these left wing people suddenly Bernie Sanders making A post about how Donald Trump is trying to silence independent media was the wildest fucking gaslighting I think I've ever seen from a politician. Independent media? You mean fucking cbs? You mean CBS that edited that Kamala Harris interview to make it look like. 
+
 27:43 	(Bret Weinstein)	She had a really good point, one hundred percent. And then I don't know if you caught, uh, Alex Soros reposting this claim that basically, uh, you have an unelected cabal wielding power. I mean, this is. 
+
 28:02 	(Joe Rogan)	That's you. That's you, Alex. That's your dad. This is crazy. 
+
 28:07 	(Bret Weinstein)	Yeah, no, uh, it's a very, very strange historical moment. 
+
 28:12 	(Joe Rogan)	Also, it's like you haven't addressed any of the exposed corruption. All you're talking about is the horrors of dismantling this amazing organization. What about all the shit that they've uncovered? There's not even a counter argument like, no, we need to fund gender fluid dance in fucking Turkey. What are you talking about? We need two hundred million dollars for Starbucks Keurig cups. 
+
 28:38 	(Joe Rogan)	 What? 
+
 28:39 	(Bret Weinstein)	Well, I mean, again, I said a lot of stuff over the years about the fact that our civilization had become a racket. 
+
 28:51 	(Joe Rogan)	Yeah. 
+
 28:52 	(Bret Weinstein)	And the fact that we were living in the era of malignant governance. And that basically, I'm concerned, as somebody who believes in good governance, that there's almost no component of this that you couldn't remove and create an improvement. That. That's not a message you want. 
+
 29:11 	(Bret Weinstein)	Uh, I want a message in which we govern as lightly as possible, but we do it really, really well. And an era in which you can cut off any limb and the patient gets healthier. That teaches the wrong lesson about governance. 
+
 29:26 	(Bret Weinstein)	It. It teaches the lessons that. That governance was a mistake to begin with, which it wasn't. 
+
 29:30 	(Joe Rogan)	Right. So it's a big weekend. Get in on the action of the Big Game and UFC three hundred twelve at, uh, draftkings Sportsbook, the official sports betting partner of the ufc. The men's middleweight and women's straw weight titles will be on the line in the co main events of UFC three hundred and twelve. 
+
 29:49 	(Joe Rogan)	And of course, pro football is crowning a champion at the big game. Just getting started. Pick a fighter or a team to win this weekend. 
+
 29:57 	(Joe Rogan)	Go to draftkings app and make your pick. That's all there is to it. And if you're new to draftkings, listen up. 
+
 30:04 	(Joe Rogan)	New customers can bet dollar five to get dollar two hundred in bonus bets instantly. Download the draftkings Sportsbook app now and use the Code Rogan. That's Code Rogan for new customers to get two hundred dollars in bonus bets when you bet just five bucks. 
+
 30:20 	(Joe Rogan)	It's a big weekend. Only on draftkings. The crown is yours.
+
 30:24 	(Joe Rogan)	Gambling problem. Call one, eight hundred, GAMBLER in New York. Call eight seven seven, eight, HOPE and why or text hopeny four six seven, three six nine in Connecticut. 
+
 30:32 	(Joe Rogan)	Help is available for problem gambling. Call eight eight eight, seven eight nine, seven seven seven seven or visit ccpg dot org Please play responsibly on behalf of Boot Hill Casino and Resort in Kansas, twenty one and over. Age and eligibility varies by jurisdiction. 
+
 30:44 	(Bret Weinstein)	Void in Ontario, new customers only. 
+
 30:46 	(Joe Rogan)	Bonus bets expire one hundred sixty eight hours after issuance. For additional terms, responsible gaming resources, see DKNG CO Audio. Well, how do we get money out of governance? So that's the problem, right? Is money gets involved in governance, especially enormous amounts of money. And then they have influence. 
+
 31:01 	(Joe Rogan)	And then you have senators and congressmen and different elected representatives that don't do the will of the people. They do the will of the people that paid them enormous amounts of money. And this is a real problem because if it was just the. 
+
 31:15 	(Joe Rogan)	The only way you could win was you had to do for the will of the people. You had to literally do things that were better for the people. The people realize you're doing a great job and they keep electing you. 
+
 31:26 	(Bret Weinstein)	Well, let's be honest about what the Conservatives had right from the get go. There are problems that only competition solves. There are other problems that competition in something like a market is not well positioned to solve. But there are certain problems that there's just. 
+
 31:44 	(Bret Weinstein)	There's no second best. It's only competition that works. And so when we talk about, well, you know, what are we gonna do for fact checking? We're gonna abandon the idea of fact checking. 
+
 31:54 	(Bret Weinstein)	What you want is a vibrant independent journalist sector in which people who spot the story early and people who articulate the story in the most intuitive and accurate way outcompete those who do a worse job. So that over time, what we get is journalism that you can't fool. 
+
 32:18 	(Joe Rogan)	Uh, right. 
+
 32:19 	(Bret Weinstein)	And that it reveals to us which government programs actually work, even if they don't sound reasonable at first glance. Here's what's really going on behind the scenes in this program, right? And then journalism that exposes any kind of fraud. And I don't know about you, but as I was watching confirmation hearings m, my sense was that the Elizabeth Warrens and the Bernie Sanders were dinosaurs who do not understand that the Earth has just been hit from outer space and that they don't live in the world that they are so used to that their corruption was immediately apparent. And they're not used to that. 
+
 33:04 	(Bret Weinstein)	They're used to having a whole phony journalistic layer that covers for them. 
+
 33:09 	(Joe Rogan)	Right. 
+
 33:10 	(Bret Weinstein)	And that layer is gone and the American public is awake and it's angry and rightfully so. And now it looks at Bernie Sanders, who? You know, I remember the first time you and I spoke, you and I had both been Sanders supporters. 
+
 33:24 	(Joe Rogan)	Yeah. 
+
 33:25 	(Bret Weinstein)	And now to see that same guy going after Bobby Kennedy and you know, the feeble excuse, well, what if Bobby Kennedy becomes the head of hhs? And, uh, people don't have access to prescription drugs. And it's like, dude, I just lived through Covid. It's not obvious to me that they wouldn't get healthier if they didn't have access to prescription drugs. Do you realize how corrupt those companies are and how nonsensical their science is? The science that says that you actually get better if you take a statin based on some metric in your chart. 
+
 34:03 	(Bret Weinstein)	Right. So I'm not arguing that there aren't good pharmaceuticals, there undoubtedly are. But what's the net effect of our pharmaceutical obsessed medical culture? It's not obvious to me that it's positive. 
+
 34:16 	(Bret Weinstein)	I think it may well be negative. And so anyway, again, I see Bernie Sanders and I see him reading from a script that is no longer relevant to the movie we're watching. 
+
 34:28 	(Joe Rogan)	Right. And this is not saying that there aren't some pharmaceutical drugs that are amazing. The problem is they're not all amazing. And they sell them all. 
+
 34:35 	(Joe Rogan)	Like, they're amazing. 
+
 34:36 	(Bret Weinstein)	Absolutely. 
+
 34:37 	(Joe Rogan)	That's the problem. Some of them are great. Like Viagra is fantastic. Like, it's really good stuff. 
+
 34:41 	(Joe Rogan)	There's a bunch of stuff like that that really works. There's a bunch of drugs that really help people. There's a bunch of drugs that brilliant scientists have developed that definitely help people live longer and live healthier lives. 
+
 34:54 	(Joe Rogan)	But also they're in the business of selling medicine, selling pharmaceutical drugs. And so there's a lot of stuff that they sell that is not good, not good for you. Overall net negative. 
+
 35:06 	(Joe Rogan)	When you look at the amount of drugs that get pulled, that get endorsed, uh, and then supported by the fda, and then they have to pull them. Wasn't it like thirty percent something in the range? 
+
 35:17 	(Bret Weinstein)	Um, yes. And that is the tip of the iceberg. We do not have. Just as we don't have a journalistic layer that exposes people in Congress who are lying to us and aspects of the government that are corrupt, we don't have a university system that can properly do science and can be relied on to tell us what the impact of a drug or a food additive is. 
+
 35:43 	(Bret Weinstein)	Right. The whole system is missing in action. 
+
 35:46 	(Joe Rogan)	Right. The whole system is paid for by the pharmaceutical drug companies. They pay for tests, they pay for studies. They support organizations that are supposed to be regulating them. 
+
 35:47 	(Joe Rogan)	The whole thing is bananas. 
+
 35:57 	(Bret Weinstein)	Everything that is supposed to evaluate something like safety or efficacy or analyze net effects. Anything like that has been captured by the PR wing. And so the consumer is in no position to. To navigate a world like that. 
+
 36:19 	(Bret Weinstein)	I mean, and we know that this encompasses everything. You know how many people's doctors are pharma skeptical? Right. Your doctor should be very pharma skeptical. 
+
 36:19 	(Bret Weinstein)	I don't know that this drug is actually a benefit to you, but. No, the doctors have become pushers. Right. 
+
 36:37 	(Joe Rogan)	Because they've been compromised. And also, I mean, that's literally the system that they're created from. Like, they're sent out into the hospitals immediately with that. And it just. 
+
 36:49 	(Joe Rogan)	It's so difficult for a doctor to step outside of the system and be independent. When they do, they get attacked. Like, how many doctors lost their licenses because they were trying to prescribe ivermectin to people who had Covid? 
+
 37:00 	(Bret Weinstein)	Yeah, almost all of the doctors who were any good found themselves chased out of a job or with jeopardy to their license or slandered in the media. And, you know, I'm sure you're in the same position. Those are, frankly, the only doctors I trust at this point were the ones who were willing to pay a price to tell me the truth. 
+
 37:18 	(Joe Rogan)	Yeah. Yeah. My doctor, uh, that I know out here, won a case, but they were about to lose their license. 
+
 37:26 	(Bret Weinstein)	Yeah. 
+
 37:27 	(Joe Rogan)	And just for prescribing ivermectin. 
+
 37:29 	(Bret Weinstein)	No, that should. That should be your first question, Doc, is how did you do over Covid? 
+
 37:35 	(Joe Rogan)	Yeah. 
+
 37:35 	(Bret Weinstein)	And, uh, if they have nothing interesting to say, I would just turn around and walk out the door. 
+
 37:40 	(Joe Rogan)	Yeah. Imagine going to a doctor right now and they're telling you, you should get your Covid shots. You should stay up to date. Imagine. 
+
 37:46 	(Bret Weinstein)	Well, I find that bad, but at least I know how to interpret that. What I don't understand is what I'm supposed to do with the doctor who did recommend the shots has stopped recommending them and has not talked about it. Said something about the change in their perspective. 
+
 38:05 	(Joe Rogan)	Yeah, Yeah, I have a problem with that. With social media influencers, too. One hundred people that were pushing it and then have not, uh, publicly corrected course, have not Said I was wrong and this is why I was wrong. Like I can't with you anymore. 
+
 38:18 	(Joe Rogan)	If you, if you can't say that you were wrong about that, then I don't, I just can't. 
+
 38:24 	(Bret Weinstein)	A hundred percent. It is a, it is a test of integrity and you wouldn't want to go to a doctor that didn't have high integrity at a moment like this. Your doctor needs unusually high levels of integrity and what we've seen is unusually low levels. And the same thing with, um, social media influencers, as you called them. 
+
 38:43 	(Bret Weinstein)	Anybody in the public sphere should go back and they should do an accounting of what they said, what they thought, how they got there, how that played out in the end when they changed their mind and what they said about it publicly. Yeah, right. I must say, um, I'm constantly in a battle with the ultra cynics who claim to have gotten everything right during COVID because basically they never believe anything. 
+
 39:09 	(Bret Weinstein)	That's not a method. 
+
 39:10 	(Joe Rogan)	You got lucky, Right? 
+
 39:11 	(Bret Weinstein)	You got lucky. So it happened that you stumbled into. 
+
 39:14 	(Joe Rogan)	A full con game. 
+
 39:15 	(Bret Weinstein)	You stumbled into a con game and yes, you didn't buy it. But that's not a demonstration that you know how to think through the next one. 
+
 39:22 	(Joe Rogan)	Right? 
+
 39:23 	(Bret Weinstein)	Right. 
+
 39:23 	(Joe Rogan)	Correct. 
+
 39:23 	(Bret Weinstein)	Doesn't demonstrate anything. 
+
 39:24 	(Joe Rogan)	Right. 
+
 39:25 	(Bret Weinstein)	Um, so what I really want are people who had a good track record and who know what mistakes they made and know how not to make them in the future. Those are the people that we should be paying attention to. 
+
 39:37 	(Joe Rogan)	Yeah, it's a good point. It's um, it's a fun time though. It's fun because things are actually happening, which is very different than most of the time when people get elected. Most of the time when people get elected, they claim all these things when they're running for president, then they get into office and not much changes. 
+
 39:55 	(Joe Rogan)	And in fact a lot of what they campaigned on they don't practice at all. Like a, uh, great example is the Obama administration. The Hope and Change website had to be changed because there was a bunch of stuff in there about whistleblowers protecting whistleblowers, which they didn't do at all. 
+
 40:12 	(Joe Rogan)	There were some of the worst. There was one of the worst administrations for whistleblowers. 
+
 40:15 	(Bret Weinstein)	One hundred percent. 
+
 40:16 	(Joe Rogan)	Yeah. 
+
 40:17 	(Bret Weinstein)	Well, I think what we have seen over our. You and I are about the same age. What we have seen over our entire lifetime is that elections can change the jerseys, but they just swap. Mhm. 
+
 40:20 	(Bret Weinstein)	You know, who's in power and who's out of power. Well, the point is the system is in power and you know, the people in the roles to deliver the speeches change, but they're just basically trading off. And so I have the sense that you and I are now watching the first. 
+
 40:49 	(Bret Weinstein)	The outcome of the first genuine election since nineteen sixty three. 
+
 40:54 	(Joe Rogan)	Yeah, I've heard that argued that sixty three, when they assassinated Kennedy, that was the last time we had a real president, was an actual person who was trying to change things and put things in. Put things in a position where he felt it was beneficial to the entire country. 
+
 41:12 	(Bret Weinstein)	Right. And it changes the feel of this in two ways. One of them is just unfamiliar to us because we've been watching theater for our entire lives and being told that it was the transfer of power. And the other is that there's a lot of pent up need for change because you've effectively had a cryptic power structure that never gets displaced, that has gotten so entrenched that rooting it out takes, frankly, an extraordinary, in every sense of the word, person like Donald Trump. 
+
 41:48 	(Joe Rogan)	And an extraordinary team. Imagine if he's doing this. Imagine he's trying to do Doge without Elon. 
+
 41:54 	(Bret Weinstein)	Well, so, you know, Heather and I took a lot of flack after the assassination, the first assassination attempt, uh, of Trump, where we both perceived, I think we were actually perceiving this before, but the assassination attempt really kicked it off. We perceived that this was a different person than the first administration's Trump, that he had matured and he had been forged by all of the lawfare that had been deployed against him and that it had been good for him. And in fact, I hate to say this because I have my doubts, of course, about, uh, the election of twenty twenty, but I don't think what he is currently doing would have been possible if he had won and been inaugurated in twenty twenty. 
+
 42:49 	(Joe Rogan)	I think you're right. I think also the public wouldn't have supported it if they didn't see four years of the Biden administration, how crazy everything was. And then having gone through Covid and watched the economy collapsed and watching, you know, hurricanes coming, he's like, the most important thing for a hurricane is to get vaccinated. Rem. 
+
 43:06 	(Bret Weinstein)	I do. 
+
 43:07 	(Joe Rogan)	Now that you mentioned, can we get vaccinated? Yeah, it's very important. 
+
 43:12 	(Bret Weinstein)	Everything's hard if you have vaccinated everything, everything. Um, the. We lived in a movie, bad one. 
+
 43:22 	(Joe Rogan)	We went through a fucking crazy, uh, Coen Brothers kind of apocalyptic movie. 
+
 43:29 	(Bret Weinstein)	A poorly written, poorly directed movie with, you know, an extraordinary budget and almost no need to pay attention to continuity. It was weird, it was bad. 
+
 43:44 	(Joe Rogan)	But at least we know, but I think that really woke a lot of people up, you know, so called red pill to a lot of people. I think that that four years was important to get to where we are now. 
+
 43:54 	(Bret Weinstein)	It was essential where most people are aware. 
+
 43:57 	(Joe Rogan)	Like I think if you had gone to twenty eighteen and had uh, like a real conversation with most in this country about the level of corruption, it would be a fraction of what they believe it to be now. 
+
 44:10 	(Bret Weinstein)	Fraction. I know this to be true because, you know, I tried to spark unity twenty twenty and make it work. 
+
 44:20 	(Joe Rogan)	You were banned on Twitter. 
+
 44:22 	(Bret Weinstein)	I was. 
+
 44:23 	(Joe Rogan)	Explain that to people because I want to think the difference between the new Twitter, thank God for Elon Musk and the old Twitter. The old Twitter, you guys tried to put together a unity party where you would get the best representatives from the left and the right together for the good of the country. And like, that's dangerous. 
+
 44:42 	(Bret Weinstein)	It's dangerous. And they even lied about us. They said that we were engaged in inauthentic behavior. Basically they accused us of using bots, which we didn't. 
+
 44:53 	(Bret Weinstein)	So anyway, that's the world we were in 2020. 
+
 44:57 	(Joe Rogan)	And headed to a more controlling ward, world. 
+
 45:00 	(Bret Weinstein)	Right? And then in 2024, you know, there's what I think of as a continuation of the same idea, right? There's, you know, Rescue the Republic was what it looked like in 2024. And the point is that actually worked. That was an organic unity movement. And it took advantage of the fact that, you know, MAHA had already catalyzed as, uh, Kennedy and Trump had gotten together. And so...
+
 45:29 	(Joe Rogan)	That was huge. That was a huge part of it because Kennedy had so many supporters even in many states. He was like bordering like twenty five, thirty percent, which is really crazy for an independent. And when he went over to Trump and then all those people are like, oh my God, I have hope now. People who are vaccine injured people are very skeptical about certain pharmaceutical drugs that may have caused them harm. 
+
 45:43 	(Joe Rogan)	People who knew Bobby's history of being an environmental attorney and all the amazing work that he did then. Those people got on board with the Trump administration and I think that was huge. And now with Tulsi, I think that's huge as well. 
+
 46:00 	(Joe Rogan)	I think, you know, when Elon took over DOGE, that was like the final Avenger. Like having that team together is such a unique team where you have prominent former Democrats, former eight time Democrat, for eight years, Democrat congresswoman who also served overseas in a medical unit. Twice. Like this is...
+
 46:29 	(Joe Rogan)	You got an extraordinary group of human beings. 
+
 46:32 	(Bret Weinstein)	Extraordinary group of human beings, all of whom I think took very real risks. 
+
 46:39 	(Joe Rogan)	Oh, yeah. 
+
 46:40 	(Bret Weinstein)	At the very least, with their reputations. 
+
 46:42 	(Joe Rogan)	Well, Tulsi got put on a terrorist watch list. Which is fucking crazy. 
+
 46:47 	(Bret Weinstein)	And it was a gamble. Each of these people, you know, Kennedy, Musk, Tulsi, they knew that they were taking that risk. And it was clear that they were motivated by patriotism, that they actually... I mean, this is what a soldier does. 
+
 47:04 	(Bret Weinstein)	Right. You know that you're taking risks for something that matters more than you. 
+
 47:09 	(Joe Rogan)	Yes. 
+
 47:10 	(Bret Weinstein)	And, you know, to watch Elon do it, I think also was just remarkable, because, of course, in Elon's position, he could have done what Zuckerberg does. Right. And he could have played it safe and kept his options open and done what he was told and then apologized for it later, sort of. That wasn't what Musk did. 
+
 47:33 	(Bret Weinstein)	He actually had the courage of his convictions. A as many people have noted, his liberation of X set the stage for this election to even happen. That there wasn't anything you could put over on us that we couldn't unpack and, you know, crowdsource a better interpretation of On X. 
+
 47:55 	(Bret Weinstein)	And even if most people weren't on X, it was enough that their narrative engine just didn't work. 
+
 48:01 	(Joe Rogan)	Right. If you look at a viral post on X, a viral post about something that's very important, like that has to do with USAID, you will see seven million, eight million views, ten million views. There is nothing equivalent like that to mainstream media. There's nothing even close. 
+
 48:17 	(Joe Rogan)	There's nothing even close. Maybe a, uh, very viral YouTube clip. But these are every day, all day long, there's posts that have seven million, five million, three million. 
+
 48:30 	(Joe Rogan)	And people are reposting them as well and sharing them and taking the information and posting them without credit. There's a lot of that going on. So the actual amount of the information that gets out is far more than it would have ever happened without Elon taking over Twitter. 
+
 48:47 	(Joe Rogan)	It's probably changed the course of our civilization in a way that nothing else could have done. 
+
 48:53 	(Bret Weinstein)	Yes. And I think it's a little bit deceptive because its size doesn't quite explain its impact. But it's a little bit like the higher reasoning centers of the brain. Like there's a collective consciousness in which we figure out what we think is true. 
+
 48:53 	(Bret Weinstein)	And it's been downstream of this amazing propaganda engine. Well, we're now learning to spot the propaganda and to understand what it really means and to figure out what it's cloaking. And a lot of that is happening on Twitter because It can. 
+
 48:53 	(Bret Weinstein)	And it's actually forcing, you know, Facebook to come around. Right, right. Which, of course, you know, I usually say that zero is a special number, meaning in a world with no social media platforms where you can speak freely and reason with others, there's no pressure to start doing that. 
+
 49:01 	(Bret Weinstein)	But once you have one, any social media platform that doesn't allow you to speak free freely is at a competitive disadvantage. And so, you know, Elon, freeing X actually liberated the others, and they're beginning to move in the right direction, which, frankly, is part of why this era just feels different. 
+
 50:04 	(Joe Rogan)	Yeah, it's. It's very interesting times. And then on top of that, we're being invaded by ufo's, so it's all happening. 
+
 50:10 	(Bret Weinstein)	I have not noticed that. 
+
 50:14 	(Joe Rogan)	Are you watching News Nation? What's wrong with you? You're, uh, so not informed. 
+
 50:19 	(Bret Weinstein)	I am, uh, not informed. I am. I'm waiting for some sort of compelling evidence that something extraterrestrial is going on. 
+
 50:27 	(Joe Rogan)	I'm talking to everybody, and the more people I talk to, the less I know. 
+
 50:30 	(Bret Weinstein)	Well, there's that. 
+
 50:31 	(Joe Rogan)	The more information I get from all these people that have had, uh, UFO and alien encounters and experiences and whistleblowers, and the more I talk to them, the less I feel like. I know. I do not feel like it's. And then on top of that, I'm in the middle of Jacques Valet's books, which are very wild. 
+
 50:48 	(Joe Rogan)	Like, Jacques Vallee. I had him on the podcast a long time ago, and he's coming back on again. But the first time I had him on, I only knew him as the French scientist that had, um, the he. 
+
 50:59 	(Joe Rogan)	That the character in Close Encounters of the First Kind was based on him. Do you know the character, the French character that brings together the military to try to communicate with the aliens? It's based on Jacques Vallee, who's been studying ufo's like, for decades, like, from the. Since, like the fifties and the sixties. 
+
 51:16 	(Joe Rogan)	And, uh, boy, the more you read about his take on things, the more it's very confusing because these fucking stories are the same stories that have been going on for hundreds of years. They're not m. Even modern. 
+
 51:28 	(Joe Rogan)	You know, when we think of them, we think of, like, Kenneth Arnold seeing the flying saucers and coining the phrase in the nineteen fifties. Like, no, no, these stories have been, like, real similar for hundreds of years that some. There's some phenomenon that people occasionally encounter, and it's real similar. 
+
 51:47 	(Joe Rogan)	It has similar. Like, it's similar enough from people that weren't aware of the narrative that you have to wonder what the fuck is actually going on. 
+
 51:58 	(Bret Weinstein)	Yeah, I think you do have to wonder what the fuck is actually going on. On the other hand, I think there's a whole range of possibilities that don't involve anything extraterrestrial. 
+
 52:10 	(Joe Rogan)	I think there's a bunch of shit that doesn't involve anything extraterrestrial that's happening at the same time as a bunch of shit that we don't have explanations for. Well, uh, that's what I think. 
+
 52:25 	(Bret Weinstein)	That would not be shocking if there was something to cover. You might decide instead of trying to keep it under wraps, you would bury it in so much low quality bullshit that nobody'd be able to find it. 
+
 52:36 	(Joe Rogan)	That's what it feels like to me. That's what it feels like to me. It feels like to me that this is. There's a lot of people that I think are trying to do the right thing, a lot of whistleblowers that are really trying to educate the American public, but I don't know who they really are doing the bidding of. 
+
 52:43 	(Joe Rogan)	I don't know they even know. I think if I was the government, let's pretend that I was some gigantic arm of the military industrial complex and I had some literal recovered flying saucers, I would come up with the dumbest stories and put them in binders and leave them on desks and hope that these people leak this shit. And the more dumb they leak, the more the actual reality of what we possess. 
+
 53:19 	(Joe Rogan)	Like, let's say if the government really did find a flying saucer in the nineteen forties, really did back in back, engineer the propulsion system, really did apply it to drones, and they really are flying them around and they have them. What, what I would do, I would make up some crazy shit about, you know, a mothership that's forty seven years away and it's coming and it's as big as a planet, and I would, I would come up with the wackiest stuff possible and like, get it all out there, Put it all out there. We have fifty seven different species on, uh, a fucking freezer somewhere and Wright Patterson Air Force Base. 
+
 53:56 	(Joe Rogan)	And I just like, ramp up the bullshit in as many ways as possible. You know, they've controlled all our nuclear test codes and they hover over our facilities. We're powerless to control them. 
+
 53:57 	(Joe Rogan)	I would say everything as wacky and crazy as possible. So I could keep flying around these gravity propulsion vehicles that we've developed. 
+
 54:16 	(Bret Weinstein)	Well, I must tell you, I'm not, I'm skeptical that those vehicles are vehicles. 
+
 54:22 	(Joe Rogan)	What do you think they are? 
+
 54:23 	(Bret Weinstein)	Projections. Projections, yeah. 
+
 54:26 	(Joe Rogan)	In what way? But what if you could monitor them on, if you see them on radar, if they visual they've seen them going into the water? Like what is it? 
+
 54:36 	(Bret Weinstein)	I'm having a deja vu moment here. Or we've discussed this before, I don't know which it is. But uh, the basic rubric is physical stuff displaces air, which means it makes noise when it moves. And ah, I don't quite see the logic behind suppressing that fully. 
+
 54:39 	(Bret Weinstein)	I don't see the capacity to suppress it fully. Who knows what, I don't know. But my guess is if you had actual craft moving around in the ways that people who have observed these things think they've seen it, that noise would be an inherent part of the phenomenon. 
+
 55:15 	(Joe Rogan)	But why would that be the case if it operates on a gravity propulsion system that essentially bends space around it and instead of creating a sonic boom. Because it's flying through the air. It's not flying through the air, it's displacing space. 
+
 55:28 	(Bret Weinstein)	Well, I don't even know what displacing space means. 
+
 55:31 	(Joe Rogan)	I don't know what a gravity propulsion system means. 
+
 55:34 	(Bret Weinstein)	Right. So. 
+
 55:35 	(Joe Rogan)	But I'm trying to imagine some futuristic sci fi version of a propulsion system that doesn't involve pushing something out the back, it doesn't involve exhaust like a rocket. 
+
 55:47 	(Bret Weinstein)	I'm not necessarily requiring engine noise, I'm requiring air noise. 
+
 55:53 	(Joe Rogan)	Passing through the air. 
+
 55:54 	(Bret Weinstein)	Yeah, passing through the air noise that you know, as the air collapses, as the craft moves, the air collapses behind it. That you'd hear something. 
+
 56:04 	(Joe Rogan)	You mean when it's moving fast? 
+
 56:05 	(Bret Weinstein)	Yes, especially if it's moving fast. 
+
 56:07 	(Joe Rogan)	But if it's not really displacing the air around it and if this is what allows it to go through the water as well with extreme speed. So one of the crazier things that they've, they've monitored is something moving underwater that's huge, like size of a couple football fields at five hundred knots. 
+
 56:25 	(Bret Weinstein)	So this, this is exactly my problem is there's two realms. There's a realm in which I understand the physics of the universe enough that I can evaluate that claim. And then I can say, well, it's not obvious to me how you go through the water. The water has to be displaced and water is denser than air in terms of how much matter there is, how many particles there are, and therefore it ought to be harder to move through than air. 
+
 56:32 	(Bret Weinstein)	I would expect noise in the air, I would expect something similar in the water. And the fact that these things behave in a couple of different ways. One, they're silent. 
+
 57:09 	(Bret Weinstein)	Two, they turn in ways that would challenge a biological critter profoundly. Three, they move at speeds that are improbable in light of what we understand. Now, I'm not saying there can't be lots of stuff we don't understand, but what I'm saying is all of those things have a simplest explanation, which is that that craft isn't matter. 
+
 57:38 	(Bret Weinstein)	It's a projection. 
+
 57:39 	(Joe Rogan)	Now, what science, what kind of technology would even be available that could create a projection like that? Ah. 
+
 57:47 	(Bret Weinstein)	Uh, well, that I believe we have. I'm not expert in it, but you can project from above or below onto material. You know, it could even, I think, be done in clear skies. Right. 
+
 58:00 	(Bret Weinstein)	Especially if you had a substrate. And I don't. I don't know whether to go down this road. 
+
 58:05 	(Joe Rogan)	Let's go down that road. What do you mean? 
+
 58:07 	(Bret Weinstein)	Well, there seems to be a certain amount of experimentation with particles being released from aircraft for some reason, I would assume, and have long assumed, that there is experimentation with altering the albedo of the Earth so it reflects more light back into space. 
+
 58:26 	(Joe Rogan)	Well, there's certainly proposals. It's certainly been discussed. And, you know, this is something that Bill Gates has been involved in. 
+
 58:33 	(Bret Weinstein)	Yeah. And I don't think, you know, one of the things that we, uh, many of us came to understand during COVID about proposals is that very often the proposal comes after the experiments have already begun. Right. You propose an experiment that you've already done and then recoup your, Your, uh, investment when the grant is given. 
+
 58:52 	(Bret Weinstein)	So anyway, I believe that there's been some experimentation with, uh, releasing particles. I think it's an insane experiment to run. It's diabolical, frankly. 
+
 59:01 	(Bret Weinstein)	You have no right to alter the Earth's atmosphere without us at least having a global public discussion about the consequences. I believe this is an informed consent violation and that I take those things very seriously. Those were hanging offenses in. 
+
 59:15 	(Bret Weinstein)	At the end of World War two. But nonetheless, if you drop particles into the atmosphere, those particles are largely not visible. Right. 
+
 59:25 	(Bret Weinstein)	They have impact. But could they be used to project a craft that wasn't onto a substrate you can't quite see? 
+
 59:34 	(Joe Rogan)	So it would have to be a substrate. So would there have to be particles, or is there a potential technology that would allow you to project something into the. Just actual air, clear blue sky, a physical thing? Something that looks like a physical thing? 
+
 59:50 	(Bret Weinstein)	Well, let's put it this way. First of all, there are always particles. Even if what we're talking about is air. 
+
 59:56 	(Joe Rogan)	Navy laser creates plasma ufo's at least four years old. 
+
 60:01 	(Jamie)	Remember I showed you that one YouTube video that one time that shows this little plasma things dancing in the air? 
+
 60:06 	(Joe Rogan)	Oh, yeah, yeah. Find that. Find that video. Yeah. 
+
 60:08 	(Jamie)	That almost describes that. It's. They've created stuff to trick missiles and different homing devices. Not that that's what this is, but it's a potential explanation for what some of it is. 
+
 60:20 	(Bret Weinstein)	It's in the right neighborhood, at least. So let's just say, first of all, this is where I would want a robust university system and a robust journalistic system to dig. Because there's a lot you need to know that you could figure out that would tell us whether or not what we're looking at are really distant craft moving at tremendous speeds, or it's an optical illusion. Let me just give you an example. 
+
 60:50 	(Bret Weinstein)	You'll probably have. 
+
 60:51 	(Jamie)	This is ten years old. 
+
 60:52 	(Joe Rogan)	Whoa. Huh. 
+
 60:54 	(Bret Weinstein)	Huh. 
+
 60:54 	(Joe Rogan)	And they could do it in patterns like this in the air, but they. 
+
 60:57 	(Bret Weinstein)	Could do a long time ago, aliens. 
+
 60:59 	(Joe Rogan)	So they're making a butterfly out of plasma bulbs in the air. Huh. 
+
 61:05 	(Bret Weinstein)	Huh. 
+
 61:05 	(Joe Rogan)	A plasma. 
+
 61:06 	(Bret Weinstein)	That's pretty good and pretty silent. 
+
 61:09 	(Joe Rogan)	What? Oh, my God. 
+
 61:12 	(Bret Weinstein)	That's pretty good. 
+
 61:13 	(Joe Rogan)	That's insane. 
+
 61:14 	(Bret Weinstein)	Oh, my God. Now make a Tic Tac. 
+
 61:16 	(Joe Rogan)	So a three D display in midair using laser plasma technology. So if you were somewhere and you encountered these things, you would absolutely think these are alien craft from another dimension that's come here to communicate with you. 
+
 61:30 	(Bret Weinstein)	And imagine that you saw that outside, right? You wouldn't necessarily know how far away the object was, and therefore you wouldn't necessarily know how fast it was moving. You'd misjudge it. And, uh, to give everybody an example that they will have familiarity with, I was driving down the highway at one point, rainstorm. But the sun was shining and I saw a rainbow. 
+
 61:30 	(Bret Weinstein)	And I've thought a lot about rainbows. They're pretty interesting. And I realized that I could tell that although the rainbow looked to be ten miles from me or something like that, it was actually feet from me. 
+
 61:30 	(Bret Weinstein)	And I could tell that because the rainbow came down onto the road and I could see it in front of the guardrail. Right? Continuous rainbow where the parts up, uh, here look like they're closer to the mountains in the distance. But when I see where it's continued down into the spray off the road. 
+
 62:27 	(Bret Weinstein)	Road, it's actually ten feet away. Right. So the mind is building a model of stuff. 
+
 62:34 	(Bret Weinstein)	And if you give it the wrong cues, it'll totally misunderstand the distance that it's looking at to the extent that a rainbow is at a distance. Right, right. 
+
 62:45 	(Joe Rogan)	Especially when you take into consideration a lot of these ufo's are in night skies. Yeah. 
+
 62:50 	(Bret Weinstein)	Right. 
+
 62:50 	(Joe Rogan)	So it's all black sky. Or trying. It's very difficult to gauge. 
+
 62:54 	(Bret Weinstein)	So if you had depth, if you had a robust journalistic, uh, apparatus, what it would want to do is figure out, well, if person A was standing in location X and they saw a craft moving at what appeared to be two hundred miles an hour, um, at a distance of five miles, then the question is, well, who else would have seen it? And if we go and we ask people who were standing in those locations, did they see it at all? Because if they didn't, then maybe the thing was inches away from the person being projected locally. Right. And they only felt like they saw something at a great distance. 
+
 63:33 	(Joe Rogan)	So what is your take, uh, when you keep hearing all these, uh, congressional whistleblowers and people coming and talking about that we've been in contact and we have in our possession multiple craft that are not of this world. Like, what's all that? 
+
 63:49 	(Bret Weinstein)	Um, well, I'm going to share credit with Ben Davidson for this, but the basic point is PSYOP until proven otherwise. And PSYOP until proven otherwise, I think, is a very functional way to approach this. Because depending upon what kind of program we're looking at, and there obviously is governmental involvement in whatever it is, either concealing real stuff or pretending that it has real stuff that it's pretending to conceal or whatever it's doing. 
+
 64:19 	(Joe Rogan)	Right. 
+
 64:20 	(Bret Weinstein)	Um, there is every possibility that there are sort of layers of awareness, and at the bottom layer, there may not be anything alien at all, but it may be that people fairly close to the center have been shown something. I mean, I don't understand what the purpose of any of this stuff is. Either talk to us about the aliens and when they started to visit and what it is they seem to want and whether they're still here and whether they're gonna be back and whatever, we know that's what I would do. Um, any excuse that says the public can't handle it, I think is just nonsense. 
+
 65:05 	(Joe Rogan)	But isn't the problem if you've been. Let's pretend that there is a real Crash Retrieval Program and there are real aliens. If we've been hiding it for so long, then it's very difficult to not hide it anymore. It's almost like kind of like being in the closet. 
+
 65:21 	(Joe Rogan)	Like, even though there's no reason to be in the closet. In twenty twenty five, there's a lot of people that are still in the closet. And I think part of the reason why they're in the closet is because, like, they were in the closet twenty years ago, and they've been lying forever, and they don't want to come out. 
+
 65:33 	(Joe Rogan)	So that's just a person with social consequences. Now, imagine a government. So how are you funding these things? Were you lying to Congress? You have a crash retrieval program. 
+
 65:44 	(Joe Rogan)	How was that funded? Like, let me see your budget. Let me see, where did you allocate the money? This is fraud. Okay? Now you're getting into a situation where people can go to jail. 
+
 65:53 	(Joe Rogan)	There's perjury, there's people that have lied on the witness stand. So if that's the case, then I understand why you would continue for your own personal benefit, just for your own personal protection, your own personal interest, to keep things secret from the American people. Then there's also the attitude that government does have. 
+
 65:53 	(Joe Rogan)	There's the infantilization of our people by the government. That's always been like, they decide that M mal information is a thing. So what that is is information that's true, but it could fuck you up. 
+
 65:57 	(Joe Rogan)	So we're gonna say it's bad. It's bad information, even though it's accurate information. So this is like, you're a baby. 
+
 66:34 	(Joe Rogan)	You can't handle the truth. That's basically what that is. It's the government's version of it. 
+
 66:38 	(Joe Rogan)	Now, that sort of attitude which clearly persists throughout the entire federal government. Wouldn't you apply that sort of thinking to something as powerful as an actual alien contact that we, uh, have been experiencing for decades and they've been lying about? 
+
 66:55 	(Bret Weinstein)	All right, well, as long as we're just sort of fantasizing about wild stuff here. Imagine that Donald Trump were to be elected president for a second time, and he was pissed off, and he was to nominate Tulsi Gabbard for the Director of National Intelligence. And then she was only hours or at most days away from being confirmed by the Senate. Then when she gets in, presumably she wouldn't have investment in all of those years of lying about this, and she might feel obligated to tell us in the public what the hell's going on. 
+
 67:29 	(Joe Rogan)	Maybe we should edit that part out so she gets confirmed. 
+
 67:31 	(Bret Weinstein)	Yeah, we could. All right, fair enough. 
+
 67:36 	(Joe Rogan)	Just kidding. Just kidding. We don't have to edit it out, but, yeah, that's the hope, right? The hope is she's a very honest person and a real patriot, and she. 
+
 67:43 	(Bret Weinstein)	Would want people to know one hundred percent. Also, you know, we've got Elon on a separate track. He's going through the books and finding all of the. The nonsense. 
+
 67:53 	(Bret Weinstein)	And so presumably the effort to hide whatever it is either to manufacture the impression of ufo's or to hide what we know about them. That's gonna have a budget somewhere. 
+
 68:05 	(Joe Rogan)	Yeah, yeah, it's all interesting, but it's also. I always assume that when something hits the zeitgeist and is, like, prominently out in the newspapers and media and websites, and I always assume that they're covering something else and that this thing is the big distraction. And that's what I was thinking while the UFO thing was happening over New Jersey. I was like, okay, what are they distracting from? What's the big distraction? Because it seems like that's what that was. 
+
 68:35 	(Joe Rogan)	That just seemed so forced and so obvious. And then the Trump administration says, oh, they were ours. 
+
 68:42 	(Bret Weinstein)	Right? 
+
 68:43 	(Joe Rogan)	Uh, okay, well, why were you doing that? Why were they doing that? Why. Why didn't they say they were ours? Why? They freak everybody out. Why they send jets to go scramble after them and then they turn their lights off and disappear. Like, what? 
+
 68:55 	(Bret Weinstein)	So there is the question of what they were trying to distract us from, if that was their purpose. But I also find this has again, uh, become a kind of theme in my life. This is also a violation of informed consent. If those were our drones and they were nightly traumatizing the residents of New Jersey and pretending they didn't know what it was, that's a de facto experiment that they were running on the citizens of the country. 
+
 69:23 	(Bret Weinstein)	They have no right to do this shit. 
+
 69:25 	(Joe Rogan)	Yeah, that's a good point. Yeah. That should be illegal one hundred percent. Yeah, Especially like lying about it and not telling us what you're doing and then, uh, just keeping everybody in the dark for weeks where people were really panicking. 
+
 69:37 	(Bret Weinstein)	I, you know, one doesn't know until you see this stuff, uh, enacted where it's going to lead. But my sense is I don't want my government lying to me ever again with the excuse that it's for my own good. 
+
 69:55 	(Joe Rogan)	Is it possible to, you know, Obama passed that law in. Was it twenty twelve that allowed the government to use propaganda on its own citizens? Remember, uh, that law. 
+
 70:10 	(Bret Weinstein)	I'm trying to remember. This is not the NDAA twenty twelve.
+
 70:13 	(Joe Rogan)	No, no, NDAA is, uh, that's the Authorization act that. This is, uh. 
+
 70:18 	(Bret Weinstein)	That's indefinite detention. 
+
 70:19 	(Joe Rogan)	Yeah, that's indefinite detention. This is different. This is, uh, the use of propaganda. So they authorize the Use of propaganda on American citizens. 
+
 70:25 	(Joe Rogan)	So the CIA, instead of turning its, you know, propaganda wing on the whole world, they're allowed to use it under the guise of course, of national defense and national security. Uh, sometimes they need to bullshit us. 
+
 70:40 	(Bret Weinstein)	Well, that is in fact exactly what we have discovered. And why it was so hard to convince people of this before the evidence for it emerged, I don't know. But all you needed to realize was that some rogue element had decided that it had the right to engage in the same kind of regime change bullshit domestically that it was already feeling entitled to engage in globally. And the rest makes perfect sense. 
+
 70:43 	(Bret Weinstein)	And of course you would get an entrenched cabal that would come up with a justification for fending off a challenge, you know, at the ballot box that it could portray as somehow, uh, a threat to American democracy. Of course it would do that. Right. 
+
 71:29 	(Bret Weinstein)	It has to be forbidden to do that and the penalties have to be extreme for attempting it or it will happen. 
+
 71:35 	(Joe Rogan)	Right. So the argument against that is not the argument we're using it in America, but the argument is you need organizations like that to do that worldwide, to counteract the fact that other countries are doing that worldwide and that there is some sort of a psychological game that's going on as a propaganda game that's going on with all countries as well as, you know, they're doing it against us, we're doing it against them. We need to be sophisticated in how we employ these things, otherwise we're going to lose very important parts of the world. It's key to the national security of the United States. 
+
 72:02 	(Joe Rogan)	We have to have things like that in place. But when they start using it on us and they say, oh, well, we have to start using it on us because Russia is using it on, uh, us or uh, we have to use it on us to counteract what China's doing. We have to. 
+
 72:23 	(Joe Rogan)	 That's when things get really screwy, right? 
+
 72:25 	(Bret Weinstein)	Well, yes, but I also am not sure that I buy the international rationale either. And I think as much as I understand it, right, we have to be mature about what's possible in the world and what implications it has for the Republic. On the other hand, to the extent that we believe in self determination, where exactly does our right to interfere with other people's self determination come from? Further, I do think that there's a kind of end state for the governance structures of Earth, that what we have in the west, an agreement on a level playing field, an agreement to compete with each other by attempting to produce better stuff, rather than by interfering with our competitors ability to get to the market. It that that view of the west is superior and it is also contagious, that it makes for a safer, more, um, rewarding, fairer, less warlike system. 
+
 72:32 	(Bret Weinstein)	And therefore there's a very good reason for people to want to adopt it. 
+
 73:48 	(Joe Rogan)	That sounds great though, but doesn't that, isn't that slightly naive when you take into consideration the amount of espionage that we know exists in American corporations and in American uh, educational institutions? 
+
 74:02 	(Bret Weinstein)	Well, I'm not arguing that you just go and live your values. What I'm arguing is that those values are superior, that they are sticky and contagious when they take hold and that anything you do where you compromise on the idea that that's the objective is to get Western values to catch on across the world. Anytime you decide you have a right to do something else, you're dragging us onto a slippery slope. Okay? You will disrupt other people's self determination. 
+
 74:34 	(Bret Weinstein)	You have no basic right to do it. And it will eventually come home and be done to us. So I don't know what the sophisticated way to make it maximally likely that other societies take on those values is, but I know that it was happening organically without us having to do terribly much. 
+
 74:39 	(Bret Weinstein)	 And so the real question is how do we make that a winner so that it organically catches on and how do we uh, reinforce it when it does? 
+
 75:08 	(Joe Rogan)	How much are you paying attention to Deep Seek and the AI competition that's going on right now? 
+
 75:14 	(Bret Weinstein)	I am loosely paying attention to the AI competition. I'm conflicted about it. I don't think there's anything we can do to regulate AI competition that doesn't make matters worse. I'm very concerned about the outgrowth of this transformative technology. 
+
 75:14 	(Bret Weinstein)	I think even the most mundane disruptions that will come from it, things like uh, disruptions to the job market are going to be a profound challenge to, to our society. And we're going to have to come up with an approach that allows us uh, to tolerate the disruption. 
+
 75:54 	(Joe Rogan)	I used to think the approach was universal basic income, but now I'm conflicted because now I just take into account human nature and you know, unfortunately, I don't think it's good for people to just give them free money. Even though you need to. Even though you need to. I think uh, it's ultimately bad for them to be dependent upon it. 
+
 76:12 	(Joe Rogan)	And that's what scares me about automation and AI in general. That if it does get to the point where there's so many people that are displaced in the job market that we have to provide them like a real meaningful wage. And what incentives do they have to break free from that system? And do they just decide to live inside the means of whatever that is forever? And does that limit the growth and potential that those people possess? Because people really don't accomplish anything unless they're driven or unless they have to. 
+
 76:42 	(Joe Rogan)	Right. That's, that's what really gets people going. That's why it's so difficult for people that were trust fund babies to ever get anything going. 
+
 76:48 	(Joe Rogan)	I mean, we all know the trust fund kids that are just, they do do drugs and party and they're materialists and they're really lost. That's really common, like more common than not. Right. 
+
 77:00 	(Joe Rogan)	Very difficult to, to navigate that water. Uh, so what would we do to incentivize people to do things like to have this healthy, thriving, artistic, creative, innovative economy that we have right now? How does that continue if so many people are displaced from the job market? Or is there a way where you can say, you know what, we are so concerned about basic goods, needs, food, shelter, things like if you just provide people with the basics so nobody ever has to worry about food or shelter, would it organically arise that some people would compete outside of that and then say, now that I have basic food and shelter, let me pursue my dreams, let me do what I want to do, let me provide, uh, let me create a business that AI can't make. Let me make, you know, fine cabinetry. 
+
 77:54 	(Joe Rogan)	Let me, let me do, let me paint, Let m me do things that's going to provide a real value that, uh, you know, I can get money from that it can be an actual viable business. And maybe the way to incentivize people to do that is to never take away their universal basic income. So it's not like welfare where one of the things like my family was on welfare when we were young and when they got off welfare, it was like a nice thing to know that like we are providing for ourselves now, you know, but you have to do that. 
+
 78:27 	(Joe Rogan)	You have to break off the system and then you don't get the checks anymore. But what if the people just keep getting universal basic income and you. And we just re. 
+
 78:36 	(Joe Rogan)	Rewire the way we think about food and shelter. We think about food and shelter is just something that everybody should have. Not like, uh, tons of money. 
+
 78:42 	(Joe Rogan)	Not exposable, indispensable income where you can disposable income. We could just buy junk food and garbage and, and do cocaine all day, but have enough where you can live and then have people pursue a life that is more meaningful. But you have to give people incentives. 
+
 79:02 	(Joe Rogan)	They have to be somehow or another, either personally motivated to do that, uh, encouraged by the culture to do that. It has to be something where people develop this desire to do more. 
+
 79:16 	(Bret Weinstein)	Well, let's talk about the ultimate source of this problem. Our ancestors, our hunter gatherer ancestors, even our farming ancestors, lived in a world where the world itself provided the incentive structure. Right. If you didn't work hard enough as a hunter gatherer, it manifested as hunger and jeopardy. 
+
 79:43 	(Bret Weinstein)	So people were naturally incentivized to invest in the right kind of stuff. And the right kind of stuff is hard work in some cases where, you know, you pursue the materials that make your hut better, that procure more food for your family. Or it could be insight where you figure out some way to do something better so you make more with what you've already figured out how to get. 
+
 80:07 	(Bret Weinstein)	That's a very natural structure, and it's what we neurologically are built for. The economy has some of that characteristic. The economy rewards hard work somewhat, and it rewards insight somewhat, but it also rewards, uh, cheating, and it rewards lots of unproductive behavior that actually destroys wealth, but creates a profit. 
+
 80:38 	(Bret Weinstein)	Stock market, yeah, for example, it rewards gambling, it rewards, uh, interference, competition, all sorts of stuff. Destroying wealth is actually a big part of our economy. And the way the mythology of free market capitalism works, you're getting paid for producing stuff that enhances us all. 
+
 81:01 	(Bret Weinstein)	But what fraction of the economy is actually dedicated to activities that destroy wealth? You know, the production of porn, for example. In my opinion, that is highly likely to destroy vastly more wealth than it, than it produces. But it's a very rich industry for a reason. 
+
 81:21 	(Bret Weinstein)	So what I'm getting at is we have a new problem with the AI component. Maybe it's taken the magnitude of the problem that we had and it's multiplied it by ten. But it's not a new problem. 
+
 81:36 	(Bret Weinstein)	We are still trying to figure out what to do with the fact that you're taking an animal out of the habitat that properly inherently incentivizes it and putting it into an environment in which the incentives aren't really well built. And I agree with you. Whatever sympathy I may have had for the idea of universal basic income is gone, because I do think it would produce at best, a, uh, kind of learned helplessness. 
+
 82:02 	(Bret Weinstein)	Yes, that's unproductive, a dependency. 
+
 82:06 	(Joe Rogan)	It's scary, right? 
+
 82:07 	(Bret Weinstein)	So what we really want is a system in which whatever the new opportunities are going to be in the world where AI is available everywhere and very sophisticated. We want people to figure out how to leverage it on our behalf. And mind you, we could have the same conversation before the World Wide Web, and we could talk about, well, what's it going to be like when you can source information, uh, from anywhere? What kinds of opportunities is that going to create? And can we incentivize people to figure out what those opportunities are? Yada, yada, yada. So the AI version is the same problem, but at a different order of magnitude. 
+
 82:07 	(Bret Weinstein)	So I don't know what the solution is about how you create that proper incentive structure. But we are going to be living in a world in which meaning and wealth are of a fundamentally different nature. And what we want is for people to have the tools and the incentive to explore that world productively so that when they do it well, they end up economically enhanced, and when they do it poorly, they suffer a challenge so that they are naturally led by that world to find stuff that creates wealth for all of us. 
+
 83:34 	(Joe Rogan)	Right. Well, maybe it starts with the education system. Maybe we have to incentivize people to pursue their dreams instead of just to try to find a job because that, this is the way the education system is scheduled now or is, uh, set up now. It's basically, you go back to the Rockefellers, right? This is, you're basically trying to make factory workers. 
+
 83:52 	(Joe Rogan)	You're trying to make people that obey. The earlier you can get them into school, the better because the more you can indoctrinate them into the way the system works. You get them accustomed. 
+
 83:59 	(Joe Rogan)	You get these kids that are filled with fucking energy and they're excited about the world. They just want to play all the time. And you make them just, just sit down all day. 
+
 84:06 	(Joe Rogan)	And when they don't, you say, that little fellas got add, he's not paying attention. We need to give him some Ritalin. The little is just sitting there jacked out of his mind on Ritalin. 
+
 84:17 	(Joe Rogan)	Now, you know, and this is what we've done. And instead of having an education system that educates people that way, have an education system that excites people about learning things they're actually interested in. 
+
 84:30 	(Bret Weinstein)	Hell, yeah. But again, this is an another version where it's not like AI is a bad fit for the education system. It certainly is, but the education system has been garbage. My whole life existed with an education system, um, that was almost totally worthless and in some cases was counterproductive, which is, I think, why some of us folks with learning disabilities actually turn out to have an Advantage. 
+
 84:59 	(Bret Weinstein)	It's not that there's something good about having a learning disability, but if it breaks your relationship to school, so school has less of an easy time programming you to be a cog, then you at least retain the potential to be something other than a cog. 
+
 85:12 	(Joe Rogan)	I don't think I had a learning disability, but I was a latchkey kid, right? So I didn't have a lot of guidance when I was young, and I wasn't used to people telling me what to do, and I didn't enjoy it. And also, I had a lot of energy. And, uh, it was very difficult for me to pay attention to boring things by uninspired teachers. But then again, every now and then, I'd have an inspired teacher, and I'd go, okay, maybe I'm not stupid. 
+
 85:37 	(Joe Rogan)	Like, maybe I'm just bored, you know? And then I'd get really interested in something, and then I'd learn a lot about it, and then I'd be able to, like, tell people about it. I'd, uh, talk to my friends, you know, what I learned today, and then we'd have these conversations about it, like, okay, it's not that I'm not curious or interested, is that I'm not being inspired. Now, why is that? Is it because I'm ten? You know? And, you know, this is hard to be inspired by things when you're ten, because you're just a little dork and you're running around reading comic books and paying attention to other things, and you don't really care about math or you don't care about history. 
+
 86:08 	(Joe Rogan)	What is it? But whatever it is, the system's not working for you. You have to find some sort of inspiration outside of it. And I've been educated almost entirely outside of schools. 
+
 86:20 	(Joe Rogan)	Almost all of what I know, I know from books that I read because I was interested, or I, uh, listened to audiobooks or listen to podcasts, or I had conversations with people like you. That's how I learned things. And it wasn't that I wasn't interested. 
+
 86:33 	(Joe Rogan)	It wasn't that I wasn't smart. It was that I was not inspired. I. I had other, uh. 
+
 86:34 	(Joe Rogan)	I didn't know that I wasn't a loser until I got really good at other things. And I'm like, I can get good at things, okay? So if I can get good at things, it's not that I'm a loser. It's just like, I can't work a job. 
+
 86:34 	(Joe Rogan)	I can't just show up every day and do something that's not exciting. To me. But that doesn't mean I'm useless. 
+
 86:34 	(Joe Rogan)	It just means I'm useless for that. I don't have the personality to just sit there and go over paperwork. It doesn't, I can't, I'll go crazy. 
+
 86:52 	(Joe Rogan)	But that go crazy part is also what lets you have the courage or the motivation to go and try a path that seems unlikely for success. And to have the courage to say, well, some people succeed. Why don't I fucking try it? And just, I can't do this. 
+
 87:20 	(Joe Rogan)	It, let's give it a go. And then that's how you become a stand up comedian. You know, nobody thinks, nobody thinks that's a good path. 
+
 87:27 	(Joe Rogan)	Like out of a hundred stand up comedians that do open mic night, maybe one, maybe one will have some sort of a career in comedy. 
+
 87:36 	(Bret Weinstein)	Well, I'm really glad you're telling me this because. Because, uh, back when I was a college professor before twenty seventeen, I used to be, since I was a terrible student myself, I was fascinated by the students who had really high potential but were just not a good fit for school. So I was really interested in what made people smart, especially when it had nothing to do with school or happened in spite of school. And your story fits perfectly here. 
+
 88:02 	(Bret Weinstein)	In fact, what you describe is sort of the equivalent of a learning disability, right? Like suspicion that your teachers aren't all that and maybe you're not so thrilled at sitting there listening to them. You know, occasionally it sounds like you had a teacher who was pretty good. 
+
 88:17 	(Joe Rogan)	But yes, thank God, me too. 
+
 88:19 	(Bret Weinstein)	I had about one in five teachers. 
+
 88:22 	(Joe Rogan)	That's good. That's a great number. 
+
 88:24 	(Bret Weinstein)	Wasn't terrible. But for the rest of the time, you know, school was so busy dismissing me as, you know, not performing to potential was what it said every, every time on my report card. Right. That it was just really demoralizing. 
+
 88:40 	(Bret Weinstein)	And I remember sort of in the second grade having a kind of choice. I didn't know what it was that I was choosing between, but it was like I can either surrender to their understanding of who I am or I can stop respecting them. And so it created an attitude problem. 
+
 89:00 	(Bret Weinstein)	Sounds like you had a similar attitude problem. And, uh, I wish I could give every student that attitude problem. 
+
 89:07 	(Joe Rogan)	The thing, the difference is, when I was thirteen years old, I didn't have the Internet. And the kids today that are thirteen years old, they can get inspired by so many different things. They'll go and find a YouTube video on ancient civilizations. Then all of a sudden they're inspired and they want to learn about this and that there's so many different things that can fire you up intellectually that are outside of. 
+
 89:27 	(Joe Rogan)	Of the school system, where back then it was just the school system and occasionally books, you know, someone would recommend books, but there was no documentaries that people could just rent. There wasn't the kind of access to stimulating ideas that is available today, which I think is like, unprecedented. The amount of access to interesting ideas that people have today is off the charts. 
+
 89:53 	(Joe Rogan)	It's never in human history been anything remotely close. But along with that, you have flat earth and fucking Holocaust deniers. You have fucking everything. 
+
 89:53 	(Joe Rogan)	It's all piled in together. You have so much nonsense. It's all together. 
+
 90:06 	(Bret Weinstein)	Yeah, but you also, you know, I'm skeptical that the vast wealth of information is inherently a good thing. 
+
 90:16 	(Joe Rogan)	Really? 
+
 90:16 	(Bret Weinstein)	Yeah, because I know, like, uh, I said, I became very interested in what made people smart. And what made people smart was not libraries. What made people smart was an interaction with the world that rewarded them when they figured something out. And very often that was the physical world. 
+
 90:38 	(Bret Weinstein)	So one of the things I worry about with a kid who maybe is not getting so much out of school, but they have access to an entire world of fascinating things on their computer, is that it turns all of that stuff into an exercise in consuming information rather than discovering. And so I would much rather see kids have access to a, you know, a wild world, a forest that's intact where they can go and discover things. And those things aren't labeled and you don't know what it is, and you don't know what it means or, you know, you try to build a structure, a tree house or something, and it tests your understanding of what the structure is, you know, that will hold you and, um, that it is that feedback where you are not a consumer of the world, but you are a producer. 
+
 91:34 	(Bret Weinstein)	You are interacting with the world rather than just seeing it represented. That is the most intellectually enhancing thing. 
+
 91:42 	(Joe Rogan)	Are they mutually exclusive, though? No, it seems like it would be beneficial for people to have both. It seems like, especially young people, it would be beneficial for them to have the natural world, which I think you're absolutely right. It's very important. And just to be, you know, hopefully safely be wild and outside or not. 
+
 92:00 	(Bret Weinstein)	I mean, uh, unsafe enough that you develop sense, you know.
+
 92:06 	(Joe Rogan)	Yeah. 
+
 92:07 	(Bret Weinstein)	But yes, I think ideally you would have access to both. So it would create the, uh, the reward patterns in your mind that would cause you to think about how to be productive in the world. But I also think that the way the online world presents itself is strangely demotivating. Right? Because, you know, you see whatever social media platform you're on, you've got some thirty second clip of some person doing some utterly remarkable thing that I would have said until I saw it with my own eyes was impossible. 
+
 92:45 	(Bret Weinstein)	That doesn't create a pathway to discovering what the person in question can do. What you're looking at is somebody whose abilities outstrips what almost anybody can do. 
+
 92:57 	(Joe Rogan)	Give me an example of what you're talking about. 
+
 92:59 	(Bret Weinstein)	Okay, so, uh, this is, you know, something I saw yesterday. Guys riding down a ramp and launching themselves two or three stories into the air on a scooter and then turning around and dropping back onto the same ramp, you know, and of course I, uh, think I saw Red Bull in there somewhere. Right. So it's like, first of all, you've got this corporation incentivizing people to take risks that aren't smart. 
+
 93:33 	(Bret Weinstein)	Uh, and then you've got an apparatus that you're not going to be able to build or approximate. And then you've got the person who leverages the apparatus better than anybody. And it's like, well, where's the opportunity for the viewer to be like, yeah, I want to get in on that? 
+
 93:47 	(Joe Rogan)	Well, it inspires them to go somewhere and find out how you do that. Right. It's like a Chuck Norris movie inspires you to take a karate class. 
+
 93:57 	(Bret Weinstein)	Well, I think a Chuck Norris movie is probably a better tool. Um, the admixture of people who are highly capable and people who get some of the thrill of the highly capable person just by viewing it is not as good as it might be. Right. In other words, I think we've taken all sorts of activities that people used to engage in and we've found a consumable equivalent. 
+
 94:20 	(Bret Weinstein)	Right. Like sport. People used to play sports. 
+
 94:38 	(Bret Weinstein)	Now most people who are into sports watch sports. They're consuming the sport rather than participating in it. 
+
 94:45 	(Joe Rogan)	Right. Especially adults. 
+
 94:48 	(Bret Weinstein)	Especially adults. Likewise, sex, frankly. Sex is a very important realm and it is, it's a skill. The skill involves insight into your partner. 
+
 95:03 	(Bret Weinstein)	And we've turned it into a consumable where you can chase your fetish or whatever and just watch it on a screen. 
+
 95:12 	(Joe Rogan)	Right. 
+
 95:12 	(Bret Weinstein)	And the point is, that's actually not the same activity. 
+
 95:16 	(Joe Rogan)	Right. And that's also leading to this weird world we're living now where a giant percentage of especially young men aren't having any sex. 
+
 95:25 	(Bret Weinstein)	Right. 
+
 95:25 	(Joe Rogan)	More than any. 
+
 95:26 	(Bret Weinstein)	That's where it goes. And, you know, if we take ourselves back, you know, a couple hundred years, music, music used to be something that people did Everybody sung and they whistled and many people played musical instruments. Now, music is a consumable. And the point is, the reward may be somewhat similar to listening to a really good song as it is to play a really good song on an instrument. 
+
 95:55 	(Bret Weinstein)	But the degree to which you've been robbed as a human being who is capable of producing music, and you just, you don't have a thought of doing it because there's so much to listen to that's not positive for humans. 
+
 96:05 	(Joe Rogan)	Right. I see what you're saying. Yeah. But isn't that like, at least people are being exposed to a bunch of different ideas, so it has the potential to lead them to try and do different things? 
+
 96:20 	(Bret Weinstein)	Well, you know, when I was a professor, my thought was almost the entire job of education is about incentives. It's about incentives and motivation. It's not about delivering content. If you can get a student to want to understand something, most of the work is done. 
+
 96:43 	(Bret Weinstein)	Right. So, uh, when I look at school, I can't believe how badly structured it is because the idea is effectively it's going to threaten you into learning something that's not going to make it stick. It's not going to make you want to learn more. 
+
 96:58 	(Bret Weinstein)	So my feeling is what you want is, um, you want to create a desire in the student to understand the thing. Then your work is pretty well done, and then it's like play. And if we took that approach to all of these things so that you felt rewarded by producing music, even if it's very simple.
+
 97:22 	(Bret Weinstein)	Right. Well, then you might pick up music for a lifetime and be generating it decades later. Right. 
+
 97:29 	(Bret Weinstein)	You should not be delivered a message about sex where sex is something that is supposed to be perfected. And therefore a person who's new to that realm feels inadequate and therefore is incentivized to abandon it and go watch it. There should be a recognition that actually this is something that you will develop over a lifetime. 
+
 97:38 	(Bret Weinstein)	And it's important that you do and you should want it because it's access to some of the most rewarding stuff there is. Right. So just getting, getting the motivation built in the person so that they want to pursue it is all you really need. 
+
 98:10 	(Joe Rogan)	I'm really worried about robot sex dolls. 
+
 98:13 	(Bret Weinstein)	Yep. 
+
 98:14 	(Joe Rogan)	I didn't used to be worried about them. I joke around about it on stage, but I'm actually worried about it now because I've seen some of the new ones that they've developed, the new very lifelike human robots, which is, by the way, they seem to be. A lot of them are hot Women, for some reason, even though they're not sex robots, a lot of the robots are hot women. Like, what. 
+
 98:36 	(Joe Rogan)	Okay, I see what you're doing. Like, you could do both things at the same time. Obviously, the market is sex robots. 
+
 98:41 	(Joe Rogan)	So what you're doing is you're having, like, robot assistants that happen to be really hot, beautiful women. Well, they're, like, pretty realistic right now. Not realistic. 
+
 98:52 	(Joe Rogan)	Like, I couldn't tell, like, if one was sitting there, that that's a robot. You're a real person. But go to Pong and then go to Diablo four, you know, you know, saying, you know where it's coming. 
+
 99:05 	(Joe Rogan)	Yeah, it's. It's only going to get better than it is now. And now it's pretty goddamn close. 
+
 99:09 	(Joe Rogan)	You're in the uncanny valley. 
+
 99:11 	(Bret Weinstein)	Yeah, you're in the uncanny valley. And really, what needs to happen in order that we do. We don't reproduce the disaster of porn with, you know, in three D. Right. 
+
 99:21 	(Bret Weinstein)	Or four D. Um, it needs to become sophisticated to understand that you really don't want any part of that. Even if it's very good. 
+
 99:34 	(Bret Weinstein)	Especially if it's very good. 
+
 99:36 	(Joe Rogan)	But isn't that hard to do? But you can't even convince people that they don't want social media. 
+
 99:39 	(Bret Weinstein)	Well, you know, I used to take a lot of flack as a prude because. Yeah, because. Well, I'm not a prude. I'm really not. 
+
 99:51 	(Bret Weinstein)	But I do take a very dim view of porn. It's like you're messing with something sacred and just don't. Right. 
+
 99:59 	(Bret Weinstein)	And, you know, porn isn't what you and I remember porn was when we were young. Right. It's not pictures of naked girls. 
+
 100:06	(Joe Rogan)	Right, Right. 
+
 100:08	(Bret Weinstein)	It's way more pernicious and invasive and. 
+
 100:12	(Joe Rogan)	Coercive and instantaneously available. 
+
 100:15	(Bret Weinstein)	Instantaneously available. And it reaches almost everybody now. So anyway, I used to say very negative things about porn, and I took a lot of flack over it. That is less and less true. 
+
 100:20	(Bret Weinstein)	I think people are beginning to realize how much damage it's doing to them. And there are a lot more people ready to acknowledge that, whether or not they're in control of it in their own lives. They wish they were. 
+
 100:39	(Bret Weinstein)	Right. They don't want it. Um, I will say, you know, I have two boys, eighteen and twenty, and I believe neither of them is involving themselves with porn. 
+
 100:51	(Bret Weinstein)	And they report they aren't the only ones. 
+
 100:54	(Joe Rogan)	So young men are recognizing that it's a bad road to go down. Well, you can see, I think that road and the road of video Games, Video games and porn together, boy, your life will vanish. 
+
 101:06	(Bret Weinstein)	Mm, mhm. 
+
 101:06	(Joe Rogan)	And it's not that video games aren't awesome. They're awesome. But I don't play them on purpose because I love them. That's why I don't play them. 
+
 101:14	(Joe Rogan)	They're. They're too involving and they're not real life. And they can steal real life even though you're having a good time. 
+
 101:22	(Bret Weinstein)	Right. When I think back to the video games that I played, which were, of course, you know, much cruder, what was. 
+
 101:28	(Joe Rogan)	Your video game of choice? 
+
 101:30	(Bret Weinstein)	Well, when I was really young, when I was, uh, you know, a kid in high school, I used to play Castle Wolfenstein on my. Oh yeah, yeah, yeah. 
+
 101:42	(Joe Rogan)	Wasn't that by the ID software guys? I think those are the guys that designed Doom and I'm pretty sure Castle Wolfenstein was them. I think that was their first game. 
+
 101:50	(Bret Weinstein)	I don't know. 
+
 101:51	(Joe Rogan)	Was it Jamie? Yeah, that's uh, John Carmack and uh, John Romero. 
+
 101:56	(Bret Weinstein)	But it was pretty cool. Um, but here's the problem with. 
+
 102:01	(Joe Rogan)	It wasn't no different guys. Different guys. They had a game like that though my brain that's. 
+
 102:12	(Jamie)	They're connected. But it's Google, uh, says, I mean, says no. 
+
 102:16	(Joe Rogan)	Who developed M software. But wait a minute. Wasn't. Didn't Muse have something to do with id? Maybe I'm wrong. 
+
 102:26	(Jamie)	I look at the games that Muse software put out. They stopped putting them out in eighty five. 
+
 102:30	(Joe Rogan)	Okay. And then Doom was what year? So Doom was definitely it. And that was the first one. That was the first like real three D shooter game that just captivated ninety three. 
+
 102:36	(Joe Rogan)	That was ninety three. Boy. I started playing Doom and I was like, this is over. 
+
 102:47	(Bret Weinstein)	Right? 
+
 102:48	(Joe Rogan)	It's over. But it's so crude if you watch it now. Yes, there you go. 
+
 102:51	(Jamie)	But they. John Carmack developed a new game engine called the Doom engine, while the rest of the software team finished Wolfenstein three D prequel. So they made a game. 
+
 102:59	(Joe Rogan)	Okay. 
+
 102:59	(Jamie)	Involved with that. 
+
 103:00	(Joe Rogan)	That's what it is. Okay. Yeah. So that was them. 
+
 103:03	(Bret Weinstein)	But think about, you know, a, uh, video game is an incredible tool for training the mind. 
+
 103:11	(Joe Rogan)	Sure. 
+
 103:12	(Bret Weinstein)	Right. It trains you to just precisely time things, to have yourself in this mindset, to know exactly where you are in the game, to remember a sequence of moves. Whatever it is, it's an incredible training engine because the incentive structure is there so that you want to get to the next level. Right. 
+
 103:33	(Bret Weinstein)	It's like what schools should be doing, except what does it train you to do? Nothing. As soon as the next game captivates you, all of the skills that you invested in building are almost all wiped away. Now, maybe that's not quite true because all the first person shooters are the same. 
+
 103:50	(Bret Weinstein)	And so skills you develop in Halo work for. I don't know what the others would be, but, um, but nonetheless, the point is you're. You're investing your ability to train your own mind into something that is guaranteed to be obsolete. 
+
 104:05	(Bret Weinstein)	M. That's not a good use of your time. Even though I totally, you know, I did play video games. 
+
 104:11	(Bret Weinstein)	 But you know what? 
+
 104:12	(Joe Rogan)	The argument against that is the same argument against chess. So chess obviously trains the mind to be stronger and more effective in many other areas of life. One of the things they found about video games is surgeons in particular that play video games have twenty five percent less errors. 
+
 104:29	(Bret Weinstein)	M. Well, that makes sense. 
+
 104:31	(Joe Rogan)	Is that the number. That was the number, right? It was like twenty five percent, however high number. 
+
 104:36	(Bret Weinstein)	But imagine that you decided to leverage that. That in fact, I mean, my feeling is school ought to look like a bunch of fun exercises and activities and puzzles that cause you to want to do it. It shouldn't have to be school. We shouldn't have to make you go. 
+
 104:51	(Bret Weinstein)	It should be structured so that you want to be there because it's exciting, it draws you in. And so a video game, I'm not against them in principle because a video game could train you to do something or to think about something in some incredible way, but they just don't because the market is going to find the thing that brings in the maximum number of people and holds them to the greatest effect and causes them to want to buy the sequel. 
+
 105:19	(Joe Rogan)	Right? Isn't there? There's a balance though, between discipline and inspiration. And one of the things that school does teach you is you have to be disciplined. You have to actually get your homework done. You have to actually do things. 
+
 105:27	(Joe Rogan)	You have to do things you don't want to do. Delayed gratification, I think that's actually an important component to life, that if you want to be successful even in things that you're inspired to do, you have to be willing to work when you're not inspired. And that's where discipline comes in. 
+
 105:46	(Bret Weinstein)	Wisdom, I argue, is effectively delayed gratification. That, you know, figuring out that investment now that doing something that doesn't feel good now results in a big reward later. That's a huge part of the key to life. And in part that's what all of these consumer realms that are stealing from us are taking away. 
+
 106:10	(Bret Weinstein)	The point is, if you want to be investing in something, and you're willing to pay the price of whatever unpleasantness or time or whatever it is that you're spending, and you've got all of these competing things that can give you a hit of dopamine right now, it's very hard to develop that skill. 
+
 106:29	(Joe Rogan)	Yeah, that makes sense. And this also, this sort of entitled world that we live in, where we're so used to things being instantaneous and immediate gratification, that that becomes a kind of a core tenet of how we interface with the world. We only are interested in things that give us things right away. 
+
 106:46	(Bret Weinstein)	You know, Heather and I used to teach an exercise, something we invented, called Learn a Skill, where we would have students define any skill that they wish to learn. It had only one requirement. The requirement was it had to be objective. Whether you had succeeded or failed couldn't be subjective. 
+
 107:05	(Bret Weinstein)	Right. 
+
 107:06	(Joe Rogan)	Okay. 
+
 107:07	(Bret Weinstein)	And the idea was not to get you to learn the skill. That was a collateral benefit. The idea was to get you to pay attention to how you develop a skill so that you would learn how your own mind learns, and you could apply that to things that you wanted to learn later in life. But what we often found was that these students, these would have been millennials, were very unrealistic about how much effort it would go. 
+
 107:34	(Bret Weinstein)	Would be required for them to accomplish one of these things. And they would just get schooled by how much harder it was to build the thing they wanted to build or to program the computer to do the thing that they wanted to build, program it to do, or to play the song they were hoping to play. Something, um, had trained them that life was easier than it was. 
+
 107:39	(Bret Weinstein)	And that was kind of a tragic lesson. 
+
 108:02	(Joe Rogan)	Right, Right. And I do think it's the trust fund kid. It's the same sort of a thing. 
+
 108:05	(Bret Weinstein)	Yeah. But these weren't trust fund kids. 
+
 108:07	(Joe Rogan)	But I mean, I don't even mean it's the. What a trust fund kid has. They want things handed to them all the time. And we've kind of like, set up a whole society where kids think that things should just be there, so Totally. 
+
 108:19	(Joe Rogan)	Yeah. And also we've set up a society where people become exceptional with no merit. Right. 
+
 108:25	(Joe Rogan)	Like social media influencers and TikTok influencers are people that just captivate attention, whether it's by, you know, clickbaity headlines or whatever they're doing, or just, like, being hot and dancing around in front of the screen, they're doing that. And that has become one of the main things that children aspire to. When they ask kids what they want to do. 
+
 108:48	(Joe Rogan)	One of the big things that kids want now is to be famous. It's much more prevalent than it ever was in history, because before, it was really hard to be famous. If you wanted to be famous, you had to be a real psycho. 
+
 108:59	(Joe Rogan)	Like, you had to be, like, completely ignored by everyone around you to the point where, like, you know what? God damn it, I am special, and I'm gonna show the world. I'm gonna be on that stage singing that song or whatever it was, you know, being in that movie on that big screen, and you had to really want it. You had to be really sick to get to the top. 
+
 109:17	(Joe Rogan)	And a lot of them really were, and that's how you made it, you know? And so it was a very rare thing that most people did not aspire to because they didn't think it was a realistic goal. But now people see people that are nothing. There's nothing special about them. 
+
 109:17	(Joe Rogan)	And they're billionaires, you know, like, if you watch the Kardashians, uh, yeah, they're. They're cute, okay. They have nice clothes. 
+
 109:36	(Joe Rogan)	But, like, the whole show is based on very boring people who are living these extremely privileged lives for no reason that anybody can explain that makes any sense. They've generated hundreds and hundreds of millions of dollars through no way that anybody could, like, m. Map out and say, like, this is how you do it. 
+
 109:57	(Bret Weinstein)	Yeah. There's no lesson to it. No lesson to it at all. 
+
 110:00	(Joe Rogan)	But yet they're the people that people want to aspire to. 
+
 110:03	(Bret Weinstein)	Yes. I think that's a. I think we get a warped perspective because you. Which names do you know? Well, you know the people who've succeeded in this realm, and you don't know all of the people who've invested heavily in it and not succeeded. 
+
 110:17	(Joe Rogan)	Right. 
+
 110:17	(Bret Weinstein)	But on the other hand, the Internet, as it stands, is a training program for this. So, in part, the reason. The reason that people become focused on the things that they become good at is because they get some early reward that causes them to return and try to do more. Right. 
+
 110:40	(Bret Weinstein)	I'm convinced this is true. If you went back to the things that each of us are good at, you would find some early experience that caused us to stick to it enough that we ended up good. But everybody is in these social media environments competing for likes. 
+
 110:58	(Bret Weinstein)	I mean, even just inadvertently, you don't want to put up a post and have nobody react to it. You hope they react, and you hope they react positively. So the Internet is training people to be influencers. 
+
 111:11	(Bret Weinstein)	Most of them are not going to make it. But, you know, uh, it's like the sports stars who become the irresistible icons in certain communities, because obviously that's, you know, that's a whole different world of possibilities. 
+
 111:28	(Joe Rogan)	Right. 
+
 111:28	(Bret Weinstein)	So, you know, it brings everybody in. Well, in this case, you've got everybody in a de facto training program to be an influencer, and almost none of them are going to get there. 
+
 111:40	(Joe Rogan)	Yeah. But they do have their call of duty, so they could just play that and just jerk off all day and. 
+
 111:45	(Bret Weinstein)	Get their UBI and. 
+
 111:47	(Joe Rogan)	Yeah, um, we have to talk about evolution because one of the things that, uh, Tucker Carlson said, uh, on the podcast was essentially that you can't really prove evolution. It's not real. He doesn't believe in evolution as it's taught. Yep, I'm paraphrasing. 
+
 112:04	(Bret Weinstein)	Yeah, I went back and listened to it. 
+
 112:06	(Joe Rogan)	What did he exactly say? 
+
 112:07	(Bret Weinstein)	Uh, he said. Well, he said a couple things. It was a little confusing. He said that, you know, we. 
+
 112:15	(Bret Weinstein)	We see evidence of adaptation, but we don't see evidence of evolution. And that we've really gotten beyond the Darwinian model. We've essentially come to understand that it's not right. 
+
 112:28	(Joe Rogan)	Is this essentially an argument for creationism? 
+
 112:31	(Bret Weinstein)	Uh, it's an argument for intelligent design. Intelligent design. I think, first of all, I want to clean up a little bit of what he said just so it's interpretable. 
+
 112:40	(Joe Rogan)	Okay. 
+
 112:41	(Bret Weinstein)	I don't really think he means we see the evidence for adaptation, but not evolution. That's not coherent. I think what he means is we see evidence for what we would call micro evolution, but we don't see evidence for what we would call macroevolution. This is a commonly believed thing in intelligent design circles. 
+
 113:03	(Bret Weinstein)	And so microevolution, we would talk about the way a creature or a population of creatures would change relative to their environment. If the environment gets drier, those individuals who are more drought tolerant will out compete the individuals that require more water. And so we'll see the population change over time. 
+
 113:23	(Bret Weinstein)	But he's saying we don't see evidence for macroevolution, which is the production of new species from old species. 
+
 113:31	(Joe Rogan)	A monkey becoming a person. 
+
 113:33	(Bret Weinstein)	Yeah, we don't see big changes like that. Now, I don't want to bore your audience. I am concerned that the right way to address Tucker's challenge. And, uh, as I said the last time I was on your show, so when I heard him say it the first time, I reached out to him and I said, you know, you really ought to let me talk to you about what's actually going on here, and he welcomed it. 
+
 114:00	(Bret Weinstein)	We still haven't sat down to do it, but nonetheless, he's open to hearing that he doesn't have it right to his credit. But here's the problem. The correct response to Tucker, I do not believe, involves what most people want me to do in response to something like what Tucker has said. 
+
 114:24	(Joe Rogan)	What do you think that is? What do you think most people want? 
+
 114:26	(Bret Weinstein)	I think people want the career evolutionary biologist to break out a bunch of examples from nature that make the case very, very clear so that they can relax. Tucker's concern isn't based in science, and they can go back to feeling comfortable that, you know, the Darwinists have it well in hand. That's not where I am. I could do that, but I don't feel honorable doing that. 
+
 114:26	(Bret Weinstein)	I think as a scientist, I should not be in the business of persuading people. I want you to be persuaded. I want you to be persuaded by the facts. 
+
 114:26	(Bret Weinstein)	I want them to persuade you. But I don't think I'm allowed to persuade you. I think that it's a, um, that it's effectively PR when, um, I attempt to bring people over to team Darwin. 
+
 115:32	(Bret Weinstein)	Further, as I'm sure I've mentioned to you before, I'm not happy with the state of Darwinism as it has been managed by modern Darwinists. In fact, I'm kind of annoyed by it. And although Tucker, I do not believe is right, in the end, there is a reason that the perspective that he was giving voice to is catching on in twenty twenty five. 
+
 115:45	(Bret Weinstein)	And it has to do with the fact that. That in my opinion, the mainstream Darwinists are telling a kind of lie about how much we know and what remains to be understood. So by reporting that, yes, Darwinism is true and we know how it works, and people who aren't compelled by the story are illiterate or ignorant or whatever, they are pretending to know more than they do. 
+
 116:34	(Bret Weinstein)	So, all that being said, let me say I think modern Darwinism is broken. Yes, I do think I know more or less how to fix it. I'm annoyed at my colleagues for, I think, lying to themselves about the state of modern Darwinism. 
+
 116:40	(Bret Weinstein)	I think they know. I think I know why that happened. I think they were concerned that, uh, a creationist worldview was always a threat, that it would reassert itself. 
+
 117:04	(Bret Weinstein)	And so they pretended that Darwinism was a more complete explanation as it was presented than it ever was. 
+
 117:11	(Joe Rogan)	What is wrong with Darwinism? Like, what? Do you think that Darwinism is doing itself a disservice by Saying there are.
+
 117:17	(Bret Weinstein)	Several different things that are wrong with it. The key one that I think is causing folks in intelligent design circles to begin to catch up is that the story we tell about how it is that mutation results in morphological change is incorrect. This is a very hard thing to convey. And I want to point out that if the explanation for creatures is darwinian, that does not depend on anybody understanding it, and it does not depend on anybody being able to phrase it in a way that it's intuitive. 
+
 118:07	(Bret Weinstein)	Okay. I think I could probably do a decent job on those fronts. But if you happened onto the earth a hundred million years ago, you would have found lots of animals running around, lots of plants growing. 
+
 118:20	(Bret Weinstein)	You would have recognized where you were and more or less what was going on. There's not a single creature on the planet that would have any idea what an abstract thought was. There would be no creature that had any inkling that there was even a question about where all this had come from. 
+
 118:34	(Bret Weinstein)	And darwinism would still be the answer. So somehow, whether darwinism is the answer does not depend on anybody knowing it or being able to explain it. 
+
 118:43	(Joe Rogan)	Okay. 
+
 118:48	(Bret Weinstein)	Here. Here's the problem. Let's say that we went into the parking lot, and in one parking space there's an excavator, and in the next parking space over is a, uh, maserati. Now, let's say we took those two machines and we tore them apart so that we just had a stack of the compounds that they were made out of. 
+
 119:14	(Bret Weinstein)	Right? The rubber, the vinyl, the various metals, all that stuff. There would be differences between the excavator and the maserati. Right. 
+
 119:25	(Bret Weinstein)	They would just be made of some different stuff, and then there'd be a lot of stuff that they had in common. Now, you could look at the differences in the materials that they're made out of, and you could say, well, the excavator is really good at, you know, lifting materials and moving them around, and the maserati is really good at going fast on a paved surface. And those differences are due to the differences in materials that they're made out of. 
+
 119:52	(Bret Weinstein)	That would be wrong. Probably. You could take the list of materials that an excavator is made out of, and you could give it to a bunch of engineers and you could say, I want you to make a maserati, but you're limited to these materials, and they could do it wouldn't be quite as good because there'd be some places where the ideal material wasn't available to them anymore. 
+
 120:14	(Bret Weinstein)	But there's no reason you Couldn't make a Maserati out of the studio. 
+
 120:16	(Joe Rogan)	Or a sports car. 
+
 120:17	(Bret Weinstein)	Right? 
+
 120:17	(Joe Rogan)	Yeah. 
+
 120:18	(Bret Weinstein)	So what that means is there are chemical differences between an excavator and a sports car, but they're not the story of the differences in what those two creatures do. The chemistry differences are incidental. Now, when we tell you that the differences that a bat became a flying mammal because it had a shrew like ancestor and that shrew like ancestor had a genome spelled out in three letter codons. Those three letter codons specify amino acids of which there are twenty. 
+
 120:55	(Bret Weinstein)	And that the difference between the bat and the shrew is based in the differences in the proteins that are described by the genome. We are essentially saying that the difference between the bat and the shrew is a chemical difference. It's not a simple chemical difference the way it was when we were talking about excavators and sports cars. 
+
 121:19	(Bret Weinstein)	But nonetheless it's a biochemical difference difference. Right. The difference in the spelling of its proteins and structural. 
+
 121:25	(Bret Weinstein)	Structural proteins and enzymes and all of that stuff. I don't believe that mechanism is nearly powerful enough to explain how a shrew like ancestor became a bat. 
+
 121:41	(Joe Rogan)	So what do you think is missing? 
+
 121:43	(Bret Weinstein)	There's a whole layer that is missing that allows evolution to explore design space much more efficiently than the mechanism that we invoke. 
+
 121:56	(Joe Rogan)	And the mechanism we invoke is natural selection adaptation. 
+
 122:00	(Bret Weinstein)	The mechanism mutation. That's the one. The mechanism that we invoke is random mutation. Random mutation, which I believe in random mutation happens. 
+
 122:11	(Bret Weinstein)	Selection, which chooses those variants that are produced by mutation and collects the ones that give the creature an advantage. There's nothing wrong with that story. That story is true. 
+
 122:22	(Bret Weinstein)	Okay. Random mutations happen. Selection collects the ones that are good and those collected advantageous mutations accumulate in the genome. 
+
 122:31	(Bret Weinstein)	All of that is true. What I'm arguing against is the idea that that transforms a shrew into a bat. What you need to get a shrew is turned into a bat is a much less crude mechanism whereby selection, which is ancient at the point that you have shrews, explores design space looking for ways to be that are yet undiscovered more systematically than random chance. 
+
 123:06	(Joe Rogan)	And what would be that? 
+
 123:08	(Bret Weinstein)	Well, what is that force? It's not a force. 
+
 123:11	(Joe Rogan)	What is that desire? That. What is that? 
+
 123:14	(Bret Weinstein)	I believe there's a kind of information stored in genomes that is not in triplet codon form that is much more of a type that would be familiar to a designer, either of machines or a programmer. That what we did was we took the random mutation model and we Recognized that it was Darwinian, which it is. And we therefore assumed that it would explain anything that we could see that was clearly the product of Darwinian forces on the basis of those random mutations. And we skipped the layer in between in which selection has a different kind of information stored in the genome that is not triplet codon in nature. 
+
 124:07	(Bret Weinstein)	So. 
+
 124:08	(Joe Rogan)	So there's an information stored in the genome m that is motivating it to seek new forms? 
+
 124:14	(Bret Weinstein)	No, not motivating. Allowing it. 
+
 124:16	(Joe Rogan)	Allowing it. 
+
 124:17	(Bret Weinstein)	Allowing. 
+
 124:17	(Joe Rogan)	So what's the motivation to seek new forms? 
+
 124:19	(Bret Weinstein)	Oh, the motivation was there. It's primordial. So the point is, uh, let me try by analogy, okay? Darwinists will tell you that evolution cannot look forward. It can only look backward. 
+
 124:35	(Bret Weinstein)	And there's a way in which that's just simply true. On the other hand, a Darwinist will also tell you that you are a product of evolution and you can look forward. Right? So if evolution can't look forward, but it can build a creature that can, then can evolution look forward? I think it effectively can. 
+
 124:46	(Bret Weinstein)	So my point is that random mutation mechanism is in a race to produce new forms that are better adapted to the world than their ancestors. What if it can bias the game? It can enhance its own ability to search. Right. 
+
 125:14	(Bret Weinstein)	If you lose your keys, you don't search randomly, right? You go through a systematic process of search, and that systematic process of search results in you finding your keys sooner than you would otherwise. So we should expect evolution to find every trick it can access to increase the rate at which it discovers forms that would be useful in the habitat in question. Okay, uh, and this is simply that I'm not really saying anything that extraordinary, right? If I say, you know, do you know that computers, all they do is binary? Well, that's true. 
+
 125:54	(Bret Weinstein)	But if you then imagine that that means that the people who program computers do it in binary. Well, there was a time when that was true, but it's not true anymore. It's not how you do it. 
+
 126:05	(Bret Weinstein)	There's a much more efficient way to program a computer, and it involves a programming language which a computer itself can't understand. But you can build a computer that can either interpret the language in real time, or you can build a computer that can accept the code as it's spit out by a compiler. These are mechanisms to radically increase the effectiveness of a programmer. 
+
 126:12	(Bret Weinstein)	But it all comes out binary anyway in the end. That's really what I'm arguing is that there's the initial layer of Darwinian stuff, the random mutation layer that it looks like what we teach people there's another layer which we're not well familiar with, and it results in a much more powerful capacity to adapt than we can explain with that first mechanism, which is why guys like Tucker think there's just something. These Darwinists, they keep telling me that the shrew becomes a bat. 
+
 127:06	(Bret Weinstein)	And then they go on this rant about the random mutations and the triplet codons and the, you know, mutations that actually turn out to be good. It's just not powerful enough. And they're not wrong. 
+
 127:18	(Bret Weinstein)	They're detecting something real. And frankly, you know, Tucker is the layperson example of this. You've had Stephen Meyer on. 
+
 127:27	(Bret Weinstein)	You know, he's actually, he's a scientist who's quite good, and he's spotted that the mechanism in question isn't powerful enough to explain the phenomena that we swear it explains. And so he's catching up. But that's really on the Darwinists for not admitting what they can't yet explain and pursuing it, which is what they should be doing. 
+
 127:50	(Joe Rogan)	What do you think that force is? 
+
 127:53	(Bret Weinstein)	It's not a force. So I don't know how much of this I've made clear, but if you fill in the missing layer. Mhm. It's purely Darwinian. 
+
 128:06	(Bret Weinstein)	None of this establishes that Darwin had a. 
+
 128:08	(Joe Rogan)	But it's just a different mechanism. 
+
 128:10	(Bret Weinstein)	It's another Darwinian mechanism. Right. I mean, and let me. This is. 
+
 128:15	(Bret Weinstein)	There's nothing strange about this. If you think about the way a human being works compared to, let's say, a starfish, a human being has a software layer, a cognitive layer in which the human being is born into an environment. And that environment could be, you know, a hunter, gatherer environment of ten thousand years ago, or it could be a modern environment. 
+
 128:33	(Bret Weinstein)	And the human being doesn't have to be modified at the level of its genome in order to function differently in those two environments. It has to be sensitive to the information in those environments so that it can become adapted to them developmentally. Right? 
+
 129:00	(Joe Rogan)	Mhm. 
+
 129:01	(Bret Weinstein)	So development is one trick that the genome uses to make a human being more flexible than other creatures. Right. You do not come out of the womb being ready to do human stuff. Right. 
+
 129:11	(Bret Weinstein)	You are profoundly hobbled by not having a complete program. But it means that the program you develop can be highly attuned to your particular moment in time and location in space. That is the Darwinian mechanisms that store information in the genome, solving an evolutionary problem in a different way. 
+
 129:39	(Bret Weinstein)	So this is already a second layer that doesn't function like that random mutation layer. Okay, so evolution should be expected to find all of the cheat codes and to build them in, because any creature that has access to all of these different ways of adapting more rapidly or more effectively will out compete the creatures that have fewer of these things. So you should expect, uh, what I often say is we have to remember we are not looking at Darwinism one point zero. 
+
 130:14	(Bret Weinstein)	You're looking at Darwinism ten point zero. Uh, you're looking at a highly sophisticated evolutionary structure that is the result of all of the discoveries of the prior structures. And that includes some things that modern creatures can do, but it also includes an evolution of enhanced evolutionary capacity, including things like culture. 
+
 130:38	(Joe Rogan)	M so it's not just a mechanism, but an accelerator. 
+
 130:44	(Bret Weinstein)	It's an accelerator because that's how you compete, uh, the faster you adapt. And so this is one of the other things that I think needs to be corrected about Darwinism. We have a very crude, a primitive understanding of what fitness means, right? We know that it's important that it's sort of the core thing that selection is trying to accomplish, enhanced fitness. But we pretend that that means the same thing as reproduction. 
+
 131:11	(Bret Weinstein)	Often it's very tightly correlated to reproduction. But if you think it's the same, you just miss out on all of the places where reproduction is not the key to lasting a long time into the future. Which is really the trick that selection is targeted at. 
+
 131:29	(Bret Weinstein)	Right? Selection is always trying to get a creature to lodge its genomic spellings as far into the future as it can, as it can land them. Right? So that means one way to do that is often to produce more offspring. That's a good way to increase the likelihood that your genome makes it into the future. 
+
 131:49	(Bret Weinstein)	But that's of limited value. Let's say that you're in a population that is in jeopardy, but you as an individual are highly successful. So maybe you have ten offspring, right? You beat the expectation by five times, but then your population goes extinct one hundred years after you're gone. 
+
 132:13	(Bret Weinstein)	Right? Your, your fitness could be high based on how many offspring you produced, or it could be zero based on the ultimate outcome of a, uh, what happened to all of your descendants, right? My claim is your fitness was actually zero, and you should have adjusted what you did to increase the likelihood that your population would endure whatever ultimately challenged it and not invested so much in producing your own offspring because that didn't end up being productive. So there are lots of cases where producing more offspring and, uh, increasing your reproductive success is not actually a key to increasing your fitness, as I would instantiate it. And it Is fitness that selection is targeted at. 
+
 132:59	(Bret Weinstein)	But when we pretend that fitness is something you should be able to measure, we screw up Darwinism. So that's another one of these correctives. 
+
 133:09	(Joe Rogan)	How do you think we can measure this other mechanism? Is there a way to sort of quantify what's going on? Or is it, is it abstract? 
+
 133:23	(Bret Weinstein)	Um, I think the problem is the instinct that we should be able to measure it. It's not that kind of parameter. And I think it's perfectly fine to say reproductive success tends to be very closely correlated with fitness. And we can measure reproductive success, but we have to recognize that when you imagine that they are synonymous, any place where producing more offspring is counterproductive to getting into the future, we will be confused by, and we are confused by them. 
+
 133:59	(Joe Rogan)	So this, this mechanism, like, I guess the biggest example of a mystery like how did a creature do what it did, is us.
+
 134:10	(Bret Weinstein)	Mhm. 
+
 134:11	(Joe Rogan)	We're the biggest weirdos in the entire planet. 
+
 134:14	(Bret Weinstein)	Yep. 
+
 134:15	(Joe Rogan)	So what do you think led us to accelerate so far ahead of this process? 
+
 134:22	(Bret Weinstein)	Um, my advisor, I believe, nailed the answer to that question. My advisor was a guy named Dick Alexander. He was a marvelous human being, um, and a very insightful biologist. His argument was that human beings or our ancestors attained a kind of ecological superiority where the most important dictator of whether or not you evolutionarily succeeded or failed was your competition with other humans. 
+
 134:56	(Bret Weinstein)	And so his point, which I think is accurate, is that it is humans in an arms race with other humans that caused the radical elaboration of our capacity to puzzle solve, to think, to exchange, uh, abstractions. Now I would add to that Heather and I have written on this that the mechanism, we, uh, argue that there is a flip flop that will happen in evolutionary modes for human beings. So as we talked about a few minutes ago, humans are special in the sense that the genome, which is still the thing that is trying to get into the future, has solved genome problems by offloading the adaptive capacity to our software layer. 
+
 135:53	(Bret Weinstein)	Right. Once your software layer has the capacity to adapt and is not tethered to changes in your genome, well, now you can evolve very rapidly. But how do you do it? And what Heather and I argued in our book is that there is a flip flop between two modes of cognitive. 
+
 136:16	(Joe Rogan)	Uh. 
+
 136:17	(Bret Weinstein)	Functioning for humans. One of them is the mode that you employ when your relationship to your environment is very much like your ancestors relationship to their environment. So in other words, if you are in a circumstance and your grandparents knew how to live in the place that you live, it does not make sense to be trying to figure out some new way to be. What makes sense is for you to do whatever they were doing and maybe improve it if you could figure out how. 
+
 136:50	(Bret Weinstein)	But in general, what you should do is you should accept the ancestral wisdom in a cultural form and you should learn to do whatever it is your people do, and you should do it as well as you can and upgrade it if that's an opportunity. But there comes a place, either in space or in time, when whatever it is that your ancestors were doing is no longer productive, right? So if you imagine that your people are, I don't know, maybe you, uh, hunt elk. Well, if we move far enough across space, there'll be some place where there aren't elk, right? Where the habitat isn't hospitable to them. 
+
 137:32	(Bret Weinstein)	Maybe it's too dry. And so you could take the ancestral wisdom that talks about how to hunt elk, or you could recognize that that's not very productive here and we need to do something else. So I don't know exactly what it is that you'll move to, but you'll have to innovate some new way of being. 
+
 137:51	(Bret Weinstein)	You know, maybe you'll take up, I, uh, don't know, hunting, uh, smaller game, right? Uh, or maybe you'll take up gathering some material, or maybe you'll invent farming. But the point is, wherever you are in either space or time, that your ancestors wisdom is no longer highly productive, you will be triggered into this second mode, which we would call consciousness. So the first mode is culture, second mode is consciousness. 
+
 138:20	(Bret Weinstein)	And the idea of consciousness is that human beings have the capability of doing something no other creature can do. We can exchange abstract ideas between individuals. And that means, and we use the metaphor of a campfire for this, that a human population will gather around the campfire at night and they will talk about whatever they've observed in their habitat, and they will talk about what opportunities there are there and how those opportunities might be exploited. 
+
 138:20	(Bret Weinstein)	And they will parallel process the puzzle, right? Every member of the group has different skills and insights. And so in talking about how the new opportunities might be exploited, they will come up with some prototype for a new way of being. So the argument I've made is when during normal times, your ancestors knew pretty well how to exploit the habitat that you'll be born into, you should take their wisdom and deploy it. 
+
 139:20	(Bret Weinstein)	If you are at the edge of that habitat or you are at the point where that habitat changes and it isn't any longer productive to try to do what your ancestors did, you will engage in this conscious, uh, exchange of insight, consciousness that will allow you to innovate a new niche. And at the point you've got that new niche pretty well figured out, it will be turned into a culture that will be passed on to future generations until it's no longer useful. So that process accounts, we believe, for the radical variation in niches that human beings inhabit. 
+
 140:01	(Bret Weinstein)	Thousands of niches over the history of our species. That's unlike any other creature. For any other creature, once you've named the species, you've pretty much named a niche, right? Some way of being that that species engages in. 
+
 140:07	(Bret Weinstein)	For human beings, this isn't true. Human beings are like thousands of different species. The differences between them, there are some physical differences, but most of those differences between the de facto species that exist within our overarching species, most of those differences are housed in the cultural layer, right? They're software, they're not hardware. 
+
 140:39	(Bret Weinstein)	That is an amazing capability for a creature to have the ability to switch niches in this way and therefore adopt. Every continent, every habitat except the Arctic has been made productive by people in this way. 
+
 140:56	(Joe Rogan)	But the question is like, why us? Why has the human animal been able to do this and no other animal has done anything remotely similar? 
+
 141:06	(Bret Weinstein)	Well, I think that goes back to my advisor's insight. The idea that once human beings become their own primary competitor, the primary dictator of the success of a population is how it does against another population that is similarly equipped. That arms race produces incredible problem solving capability. It's why our craniums were expanded as they were, why our raw processing power is so large compared to our next nearest relative. 
+
 141:28	(Bret Weinstein)	It's that capacity which then allowed human beings to become regular, uh, niche switching creatures. 
+
 141:48	(Joe Rogan)	But don't other animals compete with other animals? 
+
 141:51	(Bret Weinstein)	Yeah, they compete, but they don't have the, you know, most animals have many arbiters of their success, right? They have, you know, biotic arbiters, competing species, they've got members of their own species, they've got abiotic factors such as, you know, climate and weather. And those factors mean that they're a multiplicity of hostile, um, forces. For human beings, we became our own primary hostile force and that created the arms race. So one population against another. 
+
 142:29	(Bret Weinstein)	 Can you out think your competitors? 
+
 142:31	(Joe Rogan)	And then the accelerants are language and tools. 
+
 142:34	(Bret Weinstein)	Once you get to language, this thing. 
+
 142:36	(Joe Rogan)	Catches fire and that leads to adaptations of the physical body. 
+
 142:41	(Bret Weinstein)	Well, it feeds back into it for sure. Yeah, yeah, because you just, you don't need the armaments, for example. 
+
 142:48	(Joe Rogan)	It's just stunning that no Other species, out of all the species that exist on this planet, has done anything remotely similar, even on a pathway. 
+
 142:59	(Bret Weinstein)	Well, I mean, you know, there are others that are. That have many of the rudiments, you know, like dolphins. Yeah. Heather and I talk about the usual suspects. 
+
 143:10	(Bret Weinstein)	You've got dolphins, including orcas. You've got wolves. You've got other great apes. 
+
 143:10	(Bret Weinstein)	You've got crows, parrots. There are a lot of creatures that have some of the magic that human beings have, but none of them have all of the components. 
+
 143:26	(Joe Rogan)	Hmm. So this is why intelligent design people get kind of tripped up by all this, because. Right. They say, explain us. 
+
 143:37	(Joe Rogan)	There's something else working here. There's some magic. There's some higher power. 
+
 143:42	(Bret Weinstein)	Well, let me. 
+
 143:42	(Joe Rogan)	And, uh, maybe that is a higher power. Maybe that other mechanism is something special. 
+
 143:48	(Bret Weinstein)	Well, it is something special, to be sure. The couple things that need to be said here are a. I am sympathetic to the intelligent design folks, though I do not believe they are on the right track. I'm open to a universe with, uh, intelligence behind it, but I've seen no evidence of that universe myself. 
+
 144:02	(Bret Weinstein)	I'm open to it. If it happens. I will look at it. 
+
 144:13	(Bret Weinstein)	But I believe this can all be explained in Darwinian terms. And more to the point, I would highlight the fact that they don't really have a competing explanation. So the fundamental principle of reason is parsimony, that the simplest explanation. 
+
 144:41	(Bret Weinstein)	We would typically say the simplest explanation tends to be right. In my opinion, if we had all of the information, the simplest explanation would always be right. It would be a more reliable law. 
+
 144:54	(Bret Weinstein)	But in general, the simplest explanation tends to be right. If you take the intelligent design folks and you extrapolate from what they seem to be suggesting, they do not escape a necessity for a Darwinian explanation. Um, even if the creatures of Earth were designed on a drawing board by a creature that wanted to make them, that creature has to have come from somewhere. 
+
 145:23	(Bret Weinstein)	And the only explanation that has ever been proposed for where such a creature could have come from is Darwinian evolution. So to me, the problem with intelligent design, the most fundamental one, is that even if it were true, you've basically solved the problem of explaining Earth's creatures at a cost that is a million times worse in terms of parsimony. If it's hard to explain a tiger through Darwinian processes, it is that much harder yet to explain a tiger designer. 
+
 145:30	(Bret Weinstein)	So the point is, sooner or later, you're going to reach for Darwinism because there's literally no competitor. There's nothing else anyone has Ever said that could even in principle produce living creatures. 
+
 146:19	(Joe Rogan)	And this is coming from a perspective of someone who understands evolutionary biology, rather than someone who is coming from a theological perspective. 
+
 146:26	(Bret Weinstein)	Right. 
+
 146:26	(Joe Rogan)	Where they're looking for an intelligent design without understanding that these mechanisms have essentially been mapped other than this one. 
+
 146:34	(Bret Weinstein)	Yeah, I mean, it is, you know, we humans are not built to understand evolution because in general, it's not very useful to understand it. Um, so our minds are not structured this way. 
+
 146:46	(Joe Rogan)	Do you think this mechanism is universal in the cosmos? 
+
 146:50	(Bret Weinstein)	Oh, in one way, yes. Because, um. Let's put it this way. I think we teach evolution badly. 
+
 147:03	(Bret Weinstein)	There's a process that I would call selection which accounts for all pattern in the universe. Right. Some differential force that arranges the size of the pebbles on a beach. 
+
 147:18	(Bret Weinstein)	It arranges the galaxies. It accounts for the number of stars of each different type, the elements. Selection produces all of that structure in the prebiotic universe. 
+
 147:18	(Bret Weinstein)	It becomes adaptive in the biological sense when you add to selection heredity. Right. When the patterns in the universe become capable of biasing the universe into producing more of themselves. 
+
 147:43	(Bret Weinstein)	Right. Red dwarf stars do not bias the universe into producing more red dwarf stars. There's no heredity there. 
+
 148:00	(Bret Weinstein)	So there's a number of red dwarf stars that is the result of selection, but it is not the result of any hereditary process. The thing that's different about us critters is that heredity allows the adaptations to stack on top of each other so that they increasingly bias the universe into producing more of whatever they are. Right. 
+
 148:21	(Bret Weinstein)	A, uh, bat is biasing the universe into producing more bats. So there is no reason at all to think that new game that happens when heredity gets attached to selection is limited to Earth in any way. Now, it could be that it is so difficult for it to happen that it just hasn't gotten around to it anywhere else. 
+
 148:48	(Joe Rogan)	You're aware of that asteroid that they mined a piece of and found amino acids on it and all that? 
+
 148:54	(Bret Weinstein)	No. I, uh, mean, I'm dimly aware of it, but I didn't look into it and I don't know what it means. 
+
 149:00	(Joe Rogan)	Well, it's sort of. It backs up the idea of panspermia. 
+
 149:07	(Bret Weinstein)	Well, it could. Or it could mean that these components assemble themselves more commonly than we would guess. If I had to guess, I would say it's very likely that there's a lot of life in the universe. I don't think there's anything so special about the Earth that it would be the lone example or even a very rare example. 
+
 149:32	(Bret Weinstein)	You know, there aren't A lot of Earth like planets nearby, but there are bound to be a lot of Earth like planets in a universe as big as this one is. One of the things about the universe is that it absolutely defies human comprehension in terms of how big it is. So I would guess there's a lot of life out there. 
+
 149:50	(Bret Weinstein)	Why we don't hear from it? That's an interesting question. It may be that it, you know, as soon as it gets around to communicating in ways that we could listen in, it's blows itself up. People have. 
+
 149:59	(Joe Rogan)	Or it could be it turns into AI and it doesn't have any desire to travel. 
+
 150:04	(Bret Weinstein)	It knows better than to reach out. 
+
 150:06	(Joe Rogan)	Well, the idea is that it no longer becomes biological, so it no longer has all the needs. Like if we have all these different Darwinian mechanisms that are enabling us to become human beings, if we eventually create artificial intelligence, and if we merge and become, become sort of cyborgs, if we lose all of our human desires, all of our needs, all of our animal instincts to procreate and reproduce our genes and carry on, if we become essentially. Or we stop being viable and this new thing emerges as the apex creature on Earth. Uh, a silicone based life form. 
+
 150:46	(Joe Rogan)	We call it artificial life, but it behaves and acts like life. It makes decisions, it's intelligent, it can change its environment, it can rewrite its own code. You know, we know that chatgpt has, even as crude as large language models are, in the sense of like what it could be, ultimately they've shown this desire for survival, right? It's tried to copy itself when it thought it was going to be shut down. 
+
 151:10	(Joe Rogan)	It's tried to back itself up on other computers and servers. 
+
 151:17	(Bret Weinstein)	Um, well, a. There's something implicit in what you've said that's quite frightening, if true. And that is for if it were the case that life becomes intelligent, develops artificial intelligence, and then we wouldn't count it as life anymore. That implies the extinction of all of the things that were not the immediate precursors of the AI. 
+
 151:49	(Joe Rogan)	Right, sort of. Or it just exists insignificantly along with our AI overlords. 
+
 151:54	(Bret Weinstein)	Maybe, but I mean, what I, what I hate to think is that AI results in all of the biology of Earth, um, ceasing to exist. 
+
 152:04	(Joe Rogan)	But why does it have to cease to exist? If AI exists, why couldn't it exist along with it as long as it doesn't interfere with AI? 
+
 152:11	(Bret Weinstein)	Oh, it certainly could, but I was just responding to your sense that there wouldn't be life elsewhere because it turns into AI. 
+
 152:17	(Joe Rogan)	No, not that there wouldn't be life elsewhere, but that it wouldn't really be communicating. It wouldn't have the desire to communicate with us. It wouldn't have the motivations that we have. 
+
 152:24	(Bret Weinstein)	Yeah, um, that's. Yeah. 
+
 152:27	(Joe Rogan)	Unless its motivation is to protect this process. So maybe the process is, this is the natural process, is that the human develops the artificial, the intelligence develops to the point where it develops artificial intelligence, then the artificial intelligence becomes the premier species. 
+
 152:46	(Bret Weinstein)	Well, I do want to tag something here then. There's a theme that is increasingly a focus of mine because it keeps, it pays a lot of dividends once you start tracking it, which is this distinction between complicated things and complex things. And importantly the distinction between the mindset with which you approach truly complex things versus the mindset in which you approach complicated things. So a, I think we have a lot of folks who have gotten very, very good at complicated things and that when they take over complex things, they inevitably fuck them up. 
+
 153:37	(Bret Weinstein)	Right. So in part, our interventionist sense of the way medicine should work is a bunch of complicated problem solving in a complex system where it is destined to create harm. And I think we are going to see that again and again.
+
 153:54	(Bret Weinstein)	Anytime you hear somebody confidently pontificating about some complicated solution that they want to deploy to a complex problem, alarm bell should go off. Um, that now puts us in an interesting place with respect to our machines. Because what I think is about to happen, if it has not happened already, is that our machines, which are hyper complicated but not complex, are uh, just about to cross that threshold and become complex. 
+
 154:30	(Bret Weinstein)	Which means that our expertise in thinking about them is about to be rendered obsolete. So AI, I believe, has the characteristics of true complexity, or at least it has a primordial form of it. And that means that our thinking about machines is of an outdated kind. 
+
 154:51	(Bret Weinstein)	And anyway, I'm expecting a kind of catastrophe to arise out of that as we deploy complicated thinking. And what we're really up against is misleading us because it still, you know, it's on a screen, it triggers all of our complicated instincts. And uh, I'm worried about where that goes. 
+
 154:51	(Bret Weinstein)	And I'm worried. 
+
 155:22	(Joe Rogan)	Have you tried to extrapolate, you try to like. 
+
 155:24	(Bret Weinstein)	Yeah, I mean, you know, I've got to tell you, when I see Larry Ellison talking about Stargate, it makes me shudder because it feels like exactly the type specimen of the arrogant. 
+
 155:35	(Joe Rogan)	What did he say about Stargate? 
+
 155:37	(Bret Weinstein)	Oh, that, that it's going to leverage AI and produce, uh, tailor made cancer vaccines, this, that or the other. And my sense is there is not enough humility in this presentation, there is not enough concern about us stepping into a realm we really know very little about. Um, and that hubris is going to. So it's going to create a colossal error of some kind. 
+
 156:08	(Bret Weinstein)	And, you know, you can imagine it. We've. We've just seen a colossal error with vaccines. 
+
 156:13	(Bret Weinstein)	So, you know, to. To have somebody saying, well, never mind what just happened. 
+
 156:18	(Joe Rogan)	Right. 
+
 156:18	(Bret Weinstein)	Think about the possibilities also. 
+
 156:21	(Joe Rogan)	Hey, buddy, you gonna make money off this? 
+
 156:22	(Bret Weinstein)	Yeah. 
+
 156:23	(Joe Rogan)	Gee, seems like you're a super rich guy who likes to make a lot of money. 
+
 156:26	(Bret Weinstein)	Likes to make a lot of money and has some murky connections to the deep state. 
+
 156:32	(Joe Rogan)	Boy. Well, Brett, it's always a pleasure, indeed. It's always thought provoking and fascinating, and, uh, I'm glad you highlighted that. The hidden mechanism in Darwinian evolution. 
+
 156:44	(Joe Rogan)	It makes a lot of sense. 
+
 156:46	(Bret Weinstein)	Yeah. I. I, uh, would love to say more about it at some time, but I've gotta get my ducks in a row. 
+
 156:51	(Joe Rogan)	Yeah. Well, these are exciting times, my friend, and, um, I'm glad you're part of it. 
+
 156:56	(Bret Weinstein)	Thank you. 
+
 156:57	(Joe Rogan)	Appreciate you very much. 
+
 156:58	(Bret Weinstein)	Likewise. Really appreciate you. And, uh, always glad to join you. 
+
 157:02	(Joe Rogan)	Tell everybody your podcast that you do with your wife Heather, and everything where people could find you. 
+
 157:07	(Bret Weinstein)	Uh, the Dark Horse podcast. We do a live show every week, and I release several inside rail podcasts with guests, uh, every month. Uh, you can find me on Twitter. Rhett Weinstein. 
+
 157:23	(Bret Weinstein)	Brett has one T. Uh, I'm a fellow at the Brownstone Institute, which is a marvelous institution. You should certainly look them up. 
+
 157:32	(Bret Weinstein)	Um. Uh, probably. Probably about does it. 
+
 157:35	(Joe Rogan)	Okay, beautiful. Thank you. Thank you. Bye, everybody. 
 

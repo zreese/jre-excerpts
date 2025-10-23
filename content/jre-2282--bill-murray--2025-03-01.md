@@ -1,1479 +1,2938 @@
 ---
 created: 2025-03-14T12:24
-updated: 2025-09-17T12:31
+updated: 2025-10-22T15:31
 tags:
   - source--podcast
   - transcription
 source_url:
 youtube_url: https://www.youtube.com/watch?v=f_fM6v64-NQ
 media_series_title: The Joe Rogan Experience
-media_episode_number:
+media_episode_number: 2282
 people:
+  - Bill Murray
 media_title: "Joe Rogan Experience #2282 - Bill Murray"
 publisher_notes: Bill Murray is an actor and comedian. He is currently starring in "Riff Raff." Look for him in "The Friend" in theaters on April 4.
 published_date: 2025-03-01
-reach_estimate:
+reach_estimate: 24000000
 gist: ""
 ---
-# 0000-00-00 The Joe Rogan Experience - Bill Murray
-## Full Transcript
+# 2025-03-01 Joe Rogan Experience 2282 - Bill Murray
+
 00:12 	(Joe Rogan)	Thank you for doing this. This is a huge honor for me. I'm a giant fan forever, like, since I was a kid, so. 
+
 00:21 	(Bill Murray)	Well, are we going? 
+
 00:22 	(Joe Rogan)	Yeah, we're live. So for me meeting, there's certain people I meet where it's like, whoa, okay. And you're those. You're one of those. 
+
 00:28 	(Bill Murray)	Well, I have a very different experience. I only know about you. What I've heard, I've never heard. Uh, your show, I had to ask you, are you Joe? 
+
 00:37 	(Joe Rogan)	Perfect. 
+
 00:39 	(Bill Murray)	Somehow I knew you were, like, into fitness. And everyone out there seems to be a weightlifter in your outer. Even Danielle seems like she did lower body today. But, uh, it's, uh. 
+
 00:50 	(Bill Murray)	So it's nice to meet you. And people are. Are alternate. 
+
 00:54 	(Bill Murray)	Ah. Or, you know, some people are very, very excited that I've gotten. Come down here to be on your show, so. 
+
 01:00 	(Joe Rogan)	Well, you're an interesting guy. 
+
 01:01 	(Bill Murray)	Other people are concerned for me. 
+
 01:03 	(Joe Rogan)	Oh, really? 
+
 01:03 	(Bill Murray)	Are they? 
+
 01:04 	(Joe Rogan)	Legitimately? 
+
 01:05 	(Bill Murray)	I don't know. I don't know if it's the. I don't know why it's the weightlifter thing, because I have no. I have no predisposed. 
+
 01:05 	(Bill Murray)	I have no premonitions. But. But when I walk in here and I see, um. 
+
 01:05 	(Bill Murray)	I gotta look at that. What does that green mean? 
+
 01:19 	(Joe Rogan)	Oh, that's the local racetrack. That's the circuit of the Americas where Formula one races. 
+
 01:24 	(Bill Murray)	Okay. 
+
 01:24 	(Joe Rogan)	Uh, that's my friend's place. So he gave me that. 
+
 01:27 	(Bill Murray)	Okay. Um, Yeah, I walked in, I saw these Hunter Thompson things. I felt automatically like, okay, well, this guy can't be a complete disaster. And then I walk down the hall and there's Hunter wearing a hat that I gave him. 
+
 01:41 	(Joe Rogan)	Oh, that hat with. With the gun? 
+
 01:43 	(Bill Murray)	Yeah, the one where he's in a cockpit, it looks like. Yeah, that's a dog hair hat. That's dog hair. 
+
 01:49 	(Joe Rogan)	It's made out of dog hair. 
+
 01:50 	(Bill Murray)	Yeah. He got such a kick out of it because when it rains on you or snows on you like it would in Woody Creek, you come in the house and you smell like a wet dog. And he loved, like, doing that to people. The people go, what in the, uh, hell? Oh, my dog. 
+
 02:08 	(Bill Murray)	You know, that's the dog right there. 
+
 02:10 	(Joe Rogan)	Yeah. 
+
 02:11 	(Bill Murray)	Oh, so this is. Are you filming this too? 
+
 02:13 	(Joe Rogan)	This is. 
+
 02:14 	(Bill Murray)	Whatever you do. Yeah, yeah. So, uh, yeah, there he is. There's that dog. 
+
 02:19 	(Bill Murray)	It's got the head, like, big, like, tie things. You could Tie it under your chin. 
+
 02:23 	(Joe Rogan)	What year was this? 
+
 02:26 	(Bill Murray)	This is. 
+
 02:29 	(Bill Murray)	Wow, look at that one. 
+
 02:31 	(Joe Rogan)	Lawyers, guns and money. 
+
 02:34 	(Bill Murray)	Jesus. 
+
 02:35 	(Bill Murray)	Those are. Those are later ones. Yeah. He didn't have scopes for a long time. 
+
 02:39 	(Joe Rogan)	That was, uh, uh, the old. He had hearing protection then, too. He was learning. Eighty six. 
+
 02:45 	(Bill Murray)	Well, no, no, we're all really something about maybe what. That one there is eighty six. With the dog. Yeah, yeah, that's probably, uh. 
+
 02:52 	(Bill Murray)	Yeah, it was earlier. Blind. Blind Bat. 
+
 02:58 	(Bill Murray)	Where's that? That's funny. It's a rep. It's a historic piece, I guess. 
+
 03:03 	(Joe Rogan)	When did you meet him? 
+
 03:05 	(Bill Murray)	I met him. Uh. Let me drink your magic coffee here. Whose coffee is this? Magic coffee? 
+
 03:10 	(Joe Rogan)	Laird Hamilton, Superfoods. 
+
 03:12 	(Bill Murray)	I met him. It was one of those years. Maybe it was after my first real year on Saturday Night Live. Maybe it was nineteen seventy. 
+
 03:21 	(Bill Murray)	Seven. 
+
 03:21 	(Bill Murray)	Uh, like the spring, summer of seventy seven. Uh, I was asked by Lorne Michaels, the producer of Saturday Night Live, if I would. I had to go to, um. Our season was head ended. 
+
 03:35 	(Bill Murray)	I'd gone to California. And, uh, he asked if I would drive his Volkswagen convertible Bug back cross country for him. I'm like, yeah, sure. 
+
 03:45 	(Bill Murray)	Well, you know, a week or two later, it's like, where's my car? I'm like, you didn't give me a. 
+
 03:50 	(Bill Murray)	Time limit, you know. 
+
 03:51 	(Bill Murray)	So I visited people on the way, so I made some stops. I never. I visited my friend, uh, John Thompson in Reno, biggest little city in the world. And we were, you know, threw our cups out the roof and stuff like that. 
+
 04:03 	(Bill Murray)	Had had a really nice time there. And then I wanted to go to Aspen. I'd never been to Aspen before. 
+
 04:05 	(Bill Murray)	And so I went to Aspen and stayed at the Jerome Hotel. I can talk like this because this show is, like endless, right? 
+
 04:16 	(Bill Murray)	Yeah, yeah, yeah, yeah. 
+
 04:16 	(Joe Rogan)	Ah, yeah, yeah. 
+
 04:17 	(Bill Murray)	So, um, went to the Jerome Hotel, which was like the place to go back then. And it was off season, which is the best time of year to go to any resort town is like, when all the tourists are gone and the citizens regain control of their town for a while. 
+
 04:33 	(Joe Rogan)	Yeah. 
+
 04:34 	(Bill Murray)	So the Drum Hotel, which would have been full of, like, knucklehead skiers from anywhere, was only full of, like, the people that worked the town and lived in the town and they took over the bar and they took over the swimming pool, which was outside. So that's. I was there and it was just. I remember being there and they were like beautiful girls and this really funny guy, and I didn't know who he was. 
+
 04:56 	(Bill Murray)	And we just had the most fun, you know. Making girls laugh. That's kind of what, uh, may or may not have been the reason I was brought here. 
+
 05:05 	(Bill Murray)	But, uh, you know, that's. So we just had the most fun doing it. And then we had this sort of episode where, you know, we. 
+
 05:11 	(Bill Murray)	We did an escape act, and it was. It had, you know, consequences. You may. 
+
 05:18 	(Bill Murray)	Um. I started talking about an escape act, underwater escape act. And I felt like I could do it. 
+
 05:23 	(Bill Murray)	 You really think you could escape underwater? 
+
 05:26 	(Joe Rogan)	Oh, no. 
+
 05:26 	(Bill Murray)	And I said, yeah, I think I could do it. I think I could do it because you just. So we agreed to, uh. I agreed to be a subject, and, uh, you have to know, I did not know who this guy was. 
+
 05:26 	(Bill Murray)	I just thought he was, like, a funny guy. Um, and we were, like, showing off for girls and stuff and being stupid, and it was fun. We were just having fun. 
+
 05:29 	(Bill Murray)	So I was tied with socks to a lawn chair and lowered into the pool. But just before I went, I said, hey, just in case I want to take a breath while I'm untying my sock, knots move me over here to where it's like, six feet, you know, so if I have to stand up, uh, you know, I can take a breath and go back down and continue my untying, you know. So I went in and, you know, I was untying, and I could tie some knots, you know, even with socks. 
+
 05:29 	(Bill Murray)	So after a little bit, I thought earlier, you know, maybe I'll just take a quick breath and go back down. Well, I stood up. Well, try it. 
+
 05:43 	(Bill Murray)	Um, Joe, um, lash yourself to a chair and try to stand up.
+
 06:32 	(Joe Rogan)	Yeah, it's hard. 
+
 06:33 	(Bill Murray)	Well, I'm. I'm a little over six feet, but if you're tied to a chair, you don't get to fully extend your calves any more than that. So tied to a chair, I'm only, like, five. 
+
 06:46 	(Joe Rogan)	You couldn't get out five, eight, or something like that. 
+
 06:49 	(Bill Murray)	And I just. It was funny to see, like, that camera shot of, like, there are people up there, and I can't reach them or speak to them because I'm still underwater. So that's when I started to work more feverishly on the note. Feverishly on the. 
+
 07:02 	(Bill Murray)	On, uh, the knots. And I kind of was going, hey, hey. You know, this is. 
+
 07:07 	(Bill Murray)	Yeah, you know, I'm kind of leaning with my head, like, push me down to five feet instead of six feet, you know, so. But he was strong enough, and because I was buoyant in the water, he just picked up the chair out of the water. So I lived through it, but it was. 
+
 07:21 	(Bill Murray)	It was a funny way to meet someone. And the next day I found out, uh, that this was Hunter S. Thompson. 
+
 07:28 	(Joe Rogan)	He never asked him his name. 
+
 07:30 	(Bill Murray)	No, he never asked me my name. I don't know that he knew who I was either. You know, I think he thought I was just a funny guy and we were kind of like holding court and being funny. 
+
 07:41 	(Joe Rogan)	Everything starts with good health. That's why AG one is a great addition to any morning routine and why I've partnered with them for so long. One scoop once a day. Simple, research backed and designed to support your whole body health. 
+
 07:55 	(Joe Rogan)	And it actually tastes great. You can forget juggling multiple pills and supplements. AG one is a more in one solution that combines a multivitamin superior B complex, a blend of superfoods, and more and more importantly, AG one. 
+
 08:10 	(Joe Rogan)	Prioritize using nutrients that are already in their bioactive form so your body can use them easily. Just mix it with cold water and you're set. No hassle, no guesswork. 
+
 08:20 	(Joe Rogan)	It's never too late to create a new healthy habit for twenty twenty five. So try AG one for yourself. And right now, AG one is offering new customers a free dollar seventy six gift. 
+
 08:31 	(Joe Rogan)	When you subscribe, you'll get a welcome kit, a bottle of D three K two, and five free travel packs in your first box. So make sure you check out Drink ag one dot com Jo Rogan. Drink ag one dot com Joe Rogan. 
+
 08:46 	(Joe Rogan)	Check it out. Well, that must be fun for you though. Like, it's, uh. 
+
 08:50 	(Joe Rogan)	I enjoy when people don't know who I am. Like, it's very rare for you. 
+
 08:54 	(Bill Murray)	It's preferable. 
+
 08:55 	(Joe Rogan)	Yeah, it's not. But you, you have figured out this way of navigating life where, like, you're not a cell phone guy. You probably don't even have email, do you? 
+
 09:04 	(Bill Murray)	No, I have them. I have these things now. But if you have children, you have to have a, uh, you have to get a cell phone. 
+
 09:10 	(Joe Rogan)	Right. 
+
 09:10 	(Bill Murray)	Because they will not answer a telephone, but they will answer a text. So that's. I had a breakdown. 
+
 09:16 	(Joe Rogan)	Yeah. But you've managed to stay blissfully detached in some sort of a way. 
+
 09:22 	(Bill Murray)	Yeah. My email is aol dot com. 
+
 09:24 	(Joe Rogan)	Is it really? 
+
 09:25 	(Bill Murray)	Yeah. So that's, that's, that was my concession to it. 
+
 09:30 	(Joe Rogan)	But one of my favorite things you did with Hunter was when, um, it was a feeling of some sort of a documentary or something. Or is in a documentary, the footage is. And you're going around trying to convince people that Nixon got a bad rap. 
+
 09:41 	(Bill Murray)	Yeah. Yeah, that was good. We were trying To. We were trying to write something funny. 
+
 09:45 	(Bill Murray)	I was with my friend Dick Blasucci on that one, and I can't remember, there were, like, two or three of us that were trying to write this thing, and we rented a. Like a klieg light, uh, you know, like a big Hollywood premiere. Kind of one of those giant lights that they flash up in the sky. 
+
 10:01 	(Bill Murray)	You don't even see them very much anymore, but. And we were just outside the Chateau Marmont where Hunter had a room at that moment, and we were doing, um. We were excited because Nixon's back, you know, and we were interviewing alleged people on the street, men on the street, saying, what do you think about this? Because it was after Watergate and Nixon had basically burrowed down, and Hunter, uh, had, like, a powerful hatred of Nixon. 
+
 10:29 	(Bill Murray)	Really didn't like Nixon, of course, but I just remember Dick Blissucci saying, uh, I'm excited. 
+
 10:36 	(Bill Murray)	Uh, he's tanned, he's rested, and he's ready. 
+
 10:40 	(Bill Murray)	I still say it all the time. I just. I say it about myself all the time because I think it's funny. How are you, Bill? 
+
 10:46 	(Bill Murray)	I'm tanned, I'm rested, and I'm ready. 
+
 10:47 	(Bill Murray)	But saying it about Richard Nixon, I thought was a really brilliant thing to say. 
+
 10:51 	(Joe Rogan)	Well, anyway, it became a common phrase. Yeah, People use it all the time to this day. Probably not even knowing the origin. 
+
 10:56 	(Bill Murray)	That's right. And it's Dick Blasucci who did it. And, uh, we weren't there for, like, forty five minutes before. 
+
 11:04 	(Bill Murray)	Like, I work in the industry, and I know you have to have a. 
+
 11:08 	(Bill Murray)	Permit to have that light on. I mean, there were people. They came at us, we were going. Concern for about one hour, tops. 
+
 11:15 	(Bill Murray)	And that was with, like, professional, argumentative people like Hunter, myself, going, that is. 
+
 11:21 	(Bill Murray)	A fabulous, uh, watch you're wearing. Where'd you get that? 
+
 11:24 	(Bill Murray)	You know, just anything to keep this thing going and to keep the cameras m. Rolling on our soup and stuff. But. 
+
 11:32 	(Bill Murray)	And demands. 
+
 11:33 	(Bill Murray)	But, uh, yeah, that's. That was one of the things. I had a lot of fun with the guy. Really. 
+
 11:37 	(Bill Murray)	He really was a lot of fun. He really could make a lot of fun. 
+
 11:42 	(Joe Rogan)	I really wish I met him. He's one of those people that just really wish I met him. 
+
 11:46 	(Bill Murray)	Well, you can still read it. 
+
 11:48 	(Joe Rogan)	Oh, yeah. 
+
 11:48 	(Bill Murray)	There's still so much more stuff that I didn't. Hadn't even read then. It just keeps appearing. There are things that are so beautiful that he wrote that are good. 
+
 11:58 	(Bill Murray)	And, uh, you know, people text me things and say about what's going on. How Sort of prescient. He was about things a long time ago. 
+
 12:08 	(Bill Murray)	Yeah. 
+
 12:08 	(Joe Rogan)	Dead on about so many things. I mean, you could take a lot of his commentary on politics from nineteen seventy six and apply it easily to today. You know, Fear and Loathing on the Campaign Trail is one of the best books ever on the American political system. Just like what it's like when people running for office. 
+
 12:24 	(Bill Murray)	Yeah, it's a, uh. To me, it's a better book than Fear and Loathing in Las Vegas, which is really fun. But, yeah, the campaign trail book is so insightful about America and about Americans. It's great reading. 
+
 12:37 	(Joe Rogan)	The movie was fun. Fear and Loathing was fun. It was just, uh. It was a great introduction to a lot of people maybe, that weren't aware of Hunter. 
+
 12:44 	(Joe Rogan)	Like, maybe then you'll start reading his stuff. But it wasn't all, you know, chaos and acid and seeing lizard people in the. In the bar. 
+
 12:54 	(Joe Rogan)	There was like, even. There's moments in Fear and Loathing the movie where, you know, he. There's this one thing where Johnny Depp is, uh, at the typewriter. 
+
 13:02 	(Joe Rogan)	Or is that in the movie or is that in, um, the documentary? Whereas at the typewriter, he's talking about how the nineteen sixties, there was this great wave of change, and then. 
+
 13:15 	(Bill Murray)	Yeah, the high water mark, you see it on the mountains. It's a beautiful, beautiful piece of ride. 
+
 13:19 	(Joe Rogan)	Oh, my God. Yeah, it's amazing. 
+
 13:21 	(Bill Murray)	It's. 
+
 13:21 	(Joe Rogan)	And when Johnny Depp is saying the way he's saying it. 
+
 13:24 	(Bill Murray)	Yeah. 
+
 13:24 	(Joe Rogan)	Uh, it's like. It's so beautiful and melodic. 
+
 13:28 	(Bill Murray)	Why don't you. Jimmy, why don't you see if you can find it? It's about the most famous. It's the most famous line. It's beautiful. 
+
 13:34 	(Joe Rogan)	Grab the headphones. Let's take this in. 
+
 13:38 	(Speaker D)	Strange memories on this nervous night in Las Vegas. Has it been five years? Six? It seems like a lifetime, the kind of peak that never comes again. San Francisco in the middle sixties was a very special time and place to be a part of. 
+
 14:00 	(Joe Rogan)	Uh, uh. 
+
 14:01 	(Speaker D)	But no explanation, no mix of words or music or memories can touch that sense of knowing that you were there and alive in that corner of time in the world, whatever it meant. Uh, there was madness in any direction at any hour. You could strike sparks anywhere. There was a fantastic universal sense that whatever we were doing was right, that we were winning. 
+
 14:38 	(Speaker D)	And that, I think, was the handle. That sense of inevitable victory over the forces of old and evil. Not in any mean or military sense. 
+
 14:48 	(Speaker D)	We didn't need that. Our energy would simply prevail we had all the momentum, we were riding the crest of a high and beautiful wave. So now, less than five years later, you can go up on a steep hill in Las Vegas and look west. 
+
 15:10 	(Speaker D)	And with the right kind of eyes, you can almost see the high water mark. That place where the wave finally broke and rolled back. 
+
 15:27 	(Joe Rogan)	God damn, that's good. 
+
 15:29 	(Bill Murray)	Yeah. 
+
 15:30 	(Joe Rogan)	I mean, that is just an amazing piece of writing that so perfectly captured that very strange moment in time where the anti war, the. The peace love movement just got drowned out by the Nixon administration. 
+
 15:46 	(Bill Murray)	It's a beautiful piece. Um, it glistens your eyes to see it, you know, not just the thinking of Hunter and the words that he said, but seeing Johnny and. And how close Johnny and Hunter became, how much they loved each other and how much they. They shared with each other. 
+
 15:46 	(Bill Murray)	It's really a beautiful piece. Thank you. 
+
 16:07 	(Joe Rogan)	Yeah, it is a beautiful piece. And it's, um. It's just so fucking perfect. It just perfectly. 
+
 16:15 	(Bill Murray)	Yeah, he got us. He really got it. 
+
 16:16 	(Joe Rogan)	Yeah. It just encapsulates that, that time, you know, and it's just. Thank God there was a guy like him around to document it from that perspective, to like, to give you this, like, insight and that, the way he did it with gonzo journalism, where he just would have real facts mixed in with fiction. You couldn't tell what was what, and you had to be in on it to understand what he was doing. 
+
 16:40 	(Bill Murray)	Yeah. You had to enter the event. 
+
 16:42 	(Joe Rogan)	Yeah. 
+
 16:43 	(Bill Murray)	To comment on it, you had to be a part of it. 
+
 16:45 	(Joe Rogan)	Yeah, yeah. Uh, you played him. 
+
 16:49 	(Bill Murray)	I did play him. 
+
 16:49 	(Joe Rogan)	Yeah. We were talking about it before. I loved it. We're in the Buffalo Room. 
+
 16:53 	(Bill Murray)	Yeah, we're in the Buffalo Room. 
+
 16:54 	(Joe Rogan)	Was that weird to play your friend? 
+
 16:57 	(Bill Murray)	It's a lot of responsibility. 
+
 16:59 	(Joe Rogan)	Yeah. 
+
 17:00 	(Bill Murray)	I mean, it was, um. Any actor that has to play either a living person, especially a living person, or a famous person has a real responsibility to, uh, to that person. You know, you can't just be that person for ninety minutes. You have to realize that person was that person for sixty some odd years or seventy, however many years a person was. 
+
 17:26 	(Bill Murray)	You've got to try to get all that into your hour and a half or two hours. You've got to try to take in as much as you can. So you're not lying, you know, at least you're giving the best you can to say, this is who I think he was. 
+
 17:38 	(Bill Murray)	This is who I think that person was. She was. He was. 
+
 17:41 	(Joe Rogan)	Did you run any of it by him? Did you try to talk to him as Him? 
+
 17:50 	(Bill Murray)	Well, he was living in the guest house. 
+
 17:55 	(Joe Rogan)	So you were around him all the time. 
+
 17:56 	(Bill Murray)	Yeah. So I would go to work, and I, um, would come home, and then we would stay up and, uh, sort of just an hour or so before. Maybe an hour and a half before. Two hours before dawn. 
+
 18:15 	(Bill Murray)	He'd have a, uh, nyquil in scotch in a hot tub and then go to sleep. And then I had to get about ninety minutes. And then the teamster was knocking on the window, saying, bill Belay. 
+
 18:23 	(Bill Murray)	And then I'd have to go to work. That's what it was like while we were shooting the movie. 
+
 18:36 	(Joe Rogan)	Wow. 
+
 18:37 	(Bill Murray)	Uh. And he appears in the movie briefly. He appears in the movie briefly. I can't remember all of it, but he appears in the movie briefly. 
+
 18:38 	(Bill Murray)	And we did together. We wrote a scene. I was always constantly changing. 
+
 18:50 	(Bill Murray)	Uh, John K. Wrote the script, but I was always playing with it because I was always being informed more. And that's what I did anyway. 
+
 18:52 	(Bill Murray)	I just pretty much, you know, I felt the freedom to change anything. But we did write a scene. Hunter and I wrote a scene late. 
+
 19:09 	(Bill Murray)	That was late in the movie. Pardon me. They gave me these beautiful, massive, um, things. 
+
 19:16 	(Joe Rogan)	Cough drops. 
+
 19:17 	(Bill Murray)	Yeah. Want one? 
+
 19:18 	(Joe Rogan)	No, thank you. 
+
 19:22 	(Bill Murray)	Um. Yeah, so he was in on a lot of it. And. And the. 
+
 19:26 	(Bill Murray)	And the. And the. And the editing of it. 
+
 19:29 	(Bill Murray)	You know, we can secretly say that, too. And the, um. You know, it was a lot of, um. 
+
 19:38 	(Bill Murray)	There was a lot. He was really involved. 
+
 19:41 	(Joe Rogan)	Very nice. 
+
 19:42 	(Bill Murray)	So good shot. 
+
 19:45 	(Joe Rogan)	Um, so you're saying he wrote a scene. You guys wrote a scene together? 
+
 19:48 	(Bill Murray)	Yeah, we wrote a scene together, yeah. Which was, um, encountering Nixon in a urinal. Because he did have a moment with Nixon where. In the limo, remember? 
+
 19:58 	(Joe Rogan)	Yeah, yeah. 
+
 19:59 	(Bill Murray)	And he was told he could not speak politics. They could only talk NFL football. 
+
 20:03 	(Joe Rogan)	Yeah. 
+
 20:03 	(Bill Murray)	Which Nixon was rather, you know, knowledgeable about. You know, cop to it. It's like. Yeah, the guy really studied it. 
+
 20:11 	(Bill Murray)	And. And George Allen, he. It's in the book, you know, but, yeah, he, um. 
+
 20:16 	(Bill Murray)	Nixon even wrote a. Designed a play that he gave to George Allen, who was the coach of the Washington Redskins back then. And, uh, it was like. 
+
 20:26 	(Bill Murray)	It was. They lost, like, ten yards or something on the play, but Allen actually played. Ran the play. 
+
 20:32 	(Bill Murray)	Nixon's play, yeah. 
+
 20:33 	(Joe Rogan)	Uh, that's crazy. It's just also insane that they would let Hunter get in a limousine with the president, like, just that alone. Like, who. You know, who greenlit that. 
+
 20:47 	(Joe Rogan)	Who thought that was a good idea. 
+
 20:49 	(Bill Murray)	He'd been on the. I mean, he was on the campaign Trail he also, for whatever he was. The people who knew and you know, like Secret Service guys, you ever run into them, they like read people for a living. This is what they do, you know, they read people and they can really burn a hole through your head and your body just looking at you. 
+
 21:09 	(Bill Murray)	And they'll give you this one, you know, they'll just really burn you. And, you know, he'd been on the tour, the tour, he'd been on the road with them. They knew who he was, they knew what he was after hours and they knew what he was during hours, where the people who were really smart knew. 
+
 21:24 	(Bill Murray)	This guy's really smart. This guy's really smart. He knows politics. 
+
 21:30 	(Bill Murray)	And you can't try to dumb down. You can't try to like big time him because he'll kill you, he'll chop you. He's got the words to answer and he has the intelligence. 
+
 21:41 	(Bill Murray)	So he was, he was a force. People knew who he was. You know, even the, you know, to get information, you gotta go into the people who work for the guy, you know, so the people that work for the guy know who he is and they've already established that they have a relationship with him. 
+
 21:58 	(Bill Murray)	They can speak with him. He's talking a certain way. There's a reality check, you know, if you're running someone's political campaign, you have the best jokes about the campaign. 
+
 22:07 	(Bill Murray)	You know, not Hunter Thompson. Maybe you have the best jokes because you've seen it all, you know how stupid things get and, and you know, if you can be realistic and savvy about those things and people trust you. 
+
 22:18 	(Joe Rogan)	Well, it's still pretty extraordinary that they also got him to agree, or at least thought he would agree, that he would only talk about football. 
+
 22:27 	(Bill Murray)	Well, he knew if he blew it right, that was it. Uh, and that was going to be the end of it. And it was only, you know, I don't know what month it was, but. 
+
 22:34 	(Joe Rogan)	There'S more coffee in this. 
+
 22:36 	(Bill Murray)	Oh, is that your stuff? 
+
 22:37 	(Joe Rogan)	No, that's everybody's. 
+
 22:38 	(Bill Murray)	Okay, well, we'll try to finish it off. 
+
 22:41 	(Joe Rogan)	I just feel like yours is probably. 
+
 22:42 	(Bill Murray)	It doesn't have to be super. I keep coffee for days at least. At least two days. If it's not hot, it's got ice. 
+
 22:50 	(Joe Rogan)	Keep drinking. 
+
 22:51 	(Bill Murray)	I just keep drinking it. 
+
 22:52 	(Joe Rogan)	Yeah. 
+
 22:53 	(Bill Murray)	That smells good. What kind of is that? 
+
 22:55 	(Joe Rogan)	Black rifle coffee. 
+
 22:56 	(Bill Murray)	Where does that come from? 
+
 22:58 	(Joe Rogan)	Uh, it's an American company, veteran owned company that, um, made by real coffee nuts that travel around the world and find different blends and different. 
+
 23:08 	(Bill Murray)	It smells good. Very good coffee. 
+
 23:09 	(Joe Rogan)	You can smell very good coffee. Yeah, it's just that, um, that meeting in the limousine is like, one of my favorite meetings because it just. You could feel how weird it must have been for Hunter to be sitting in a limo getting a ride with Nixon, and they're just talking about football, and then they can find common ground. 
+
 23:30 	(Bill Murray)	This is happening. This has been happening in my life anyway, and I'm sure it's happening in everyone's life for the last. Gotta be ten years where you meet people. We have something in common. 
+
 23:41 	(Bill Murray)	We've got a. We've got a. Something we gotta get done, you know, but if we talk politics, we're leaving the rails, you know, all hell's gonna. 
+
 23:51 	(Bill Murray)	You know, we're not gonna get along. We're not gonna get anything done. We're never gonna be friends. 
+
 23:57 	(Bill Murray)	And, you know, it could be worse than that. We could be. We could, um, be adversaries or even enemies or. 
+
 24:03 	(Joe Rogan)	Right. 
+
 24:03 	(Bill Murray)	You know, so that. I mean, it's. You mentioned it. It's like I go places where. 
+
 24:12 	(Bill Murray)	And I'm sure you do, too, where you just can't talk. You just don't want to talk politics with people, because there are people that are, you know, whose politics can be the exact opposite of yours completely twelve to six. And yet there are people that have lived lives that are so extraordinary and so enormous in terms of what they give to the world and the planet. 
+
 24:12 	(Bill Murray)	And you think, how. You know, why would I, like, ever want to get. How do. 
+
 24:40 	(Bill Murray)	It's a mystery. You know, it's kind of a mystery, but it's. If you don't, like, value that first, instead of your kind of political, you know, handkerchief, you know, you're making more of a mess. 
+
 24:41 	(Bill Murray)	You know, that's kind of what's. You know, that's, uh. That's what I feel a lot about what's going on in anywhere. 
+
 25:03 	(Bill Murray)	Everywhere, you know, that people are leading with their handkerchief and not their. Not with their whole, uh, self. You know, what they understand about what living is.
+
 25:13 	(Joe Rogan)	I agree one hundred percent. I think that we're just too tribally divided, and people look at it like it's us versus them. They enjoy the comfort of being a part of a tribe. They lock onto whatever ideologies the tribes support, and then anybody who opposes that is somehow another the enemy. 
+
 25:31 	(Joe Rogan)	And it's just a, uh. It's a division tactic that's been used by the people that actually run the government, the actual world itself. The real people of this world, especially the people of this country have mostly share the same common core needs. 
+
 25:47 	(Joe Rogan)	You want to be healthy, you want to have a good family. You want to be able to make a living. You want to live in a safe place. 
+
 25:47 	(Joe Rogan)	You want your kids to be able to go to a good school. You want everybody to prosper and have a good time. That's most of what life is. 
+
 26:00 	(Joe Rogan)	All this other shit that people get so goddamn caught up in, most of it has very little to do with you. And you get locked into it like it's one hundred percent of your identity. And the next thing you know, anybody who opposes you is Hitler. 
+
 26:07 	(Joe Rogan)	And it just gets it. 
+
 26:16 	(Bill Murray)	That's true. 
+
 26:17 	(Joe Rogan)	It gets so tough. 
+
 26:18 	(Bill Murray)	His name gets man Ebro a lot lately, doesn't it? 
+
 26:21 	(Joe Rogan)	Yeah, it's a good. 
+
 26:21 	(Bill Murray)	You know what. But you sort of started it by saying by bringing up that quotation of hunters, which is so. And, And I think about that all the time. I can not, uh, but I think about it regularly. 
+
 26:34 	(Bill Murray)	Like, what was that. That force that. That movement had, that anti war movement, whatever that was, you know, it wasn't perfect. 
+
 26:44 	(Bill Murray)	You know, it wasn't perfect. I think the thing that if I had regret anything or anyone regrets anything about it was the sort of hostility that was shown towards the actual servicemen, most of whom were drafted, you know, uh, to fight, you know, so those service people had an experience that I will never have. I was in a military movie. 
+
 27:05 	(Bill Murray)	That's as good as it ever got for me. But the thing about being in war together with people is everybody hates war. Um, and who could hate it more than someone that was there, right? But the sort of camaraderie that you had is an experience. 
+
 27:19 	(Bill Murray)	I'll never have that. I'll never have that thing that, you know, Rambo had, you know, I'll never have that thing. And I don't think that. 
+
 27:28 	(Bill Murray)	I think that the sort of. There could have been more vision about who we're talking to or who we're talking to about whatever kind of change you want to make. And so that the agents of it are not necessarily the architects, like you say, the people who are making this tribal thing, they're not the agents of it, you know, they're the architects of it. 
+
 27:40 	(Bill Murray)	And it's. And how do you. How do you jump over or how do you, you know, you know, excuse or not excuse isn't the word. 
+
 28:00 	(Bill Murray)	But how do you unite. Miss the people that are the agents, who are just people that have a job or whatever it is they're doing their job. Work to survive and live whatever it is. 
+
 28:14 	(Bill Murray)	How do you get to the architects with whatever you feel is, uh. Is that what could be a shared experience and get them to, like, sort of dissolve the creation of the tribal world? I think it's. You ask a great question. 
+
 28:28 	(Bill Murray)	You know, you have people on here, I guess, that know, you know, or think about those things and have the ability to do something about it. I don't think I have the ability to do anything more than something for myself. Mostly, you know, it's just you do. 
+
 28:43 	(Joe Rogan)	Because you have the ability to express yourself, and you're an example. And a lot of times when someone's a very reasonable, intelligent person like you and you express yourself, other people get inspired to maybe reexamine the way they're looking at things. 
+
 28:55 	(Bill Murray)	Well, that's, uh. That's a nice hope. I hope that maybe that'll. I think that'll happen. 
+
 29:00 	(Joe Rogan)	I think that's maybe one of the only. 
+
 29:01 	(Bill Murray)	Right back at you, then. Okay, thank you. 
+
 29:03 	(Joe Rogan)	Because part of our problem in this country is that we're in competition every two years. Every two years you have midterms. 
+
 29:09 	(Bill Murray)	It is crazy elections every four years. So we don't get a break. 
+
 29:12 	(Joe Rogan)	No, we don't get a break. 
+
 29:13 	(Bill Murray)	We don't get a break from these people. 
+
 29:14 	(Joe Rogan)	No, we don't get a break. We don't get a break from division. We don't get a break from propaganda. We don't get a break from new threats. 
+
 29:15 	(Joe Rogan)	We don't get a break. It's like every day it's a new thing, and it keeps us completely in this constant, uh, state of stress and anxiety and also this fear of being overcome. Like, your side's going to lose the bad people tonight. 
+
 29:40 	(Bill Murray)	Yeah, we're gonna lose the Internet watch or something. Yeah. 
+
 29:44 	(Joe Rogan)	Yeah. It's very, very stressful. And it's not healthy for human beings to be constantly in this state of competition and stress. It's bad for. 
+
 29:47 	(Joe Rogan)	And then on top of that, you have. Most people are addicted to social media, so you're constantly getting inundated with the worst things in the world all day long, and you're freaking out. It's terrible for you. 
+
 29:52 	(Joe Rogan)	It's fucking terrible for you. 
+
 30:05 	(Bill Murray)	I mean, that footage made me cry. Now you're gonna make me cry. Okay. No, it's. 
+
 30:08 	(Bill Murray)	But it's, um. It's true. It's. 
+
 30:10 	(Bill Murray)	I. Someone's got a. There has to be some, uh, sort of a new. I don't know if it has to be a club, but, you know, there's got to be some sort of new you know, it used to be music, I think music played such a big part of, of whatever that movement was. 
+
 30:23 	(Bill Murray)	Whatever you call the peace movement or the hippies or ah, you know, whatever it was, it was a, it was an extraordinary moment in time and the music was part of the, part of the experience and part of the um. It brought the message and it sort of, it crashed through everybody's brain, you know, it wasn't, there wasn't a side to it. It's like what were the soldiers listening to in Vietnam? 
+
 30:49 	(Bill Murray)	Jimi Hendrix. 
+
 30:50 	(Joe Rogan)	Yeah. 
+
 30:50 	(Bill Murray)	You know. You know, we're all listening to the same stuff. No matter where you were. Yeah, no matter where you were, you were listening to the same music. 
+
 30:54 	(Bill Murray)	No matter what your politic thing was. The music sort of told a story. I'm sort of. 
+
 31:04 	(Bill Murray)	That uh, suggested a possibility, so. 
+
 31:07 	(Joe Rogan)	And the music was so much different than the music of the past. 
+
 31:10 	(Bill Murray)	Yeah. 
+
 31:11 	(Joe Rogan)	And it was like you go from nineteen fifty nine to nineteen sixty nine, you're dealing with a completely different dimension and it's because it was all psychedelically inspired. And that was another thing that the Nixon administration did. They passed that sweeping schedule. One psychedelics act, made everything illegal and just threw water on the whole movement. 
+
 31:11 	(Joe Rogan)	And then everything changes. Then you have the seventies. Music starts getting weird in the eighties, it completely falls apart. 
+
 31:35 	(Joe Rogan)	Cars start looking like shit. People start dressing stupid. 
+
 31:39 	(Bill Murray)	Now you're talking. Yeah, now you're talking. 
+
 31:40 	(Joe Rogan)	It got weird. 
+
 31:41 	(Bill Murray)	It's a real language, you know, it's like when uh, I never tied it all to the, that sweeping thing. But, but when you revisit that, you realize how much uh, harm that did that, that kind of um, lawmaking. But let's all agree that the cars don't look as good as they used to. Okay, let's, let's. 
+
 32:02 	(Bill Murray)	Who are those people that say they're the really good problem solvers? I see them every once in a while and they go like, how does he do it? He said, well, first I say, what can we agree on? Okay, so we can agree that cars don't look so good no more, you know. 
+
 32:16 	(Joe Rogan)	Well, they look good. 
+
 32:16 	(Bill Murray)	It used to be that every single year, every single car looked different than it looked the year before. 
+
 32:23 	(Joe Rogan)	Yes. 
+
 32:23 	(Bill Murray)	And that's mind boggling nowadays to think about that. And even now with it, the cars are made of, I don't know, plastic. 
+
 32:29 	(Bill Murray)	What are they made of? 
+
 32:30 	(Joe Rogan)	Yeah, they're hm. Made of shit. 
+
 32:31 	(Bill Murray)	They're made of nothing. They're not made of steel. They did it with steel back then. 
+
 32:34 	(Joe Rogan)	Right. 
+
 32:35 	(Bill Murray)	And now they're Made with, I don't know, some sort of carbon something or other. And you would think they would be able to like. I don't know what a three D printer is. I have to confess, I have no idea. 
+
 32:47 	(Joe Rogan)	We actually talked about it yesterday. 
+
 32:48 	(Bill Murray)	I have no idea what it is. 
+
 32:49 	(Joe Rogan)	The biggest one's four feet long. 
+
 32:51 	(Bill Murray)	The biggest one is four feet long. 
+
 32:52 	(Joe Rogan)	Yeah, that's what Elon was m saying they're not. So can you make, you can't make giant. 
+
 32:56 	(Bill Murray)	You can't make anything bigger than four feet. 
+
 32:58 	(Joe Rogan)	I don't think so. But I mean maybe there's some like an hour. 
+
 33:02 	(Bill Murray)	I mean if you have a car, if you have a fender bender, there's like seven parts that you have to replace. Panels and panels and be able. 
+
 33:09 	(Joe Rogan)	But that's also because they're better structurally to withstand impact. They have these crumple layers and they're designed in a way that makes it safer for you. They're a lot safer than old cars and I love old cars and the. 
+
 33:20 	(Bill Murray)	Sound systems are better. Yeah, let's face it. 
+
 33:21 	(Joe Rogan)	But new cars look great. New cars are awesome. There's a lot of like really good looking American cars, a lot of really good looking German cars. What happened in the nineteen seventies and the nineteen eighties was a drop off, a significant drop off from the sixties. 
+
 33:35 	(Joe Rogan)	The sixties cars were some of the best looking cars of all time. Like a sixty five Corvette, one of the uh, greatest looking cars the world ever. 
+
 33:43 	(Bill Murray)	That was a sixty two Corvette. 
+
 33:44 	(Joe Rogan)	Oh, those are beautiful too. Model one, the first one, generation one. But like you know, Camaros and barracudas like they made beautiful wild looking cars back then. And I think a lot of that had to do with just the way creativity was encouraged in the nineteen sixties. 
+
 34:05 	(Joe Rogan)	It was more free flowing. The music was completely radical and different. Politics was radical and different and that's why they passed those laws. 
+
 34:13 	(Joe Rogan)	They passed those laws to stop the anti war movement. It was civil rights movement. 
+
 34:17 	(Bill Murray)	And the guy that put in charge was a man who had absolutely no qualifications. Who had no qualifications to do any of it. 
+
 34:24 	(Joe Rogan)	No. 
+
 34:24 	(Bill Murray)	Yeah, uh, it's kind of a uh. I've got someone friend that's been trying to get me to do a movie about it. But the person responsible for making all the laws was someone who had absolutely no background in any of the fields, no knowledge whatsoever. Just a total huckster that got himself out in front. 
+
 34:43 	(Joe Rogan)	Well they probably had a mandate. They gave him a mandate. This is what we're going to do. This is the plan. 
+
 34:47 	(Joe Rogan)	We're going to lock up all these hippies. 
+
 34:49 	(Bill Murray)	Well, I'll carry the flag. I'll carry the flag. Yeah. Whatever it is, you know, I'll run up the hill. 
+
 34:53 	(Joe Rogan)	Exactly. Yeah. 
+
 34:57 	(Bill Murray)	Well, I heard that Buick is going to make a car. And I, uh, just could be wrong, but I heard they're going to make a car next year that's not going to look like any car ever. It's going to be like a brand new whatever the hell, twenty five or twenty six Buick. And it's not going to look like the twenty four or twenty five. 
+
 35:09 	(Bill Murray)	It's going to look like its own individual thing that they're going to try to recommence. The idea of making a new car every year. You didn't hear this? 
+
 35:30 	(Joe Rogan)	No. Like a completely new kind of model. 
+
 35:32 	(Bill Murray)	Yeah. Like the idea that you would make a car that didn't look like every. I mean like you can look at a car and go like, that's a Volvo, but that part of it looks like a Mercedes. That part of it looks like an Infiniti. 
+
 35:41 	(Bill Murray)	That part of the car looks like, you know, a Toyota. That kind of, you know, they're, they're. It's like you've heard probably the story about the. 
+
 35:50 	(Bill Murray)	What's that car called? The Ford that's got a animal name.
+
 35:54 	(Joe Rogan)	Mustang, Taurus, Taurus. 
+
 35:56 	(Bill Murray)	Now there's a story, now it could be apocryphal that the Ford Taurus. You never heard this one? 
+
 36:01 	(Bill Murray)	I thought you were like this guy, piece of. 
+
 36:04 	(Bill Murray)	I don't, um, care. Well, the Taurus, yeah, the Taurus is like, uh, it's not the most beautiful car in the world, but it was a huge seller for Ford. They sold a lot of them. And the story is that these guys at Ford designed a car and they took the rear quarter panel from this automobile, the fender from this, the back fender from this, the rear windows from this, and just did a composite of all these different cars because the car was. 
+
 36:36 	(Speaker D)	This car is bullshit. 
+
 36:37 	(Bill Murray)	And we'll call it the Taurus. And they presented it to Ford who went, we love it. And then proceeded to sell hundreds of thousands of them. And then this is a story like, where's your phone calls here? Fake caller number one. 
+
 36:53 	(Bill Murray)	You heard about this? No one's ever heard this story. You've never heard this one? 
+
 36:55 	(Joe Rogan)	I've never heard that, no. But I believe it. It makes sense. 
+
 36:58 	(Bill Murray)	You can believe it. If you look at the cars that are now that they are absolutely. Like, look at that damn Volvo. It looks exactly like a, uh, three year ago Mercedes or Something like that. 
+
 37:08 	(Bill Murray)	They just really just steal. 
+
 37:11 	(Joe Rogan)	Jamie, pull up twenty twenty four Shelby Mustang Super Snake. So there's still better yet. 
+
 37:18 	(Bill Murray)	Jamie, roll it in here. 
+
 37:20 	(Joe Rogan)	Just check it. Check out what this looks like. There's cars that they make today that are unique looking, um, and look badass. 
+
 37:26 	(Bill Murray)	I wish I'd bought a Shelby back when I first had a paycheck. 
+
 37:28 	(Joe Rogan)	Oh, yeah. 
+
 37:29 	(Bill Murray)	They're such beautiful cars. 
+
 37:30 	(Joe Rogan)	That's. Look at that. Come on. 
+
 37:32 	(Bill Murray)	Well, that kind of funny. Funny. When I first look at it, it looks a little Chevy to me. 
+
 37:36 	(Joe Rogan)	It does a little bit. It could be like a Camaro. 
+
 37:38 	(Bill Murray)	I mean, look at that. That looks like Chevy. 
+
 37:40 	(Joe Rogan)	I mean, that's a beautiful car though, right? 
+
 37:42 	(Bill Murray)	Well, you know, you could photograph either of us from a certain age. 
+
 37:47 	(Joe Rogan)	No, no, I've seen that one in real life. That's a beautiful car. That's a beautiful car. 
+
 37:52 	(Bill Murray)	That's better. 
+
 37:53 	(Joe Rogan)	Oh, and it sounds amazing, but I'd. 
+
 37:55 	(Bill Murray)	Hate to hit anything with that thing. 
+
 37:56 	(Joe Rogan)	In what way? 
+
 37:57 	(Bill Murray)	I would hate to bump in anything. It looks like I'd have to. 
+
 38:00 	(Joe Rogan)	Yeah, you'd have to. 
+
 38:01 	(Bill Murray)	Six weeks. 
+
 38:02 	(Joe Rogan)	That's true. 
+
 38:04 	(Bill Murray)	Can you big up that picture there? What's the rear look like? Oh, it's got a spoiler. 
+
 38:08 	(Joe Rogan)	Yeah. Come on. 
+
 38:11 	(Bill Murray)	How do you feel about spoilers? 
+
 38:12 	(Joe Rogan)	Fucking badass. That thing looks awesome. That looks amazing. 
+
 38:18 	(Bill Murray)	Well, I think the original one is like the super coolest car. Oh, yeah, that's. 
+
 38:22 	(Joe Rogan)	Oh, no doubt. I mean, if you go back and look at, like, pull up a, uh, Boss four hundred and twenty nine. Nineteen sixty nine. Boss four hundred and twenty nine. 
+
 38:30 	(Joe Rogan)	This, to me, is the pinnacle of muscle car design. Is the Boss four hundred twenty nine like that is? 
+
 38:36 	(Bill Murray)	That's pretty good. 
+
 38:36 	(Joe Rogan)	Spectacular. Look at that. 
+
 38:40 	(Bill Murray)	Well, that's got that scoop in the front. Yeah, that's pretty close to the Bullet year, right? The Bullet car. 
+
 38:45 	(Joe Rogan)	Sixty eight. Yeah, Bullet was sixty eight. I actually have a recreation of that. 
+
 38:49 	(Bill Murray)	I was watching it, you know. Did you. They found the original Bullet car. Did you know that? 
+
 38:52 	(Joe Rogan)	Yes, I was reading about that this. 
+
 38:53 	(Bill Murray)	Week because I saw it was on TV last week and I've watched it a lot of times. That movie. Cause, you know, I think Steve mcqueen's pretty, pretty damn good. But when you watch the movie, it's obviously the roaring through San Francisco and all that sort of stuff it's famous for. 
+
 39:11 	(Bill Murray)	And then there's the ending where there's sort of story ends with kind of a flaming crash. You know, it's kind of. Not really kind of an ending in a way, but watching at this particular time, it was all the moments in between all that that really make the movie. 
+
 39:27 	(Joe Rogan)	Yes. 
+
 39:28 	(Bill Murray)	All the quiet in between where he's in the grocery store, he's with the girl, he's the mailbox. He's seeing these people and these people. And he has this very quiet inner self that's dealing with people very respectfully. And his blood pressure only moves. 
+
 39:45 	(Bill Murray)	The needle only starts to move when he gets with the bad guy, Chalmers, who's obviously a, you know, a fraud of some sort. And he's got him, like. You see him, like, not just as a. 
+
 39:56 	(Bill Murray)	An actor keeping his cool, but as, like, a cop keeping his cool with, like, a person he knows is trying to use him. And that. Those. 
+
 40:03 	(Bill Murray)	Just watching that part of the performance and that part of the story was much more interesting. The first run, I saw all that as its own weave through it, you know? 
+
 40:12 	(Joe Rogan)	Yes. 
+
 40:12 	(Bill Murray)	The car stuff had very little to do with what I was getting from the people. The car stuff was nothing. And his boss was a great actor. Simon Oakland, I think his name is. 
+
 40:24 	(Bill Murray)	He was great as his boss. 
+
 40:26 	(Bill Murray)	He said, I'm gonna hold this till Monday morning. You know, that kind of guy. 
+
 40:30 	(Bill Murray)	And, um, there was some great acting in that. It's a really beautiful American movie like that. 
+
 40:37 	(Joe Rogan)	I'm so glad you brought that up, because it's. It's one of the things that I love about that movie and Le Mans, uh, another great Steve mcqueen movie, is that he had these moments, and you could do that in a movie back then where no one was talking for minutes and minutes at a time. 
+
 40:53 	(Bill Murray)	There's a lot of quiet, Bullet. A lot of quiet. Yeah, yeah. 
+
 40:57 	(Joe Rogan)	It's just. You're taking in the story, but it's very compelling. And sometimes there's not even any music. Right. 
+
 41:04 	(Joe Rogan)	Like in Le Mans, the whole first part of it, there's no talking at all for quite a while. It's just like you're getting the sounds and the feeling of being this race car driver, and he's driving his nine eleven down this country road and. Yeah, and it's. 
+
 41:20 	(Joe Rogan)	It's. It. It engrosses you in a different way. 
+
 41:21 	(Joe Rogan)	It draw. It pulls you into the story. 
+
 41:25 	(Bill Murray)	Bullet, where he's writing. What movie is he driving? Like a dune buggy. Is that Bullet two or is that. No, that's the other one. 
+
 41:32 	(Bill Murray)	The, uh, one in Boston. That's a pretty good movie, too. 
+
 41:36 	(Joe Rogan)	Which one's that? 
+
 41:37 	(Bill Murray)	Oh, come on. They remade it. Um. Uh, Thomas Crown Affair. 
+
 41:43 	(Bill Murray)	Yeah. And obviously he's having time, you know. 
+
 41:46 	(Joe Rogan)	Yeah. 
+
 41:46 	(Bill Murray)	Why don't we shoot some stuff in a dune buggy and basically they had like a whole day. Yeah, this. 
+
 41:50 	(Joe Rogan)	Yeah. 
+
 41:52 	(Bill Murray)	And he's having a time and meanwhile he's got Faye Dunaway and they're going, I hope that's Faye Dunaway. Anyway, roaring around. And he could really drive, right? 
+
 42:04 	(Joe Rogan)	He could really drive, really drive. Like you could really flip one of these fucking things if you're driving like. 
+
 42:09 	(Bill Murray)	You don't know what you're doing for sure. 
+
 42:11 	(Joe Rogan)	Yeah. He's going sideways. 
+
 42:13 	(Bill Murray)	She is, uh, she is having the time of her life. Look at that. Uh, spinning it out in the water. 
+
 42:18 	(Joe Rogan)	With a movie star who doesn't even have a seatbelt on. Probably. 
+
 42:22 	(Bill Murray)	No, they didn't have seatbelts back then. Uh. 
+
 42:23 	(Joe Rogan)	Jesus Christ. 
+
 42:25 	(Bill Murray)	Well, she might have a seatbelt. She looks like she's belted. But that was cool. 
+
 42:28 	(Joe Rogan)	He was like the archetypal, ah, archetypal movie star. He was a movie star. Like that guy was a movie star, you know, There was something about him that was compelling. He lived his life in a sort of wild, renegade way and drove race cars and he was a man's man. 
+
 42:44 	(Joe Rogan)	And when you saw him in a movie, you believed it. 
+
 42:46 	(Bill Murray)	Well, I've been watching, um, I've come to be watching all the old cowboy shows, uh, on a satellite. I watch all the old cowboy shows and Wanted Dead or Alive, always a super cool show. And I've been watching it just to say, what the hell's he up to, man? He is just. No one was getting away with that. 
+
 43:03 	(Bill Murray)	No one was doing what he was doing, which was so small and so slight. He was really preparing himself to be a movie actor, uh, you know, because his, his performance is, is so controlled. He's so in, in his skin, you know, and he's always got like a piece of business to do. 
+
 43:10 	(Bill Murray)	He always had a piece of business to do, like something to do. Like the way he like strapped on his goofy sawed off rifle and stuff. It's not even, you know, you keep thinking it's a sawed off shotgun, it's a sawed off rifle, you know, so just all his moves were very little. 
+
 43:40 	(Bill Murray)	His face gave very, very little away. He would pout, do a half pout kind of stuff. And it's just fun to watch him see how little he could do and get it done and get it across. 
+
 43:52 	(Bill Murray)	I like, I like that about him. But he always had like, he kind of challenged himself to do something physical. Like so if he'd be talking to you, he'd have just even that even Something like that. 
+
 44:04 	(Bill Murray)	To be like, you know, come in here. You know, he would just. The way he did it was a guy who had a real natural way with his body. 
+
 44:11 	(Bill Murray)	It was fun. 
+
 44:12 	(Joe Rogan)	Yeah, well, he would just draw you in in all of his films. And just as like, in a way that was. It was just different. It's just like it was a different presence on screen. 
+
 44:21 	(Bill Murray)	There's that guy. 
+
 44:23 	(Joe Rogan)	Sawed off rifle. 
+
 44:24 	(Bill Murray)	See, it's a sawed off. It's not a shotgun, it's a rifle. See that little shtick he's got? He's got it. So it locks in and then swings back. 
+
 44:35 	(Bill Murray)	Uh, so he could actually, if he wished to. I better hope. He better not wish to against you two. 
+
 44:38 	(Bill Murray)	He could just sort of swivel it and fire while it's still attached to his, uh, his waistband. 
+
 44:45 	(Joe Rogan)	I never saw this show. I didn't even know. 
+
 44:46 	(Bill Murray)	You never saw this show? 
+
 44:47 	(Joe Rogan)	I didn't know it existed until right now. 
+
 44:49 	(Bill Murray)	Kind of a citizen, are you? 
+
 44:51 	(Joe Rogan)	I am a little younger. That's all it is. 
+
 44:53 	(Bill Murray)	This is, uh, that's all it is. Well, you can find this. There's these new cowboy shows, uh, channels. There's like four channels. 
+
 45:01 	(Bill Murray)	I, uh, have directv and so you can go and watch that. God, that's a famous guy. That's. 
+
 45:06 	(Bill Murray)	Oh, God. 
+
 45:07 	(Bill Murray)	Oh. 
+
 45:07 	(Bill Murray)	Who's that? 
+
 45:08 	(Bill Murray)	Oh. 
+
 45:09 	(Bill Murray)	Oh, that's killing me. I know who this guy is. Well, I don't know who he is, but I recognize him. Help me, somebody. 
+
 45:18 	(Bill Murray)	 Who's that guy? 
+
 45:18 	(Joe Rogan)	Jamie will find it. 
+
 45:20 	(Bill Murray)	Um, anyway, there's a few channels. There's one called insp. There's also the cowboy channel. There's also channel, uh, three hundred sixty four. 
+
 45:30 	(Bill Murray)	Three hundred four. Three hundred twenty three. Is this eighty one directv? 
+
 45:33 	(Joe Rogan)	What is it? 
+
 45:34 	(Bill Murray)	Directv. And they're all. And you can. And I just go through going like, what have I gotta find? So I can see the rifleman. 
+
 45:41 	(Joe Rogan)	Did you ever see the rifle? I remember that. 
+
 45:42 	(Bill Murray)	Also a rifle guy, but he had a full length rifle. And that was Chuck Connors, who once upon a time was a Chicago cub. He's a baseball player. 
+
 45:49 	(Joe Rogan)	Oh, really? 
+
 45:50 	(Bill Murray)	Yes. And allegedly did some, uh, art films. But also he was good, too. Chuck Connors was good. 
+
 45:58 	(Bill Murray)	Um, the Lone Ranger. 
+
 46:01 	(Joe Rogan)	Oh, yeah, sure. 
+
 46:02 	(Bill Murray)	And that was, uh. God, come on. Why can I not remember his name? But there were some Lone Rangers. The Lone Ranger came on and then the guy. 
+
 46:05 	(Bill Murray)	I didn't realize it because there's some Lone Rangers where it's not our Lone Ranger being the Lone Ranger. And who wasn't as good as our Lone Ranger. And then our Lone Ranger comes back, and it turns out, uh, I finally figured out that he. 
+
 46:23 	(Bill Murray)	He sort of went on strike. He said he wanted a contract raise after the first season or something. They, like, said no. 
+
 46:28 	(Bill Murray)	They went ahead and made a season with this other guy, and people went, when are you going to kill off the Lone Ranger? You know, no offense to that man's family. I'm sure it paid for somebody's college, but. Oh, come on. 
+
 46:43 	(Bill Murray)	I, uh, almost had it. 
+
 46:44 	(Joe Rogan)	The guy's name. 
+
 46:45 	(Bill Murray)	Yeah, yeah, yeah. 
+
 46:46 	(Joe Rogan)	Jamie will find it. 
+
 46:48 	(Bill Murray)	Jamie, you got a lot on your plate. 
+
 46:51 	(Joe Rogan)	I switched over to the Lone Ranger. I was looking at people that were listed here. I'll give you this one. 
+
 46:55 	(Bill Murray)	There's a few people listed here. I actually saw him someplace he came. 
+
 46:58 	(Joe Rogan)	To, like, one of these names. Michael Landon. Landon Warren. Warren Oates. 
+
 47:02 	(Joe Rogan)	I was looking. It's definitely not Cockburn. 
+
 47:04 	(Bill Murray)	No, it's none of those guys Lon Chaney's misspelled, but it's not those guys. Coburn's in there twice. 
+
 47:11 	(Joe Rogan)	Uh, Lone Ranger here. 
+
 47:15 	(Bill Murray)	One of these guys, maybe. 
+
 47:16 	(Bill Murray)	No. All right, I'll try. See, it started on radio first. That's what you're getting. 
+
 47:20 	(Bill Murray)	You're pulling up radio. That's how far back you're going.
+
 47:23 	(Joe Rogan)	Clayton Moore. 
+
 47:24 	(Bill Murray)	Clayton Moore. Thank you. I saw Clayton Moore. He came to a Jewel food store near us. 
+
 47:27 	(Bill Murray)	Uh, the Lone Ranger was going to appear, but he was not allowed to. 
+
 47:31 	(Bill Murray)	Wear the mask for, like, contract, whatever the hell. 
+
 47:35 	(Bill Murray)	So there he was, and I'm like. 
+
 47:37 	(Bill Murray)	Mom, that's not the Lone Ranger. 
+
 47:39 	(Bill Murray)	You know, whatever the hell it was. But it was funny to see Clayton Moore without a mask on. 
+
 47:43 	(Joe Rogan)	Imagine a contract saying, you can't do personal business.
+
 47:45 	(Bill Murray)	Well, no, it was like he was the Lone Ranger was copyrighted, you know, nine days from Sundays, you know, so he could go and be. Ride on an elephant. I think I may have seen him riding on an elephant in a parade once, but also without the mask on. But we. 
+
 47:53 	(Bill Murray)	I should talk about movies because I'm supposed to be talking about movies. Yes, since we. We started talking about movies. 
+
 48:06 	(Joe Rogan)	Um, tell me about your movie. 
+
 48:09 	(Bill Murray)	Um, I got two movies. I have three movies. I'll work backwards from the one which is least. Which is farthest away. 
+
 48:10 	(Bill Murray)	I did one with Wes Anderson called the Phoenician something. That's the title, you know. I'm sorry, Wes. 
+
 48:24 	(Bill Murray)	The Phoenician. You know what it is? The Phoenician scheme. And, um, I have a lot of trouble with names nowadays, but the guy who did the set design. 
+
 48:33 	(Bill Murray)	Can you figure that out? This guy is the most famous. He is the best there is. Now, these are the most beautiful sets I've ever seen in any movie. 
+
 48:43 	(Bill Murray)	Um. Come on. It's coming. 
+
 48:46 	(Bill Murray)	I'm sorry, everybody, but I just haven't been getting enough sleep. 
+
 48:50 	(Joe Rogan)	No worries. 
+
 48:51 	(Bill Murray)	Anyway, the power. That's a great movie, that we shot that in Berlin and there's great people in it. It's got, uh. Uh, I want to say to. 
+
 48:59 	(Bill Murray)	Sure, I'm afooni, but it's not. It's the guy who played Che. Come on, don't. 
+
 49:02 	(Bill Murray)	Come on, help me out here are, uh, you. For you. Look it up. 
+
 49:08 	(Bill Murray)	Jim, you get back to us with this. Anyway, that movie's coming in a bit. Who, Benito? Yeah, yeah, Benito's, uh, really good. 
+
 49:16 	(Bill Murray)	He's really good and he's really cool. And Michael Cera, right? Is he the third? 
+
 49:22 	(Joe Rogan)	Did you say Benicio? 
+
 49:23 	(Bill Murray)	Yeah, Benicio del Toro. Yeah, I said Benito. You said Tomato, Fear and Loathing as well. 
+
 49:30 	(Joe Rogan)	He was awesome in that. 
+
 49:31 	(Bill Murray)	He's great. 
+
 49:32 	(Joe Rogan)	He's great in everything. 
+
 49:33 	(Bill Murray)	He's, uh. Are we get on good? Um, and then the daughter whose name of Kate Winslet, who is really, uh, wonderful. So the three of them are extraordinary in a movie together. And her name's like Cupid or Eve or something. 
+
 49:51 	(Bill Murray)	That's crazy. 
+
 49:51 	(Joe Rogan)	What's it about? 
+
 49:52 	(Bill Murray)	I have no idea. 
+
 49:54 	(Bill Murray)	Huh? 
+
 49:54 	(Bill Murray)	Huh? What's her name? Mia. Thank you. See, I told you. Cupid something. 
+
 49:55 	(Bill Murray)	Mia. Uh, I have no idea what it's about. You're gonna have to pay the money. 
+
 50:03 	(Bill Murray)	There she is right there. 
+
 50:04 	(Joe Rogan)	Dark tale of espionage followed a strange father, daughter relationship with a family business. 
+
 50:10 	(Bill Murray)	All right, yeah, Willem's got a good part, but it's really. Those, uh. Keep going, keep going. 
+
 50:14 	(Joe Rogan)	Benedict Cumberbatch. 
+
 50:15 	(Bill Murray)	Yeah, they're all Willem Dafoe, Michael, Sarah. Michael Cera is huge. He's fantastic. Yeah, he's a really good guy. 
+
 50:18 	(Bill Murray)	Michael Cera, Benicio and Mia are the. 
+
 50:25 	(Joe Rogan)	Really. 
+
 50:25 	(Bill Murray)	The Cranston and they're great. Anyway, that's going to be really good. People are. All his movies are like. 
+
 50:32 	(Bill Murray)	They are. They're all great. And that one's going to be very good. 
+
 50:35 	(Bill Murray)	That one's going to be funny, too. Um, then I made a movie called the Friend, um, which stars, uh, uh, what's her name? Naomi Watts. And a dog. 
+
 50:47 	(Bill Murray)	There's a huge dog. Are you a dog guy? 
+
 50:49 	(Joe Rogan)	I love dogs. 
+
 50:50 	(Bill Murray)	Okay, so there's a massive, really big dog. I mean, it's pretty much as big There it is. There's Naomi and there's the dog. The dog is that big. 
+
 51:03 	(Bill Murray)	 See how big it is? 
+
 51:03 	(Joe Rogan)	It's fucking huge. 
+
 51:04 	(Bill Murray)	Yeah. Uh, that's the words for it. 
+
 51:06 	(Joe Rogan)	Yeah. That's a Great Dane, uh, isn't it? 
+
 51:09 	(Bill Murray)	It's an amazing dog. And the script is great. It's written. It's from a book written by a woman named Sigrid Nunez. 
+
 51:10 	(Bill Murray)	And can you pop up on the titles there? Maybe? Uh, no, the other thing. Yeah, these guys directed it. These guys, Scott mcgehee and David Siegel, and they wrote the script from this book, and it's a great script. 
+
 51:32 	(Joe Rogan)	Nobody can hear you over there. Unfortunately, uh, nobody can hear you over there. We're gonna have to come back, Scott. 
+
 51:39 	(Bill Murray)	Scott mcgehee and David Siegel wrote the script and directed it, and they're great. I love those guys. They've made a few good movies, and this one's really good. And this Sigrid Nunez is, uh, kind of a big deal author. 
+
 51:51 	(Bill Murray)	People know who she is that read lots of books. 
+
 51:53 	(Joe Rogan)	M. And what is the friend? What is it about the friend? 
+
 51:55 	(Bill Murray)	Well, yeah, there. There you go. So that's the question. Well, that's sort of the puzzle. 
+
 52:00 	(Bill Murray)	A little bit of the puzzle of it. So who is the friend? It' the friend? Or is the friend the dog? You know, the dog is. Represents something, you know, so it's a little deeper than a lot of the ones we get to, but it's. 
+
 52:12 	(Bill Murray)	It's really good. It's really good. I like it. 
+
 52:15 	(Bill Murray)	Uh, it's been to film festivals, and people, you know, laugh and cry and the whole thing. Yeah. 
+
 52:20 	(Joe Rogan)	How do you pick things to do now? Like, you've. You've done so much. You've had this insane career. 
+
 52:26 	(Bill Murray)	I'm gonna tell you that. But let me finish the last one, because today, now, is your show live. 
+
 52:30 	(Joe Rogan)	No, no, it comes out tomorrow. 
+
 52:32 	(Bill Murray)	Tomorrow. Okay. So this, um. So that's why I want to ask, because this movie, the third movie, opens today, which is yesterday, and it's called Riff Raff. 
+
 52:42 	(Bill Murray)	And this is a movie that you have to see. You have to see this. This is really something. 
+
 52:47 	(Bill Murray)	This is a movie you should take ten of your friends to and go see. Riff Raff. It will be, I guarantee you. 
+
 52:47 	(Bill Murray)	This one's a party. 
+
 52:57 	(Joe Rogan)	Tell me what it is. 
+
 52:58 	(Bill Murray)	Um, well, there's a trailer for it up there. See, there's.
+
 53:01 	(Joe Rogan)	Let's play the trailer. 
+
 53:02 	(Bill Murray)	Okay, Put the headphones on. 
+
 53:04 	(Joe Rogan)	We'll play the trailer. 
+
 53:05 	(Bill Murray)	I wasn't. There you go. 
+
 53:07 	(Joe Rogan)	Slap some headphones on. 
+
 53:09 	(Bill Murray)	Oh, no, Slim Jims past two hours, you've been passing gas like a very sick infant. I gotta breathe all day. 
+
 53:16 	(Bill Murray)	I'm sorry, Lefty. I had a lot of coffee. Okay. 
+
 53:18 	(Joe Rogan)	Sorry. 
+
 53:19 	(Bill Murray)	And then you use my name? Jesus Christ, Lonnie. You catch our names by any chance? Yep. He called you Lefty. And you called him Lonnie. 
+
 53:33 	(Bill Murray)	Well, I overreacted. 
+
 53:34 	(Bill Murray)	Okay. 
+
 53:39 	(Bill Murray)	Son, we gotta talk about Lefty. 
+
 53:42 	(Bill Murray)	What did you do, Lefty? 
+
 53:49 	(Bill Murray)	You killed his son. 
+
 53:50 	(Bill Murray)	Um. 
+
 53:50 	(Bill Murray)	You're going to kill us. 
+
 53:54 	(Bill Murray)	What are you doing? I get horny when I'm scared. I'm married. Who cares? 
+
 53:57 	(Bill Murray)	It's just us in the shitty wildlife, you know? This is our son. We're too young to be grandparents. All because your son couldn't pull out in time. 
+
 54:09 	(Bill Murray)	We got house guests. I would categorize these as a must kill. 
+
 54:17 	(Bill Murray)	What are we, family? 
+
 54:19 	(Bill Murray)	Oh, my God. 
+
 54:20 	(Joe Rogan)	Can I get you anything? 
+
 54:22 	(Bill Murray)	I'd sell my left tit for an Advil and a cup of coffee. 
+
 54:26 	(Bill Murray)	You said what? 
+
 54:32 	(Bill Murray)	Who was working? 
+
 54:33 	(Speaker D)	There was this food incident. 
+
 54:34 	(Bill Murray)	Rocco. 
+
 54:35 	(Speaker D)	With pubes and my wonton soup. If it's okay, I would just really. 
+
 54:39 	(Bill Murray)	Like to torture him a little bit. If it's okay. Shouldn't have done that, Rocco. 
+
 54:44 	(Bill Murray)	Yeah, knock yourself out. 
+
 54:45 	(Bill Murray)	Um. Oh, my God. Are we all gonna die? You don't have all night. 
+
 54:56 	(Bill Murray)	Wait for me. Before you two start hitting each other. Once you start killing it, it sort of becomes your de facto solution for everybody. Bro. 
+
 55:08 	(Bill Murray)	What? Get off of me. I'm not gonna. Come on. I'm not gonna. 
+
 55:16 	(Bill Murray)	Ruth. 
+
 55:17 	(Bill Murray)	What's a shame we're gonna put something that hard to waste. 
+
 55:24 	(Joe Rogan)	Huh? 
+
 55:25 	(Bill Murray)	Uh. 
+
 55:27 	(Joe Rogan)	That looks fun. 
+
 55:29 	(Bill Murray)	Uh, yeah. Well, yeah, that's. They gave you too much as far as I'm concerned. 
+
 55:34 	(Joe Rogan)	But, um, they always do, though, right? 
+
 55:36 	(Bill Murray)	I don't know. 
+
 55:37 	(Bill Murray)	Sometimes. Not always. 
+
 55:38 	(Joe Rogan)	Not always, but it's. It's common. 
+
 55:41 	(Bill Murray)	Um. It's kind of nicer to see as a surprise, so. 
+
 55:44 	(Joe Rogan)	Oh. Should I not have seen the trailer? 
+
 55:45 	(Bill Murray)	It's okay. I mean, what are you gonna do? But it's. Some people will think I must see that, but I guarantee you, this is a movie is really, really funny. 
+
 55:53 	(Joe Rogan)	I love a movie where I don't get to see the trailer. I really do. 
+
 55:57 	(Bill Murray)	You could say, yeah, uh, you could not show the trailer. That would be okay. They had. There was one. 
+
 56:02 	(Bill Murray)	I saw one that was like, just the first part of that. And then this they just saw. Added this. 
+
 56:05 	(Bill Murray)	And I was hoping that was what it was, but. 
+
 56:09 	(Joe Rogan)	Yeah, it could have been this. 
+
 56:10 	(Bill Murray)	Kind of makes it seem like a little bit, you Know, it's just a little bit too much stuff in it, you know? A little bit too much stuff for me, maybe. Let's think about it. But anyway, it's good. 
+
 56:26 	(Joe Rogan)	It's great. 
+
 56:26 	(Bill Murray)	Yeah. So Jennifer Coolidge has got some unbelievable things to say in the movie. She's got some amazing things to say. And Ed Harris is really, really good in the movie.
+
 56:35 	(Bill Murray)	Pete Davidson, who I had no idea about. We were sidekicks in the movie, and we had a very good time. Did some good stuff. 
+
 56:44 	(Bill Murray)	This Lewis Pullman, who's Bill Pullman's son, is really good. I mean, and Emanuela, she got Italian pustocchini like that. She's just wonderful and beautiful. 
+
 56:58 	(Bill Murray)	And Gabby Union, I call her Gabby Gabrielle Union. And Miles, whose last name I can't remember because I just want to call him Miles Davis. But that little kid in there, uh, he's. 
+
 57:10 	(Bill Murray)	He has a voice. He plays the voice of the Electric. 
+
 57:15 	(Bill Murray)	Junior Bunny show or something like that on. On Nickelodeon or something like that. He does, like, weird cartoon voices. 
+
 57:22 	(Joe Rogan)	Oh, yeah. 
+
 57:23 	(Bill Murray)	So if you watch a lot of Nickelodeon cartoons. 
+
 57:26 	(Joe Rogan)	I don't anymore. My kids are teenagers now. 
+
 57:28 	(Bill Murray)	Oh, really? 
+
 57:29 	(Joe Rogan)	I used to. I used to. 
+
 57:31 	(Bill Murray)	I used to. 
+
 57:32 	(Joe Rogan)	I could tell you all about Nihau Kailan. 
+
 57:34 	(Bill Murray)	Oh, see, I don't know that one. I guess I, uh. I guess spongebob, my brother plays the. The Flying Dutchman. 
+
 57:41 	(Joe Rogan)	Oh, really? 
+
 57:41 	(Bill Murray)	On spongebob. 
+
 57:42 	(Joe Rogan)	Oh, wow. 
+
 57:43 	(Bill Murray)	So I watched a lot of that, but that's about it. I don't know. I'm way behind. 
+
 57:47 	(Joe Rogan)	How do you decide, uh, what projects to pick? 
+
 57:51 	(Bill Murray)	It's really just what, uh. Well, there are certain people, like, um. Like with people that I've worked with before. There's some, like, uh, Wes Anderson is one, and Jim Jarmusch and Sophia Coppola are others. 
+
 58:06 	(Bill Murray)	And those three people call and say, I got something. I just say, okay, when. You know. 
+
 58:11 	(Bill Murray)	That's because I know. I know that they're. I know they know what I can do, and they know they look out for me and they treat people well. 
+
 58:11 	(Bill Murray)	I love them as people, and I love them as artists. So that's just a thing. But the other ones are more like, um.
+
 58:30 	(Bill Murray)	Are like, uh. Uh, you have to read the script. Because people, you know, the script is pretty much, if the script's not there. 
+
 58:39 	(Bill Murray)	I mean, you, uh, know I can always help improve a script, but if the basic thing isn't there, it's like I was scratching at one the other day, and I'm writing. I'm going, what the hell am I Doing this for. This is just terrible. 
+
 58:51 	(Bill Murray)	Every. Every page is like, so. But if it's not good. 
+
 58:55 	(Bill Murray)	And usually, um, you know. You know, in, like, five pages, you know, whether you're not to even continue reading the script at all, you know? 
+
 59:04 	(Joe Rogan)	Yeah. 
+
 59:05 	(Bill Murray)	So. 
+
 59:06 	(Joe Rogan)	So a lot of it's based on relationships and people that you trust, only. 
+
 59:09 	(Bill Murray)	Those are very few. There's only very few people that I have those kinds of relationships with. And I've done, like, multiple jobs with them. And they kill every time. 
+
 59:18 	(Bill Murray)	They're good. They're really good. So when they call, it's like, I don't. 
+
 59:23 	(Bill Murray)	You don't have to waste my time telling me the story. Just send me the thing, you know? 
+
 59:26 	(Joe Rogan)	Right. 
+
 59:27 	(Bill Murray)	You don't have to waste any time. I'm in. You can count on me. And so that's it. 
+
 59:30 	(Joe Rogan)	I love that. 
+
 59:31 	(Bill Murray)	Yeah. Yeah, I do too. It's. 
+
 59:32 	(Joe Rogan)	It's such a great feeling when you trust someone that much and you're so enthusiastic about working with them. 
+
 59:38 	(Bill Murray)	Yeah. It means, like, great. And, you know, like, people make the living. The making of a movie part of their living, you know? Like, Wes is probably the most extreme example in that. 
+
 59:45 	(Bill Murray)	Like, we all live in a quasi dormitory. You know, we take over a small hotel in some small. In some city. 
+
 59:58 	(Bill Murray)	And all the actors and, like, the key crew live in the hotel. And, uh, you come down for breakfast in the morning. And people pad down in their slippers and their jammies. 
+
 59:58 	(Bill Murray)	And they have coffee and stuff. And they look at the newspaper and say, what are we doing today? And then they, like, pad back up the stairs and get on their clothes, and they go to work. It's cool. 
+
 60:16 	(Bill Murray)	It's really nice. It really is like what you always thought it would be like in the old days. Like, what if we all lived in a dorm and we were just being funny all day? You know, like that. 
+
 60:26 	(Joe Rogan)	Yeah. What was it like working on Kingpin? 
+
 60:30 	(Bill Murray)	Well, those guys, um, have more fun making movies than anyone. They really make it fun. Like, ping. I remember, like, in between shots on Kingpin, we'd be on the side of a road somewhere, and it would be like, everybody's got to pick up a rock. 
+
 60:48 	(Bill Murray)	And we got thrown at that telephone pole. You know, who's gonna hit the telephone pole with a rock? So we would sit there and, like, I don't know, a dollar ten, dollar one hundred, whatever it was we're throwing. And somebody's gotta hit the rock, you know? And then people, like, uh, pull out cash and pay. 
+
 61:03 	(Bill Murray)	Cause it's just, like. We just Got to keep this thing going, you know, we're not going to let the energy of this thing drop. 
+
 61:09 	(Joe Rogan)	Just fun. Keep the fun rolling. 
+
 61:10 	(Bill Murray)	Just fun. Yeah. And just creativity and always being loose and always being physical. Always being, you know, uh, connected, Attached. 
+
 61:20 	(Bill Murray)	You know, not just attached, but connected and entertaining. Entertaining each other, you know, really making this fun. God damn it, we are going to have fun. 
+
 61:30 	(Bill Murray)	Or else, you know, if you don't have fun making a comedy, you've just made a bad movie. That's not funny. 
+
 61:37 	(Joe Rogan)	Yeah, well, it comes off in the film. The film is so fucking funny. It's so good. And it's one of those films, like, if you tried making that today, it would be an uphill trudge. 
+
 61:48 	(Bill Murray)	Well, you know, and that's like one of those things. Um, they had a moment on Saturday Night Live, an in memoriam thing. They said, oh, someone. I was there the week of the thing, and they said, yeah, so. 
+
 61:58 	(Bill Murray)	And so is working on the in memoriam. And I'm thinking, well, who's gone? Which reminds me, um, who's gone? You know? And, uh, no, it's not who's passed away. It's what we can't do anymore to be funny, you know? So it was like all these kinds of jokes, and so it was just a whole clip.
+
 62:15 	(Bill Murray)	I didn't even see it, but I just. I saw a little bit of it being assembled. But it could be forty minutes long. 
+
 62:21 	(Bill Murray)	You know, just all the sketches that you people would. You would get, like, you know, Internet responses like, we're gonna burn down the city of New York. 
+
 62:30 	(Joe Rogan)	But it could be hours long today. 
+
 62:32 	(Bill Murray)	Yeah. 
+
 62:33 	(Joe Rogan)	Hours long. 
+
 62:33 	(Bill Murray)	Yeah. I'm short with forty five, but it's. But some of the funniest things ever done, you know, like Head Wound Harry, you know, which was one that not many people think about. But how, you know, like, somebody would object to a dog eating a brain wound, you know, like licking, like, the blood coming out of someone's skeletal wound, you know? But someone told me on the way here, a friend of mine, a musician named Mike Zito, who said he listens to your show. 
+
 63:01 	(Bill Murray)	He said that you knew, um, Phil Hartman. Yeah. 
+
 63:04 	(Joe Rogan)	Very well. 
+
 63:04 	(Bill Murray)	What did you do with Phil Hartman? 
+
 63:06 	(Joe Rogan)	News radio. It was a sitcom we did together. 
+
 63:08 	(Bill Murray)	Okay. I didn't really watch much in news. 
+
 63:09 	(Joe Rogan)	Radio, but it was, uh, ninety four to ninety nine. I played the, um. Sort of like the maintenance guy in this radio station, and Phil was like, the lead anchor and. 
+
 63:20 	(Bill Murray)	Yeah, and did you resent him because you were doing maintenance and he was the lead anchor? No. What do you mean, so? No, I'm just joking. So. And where was it? Was it on cbs? 
+
 63:30 	(Joe Rogan)	NBC. NBC, yeah. 
+
 63:32 	(Bill Murray)	He was the news anchor. Well, he's got that crazy voice, right? 
+
 63:35 	(Joe Rogan)	Oh, he was great. Yeah, he was, uh. We became really good friends. He was wonderful guy. 
+
 63:41 	(Joe Rogan)	Um, we actually played one of his clips the other day. We had to take it out of the show, but it was a clip from SNL that you could never play today about a doctor who decided that every child was female and he had to do operations on all of them. And we were like, holy shit. 
+
 63:56 	(Joe Rogan)	Holy shit. And it's like, you know, ninety percent of his births involved an operation. It turned into a girl. 
+
 64:05 	(Joe Rogan)	They were all girls. 
+
 64:06 	(Bill Murray)	That's funny. 
+
 64:07 	(Joe Rogan)	It was insane. He was great. 
+
 64:09 	(Bill Murray)	Yeah, he was really good. He was. I, uh, worked with him. I mean, I did Saturday night, I guess, when he was there. 
+
 64:14 	(Bill Murray)	But he was in the movie we made called Quick Change, and he was like sterling silver. It was like. Every single take was just, like, perfect. 
+
 64:26 	(Bill Murray)	And it was so much fun. And you just go, phil, that was so great. 
+
 64:30 	(Bill Murray)	And you go like. 
+
 64:31 	(Bill Murray)	He was so kind of modestly proud of, like. 
+
 64:33 	(Bill Murray)	Yeah, I. I felt pretty good about that, too. 
+
 64:37 	(Bill Murray)	Yeah, it was really nice. He had real, real modesty. 
+
 64:40 	(Joe Rogan)	Yes, he did. Well, he was a guy who made it late in his career, you know, late in his life. So he was. Before he was an artist. 
+
 64:47 	(Joe Rogan)	We have one of his albums out there, um, in the, uh, the other room. 
+
 64:50 	(Bill Murray)	He was a musician. 
+
 64:51 	(Joe Rogan)	No, an artist. Artist. 
+
 64:52 	(Bill Murray)	Oh, I'm sorry. 
+
 64:53 	(Joe Rogan)	Well, he was a musician as well. He didn't. 
+
 64:54 	(Bill Murray)	Why did I say musician? One of his albums. I was looking at vinyl today, so that's why it went into my head. 
+
 65:02 	(Joe Rogan)	It was a cover of an album that he drew. Oh, yeah. He was an illustrator. It was brilliant. 
+
 65:07 	(Joe Rogan)	Like, really, really good. 
+
 65:09 	(Bill Murray)	I loved See that? 
+
 65:09 	(Joe Rogan)	And then he was on Pee Wee's Playhouse. Yeah. 
+
 65:13 	(Bill Murray)	May he rest in peace. 
+
 65:14 	(Joe Rogan)	Ah, that guy was great, too. 
+
 65:16 	(Bill Murray)	And I. And the lady. I didn't really watch a lot of Pee Wee's Playhouse, but he was a funny guy, that guy. And, um, his lady sidekick died this week or something. I don't know. 
+
 65:28 	(Joe Rogan)	On Peewee's play. 
+
 65:29 	(Bill Murray)	I'm not up to date or anything, but. 
+
 65:32 	(Joe Rogan)	Hey, um, who. 
+
 65:37 	(Bill Murray)	Yeah, I believe. All right. 
+
 65:42 	(Joe Rogan)	Lynn Murray Stewart. 
+
 65:44 	(Bill Murray)	Lynn Marie. See, I didn't. Oh, I guess I'd recognize her if her face were a bigger head. 
+
 65:50 	(Joe Rogan)	So I think Phil, because of the fact that he made it late in life, like, he was just so happy. 
+
 65:56 	(Bill Murray)	Perspective. Yeah. 
+
 65:58 	(Joe Rogan)	Uh, he had I mean, I think he was like thirty seven or something when he got snl, you know, so it's like, that's the point where a lot of people start thinking, hey, this is never gonna happen for me. 
+
 66:10 	(Bill Murray)	And then he was, you know, he was a hero. He did. He could do a lot of things. He had a lot of chops. 
+
 66:14 	(Bill Murray)	He had a great voice, and he could play straight and, um, you know, playing. Doing comedies, the ability to play straight and he could really do it. He could really do it.
+
 66:32 	(Joe Rogan)	Yeah. 
+
 66:33 	(Bill Murray)	Well, I missed that guy. He was good. He was a good guy. 
+
 66:37 	(Joe Rogan)	Uh, yeah, I missed him terribly. That was a. That was a crazy one because I knew his. I knew the whole family. 
+
 66:37 	(Joe Rogan)	I knew the wife, I knew the. The whole situation. He had tried to divorce her a few times, tried to leave a few times. 
+
 66:48 	(Joe Rogan)	It always went back and. 
+
 66:52 	(Bill Murray)	Yeah, and that's also the guy. He would go back and keep trying to make things work. 
+
 66:56 	(Joe Rogan)	Yeah, Yeah. I mean, he was, uh, very unusual guy and what a professional. Like, you'd make me feel like I wasn't doing enough. Like, he'd have, like, all of his scripts would have tabs for all the scenes that he was in, and then he'd have notes underneath each thing and everything would be organized. 
+
 67:13 	(Joe Rogan)	He had a three ring binder. He would put the script in. 
+
 67:15 	(Bill Murray)	Well, that's going too far. 
+
 67:16 	(Joe Rogan)	Who would hole punch the moment he got the script? Put it in the three ring binder. Oh, yeah. No, he was. 
+
 67:21 	(Bill Murray)	I didn't have that much faith in the script, so I knew they were going to change a lot from Wednesday to Friday if it was a. If it was a big scene. I knew they would rewrite it the, uh, next two days. Well, there was a lot. 
+
 67:32 	(Bill Murray)	Because it's hard to unlearn. 
+
 67:33 	(Joe Rogan)	Yes. 
+
 67:34 	(Bill Murray)	So I would not learn. Yeah. 
+
 67:36 	(Joe Rogan)	Ah. 
+
 67:36 	(Bill Murray)	Because if. Unlearning is really hard. 
+
 67:38 	(Joe Rogan)	Yeah. 
+
 67:39 	(Bill Murray)	Like, if you have a sketch that's this long and all of a sudden it's this long, you got problems. 
+
 67:42 	(Joe Rogan)	Have you ever met Dave Foley? 
+
 67:45 	(Bill Murray)	I think so. He's one of the guys from. Yeah, I saw, uh, he. He goes out with my brother Joel and he sings. 
+
 67:54 	(Bill Murray)	They. They do like an improv thing called Whose Line Is It Anyway? So I never. I only met him recently. 
+
 67:58 	(Bill Murray)	I met him recently. I finally saw my brother's show that he goes out with Whose Line Is It Anyway? 
+
 68:04 	(Joe Rogan)	Right. With Greg Proops and all those guys. 
+
 68:07 	(Bill Murray)	And they. And they kill. 
+
 68:08 	(Joe Rogan)	Yeah. 
+
 68:09 	(Bill Murray)	I mean, there's, you know, I knew they were. I knew they were going to kill because I Know how good my brother is as an improviser. He can, you know, if you. If you get good at it. 
+
 68:18 	(Bill Murray)	And my brother is really good at it. Far better than I. I, uh, ever was or could hope to be. Um, because he's really kept at it. 
+
 68:18 	(Bill Murray)	And so he really goes and goes hard at it. Um, he's really good at it. I knew that they would kill. 
+
 68:31 	(Bill Murray)	I didn't realize how much fun the show would be from an audience perspective. Like, they drag a lot of people up on the stage, and I think, well, that can go any, uh, way at all. And they managed to get. 
+
 68:31 	(Bill Murray)	I mean, the show I saw, they had people in the audience that probably should have been hired. They were. That was funny. 
+
 68:51 	(Bill Murray)	But there's something about the uncertainty of bringing up someone from the audience that raises the energy level and the expectation and the possibility. And the crowd goes crazy for it. And the actors, the performers go crazy, too. 
+
 69:05 	(Bill Murray)	Cause it's like, God damn, they just killed us. They just came up here and murdered us. And that's where the real fun is. 
+
 69:13 	(Bill Murray)	So they are enjoying themselves. 
+
 69:16 	(Joe Rogan)	Well, it's a tight show. They've been doing that show for so long. Like, their muscles are, like, very developed. You know, their comedy improvisation muscles. 
+
 69:23 	(Joe Rogan)	They're just so sharp. When you do a show like that on the road constantly, like, you develop a sort of feel for how to improvise and how things can go well. 
+
 69:33 	(Bill Murray)	You're fearless. And, uh, you know, you certainly. Anyone that's ever been in that racket knows you can't be afraid of dying. 
+
 69:40 	(Joe Rogan)	Right. 
+
 69:41 	(Bill Murray)	So if you're not afraid of dying, let's go. Here we go. And anything. And there's a handful of you. 
+
 69:41 	(Bill Murray)	So it's. It's like the Magnificent Seven. If I don't kill you, he will. 
+
 69:51 	(Joe Rogan)	Right, right, right, right. 
+
 69:52 	(Bill Murray)	So. So if I don't kill you, he will. 
+
 69:54 	(Joe Rogan)	Yeah. 
+
 69:55 	(Bill Murray)	So it's. It's fun to watch. It was really fun to watch. Finally see it live. 
+
 69:59 	(Bill Murray)	I'd only seen it on television. To see the live show was cool. It's. 
+
 70:02 	(Bill Murray)	I recommend it, too. They. They're coming to a town near you. 
+
 70:06 	(Joe Rogan)	Yeah. 
+
 70:06 	(Bill Murray)	If you're. 
+
 70:07 	(Joe Rogan)	It's a great show. 
+
 70:07 	(Bill Murray)	It's a great show. You should definitely see it. 
+
 70:09 	(Joe Rogan)	If they're coming to you. Dave. Dave Foley, who was on Kids in the hall, was, uh. He was also on news radio. 
+
 70:15 	(Bill Murray)	Oh, okay. 
+
 70:16 	(Joe Rogan)	He played, uh, the manager of the station who is in charge of that show. So I. Stephen Root, uh, from Office Space and a million other things. Andy Dick, um, uh, Maura Tierney, Vicki Lewis, Candy Alexander. 
+
 70:32 	(Bill Murray)	I know a lot of those people. 
+
 70:33 	(Joe Rogan)	Yeah. 
+
 70:33 	(Bill Murray)	Yeah. 
+
 70:34 	(Joe Rogan)	So that was the show. 
+
 70:35 	(Bill Murray)	Well, that was so how it ran. Five years. 
+
 70:37 	(Joe Rogan)	Yeah, well, around four years. And then Phil got killed and then. 
+
 70:41 	(Bill Murray)	That'S what ended it. 
+
 70:42 	(Joe Rogan)	John Lovitz, uh, who is a good friend of his, uh, took his place. Well, not take it over necessarily. It was a real ensemble. I m mean, Dave was really like the main star. 
+
 70:50 	(Joe Rogan)	Dave Foley was. But it was, um. It just, you know, for whatever reason, the John. 
+
 70:56 	(Joe Rogan)	I think the John Lovett's ones were really funny. They were really good. But it was just. 
+
 71:00 	(Bill Murray)	It's just different funny. 
+
 71:01 	(Joe Rogan)	It was just the end of the line. The show was over and it got canceled after the fifth year. 
+
 71:06 	(Bill Murray)	Yeah, there's something about it was like that said, I love the fifth year. It's like, wait a second. High school is only five years. Why should this show be any longer? 
+
 71:13 	(Joe Rogan)	Five years is a long time. It's a long time. 
+
 71:16 	(Bill Murray)	I know. It's amazing to think we thought like five years. This is it. Uh, we're done. 
+
 71:20 	(Bill Murray)	Goodbye, everybody. That was forty five years ago. Who the hell thought that would happen? 
+
 71:26 	(Joe Rogan)	I mean, is it the longest running show ever on television?
+
 71:29 	(Bill Murray)	I think the Today show is the longest running. 
+
 71:31 	(Joe Rogan)	Oh, is it really? 
+
 71:32 	(Bill Murray)	Well, interesting, if I had to guess. 
+
 71:34 	(Joe Rogan)	Certainly the longest running show that's actually entertaining. I mean, snl's been around for. 
+
 71:38 	(Bill Murray)	So don't tell Al Roker that, buddy. Can I take a break a second? Yeah. 
+
 71:43 	(Joe Rogan)	Um, take, uh, a leak. Be right back. 
+
 71:45 	(Bill Murray)	You're in charge. 
+
 71:46 	(Joe Rogan)	Okay, I'll do a little bit. See, in a bit. 
+
 71:50 	(Bill Murray)	You have a very. You have so much cool stuff on the walls, a lot of art. Do you do shows where you walk around, show all the stuff? 
+
 71:56 	(Joe Rogan)	No, no, really? No, no, no, no, no. I just. It's personal for us. For us and the guests. 
+
 72:02 	(Bill Murray)	Well, there is a photograph in the. In the men's room. I didn't. 
+
 72:06 	(Joe Rogan)	Which one? 
+
 72:06 	(Bill Murray)	Uh, it's Presley. And it looks like it's a mug shot. 
+
 72:10 	(Joe Rogan)	It's a fake mug shot. So what it is is he went to the White House and he met Nixon. 
+
 72:14 	(Bill Murray)	Okay, the gun thing where he gives Nixon. He gives him a revolver. 
+
 72:17 	(Joe Rogan)	Yeah. 
+
 72:17 	(Bill Murray)	He gives him a glove, something automatic, pistol. 
+
 72:20 	(Joe Rogan)	Yeah. What did he give him? 
+
 72:21 	(Bill Murray)	And Nixon gives him a drug badge to be a drug agent. You don't know that part. 
+
 72:27 	(Joe Rogan)	That's right. 
+
 72:28 	(Bill Murray)	I. He gave Presley a gun badge because. 
+
 72:32 	(Joe Rogan)	Presley would talk about all these guys who were doing drugs. Meanwhile, he was high as well. 
+
 72:38 	(Bill Murray)	He, uh, was. He was in pain, you know? Yes, he was in pain. He had physical pain. He had. 
+
 72:42 	(Joe Rogan)	What was the physical pain? What was wrong with him? 
+
 72:45 	(Bill Murray)	I think he did the splits a lot of times. You know, like Chevy's. You know, Chevy hurt himself falling, you know. Oh, yeah, people have pain. 
+
 72:52 	(Bill Murray)	Presley had. I don't know. I don't remember all the facts, but Presley had physical pain and, um, a key, I don't know what his back or something like this sacroiliac or whatever. 
+
 73:03 	(Joe Rogan)	The hell, and they got him hooked. 
+
 73:05 	(Bill Murray)	And so he had, like, painkillers. 
+
 73:06 	(Joe Rogan)	Right. But it's just hilarious that he was the drug guy. 
+
 73:08 	(Bill Murray)	It is hilarious. Yeah. It's like good, good fun. It's like a great American story. 
+
 73:15 	(Bill Murray)	And like. Yeah, you just see the picture. There's a photograph that exists of Nixon handing him the badge. 
+
 73:22 	(Bill Murray)	And, uh, you know, you can laugh looking at it going, right. That's exactly right. 
+
 73:27 	(Joe Rogan)	Yeah. 
+
 73:27 	(Bill Murray)	But, yeah, uh, there it is. And there's the damn badge. Special assistant. Special assistant. 
+
 73:37 	(Bill Murray)	You know what I did see the other night? Um. Did you ever see Frost and Nixon? 
+
 73:42 	(Joe Rogan)	No. 
+
 73:44 	(Bill Murray)	Uh, it's a movie that was made and back in the day, after Watergate. Is his name David Frost? He was a British interviewer cat. And, um, he staged. He had this idea to, uh. 
+
 73:53 	(Bill Murray)	He was trying to, like. He sort of lost his place in the universe of England anyway, or the world. And he came up with this idea somehow, if he could somehow get an interview with Richard Nixon. 
+
 74:06 	(Bill Murray)	And it's a pretty well made movie. It's a very well made movie about it. And they paint Frost pretty much as like, maybe what he was like. 
+
 74:23 	(Bill Murray)	Sort of what the perception. My perception is kind of what he was like. Not a perfect person, but, uh, certainly not, uh, you know, but certainly got some juice. 
+
 74:35 	(Bill Murray)	Certainly has some. Some sort of idea of some. Something going on. 
+
 74:41 	(Bill Murray)	That sounds very small, but, uh, he. He was complicated. That's the cheating word. 
+
 74:47 	(Bill Murray)	And Nixon, too. And I just want to say that Frank Langella, who I only know from, like, doing. He was kind of like a Broadway guy and he did some horror movies. 
+
 74:56 	(Bill Murray)	He's really good as Nixon. Very, very, very, uh, uh, very good as Nixon. And it's just a really well made movie. 
+
 75:01 	(Bill Murray)	And I was. I was up in New York and I thought, you know, I'm gonna find Frank Langella. 
+
 75:07 	(Joe Rogan)	There it is right there. 
+
 75:08 	(Bill Murray)	And tell him. So there's the guy who. I don't know what this man's name was, who plays for us. I can't recall anything, but he's good. 
+
 75:08 	(Bill Murray)	And there's Langella playing Nixon. And Langella is really good as Nixon. And Nixon's not easy to do. 
+
 75:21 	(Joe Rogan)	Does he do the voice well? 
+
 75:22 	(Bill Murray)	He does them well. And you know when you try too. 
+
 75:25 	(Joe Rogan)	Hard, I'm gonna hear those. Your personal lawyer came to Washington. 
+
 75:29 	(Bill Murray)	Yeah, there you go. 
+
 75:30 	(Joe Rogan)	Yeah, it's pretty fucking good. 
+
 75:32 	(Bill Murray)	It's good. Yeah, he's really good. So I never got around to finding m out who. Where Franklin Joe lived in New York or calling him up, but maybe someone who knows him, listens to your show, will say, hey, Frank, you got a shout out today in Texas. 
+
 75:45 	(Joe Rogan)	That guy's great. He was great as Dracula too. Yeah, that whole Nixon, Watergate story, uh, I used to think about it very differently until, uh, Tucker Carlson broke it down for me. Bob Woodward was an intelligence agent, and the first time he ever gets a job as a journalist, he's covering Watergate, the fb, all the people that were involved in the break in, FBI people. 
+
 76:06 	(Joe Rogan)	Like it was. It was a complete intelligence operation. Nixon definitely did the things they accused him of. 
+
 76:12 	(Joe Rogan)	But the whole thing was sort of coordinated by the intelligence agents to get Nixon out of office. Apparently what the story was according to. I could play you the Tucker thing if you'd like to see it, but apparently what the story was. 
+
 76:25 	(Joe Rogan)	It sounds crazy. 
+
 76:26 	(Bill Murray)	Well, it sounds, but the story was. 
+
 76:28 	(Joe Rogan)	That Nixon was digging into who killed jfk. One of the, One of the things that they wanted to set up when he was running for president to make sure that Gerald Ford was his vice president. Gerald Ford was also on the Warren Commission. That they were. 
+
 76:43 	(Joe Rogan)	He was digging into it and they wanted to remove him from office. They set this up. They framed him. 
+
 76:43 	(Joe Rogan)	He did it. They got him out of office. Gerald Ford gets in. 
+
 76:54 	(Bill Murray)	Okay, I got a shorter version. 
+
 76:55 	(Joe Rogan)	Okay. 
+
 76:55 	(Bill Murray)	Okay. I don't. You're going to take me down the Kennedy Road and I, uh. You know where we're going there with that one? I got Richard Belzer tapes I can play for you. 
+
 77:02 	(Joe Rogan)	Oh, I'm a fan of Bells or I met Belzer Bells Belzer and I talked ufo's. 
+
 77:08 	(Bill Murray)	The new guy is going to Bigfoot. The renew guy is going to bring out all the, all the warrant commission stuff, supposedly release all this stuff. Yeah. 
+
 77:16 	(Joe Rogan)	But my question is, what the fuck is going to be in there?
+
 77:19 	(Bill Murray)	Allegedly. I like that. 
+
 77:20 	(Joe Rogan)	It's not going to be, hey, this guy did it. Here it is. 
+
 77:23 	(Bill Murray)	No, here's the way I see the Bob Woodward story. See, you said, uh, you. I don't know, what did you say first about Nixon, about your way of looking at Nixon, the way I look at Nixon. And part of it is seeing this. 
+
 77:24 	(Bill Murray)	I like this way that. I love the way Langella did this. I thought it was really well done. 
+
 77:42 	(Bill Murray)	And made a character of him, you. 
+
 77:45 	(Bill Murray)	Know, a person of him. Um, but to me, uh, I feel. Here's what I feel about Nixon is like, you know, he was hard to care for. He ran against jfk, who was everybody's, you know, my hero. 
+
 78:01 	(Bill Murray)	And my father actually pushed me into John F. Kennedy in nineteen, uh, sixty, you know, just pushed me into the crowd and just pushed me up. So I bounced up against him, you know, now, now I'd have been wrestled to the ground. 
+
 78:14 	(Bill Murray)	But back then you could do that anyway. Uh, I, you know, I felt like Nixon was, you know, and certainly knowing Hunter and knowing all of the history of Nixon and whatever, Nixon wasn't my guy. 
+
 78:29 	(Joe Rogan)	Oh, agreed. 
+
 78:30 	(Bill Murray)	He was not my guy. 
+
 78:31 	(Joe Rogan)	No, I'm not defending Nixon in any way, shape or form. In fact, I talked about Nixon before that. I think he's the problem with the whole psychedelics, drug legal. Legalization act. 
+
 78:40 	(Bill Murray)	So, so. But however, when I read Wired, the book written by what's his name, Woodward? M. About Belushi, I read like five pages of Wired and I went, oh, my God. 
+
 78:54 	(Bill Murray)	They framed Nixon. 
+
 78:57 	(Bill Murray)	All of a sudden I went, oh, my God. If this is what he writes about my friend that I've known for half my adult life, uh, which is completely inaccurate. Talking to the people of the outer, outer circle, getting the story, what the hell did they, could they have done to Nixon? I just felt like if he did this to my friend, like this. And I acknowledge I only read five pages, but the five pages I read, you know, made me want to, like, set fire to the whole thing. 
+
 79:27 	(Joe Rogan)	Jamie, see if you could go those five pages. 
+
 79:29 	(Bill Murray)	I went, if they, if he did this to Belushi, what he did to Nixon is probably soiled for me too. I can't. I can't take it. And I know you say, well, you could have two sources and everything like that, but the two sources that he had, if he had them for the Wired book, were so far outside the inner circle that it was criminal, cruel. 
+
 79:38 	(Bill Murray)	And the reasoning for it is that the most famous person ever to come from Wheaton, Illinois, is John Belushi. The second most famous person to come from Wheaton, Illinois, is Harold Red Grange, the football player. And the third most famous person to come from Wheaton, Illinois is Bob Woodward. 
+
 80:16 	(Joe Rogan)	Really? Wow. 
+
 80:21 	(Bill Murray)	So there's all my controversy for today. That's all I got. I got a bone about that one. You know, I got a bone for Woodward ever since I read that. 
+
 80:29 	(Joe Rogan)	Well, once you see it from something that you know. You know, once you see propaganda or bullshit from someone that you know, and you see a distorted perception, it really. It opens your eyes to the fact that a lot of the things you read are horseshit. 
+
 80:43 	(Bill Murray)	I mean, like, Belushi made whole people's careers possible. He made people's careers possible. Mine would be one of them. All the people that he dragged to New York. 
+
 80:51 	(Bill Murray)	He went to New York first. He broke into New York, he took over New York, and he dragged all of us from the second city, you know, to New York. He's the one that got everyone there. 
+
 81:09 	(Bill Murray)	And there are musicians and lots of them that will thank Belushi for the creation of, you know, the revivification of the blues and for, like, the fact that there is, like, a House of Blues chain that blues players can go and play and there are all these venues that wouldn't have existed without Belushi. Yeah, you know, he did a lot of things for people. He did a lot of. 
+
 81:31 	(Bill Murray)	There was a lot of people that slept on John Belushi's couch. There's a lot of people that stayed for free at his house until they made it in New York. And I'm, um, one and any. 
+
 81:42 	(Bill Murray)	You know, he died in an unfortunate way. But the men. When he was. 
+
 81:47 	(Bill Murray)	He was still the best stage actor I ever saw. He was absolutely magnetic. You couldn't take your eyes off him. 
+
 81:55 	(Bill Murray)	And he did a lot of wonderful things for each other. He was a short hitter. Guy could only drink like four beers. 
+
 81:55 	(Bill Murray)	And he was drunk. So the idea that he died of an overdose is hilarious. Like, that's what my brother said. 
+
 81:57 	(Bill Murray)	He said, what do you have, four beers? You know, he's. John's dead. What do you have, four beers? Cause he was not really much of a drinker, but. 
+
 82:11 	(Joe Rogan)	But it was drugs, right? 
+
 82:13 	(Bill Murray)	It was drugs. It was a speedball. 
+
 82:15 	(Joe Rogan)	Yeah. What was. 
+
 82:16 	(Bill Murray)	And it was this, uh. 
+
 82:18 	(Bill Murray)	I believe my knowledge, was like, the. 
+
 82:20 	(Bill Murray)	First speedball he ever had. 
+
 82:22 	(Joe Rogan)	Jesus Christ. So what was the Woodward interpretation? What was his version? 
+
 82:28 	(Bill Murray)	Oh, it was just. He was just. He was talking to people. Like, wait a minute. 
+
 82:31 	(Bill Murray)	 You're telling me that that guy over there, that guy who's that far away from the center of things is telling you the facts about John Belushi? 
+
 82:39 	(Bill Murray)	That guy way the fuck over there. 
+
 82:40 	(Bill Murray)	Is telling you who John Belushi is. It's like, wait a minute. 
+
 82:44 	(Joe Rogan)	And he didn't Contact any of you guys. 
+
 82:46 	(Bill Murray)	Oh, I didn't. I didn't want to have anything to do with it. I would. I would have nothing to do with it. 
+
 82:46 	(Bill Murray)	I didn't like the. And it smelled funny from day one, you know, and. And, uh, you know, Judy wanted people to talk. 
+
 82:46 	(Bill Murray)	I was like, sorry, I know where this is going. And it wasn't exactly where I thought it was going. Even worse than where I thought it was going. 
+
 83:06 	(Bill Murray)	Even just the title alone, you know, it was just. It was cold. 
+
 83:13 	(Joe Rogan)	So just exploitation of his death. 
+
 83:16 	(Bill Murray)	You know, I, uh. 
+
 83:18 	(Bill Murray)	You'd have to hold me down and burn my feet to make me read more of it. So I couldn't say that it's exploitation of his death. But, you know, guys that write books come up with, you know, Bob Woodward's got a new title every forty five minutes for another book, you know, so, you know, um.
+
 83:40 	(Joe Rogan)	It's a very disturbing thing. 
+
 83:42 	(Bill Murray)	It's just tough, you know, it's like. And when, like. So what do you. You know, that's. 
+
 83:46 	(Bill Murray)	He like, he really. In those five pages I read, he tore down my friend with a. You know, I didn't see any. 
+
 83:53 	(Bill Murray)	There was no compensation. There was no balance in the five I read. 
+
 83:57 	(Bill Murray)	And maybe. 
+
 83:58 	(Bill Murray)	Maybe I was unlucky, but if that much was, to me, was disturbingly ugly. 
+
 84:08 	(Bill Murray)	And, like, irresponsible to report. And then I. I can't imagine that I got so that I only found pipe. 
+
 84:16 	(Joe Rogan)	Yeah. 
+
 84:19 	(Bill Murray)	Um. But, you know, and I'm sure he's done. Wilbert does other things. I've seen him on tv, and he can be smart and everything, but, you know, he's gonna have to answer for that sometime for something, you know, I think. 
+
 84:31 	(Joe Rogan)	Yeah. 
+
 84:31 	(Bill Murray)	You know, it's just like, you don't get a free ride for. Not with my friend. 
+
 84:36 	(Joe Rogan)	No. Well, you can get away with things a lot more back then. When he wrote that book as well, you know, so, um, there's no other venues for people to express themselves. Back then. 
+
 84:45 	(Joe Rogan)	It was like, he writes the book, he does the interviews for the book. This is the narrative. 
+
 84:50 	(Bill Murray)	Yeah. And Bob Woodward, like one of the squarest guys in the world, gets to tell the story of what it was like to live in New York City in the seventies. Really in the late seventies and eighties. Like, he knew what the story was. 
+
 85:04 	(Bill Murray)	Come on. 
+
 85:07 	(Joe Rogan)	That must have been a magical time. 
+
 85:09 	(Bill Murray)	It was cool. It was really fun. You know, it was a smaller city, in a funny way. Um, there was a lot more freedom. 
+
 85:18 	(Bill Murray)	Uh, and it was. When I got there, you know, the Town was broke, you know. You know, this town was falling apart. 
+
 85:26 	(Bill Murray)	And, you know, the subways were rough. And, you know, people, you know, to me, it was exciting. 
+
 85:32 	(Bill Murray)	I didn't. 
+
 85:33 	(Bill Murray)	What the hell. 
+
 85:33 	(Bill Murray)	I know I came from Illinois, from Chicago, from the suburbs of the city and Chicago. Chicago was pretty. 
+
 85:41 	(Bill Murray)	It was a city. 
+
 85:43 	(Bill Murray)	And in some, it had its own hazards. You know, there was some more hazard in where I lived in Chicago was more dangerous than where I lived in New York ever. But the city was, you know, the economic part of it and the infrastructure was, uh, you know, like the subways were. You know, people complain about the subways now. 
+
 85:47 	(Bill Murray)	I was like, wait a second. These subways are air conditioned. And the windows close. 
+
 86:08 	(Bill Murray)	Those windows were open summer and winter, and you either froze or you had, like, metal shavings, dust flying through in. 
+
 86:18 	(Bill Murray)	The summer with no heat, with no air conditioning. 
+
 86:21 	(Bill Murray)	And, you know, if it's ninety seven degrees out, it's even hotter inside of the crowded, uh, subway car, you know. 
+
 86:27 	(Joe Rogan)	So that was also back when Times Square was Times Square and it was cool. 
+
 86:31 	(Bill Murray)	Yeah, Times Square was. Is just as weird now, but it's just a different weird. They sort of tried to sanitize it, you know, and it's kind of stupid. 
+
 86:40 	(Bill Murray)	I mean, now there's a lot more lights and everything. There's more signs. 
+
 86:43 	(Bill Murray)	But the signs were always cool when they were neon. They were cool. 
+
 86:46 	(Joe Rogan)	Yeah. 
+
 86:47 	(Bill Murray)	Now they're just these glow lights and they just keep moving and dancing and, you know, it's. You know, people with, like, vision problems shouldn't be out. And people, you know, who are the people that are supposed to watch out for strobe lights? 
+
 86:58 	(Joe Rogan)	Epileptics. 
+
 86:58 	(Bill Murray)	Yeah, epileptics can't walk through Times Square. And forty second street is. Blah. It's, like, dull, you know, it's an Applebee. 
+
 87:06 	(Bill Murray)	But then it was like, wow. 
+
 87:08 	(Joe Rogan)	Yeah, it's a giant Applebee's. It's a giant Applebee's with huge ads, giant LCD ads. 
+
 87:13 	(Bill Murray)	But it was cool back then. You could see stuff. There was real stuff to see. Not that there's. 
+
 87:19 	(Bill Murray)	It's still real, but it's just a different real. There's a lot more. It's a whole international world now, which it wasn't back then. 
+
 87:27 	(Bill Murray)	Back then, it was just like the, uh, street survivors of the city at the very, you know, the physical center of it. And you saw some amazing things. And it was alive, certainly alive. 
+
 87:42 	(Bill Murray)	Now there's, you know, you're crashing into not exactly debutante or not exactly like, bridesmaid parties. But, like, you know, there's people with flags and dragging people around stuff. 
+
 87:53 	(Joe Rogan)	Well, there's always a lot. 
+
 87:55 	(Bill Murray)	There's a lot to see. There's still a lot to see. It's still. It's still, uh, New York City, New York. 
+
 88:00 	(Joe Rogan)	But back then, having that experience, being in that wild New York of the nineteen seventies and then getting on snl, how old were you? 
+
 88:10 	(Bill Murray)	Twenty six. 
+
 88:12 	(Joe Rogan)	Wow. That had been a fucking bizarre experience. 
+
 88:18 	(Bill Murray)	Yes, it was, uh. It was a great experience, for sure. Uh, and, you know, you saw, you know, you know, your life just changed dramatically from being, you know, unable to. Barely able to pay your rent or afford, you know, car, a telephone, anything like that, you know, um, to having a credit card. 
+
 88:46 	(Bill Murray)	Like that was a big thing, you know, credit card and a credit card. And, um, you know, we had to, because they wanted it safe. We had this sort of, uh, cab account with a thing called Skulls Angels. 
+
 89:00 	(Bill Murray)	There was a sort of company within the Yellow Cab Company called Skulls Angels. And you could call them, and they would pick you up anywhere in the city and take you wherever. And it was just. 
+
 89:09 	(Bill Murray)	You just signed your name. You didn't have to have any money, and I had a credit card and that account, and that's all. And I just went. 
+
 89:18 	(Bill Murray)	Lived for a couple of years like that. And you just. Basically, all you were doing was going to work and going to sleep and going. 
+
 89:20 	(Bill Murray)	And then in between, uh, when you'd have twelve or fifteen hours where you didn't have to do anything, you go, like, okay, let's go. You know, and then you go, like. Like, anything could happen. 
+
 89:38 	(Bill Murray)	Anything could happen. And you could go anywhere in the city, and you sort of had a. Sort of a thumbprint of, okay, you could go into any place, and people would be like, come on in. 
+
 89:48 	(Bill Murray)	You know, and, uh, you got to, you know, really, you know, I mean, I probably could have done, you know, gotten more out of it, but I certainly got a lot. I put a lot into it. You know, I got a lot. 
+
 90:05 	(Bill Murray)	An amazing kind of education. Uh, you know, uh, I got an amazing education. But I guess that gets back to sort of, you know, I got to put my education to use, is what I should say. 
+
 90:10 	(Bill Murray)	I mean, uh, in this kind of new, challenging environment, I got to put. 
+
 90:24 	(Bill Murray)	What my education had to that point. 
+
 90:26 	(Bill Murray)	Had been to use. 
+
 90:28 	(Joe Rogan)	What was the adjustment like, going from being broke to all of a sudden having money, being famous, living in New York City, trying to make sense of this new reality that you live in? 
+
 90:39 	(Bill Murray)	Well, uh, I'll try to do them in Order. Well, going. Being broke was. Oh, I should tell you. 
+
 90:46 	(Bill Murray)	Uh, I'm here in Austin, Texas. This is a William Murray golf shirt I brought you. Somehow I got involved with these clothes. 
+
 90:55 	(Bill Murray)	The clothes got involved with me. And that's me. That is I. And that person right there. 
+
 90:57 	(Bill Murray)	And I brought you a pair of shorts. 
+
 91:02 	(Joe Rogan)	Oh, thank you. 
+
 91:04 	(Bill Murray)	I also brought licorice, which you don't want. 
+
 91:08 	(Joe Rogan)	He's a licorice. 
+
 91:09 	(Bill Murray)	I don't know what to make of. 
+
 91:10 	(Joe Rogan)	You trying to licorice. 
+
 91:12 	(Bill Murray)	Um, anyway. So anyway, the shorts are very. You're not too chubby, but the shorts are. Are very forgiving. 
+
 91:12 	(Bill Murray)	Um, are these golf shorts? I've been traveling. Well, they're so. Yeah, they're kind of golf. 
+
 91:14 	(Bill Murray)	So are you gray? Are you a gray? I can wear gray. 
+
 91:28 	(Joe Rogan)	Yeah, sure. I'll wear that. 
+
 91:29 	(Bill Murray)	That's what I thought. I thought you'd be a gray guy. Those are for you. 
+
 91:32 	(Joe Rogan)	Thank you very much. 
+
 91:32 	(Bill Murray)	They've got my name on, um, them. So if they get lost, they'll be returned to me. 
+
 91:36 	(Joe Rogan)	Nice. 
+
 91:36 	(Bill Murray)	Yeah. 
+
 91:37 	(Joe Rogan)	Thank you very much. Okay, I'm excited. 
+
 91:39 	(Bill Murray)	And wait, I got your shirt. I thought you might like this shirt because this sort of has. This kind of has the range of possibility on it. 
+
 91:47 	(Joe Rogan)	Oh, yeah. 
+
 91:49 	(Bill Murray)	It has a. Lots of. That kind of has a sort of a studious look for you. 
+
 91:52 	(Joe Rogan)	There's a lot going on in that. 
+
 91:54 	(Bill Murray)	There's a lot going on. Thank you. There you go. 
+
 91:57 	(Joe Rogan)	Thank you very much. 
+
 91:58 	(Bill Murray)	Yeah, you're welcome. I had. I have long pants, too, if you want some long pants, but I think you're more of a shorts guy. 
+
 92:04 	(Joe Rogan)	Yeah, I'm good. Thank you, though. Jamie's a gigantic golfer. 
+
 92:08 	(Bill Murray)	Oh, yeah. Are you a long. How. You're tall. 
+
 92:10 	(Bill Murray)	How tall are you? Six? One? Well, it's not that tall. Let's see. So you could. 
+
 92:15 	(Bill Murray)	So you. So we're the same sort of. And so you like white or blue or black? Those are shorts. 
+
 92:24 	(Bill Murray)	Hold on. Are you a shorts guy or long pants guy? 
+
 92:26 	(Joe Rogan)	I like it all. It's usually hot in Texas. 
+
 92:28 	(Bill Murray)	You love it all, huh? Huh? 
+
 92:29 	(Joe Rogan)	It's hot out here to play golf in Texas. Texas. 
+
 92:31 	(Bill Murray)	It's hot. 
+
 92:32 	(Joe Rogan)	Texas gets hot and you're playing golf? Usually. 
+
 92:35 	(Bill Murray)	I bet. Well, you can play all year here. How chubby are you? 
+
 92:39 	(Joe Rogan)	I'm not. I don't think. At least. 
+
 92:43 	(Bill Murray)	Okay, well, the pants are pretty good. Well, here's the. You want the shorts? 
+
 92:46 	(Joe Rogan)	Yeah, give them the shorts. 
+
 92:47 	(Bill Murray)	These are black. 
+
 92:48 	(Joe Rogan)	Nice. 
+
 92:49 	(Bill Murray)	And that's the Murray tartan right there. That's the family tartan there. There you go. 
+
 92:53 	(Joe Rogan)	Is that, like, from your family seal? 
+
 92:55 	(Bill Murray)	Huh? Huh? 
+
 92:56 	(Joe Rogan)	The tartan is a special to your family? 
+
 92:58 	(Bill Murray)	Yeah, that's the Murray tartan. 
+
 93:00 	(Joe Rogan)	Really? 
+
 93:00 	(Bill Murray)	Yeah. 
+
 93:01 	(Joe Rogan)	Nice. 
+
 93:02 	(Bill Murray)	Yeah. Okay. And then so here. And then. 
+
 93:05 	(Bill Murray)	So you want a shirt? Sure. Let's see. I should show off this shirt. 
+
 93:10 	(Bill Murray)	This is a shirt because my sort of brother had something to do with this one. This has got, like, all this stuff from Chicago on it. 
+
 93:16 	(Joe Rogan)	Oh, nice. 
+
 93:16 	(Bill Murray)	It's got, uh. I haven't even looked at this yet. 
+
 93:18 	(Joe Rogan)	Guitars. Well, there's guitars like a pizza place, sort of. 
+
 93:22 	(Bill Murray)	I don't know why there's tambourines and stuff on it. I have no idea. But there's always a glass of beer for some reason. 
+
 93:28 	(Joe Rogan)	There's a drum, but there's a bunch. 
+
 93:30 	(Bill Murray)	Of references to people we know and things we did in Chicago. And I see there's, like, the names of some character, a movie I played. And then there's Slu's place. That's my friend Jeff Sluman, who's a golfer. 
+
 93:35 	(Bill Murray)	I think you're gonna like this shirt here. Jamie, how's that for you? 
+
 93:44 	(Joe Rogan)	Oh, that's perfect. That's Jamie. 
+
 93:46 	(Bill Murray)	Okay. What color pants did I throw at you? 
+
 93:49 	(Joe Rogan)	Well, I got some black shorts over here. Perfect. Black shorts, dark blue shirt. You're in. 
+
 93:53 	(Bill Murray)	You can pull that off. Way to go high for that one. 
+
 93:56 	(Joe Rogan)	Thanks. When you stomp Tony Hinchcliffe in this inevitable match. Yeah, let's go. You wear that. 
+
 94:02 	(Joe Rogan)	Be perfect. 
+
 94:03 	(Bill Murray)	There's that. 
+
 94:04 	(Joe Rogan)	How long you been golfing for? 
+
 94:06 	(Bill Murray)	Well, the question is, how long was I have I been catting for? So I started caddying, um, when I was very young. Our eldest brother Edward started cadding. 
+
 94:17 	(Joe Rogan)	So Caddyshack must have been a lot of fun for you then. 
+
 94:20 	(Bill Murray)	Yeah, well, Caddyshack came. You know, my brother Brian was the. Wrote the. Brian wrote it with Doug Canney, one of the really great funny guys from Nash Lampoon and Harold Ramis, who ended up directing the movie. 
+
 94:33 	(Bill Murray)	But all the golf stuff is all Brian's, you know, memories of caddying. And the whole golf story comes from Brian, sort of. I mean, they all write jokes, but Doug, uh, was in charge of all the fancy lad stuff. 
+
 94:47 	(Bill Murray)	His dad was some sort of tennis pro sometime or other in Ohio. And Harold wrote the jokes that were left and shaped it and directed it. 
+
 94:57 	(Joe Rogan)	So you started off cat ing? 
+
 94:58 	(Bill Murray)	Yeah, yeah. I started as a shag boy, which doesn't even exist anymore. 
+
 95:01 	(Joe Rogan)	What is that? 
+
 95:02 	(Bill Murray)	There's a thing called a jam boy, which I don't know if it really exists. My friend Duff insists that back in the day, there was a thing called a jam boy who walked around. I think it was a slave or something like it, who walked around covered with jam to draw the insects away from the golfers. Now, I don't know if that's true or not. 
+
 95:21 	(Bill Murray)	We should ask your listeners, but I didn't have it that bad, of course, but, um, a shag boy was. Golfers had what they called a shag bag, which was like a small bag of golf balls, like one hundred golf balls or something like that. And they would dump them out on the practice tee, and you would run out there with the bag, and they would. 
+
 95:40 	(Bill Murray)	You would be the target. Okay. Go out about seventy yards, sixty yards, you know, and then they start hitting. 
+
 95:48 	(Bill Murray)	See? No, but see, that would be safer than what I was wearing. We didn't have that, but I was just out there. See? Can you. 
+
 95:56 	(Bill Murray)	Yeah, but I was definitely out there. And they would aim at you. And the thing was, it would last for an hour or so. 
+
 96:02 	(Bill Murray)	And, you know, you're only. I was ten when I started doing this. So, um, you sort of. 
+
 96:08 	(Bill Murray)	Your mind would wander, and occasionally you'd hear, like, a ball land next to you or really close. I never got conked exactly on the head, but I definitely got hit on one bounce, uh, on any number of times. But, um, you were just a target. 
+
 96:21 	(Bill Murray)	And then you. They. He'd wave in the next club, and you'd go like seven iron. 
+
 96:24 	(Bill Murray)	So you'd have to back up a little farther and then farther. And the bigger the club, the wider the dispersion of the. Of the ball. 
+
 96:24 	(Bill Murray)	So you had to run back. You really had to run to catch up to where this bad golfer was hitting the golf balls. So that's. 
+
 96:39 	(Bill Murray)	That was when I was ten. And then, uh, like a year or so later, I became like a caddy. And then I caddied all the way through high school, paid my way through high school. 
+
 96:46 	(Joe Rogan)	When did you start playing? 
+
 96:48 	(Bill Murray)	Well, if you. If you showed up to caddy on Sunday, you were allowed to play golf on Monday morning. So probably I didn't really play golf. Golf like that until really twelve. 
+
 97:00 	(Bill Murray)	Maybe, um, maybe a little sooner. But we used to play golf across the street from our house. There was, like, a line of telephone poles planted in grass, you know, and we would play from foam pole to phone pole. 
+
 97:14 	(Bill Murray)	And that was the pin m. So. But. 
+
 97:19 	(Bill Murray)	So that's it. And then I didn't really play. I mean, once I sort of, you know, made it through high school, I Didn't play for a long time until I made some money. 
+
 97:19 	(Bill Murray)	And then all of a sudden, you can play golf again. Because golf, if you're not cadding, it takes money to play. You gotta at least play and be organized and have a set of clubs and stuff. 
+
 97:37 	(Bill Murray)	So I, um. I picked it up then, and, uh. And now I like it.
+
 97:43 	(Bill Murray)	You know, I was gonna give it up a few years ago, but then, you know, all of a sudden, my son started playing golf. I was like, that's what you gotta do, you know? Uh, so now I'm having more fun playing, and I've gotten smarter. Do you ever play golf? 
+
 97:58 	(Joe Rogan)	No. 
+
 97:58 	(Bill Murray)	Never? 
+
 97:59 	(Joe Rogan)	No. Never? No, I'm scared of it because I think it'll eat up all my time because, uh, I get addicted to games. 
+
 98:07 	(Bill Murray)	Oh. 
+
 98:07 	(Joe Rogan)	Uh, yeah, I play pool a lot. 
+
 98:10 	(Bill Murray)	Do you have a pool table here? 
+
 98:12 	(Joe Rogan)	I got a couple pool tables here. I got one at home. Yeah. 
+
 98:16 	(Bill Murray)	And what game do you play? Do you play, like, straight pool? Ten, nine ball? Yeah, you know, I should work on nine ball. I have a pool table I mostly play with. You know, I mostly play with. 
+
 98:26 	(Joe Rogan)	The thing about it is, I know everybody who plays golf gets fully addicted to it and loves it to death, and I just don't have the time to get fully addicted to another thing. And, you know, uh, just being friends with Jamie and seeing Jamie's addiction, see. 
+
 98:38 	(Bill Murray)	What'S happened over the last few years. 
+
 98:39 	(Joe Rogan)	He'S become a maniac. He's got a. A golfing simulator in the back and really drives balls and. 
+
 98:44 	(Bill Murray)	Oh, yeah, a Trackman. It's in here. 
+
 98:48 	(Joe Rogan)	Yeah. 
+
 98:49 	(Bill Murray)	Wow. 
+
 98:49 	(Bill Murray)	Yeah. 
+
 98:49 	(Joe Rogan)	Is it set up in the garage? And whenever I come. 
+
 98:52 	(Bill Murray)	Do you live here? Do you guys live in this building? 
+
 98:55 	(Joe Rogan)	No, it's a big building, but we don't live here. Uh, we could. We definitely could. Maybe that's the next one. 
+
 98:59 	(Joe Rogan)	Maybe the next one will set up dorms. 
+
 99:02 	(Bill Murray)	Maybe. Yeah. There's always the rooftop. 
+
 99:05 	(Joe Rogan)	Yeah. 
+
 99:06 	(Bill Murray)	Well, yeah, I guess. Um. 
+
 99:08 	(Bill Murray)	Okay, well, I don't want you to get addicted. 
+
 99:10 	(Joe Rogan)	Well, I just. I've heard you're a very good golfer. That's why I'm asking. 
+
 99:13 	(Bill Murray)	Well, just keep that light going. 
+
 99:15 	(Bill Murray)	But it's. But I. I can play. Okay. You know, I play. 
+
 99:18 	(Bill Murray)	I've hit a lot of golf shots. 
+
 99:20 	(Joe Rogan)	What's, like, your handicap? Jamie will know what that means. 
+
 99:22 	(Bill Murray)	Now it's. Now it's about twelve. The lowest I ever was was about seven. Yeah. 
+
 99:27 	(Bill Murray)	Means I can play a little bit. And now it's actually. It's. 
+
 99:30 	(Bill Murray)	What's the word? Diminishing. It's going lower because I've, I've figured something out. There's a. 
+
 99:35 	(Bill Murray)	I went to. There's a great book. These ladies. 
+
 99:35 	(Bill Murray)	I got Pia Nielsen and Lynn. 
+
 99:45 	(Bill Murray)	Pia Nielsen is an easy one to remember, but Lynn's. Whatever. Lynn's Last time they wrote a great book called Every Shot Must have a Purpose. 
+
 99:51 	(Bill Murray)	Did you ever read that one? 
+
 99:53 	(Bill Murray)	Well, I should talk about them because they really are onto something. And it's about quieting your brain when you play, which I always thought I'd get better. As my brain softened, it seemed to be happening. My brain was softening. 
+
 100:06	(Bill Murray)	It was maybe getting better, but not fast enough for me. And then I got. I, um, started following what these ladies had to write. 
+
 100:13	(Bill Murray)	They were Annika's teachers at one time. And Annika Sorenstam, she's a famous golfer. Swedish. 
+
 100:20	(Joe Rogan)	Every shot must have. 
+
 100:21	(Bill Murray)	And there's the forward by Annika. Anyway, Lynn Marriott. How can. See I'm blocking that because it's a hotel name. 
+
 100:28	(Bill Murray)	But, uh. 
+
 100:29	(Bill Murray)	And I, And I, I didn't used to be a member of Marriott Club, but okay, so that's a great book. And they've written a bunch of stuff that they, They're. They know some stuff. 
+
 100:38	(Joe Rogan)	So what did I. 
+
 100:39	(Bill Murray)	That one, Jamie, what does it change? 
+
 100:41	(Bill Murray)	It made. It made m. Me enjoy. I enjoy golf. 
+
 100:43	(Bill Murray)	I've always had a lot of fun, but that made me enjoy golf even more. 
+
 100:47	(Joe Rogan)	How's. How, like, what is it? 
+
 100:48	(Bill Murray)	You know, it just. 
+
 100:50	(Bill Murray)	It's decluttering. You know, it's like when you do it in your life and you, um, you know, you talk about, you know, you mentioned distractions at the very beginning. You know, you think about all the things that can catch you, you know, to distract you. And if you're trying to do something that's pretty straightforward, whether it's, um, stir grits or sew ah. 
+
 101:25	(Bill Murray)	A line of something or, or play a game of golf which ideally you only have to swing, hit the ball like seventy five times. If you're, you know, if you. Everything that distracts you from that is a, uh, is. 
+
 101:40	(Bill Murray)	Is a problem. So it's the ability to like, sort of just pull the weeds out of your head. As I read a Japanese man say once and, and. 
+
 101:49	(Bill Murray)	And attend to it. When you attend to it, it's for, you know, it's a few hours to play a round of golf. Like you say, it takes a little time, but the actual playing of the game is only minutes. 
+
 102:01	(Bill Murray)	The actual hitting of the ball is only minutes. Like an NFL game can take like Three hours on tv, but it's like twenty minutes of action. 
+
 102:09	(Joe Rogan)	Right, right, right. 
+
 102:11	(Bill Murray)	So it's similar to that in golf, that or anything that you have to sort of return to yourself to hit the ball. You got to come back, get it back together to hit the ball or do anything. And so you set your. 
+
 102:29	(Bill Murray)	You're. 
+
 102:30	(Bill Murray)	You have the freedom in between the shots to move and to speak and to tell, uh, jokes and smoke cigars and whatever the hell you want to do. 
+
 102:37	(Bill Murray)	But when you want to hit the. 
+
 102:38	(Bill Murray)	Ball, this is about. You're going to think, you make a little plan and you separate that, you sort of inculcate that, you take it in and then you separate that and you step up and you hit the thing. And hitting the thing is only hitting the thing and that. If you can do that, then you start having real success with the actual hitting. 
+
 102:52	(Bill Murray)	And the sort of joy of the sort of mind body connection and all this sort of aesthetic, uh, all the kind of like, uh, you know, almost spiritual things about a mind, body, exercise, a game come to you. You know, like, you know, when you hear great athletes say they're in a zone, they're not in a zone. They're really conscious, they're really connected, they're really aware. 
+
 103:28	(Bill Murray)	It's more than a zone. It's like the ideal place to be. 
+
 103:32	(Joe Rogan)	Right, right. And what is it about their writing that helped you, like, what is their philosophy that helped, like, steer you more towards being able to do that? 
+
 103:42	(Bill Murray)	Well, for an example, it's like something that can keep you in your body because you have to stay in your body. I believe that anyway. I, uh, already believe that. But. 
+
 103:51	(Bill Murray)	So you've got this dreidel here, right? So imagine it's a golf ball. Uh, one thing that they sort of say, it was like you would, you would just in between shots, you would just take your golf ball. If you're on a putting green or if you have a sparrow in your. 
+
 104:04	(Bill Murray)	Pocket and you just. 
+
 104:08	(Bill Murray)	Toss it up and catch it, toss it up and catch it. That keeps. Keeps you like, physically aware of. I've got to do this and this and that. 
+
 104:16	(Bill Murray)	I've got to do these two things. So I've got to have my attention in my body. I've got to stay home, you know. 
+
 104:22	(Bill Murray)	So if you can stay in your body, it all begins in the body. Everything we are, uh, everything we hope to be, everything we dream about, it's all within the skin. So you got to stay within the skin. 
+
 104:22	(Bill Murray)	So if you can make yourself come back, if you can get Yourself back inside. You don't have so far to go to achieve your intended goal, you know? 
+
 104:51	(Bill Murray)	Right. 
+
 104:51	(Bill Murray)	Uh, you don't have to. You don't have to, like, drag yourself back from outer space. You're not dreaming over there. I'm in my body already, so I'm close, you know? Does that make sense? 
+
 105:00	(Joe Rogan)	Yes. 
+
 105:01	(Bill Murray)	So. 
+
 105:02	(Bill Murray)	And you know, I've had some discussions with Pia and she says, well, that's what the great golfers are doing. They are pulling themselves back into this thing. That's why they hit so many good shots, is because they. Their home, you know. 
+
 105:16	(Bill Murray)	Their home, you know. And so that's, that's sort of what I got out of her. And I, I sort of learned and believed that from other venues, but I never had it put in with practical applications. 
+
 105:31	(Bill Murray)	Like, like, she gives. They give for golf. You know, you think of golf as like, oh, I can be willy nilly out here and I can be fun or I can be aggressive or I can be competitive or whatever the hell. 
+
 105:42	(Bill Murray)	All that stuff is real. That's emotion kind of thing. But if you're not in the body, good luck. 
+
 105:52	(Bill Murray)	Uh, and it's only luck then. 
+
 105:53	(Bill Murray)	Uh. 
+
 105:53	(Joe Rogan)	Well, there's a great joy in things that take you away from the rest of the world because they require so much of your attention. That's what I get out of pool, and that's what I get out of archery too. I practice archery. But there's things that require so much focus while you're doing them, and you have to be in your body, you have to, you have to be synchronized. 
+
 106:14	(Bill Murray)	I would imagine archery would be one of the more challenging ones. 
+
 106:17	(Joe Rogan)	Very challenging. Um, it's very challenging because it's. You have, you're supposed to have as little movement as possible upon the execution of the shot. And so there's all these strategies. 
+
 106:28	(Bill Murray)	They started televising it lately. 
+
 106:29	(Bill Murray)	It's really cool to watch. It's very cool to watch. 
+
 106:32	(Bill Murray)	And they've got them. Cameras are right on their face and.
+
 106:35	(Bill Murray)	Just the torso just like this. 
+
 106:37	(Bill Murray)	And you're like, God dang, that's beautiful. 
+
 106:39	(Bill Murray)	That's as good a close up as. 
+
 106:40	(Bill Murray)	Any Robin Hood movie ever had. It's just great. 
+
 106:44	(Joe Rogan)	No, I love watching it. I watch it on YouTube all the time. There's these, uh, Las Vegas shootouts where they have three targets and they have thirty different shots. So they're trying to get an X thirty different times. 
+
 106:57	(Joe Rogan)	And they're standing next to the best archers in the world. Everyone's at, uh, probably like twenty meters and they're all just focusing, like dead still, completely calm focusing. 
+
 107:10	(Bill Murray)	Where do you find that? 
+
 107:11	(Joe Rogan)	Oh, you can find it like go to uh, Lancaster Archery Vegas. 
+
 107:15	(Bill Murray)	Uh. 
+
 107:17	(Joe Rogan)	Uh, and they, they have what they call a Vegas face. So a Vegas face is three targets? Oh yeah, yeah, yeah. 
+
 107:24	(Bill Murray)	But they've gotta have like big screens because you can't see the faces from a distance, right? No, you don't want to get between the arrows. 
+
 107:30	(Bill Murray)	Of course. 
+
 107:30	(Joe Rogan)	No, you definitely don't. People bring binoculars. All the. Oh yeah, all the archers have binoculars and they all pull them up after each shot because they're looking for precise distances. 
+
 107:40	(Joe Rogan)	And then they'll make slight adjustments on their scope and their sight and move and then they'll take a breath and. But it's just. 
+
 107:46	(Bill Murray)	So do you have one of those massive. 
+
 107:48	(Joe Rogan)	Yes, this is exactly. 
+
 107:50	(Bill Murray)	Those things don't even look fair. 
+
 107:52	(Joe Rogan)	So these guys are all on this line and they're all firing and the amount of pressure is insane because really the guy makes money out of this thing is the guy who wins first place. Everything else is not so good. Is not a lot of money in archery. Look at the audience. 
+
 108:07	(Bill Murray)	Like about sixty guys. 
+
 108:08	(Joe Rogan)	Yeah, not a lot of audience. Right. 
+
 108:09	(Bill Murray)	Uh, it's not a crowd, please. 
+
 108:10	(Joe Rogan)	So this is just for real. Complete archery fanatics who are absolutely lost in this connection between your mind, your body and the flight of the arrow. The mystical flight of the arrow. 
+
 108:23	(Bill Murray)	That's interesting. 
+
 108:24	(Bill Murray)	Can you go back and freeze that there? Can you lose the line on the bottom? So that's just interesting to me to look at. Yeah, like their weight balance. Just m to look at like who's on his sort of half his front foot. 
+
 108:39	(Joe Rogan)	Mhm. 
+
 108:39	(Bill Murray)	So it's interesting. They have a little bit more weight on their back foot. 
+
 108:42	(Bill Murray)	Is that right? 
+
 108:43	(Joe Rogan)	Well, we're catching this in, in mid m draw. So he might settle. Yeah. See that guy that you were looking at who was like that, that's got brazier on his back. 
+
 108:51	(Joe Rogan)	Watch, he'll settle. So he'll draw. And as he draws he arches back and now watch. 
+
 108:56	(Joe Rogan)	He'll settle forward. See, he settle. He was settling as the, the angle changed of the camera shot. 
+
 109:02	(Joe Rogan)	But they want to ideally be about fifty, fifty and you're just staying calm, keeping it as steady as possible. 
+
 109:10	(Bill Murray)	Is that in the wheels you're shooting too? 
+
 109:12	(Joe Rogan)	Yes, yes. There's a guy that shoots with just his feet. The guy who doesn't have arms and he's unbelievably, uh, accurate. Yeah, he shoots with his toes. 
+
 109:22	(Joe Rogan)	So what these guys are doing is it's just A perfect balance of technique and focus and attention. And they're actually trying to get what's called a surprise shot. They're not executing the shot like you would like a rifle trigger. 
+
 109:39	(Joe Rogan)	Most of these guys use what's called a hinge. And so that's what they're going for. They're looking for. 
+
 109:44	(Joe Rogan)	So with a hinge, you don't. You don't make the hinge, you don't make the release go off. Like with a button where you press a button, it's just a rotation of the handle, and you don't know when it's going to go off. 
+
 109:44	(Joe Rogan)	So you draw it back. 
+
 109:58	(Bill Murray)	Uh, so you're not like letting go with your fingers? 
+
 110:00	(Joe Rogan)	No, no. You have a metal release in your hand that has a hook, and the hook is attached to. 
+
 110:05	(Bill Murray)	And so by just rotating. 
+
 110:09	(Joe Rogan)	Rotating it, it breaks. And so the, the hook breaks. And so see the. Or some of them use a thumb. 
+
 110:16	(Joe Rogan)	Like that guy, uh, with the yellow and black. That guy. So he's got a thumb trigger. 
+
 110:19	(Joe Rogan)	So what he's doing is he's setting the trigger, the barrel of the trigger right where his thumb is. And he's just using the pulling of his arm to make it go off. He's not executing it with his thumb. 
+
 110:31	(Joe Rogan)	Now there's a small selection. 
+
 110:34	(Bill Murray)	Why they all look different when they're on the release. 
+
 110:35	(Joe Rogan)	Yeah, but they all. Their arms all fly backwards. If you watch, see how their arm moves backwards. That's indicative of a surprise shot. 
+
 110:45	(Joe Rogan)	That means they're executing it perfectly. So as they're pulling back, they don't. 
+
 110:49	(Bill Murray)	Know when it's going to go. 
+
 110:50	(Joe Rogan)	Exactly. They're just executing the technique, which is the pull with the back muscles. You're pulling with your rhomboids. And then it's slowly goes right there. 
+
 110:59	(Joe Rogan)	See, like that guy with that, the black hat. Watch. See his fingers has curling. 
+
 111:02	(Joe Rogan)	See how it goes off? So that's just from his hand curling. That's making the shot go off. 
+
 111:08	(Bill Murray)	But they get it to the position or the area where it's going to go. 
+
 111:12	(Joe Rogan)	Yes. 
+
 111:13	(Bill Murray)	And they've got to be right. They've got to be poised forward. 
+
 111:17	(Joe Rogan)	But the idea is, if you think about it going off and you make it go off, there's some sort of a recoil. So there's some sort of an anticipation of that recoil. And when you're shooting that precisely, that anticipation of that recoil might make a difference of an inch or two. Left or right. 
+
 111:33	(Joe Rogan)	Yes, that tension. 
+
 111:34	(Bill Murray)	So you, uh, you try to not anticipate. 
+
 111:37	(Joe Rogan)	So, yeah, surprise you, when you are doing that, you do not think about anything else. It clears your mind. When you are just concentrating on that target, you cannot think about your bill. 
+
 111:51	(Bill Murray)	So you do it. 
+
 111:52	(Joe Rogan)	Yes. 
+
 111:52	(Bill Murray)	And when you, when a thought does come into your head, you don't hit the target. 
+
 111:56	(Joe Rogan)	Yes. But it doesn't come in your head. It can't. It's too hard. 
+
 112:00	(Joe Rogan)	The process of aiming is so engrossing. When you lock in place and you're aiming and then you're pulling back with the shot, like you're all in, you're all there. Especially if you're good. 
+
 112:14	(Joe Rogan)	If you're good, that is the only thing you're thinking of. And there's a, uh, moving meditation aspect to it. A cleansing of your mind. 
+
 112:22	(Joe Rogan)	Your worries go away, your thoughts, the things that are bugging you. And I gotta do this, and I gotta call that guy back and all of it goes away because it's so engrossing, it requires so much. 
+
 112:33	(Bill Murray)	So how do you affect that yourself? How do you, how do you move. 
+
 112:37	(Bill Murray)	That away from the incidental thoughts that pop in? 
+
 112:42	(Joe Rogan)	Well, it's just the difficulty of it. Yeah, yeah. The difficulty, uh, of it actually sort of facilitates your meditative m. Mindset. 
+
 112:52	(Joe Rogan)	Because if you're going to do it right, there's no other way to do it. You literally can't be thinking about other things while you're doing it. 
+
 112:58	(Bill Murray)	Well, it's not, um, unlike golf, like. 
+
 113:00	(Bill Murray)	If you're thinking about, uh, what you're going to pick up on the way home. 
+
 113:03	(Joe Rogan)	Exactly. 
+
 113:04	(Bill Murray)	You're not going to hit a good goal. 
+
 113:05	(Joe Rogan)	Same as pool. When I play pool at a pretty high level, I bet that book would be very beneficial to me. I bet there's some techniques and strategies of how to focus yourself and completely remove yourself from the rest of the world. And just think about this mind body connection and this, the execution of this thing that you're trying to do. 
+
 113:26	(Bill Murray)	All uh, right. I'm gonna try to do that. 
+
 113:30	(Bill Murray)	I know. 
+
 113:30	(Bill Murray)	I, I, I, you know, I don't. 
+
 113:33	(Bill Murray)	Play enough, uh, pool and, But I. 
+
 113:35	(Bill Murray)	Did, I had to, I had to shoot some pools in Groundhog Day. So I, I got with like, a guy who's a pool expert and he just gave me drills to do. 
+
 113:44	(Joe Rogan)	Do you remember his name? 
+
 113:45	(Bill Murray)	No. But, um, if he remembers, he should say hi. Anyway, he taught me a bunch of things and I was very, I'm still very disappointed because when we actually shot the scene, I think I made, I think I sank, I think I shot, I think I sank like nine balls. And Seven balls, eight balls in three shots. 
+
 114:02	(Bill Murray)	And I went, we got that. And the, and the, and the cinematographer was like, well, uh, let's, let's set it up. I'll set up a different show. 
+
 114:05	(Bill Murray)	I said, what are you talking about? He had half of the table. 
+
 114:19	(Joe Rogan)	Oh, no. 
+
 114:22	(Bill Murray)	All right. 
+
 114:23	(Bill Murray)	I didn't take a leak. 
+
 114:24	(Joe Rogan)	Okay. You want to wrap it up? We can wrap it up. 
+
 114:26	(Bill Murray)	No, that's okay. 
+
 114:27	(Joe Rogan)	Okay. 
+
 114:27	(Bill Murray)	All right. 
+
 114:27	(Joe Rogan)	Take a leak and come back. All right. 
+
 114:30	(Bill Murray)	I keep asking many suggestions. They say, well, tell some stories. Mhm. 
+
 114:35	(Joe Rogan)	You should never ask for suggestions. 
+
 114:36	(Bill Murray)	So where do you come from? 
+
 114:38	(Joe Rogan)	Uh, I was born in New Jersey. Went, uh, to high school in Boston. Lived all over the country. Lived in San Francisco for a while when I was a kid. 
+
 114:46	(Joe Rogan)	Florida. 
+
 114:47	(Bill Murray)	Were you military or something? 
+
 114:48	(Joe Rogan)	No, mother. Um, got divorced, married my stepfather. He was going to school, went to San Francisco for that, then Florida and then eventually Boston. 
+
 115:00	(Bill Murray)	Well, that's pretty good. 
+
 115:01	(Bill Murray)	I mean, I think I always wanted to live in San Francisco. 
+
 115:04	(Joe Rogan)	Well, I was in San Francisco during the Vietnam War and the height of the hippie days when I was a little kid. It's pretty wild. It was a very interesting time to be there, you know, it was a crazy place. 
+
 115:15	(Bill Murray)	Uh, yeah. Well, that's what Hunter is talking about, I think. 
+
 115:17	(Joe Rogan)	Yeah. 
+
 115:18	(Bill Murray)	Yeah. My brother was there too. He went to school out there at Saint Mary's in Morocco. 
+
 115:22	(Joe Rogan)	Okay. 
+
 115:23	(Bill Murray)	And so. But it turned out he was spending a lot of time in Berkeley. Yeah, he wasn't doing that much studying, but he, but what a life he had out there. What a fantastic time to have been there. 
+
 115:23	(Bill Murray)	And my other friend went to high school at that time somewhere, um, around there. And I envied that. And I really like San Francisco. 
+
 115:23	(Bill Murray)	And I was there recently. I saw doctor, um, not doctor, Father Guido Sarducci. 
+
 115:50	(Joe Rogan)	Oh, wow. 
+
 115:51	(Bill Murray)	And, uh, had dinner with him and Roman Coppola. And we went to an old place called like Macaroni or something, like that old Italian place. And it was really delightful. I just love San Francisco and I have friends who like. 
+
 115:57	(Bill Murray)	And we started talking about politics a long time ago, like for political reasons. They, oh, San Francisco. They've ruined San Francisco. 
+
 116:05	(Bill Murray)	I said, well, uh. And so I was there. And I know there's homeless people in San Francisco now, lots of them. 
+
 116:10	(Bill Murray)	And they're. And there's homeless people in Los Angeles and Santa Monica and anywhere that is warm. Yeah, especially. 
+
 116:10	(Bill Murray)	And California is the most popular state. But I don't think it's a, I don't think it's a political choice. I Mean, I think, isn't it? I don't know the stats, but these people don't. 
+
 116:40	(Bill Murray)	It's more of a mental health thing. 
+
 116:42	(Joe Rogan)	It's definitely a mental health issue. 
+
 116:43	(Bill Murray)	So it's not anybody's politics that are making people crazy. 
+
 116:46	(Joe Rogan)	Well, it's. 
+
 116:47	(Bill Murray)	But it's not making people live on the street, but. I know. 
+
 116:50	(Bill Murray)	I just. 
+
 116:50	(Bill Murray)	I'm sticking up for San Francisco, saying it's still. I mean, San Francisco survived the beatniks, it survived the hippies, it survived the earthquake, it survived aids. It survived everything. It's, uh, like a resilient, extraordinary place. 
+
 117:07	(Joe Rogan)	You know, it's still got a lot of extraordinary aspects to it. The problem is they kind of encouraged people to sleep on the streets and shit anywhere they want, and they didn't do anything about it. And it just. 
+
 117:17	(Bill Murray)	You really think they encourage people? 
+
 117:19	(Joe Rogan)	Well, they definitely make it financially viable for them to do it. They give them money to do it. They, they, they, they. 
+
 117:25	(Bill Murray)	Well, that sounds like they're paying them the. 
+
 117:26	(Bill Murray)	On the street. 
+
 117:27	(Joe Rogan)	No, they're paying them so that they don't have to be poor or homeless. I mean, they have a tent and they, they'll help them. They'll subsidize this. This existence. 
+
 117:36	(Joe Rogan)	What they need is more mental health. Drug addiction and mental health. That's. 
+
 117:41	(Joe Rogan)	That's the real problem. 
+
 117:42	(Bill Murray)	Yeah. 
+
 117:42	(Joe Rogan)	And when you don't address it and then you just allow people to camp any way that you want, you're almost sort of encouraging mental health problems to be everywhere, all throughout, and just be throughout the entire city. It's just a lack of empathy for the people. If you're empathetic for them, you don't let them just camp out and shit on the street. What you do is you try to say, hey, obviously we have a real problem. 
+
 118:05	(Joe Rogan)	This needs to be addressed for the greater good of the city and for these people. They need mental health care. They need addiction care. 
+
 118:08	(Joe Rogan)	They need. It's a, uh, real problem that needs to be addressed. You can't just leave them out in the street and let them do whatever they want and become a hazard for everybody else. 
+
 118:20	(Joe Rogan)	Then it makes the city kind of fucked up. 
+
 118:22	(Bill Murray)	Well, I don't know what the. 
+
 118:23	(Bill Murray)	I mean, you know, when you talk. 
+
 118:25	(Bill Murray)	When you speak, it, uh, it sounds like more of a political choice. No, someone's saying. Well, it sounds like you're saying they're being, you know, paid to shit on. 
+
 118:35	(Joe Rogan)	The streets and become mentally ill on the streets. 
+
 118:38	(Bill Murray)	I always felt like mental illness happened. 
+
 118:40	(Joe Rogan)	First before living unquestionably. It's all during the Reagan administration, when they opened up the mental health institutes and just let people out in the streets. 
+
 118:47	(Bill Murray)	Well, it started before that in New York. And that was my experience in New York was, um, like Rockefeller way back when. And I could be wrong, but this is how it was attributed. Sort of opened up the mental. 
+
 119:00	(Bill Murray)	Closed up mental health hospitals and pushed these many, many, many people out on the streets. 
+
 119:06	(Joe Rogan)	Yeah. 
+
 119:06	(Bill Murray)	That had nowhere to. Nowhere to go. And it wasn't like. It wasn't a poverty situation, although it looks like it when you look at it. 
+
 119:15	(Bill Murray)	It's really a mental health situation. And a great number of these people have no interest in going into a place. They would just as soon live on the street. 
+
 119:24	(Bill Murray)	Their life is like an interior monologue that they can't control. And living in a home is no different than living on the street. The thing is still going on. 
+
 119:33	(Bill Murray)	The conversation is still going on inside the brain, but there has to be. 
+
 119:38	(Joe Rogan)	A solution for it. 
+
 119:39	(Bill Murray)	Well, okay, so I don't disagree that there has to be a solution, but I don't think that people are. This is sort of like where, uh, you know, I'd like to think about. Let's not talk politics. Let's agree, like, what we can agree on. 
+
 119:54	(Bill Murray)	So that solution is like, this is where the great minds of California or the United States need to come together and say, okay, these are. Why don't we solve these problems that are common to every. Every state has a city that has X number of people living on the street. 
+
 120:14	(Bill Murray)	Whether it's Yankton, you know, whether it's, you know, Minneapolis, whether it's, you know, Louisville, whatever. Everyone's got, like, a street scene situation that's rough like that. And it's hard to say. 
+
 120:29	(Bill Murray)	Let's, you know, you say there's gotta be a solution. Where's it come. Where's that going to come from? And who's going to believe it from. 
+
 120:36	(Bill Murray)	If it comes from this direction or that direction or this side or that side. How do you, like, evaporate the walls of separation and say, like, how do we get. How do we get the right people with the right minds to solve these questions? You know, these are real things, and people argue about them, um, when. 
+
 120:58	(Bill Murray)	I mean, you and I are arguing, but we're talking about. And neither one of us are sleeping on the street. 
+
 121:03	(Joe Rogan)	Right. 
+
 121:04	(Bill Murray)	Uh, we both feel compassion for it, you know, empathy for it. 
+
 121:08	(Bill Murray)	But. 
+
 121:10	(Bill Murray)	How do you get people that are far removed, um, and we could say we're far removed from it to like, allow the solution to take place? 
+
 121:21	(Joe Rogan)	From one side or the other? 
+
 121:21	(Bill Murray)	From one side, any side, who gives a damn. Um, who's got it right? 
+
 121:24	(Joe Rogan)	Well, it has to be a completely bipartisan thing. We have to look at it in terms of the health of human beings in our community. Right. This country is supposed to be our community. 
+
 121:33	(Joe Rogan)	These people that are on the street, they are sad, sick people in our community. And some real effort has to be taken to try to change that instead of just enable them to keep doing it. That's all I'm saying. 
+
 121:45	(Joe Rogan)	I just don't think that the solution is let them camp wherever they want. 
+
 121:47	(Bill Murray)	Let them shit in the streets. There's no argument. 
+
 121:50	(Joe Rogan)	No, no, no, no. 
+
 121:51	(Bill Murray)	There's no argument. 
+
 121:52	(Bill Murray)	So, uh, you were in this situation. 
+
 121:54	(Bill Murray)	You had this, um, um, people call it a platform or a place where you invite people to come here that are, that can speak to lots of people. How many people watch your show? 
+
 122:09	(Joe Rogan)	A lot. 
+
 122:10	(Bill Murray)	So there's lots of people watching your show. And when there's people that make sense, you hear it, it rings a bell. You know, it sounds like that. I wish I knew the answer to solving these things. 
+
 122:12	(Bill Murray)	And occasionally, like I say, uh, you see people who are these problem solvers and the problem solvers come, but you know, people want to choose their own problem solver. You know, it's uh, also money in. 
+
 122:37	(Joe Rogan)	Being a problem solver. That's the problem. One of the parts of the big parts of the problem in California in particular is that there's an enormous budget to deal with the homeless. So you have these people that work in these departments that are making quarter million dollars a year that are just working on the homeless problem, which keeps getting worse every year. 
+
 122:57	(Joe Rogan)	There's no incentive to fix anything or change anything. And it's a bunch of bureaucracy. There's a lot of bullshit that gets involved in the business. 
+
 123:05	(Joe Rogan)	A buddy of mine who's a lawyer who went to San Francisco and he was disturbed by it all. He was like, this is so crazy. Like, what is missing? Do we need more funding? And they're like, no. 
+
 123:13	(Joe Rogan)	You know, this guy explained to him, no, they literally have, ah, an incentive to keep the homeless problem. There's an enormous number of people that are making a fantastic living and dealing. 
+
 123:23	(Bill Murray)	With this money on the homeless issue. 
+
 123:26	(Joe Rogan)	Well, there's a, there's a giant list of people. We could pull it up if you want to say, well, we don't need to call them out. But there's a bunch of. 
+
 123:31	(Bill Murray)	Just tell me, like, who makes money on the homeless? 
+
 123:34	(Joe Rogan)	The people that are involved in These organizations that are dealing with the homeless, whether it's in Los Angeles or in San Francisco. 
+
 123:41	(Bill Murray)	You mean, are they like government? 
+
 123:43	(Joe Rogan)	Yes. 
+
 123:44	(Bill Murray)	People. 
+
 123:44	(Joe Rogan)	They're all government jobs. Yes. It's all funded by the state, and there's real jobs, like real money. And nothing gets done. 
+
 123:51	(Joe Rogan)	Nothing changes. In fact, it gets worse every year. Something needs to be done that shows results. 
+
 123:56	(Joe Rogan)	Uh, what is that? I think it's got to be compassionate. It's got to be something that both the left and the right can agree to. 
+
 124:02	(Bill Murray)	So here's. 
+
 124:02	(Bill Murray)	So I'm trying to follow you. God knows I'm trying. 
+
 124:05	(Joe Rogan)	So are you having a hard time? 
+
 124:06	(Bill Murray)	So, no, no. 
+
 124:07	(Bill Murray)	I think we were talking earlier about, uh, the agents versus the architects or something like that. Used a word that. That explain, like, the people who are, like, coming up with this sort of thing. It's like. 
+
 124:20	(Bill Murray)	And I was watching something, and I've really tried to avoid watching the news lately, but I saw someone talking about. And it was someone, uh, that works. And, you know, you say the word bureaucracy and it's. 
+
 124:31	(Bill Murray)	It's a loaded word and everyone. And we all hate bureaucracy. There's just a word of it. 
+
 124:36	(Joe Rogan)	Yeah. 
+
 124:36	(Bill Murray)	Gives you, like, a creepy feeling. 
+
 124:37	(Joe Rogan)	Frustrating word. 
+
 124:38	(Bill Murray)	Yeah. And so, you know, it's like being on hold for Amtrak or whatever the hell it is, you know? You know, uh, there's someone, you know, oh, please, God, come back. Okay. So please, God, come back. 
+
 124:54	(Bill Murray)	So the idea that. And so there's this person was talking. 
+
 124:57	(Bill Murray)	About the cuts that are going to come and to talk about eliminating a bureaucracy. And I don't know what particular department this person was. 
+
 125:05	(Joe Rogan)	No, that's not what this person was talking about, but she was talking about a different person. 
+
 125:09	(Bill Murray)	It's just. 
+
 125:09	(Bill Murray)	Different person. 
+
 125:10	(Bill Murray)	I don't know what your person is. This is my person. Uh, my person is saying the bureaucracy is like. The bureaucracy gets sort of like, fed from above. 
+
 125:20	(Bill Murray)	Somehow or other. It's fed by these people that are the architects of one side or the other. But the actual bureaucracy includes the people that can solve the problem. 
+
 125:30	(Bill Murray)	Like, encased in this bureaucracy are people that can solve the problems. And that if you just sort of, you know, I'm not saying it's the case, but if you sort of just like, zip a bunch of the bureaucracy out, you run the risk of zipping out some of the people that actually have the brains to do the solutions and that. And what this person said was the solution to the bureaucracy is within the bureaucracy. 
+
 125:57	(Bill Murray)	That is finding the people that know what they can. What can be done because they really do have the data. They really do work. 
+
 126:07	(Bill Murray)	They actually do show up for work, and they actually have the data on how to do this thing. But because it keeps being fed from above all the time, there's just all this extra debris and noise that keeps coming down, that causes more clutter and more splitting and more. Something. 
+
 126:28	(Joe Rogan)	Yeah. 
+
 126:29	(Bill Murray)	So. 
+
 126:32	(Bill Murray)	You know, I'm not going to suggest that I could solve the question of bureaucracy today, but I think there's something about what we have. We have the people. You know, I sort of. I'm, uh, going to go off on tangents now, but I always kind of had an objection to Tom Brokaw's book the Greatest Generation, because I thought, damn it, that's not my generation. 
+
 126:53	(Bill Murray)	 How do they get that? 
+
 126:54	(Bill Murray)	You know what? 
+
 126:55	(Bill Murray)	I did start reading some of it recently, and he's. To his credit, he's finding people that are very singular in that generation, that. 
+
 127:05	(Joe Rogan)	What generation is he referring to? 
+
 127:06	(Bill Murray)	Well, he's talking about the generation that won World War two. 
+
 127:09	(Joe Rogan)	Okay. 
+
 127:10	(Bill Murray)	And that generation was formed by the Great Depression. You know, that was part of what they had. And then they had a world war that lasted five years. And it's really hard for people of a certain age to understand. 
+
 127:24	(Bill Murray)	You know, like, you think you have. 
+
 127:25	(Bill Murray)	Problems with your relationship, have your. Have your. Your lover go away for five years and see how well you're doing upon that person's return. 
+
 127:35	(Bill Murray)	Right. 
+
 127:35	(Bill Murray)	Uh, see what the hell that's like for five years. And, like, you didn't answer my letter. You know, my letter. 
+
 127:41	(Bill Murray)	Your letter? 
+
 127:42	(Bill Murray)	What letter? You know, that your letter never came. You know, uh, I was under fire, whatever it was. 
+
 127:47	(Joe Rogan)	And then they come back, shell shock. 
+
 127:48	(Bill Murray)	And then you come back with shell shock on top of it. And then back then the sort of kind of, I don't want to say, macho thing, but back then, people just didn't want to talk about it. Which to me was the. What is part of what created the hippie generation was kids couldn't get their parents to talk about anything that they thought mattered.
+
 127:59	(Bill Murray)	What their parents were talking about was like, huh, huh. Wait, what about peace, love? What's so wrong about peace, love and understanding? 
+
 128:17	(Joe Rogan)	Right, Right. 
+
 128:18	(Bill Murray)	So. 
+
 128:19	(Bill Murray)	And they couldn't get to that because even the idea of peace was a completely different concept to someone that lived through a world war or lived through a depression. So these kids were like, I don't even understand who these people are. I know I'm their flesh and blood, but I don't know that. I don't know what the Hell, they know and why they're this way. 
+
 128:40	(Bill Murray)	But he chose people that very. 
+
 128:43	(Bill Murray)	That lived a very intentional purpose during that very, very difficult, challenging time where they just went, I don't know what. I don't know. I don't know what all this is, but I do what I do know. I do know what I do know and stay through that. 
+
 128:59	(Bill Murray)	And that's, I guess, that I don't know how this relates me to this idea of bureaucracy. But people that do know the facts have got to stay with the facts. Even in the face of, like, all the blunderbussing above about, you know, there's this and there's that. 
+
 129:16	(Bill Murray)	You've got to be really dedicated to m. What you do know and. And realize that there's lots that you don't know. 
+
 129:26	(Bill Murray)	But if you give up what you know in the name of, you know, jostling over here, you know, then. Then there's even more lost. 
+
 129:38	(Joe Rogan)	Yeah, no, I agree. And I think most people get involved, particularly if they get involved in something like homeless or, you know, any charitable organization. Most of the people who get involved aren't doing it cynically. They're not doing it to get that big paycheck. 
+
 129:54	(Joe Rogan)	Their initial reason for being involved in something like that is to help. The problem is sometimes when they realize it's just a big clog and you're not going to be able to do any meaningful good, then things get weird, and then you just sort of exist off of this system that's not doing anybody any good. This is his argument about why so many people are working on this and nothing's getting better. 
+
 130:16	(Bill Murray)	All right, so who's this one? 
+
 130:18	(Joe Rogan)	My friend, Coleon Noir. This is my, uh, friend who's a lawyer who went to, uh, San Francisco and saw this and had a conversation with someone who's actually, uh, in government in San Francisco is explaining what the problem actually is. 
+
 130:33	(Bill Murray)	And the government people say it's just. It's the government. 
+
 130:37	(Bill Murray)	What are they saying? 
+
 130:38	(Joe Rogan)	There's no incentive. There's no incentive for them to do a better job. And there's a very compassionate perspective. Uh, in the city. 
+
 130:46	(Joe Rogan)	They're very kind people, and they don't want to take these homeless people and remove them. And that this, um, sort of suicidal empathy that they have for the people in their city is causing this rash of tents everywhere and crime. And, you know, you can't. 
+
 131:02	(Joe Rogan)	You have to leave your fucking car unlocked, otherwise they're gonna smash your windows. And it's just. That's what his perspective is. 
+
 131:09	(Joe Rogan)	It's that there's no real incentive to do anything different because these people are still getting paid to keep it the way it is. It's not. The amount of money they make is not based on how much good they do. 
+
 131:21	(Joe Rogan)	So, like, if. If they're financially. If they're incentivized to, like, you get paid more. 
+
 131:22	(Joe Rogan)	If more people clean up, seek treatment, get. Get on medication, get to a mental health institution. If you can show some sort of progress, it'll affect how much money you get and vice versa. 
+
 131:22	(Joe Rogan)	If you do. If you have no progress and nothing gets done and the problem actually gets worse, perhaps you're not doing a good job. 
+
 131:47	(Bill Murray)	Well, that sort of makes sense, doesn't it? 
+
 131:49	(Joe Rogan)	It does. 
+
 131:49	(Bill Murray)	You get results. 
+
 131:50	(Joe Rogan)	Yes. 
+
 131:51	(Bill Murray)	You get encouraged by getting more money. But. 
+
 131:53	(Joe Rogan)	Yeah. 
+
 131:54	(Bill Murray)	So does this remind you of anything? 
+
 131:56	(Joe Rogan)	It reminds me of everything. Reminds me of the government itself. What does it remind you of? 
+
 132:02	(Bill Murray)	Well, I feel like there's something hanging over our heads here that's like this situation. And maybe it's just a continuous situation of, uh, like a world that gets more and more people all the time, and more people want to have a voice and there's just more people shouting all at once. And there's not quite the same kind of agreement. We don't have like, uh, an ideal that we're all working for. 
+
 132:27	(Bill Murray)	You know, I guess not to like, cheat, but, you know, the greatest generation, they had to fight a war to maybe save the sort of structure of Western civilization. 
+
 132:40	(Joe Rogan)	Right. 
+
 132:41	(Bill Murray)	And there is that argument, you know. 
+
 132:42	(Bill Murray)	Right. 
+
 132:43	(Bill Murray)	That if the. The Nazi party had dumb. Had defeated England. That. 
+
 132:47	(Bill Murray)	And you know, you know, you know, life would be different. Life would have been different. You know, and if. 
+
 132:47	(Bill Murray)	And if that kind of dictatorship kind of world had gone further, you know, that we'd have been. It would have been a different world. It wouldn't have grown the way it is. 
+
 133:06	(Bill Murray)	But now it's grown. There's this freedom. The war was fought. 
+
 133:10	(Bill Murray)	I believe there, uh, was a great quote in one of those books. Like, uh, uh, there's no such thing as a bad piece or something like that. There's all kinds of different. 
+
 133:20	(Bill Murray)	But I feel like this, uh. Like there's no sort of idea that we can agree that people can agree on that's the source of like, a reason for our being. 
+
 133:33	(Joe Rogan)	Well, um, it's a very uniting thing to be all together against a common enemy that is real. Like World War two. Like, there's a real purpose to life. People understand that this is a very important mission. 
+
 133:48	(Joe Rogan)	This is something that unfortunately it's one of the best ways to unite people is uh, a threat from the outside. Well that's what happened after nine eleven. Do you remember nine eleven? Everywhere in la, people driving around with American flags on their car. 
+
 134:04	(Bill Murray)	I'll never forget nine eleven, what it was like to walk down the streets in New York after nine eleven. There was nothing like I've ever experienced in my whole life. 
+
 134:10	(Joe Rogan)	Right. It was bizarre, but it was also very united, like people were together. 
+
 134:14	(Bill Murray)	What, people looked into each other's eyes. You walked by someone on the street and every person on the street looked right in your eyes. And that lasted for weeks. 
+
 134:24	(Joe Rogan)	Mhm. 
+
 134:24	(Bill Murray)	I never. I mean people in New York walk with their head down. They look like uh, they're reading a paper, but people just looking by like, okay, we're in this. 
+
 134:33	(Joe Rogan)	Yeah, together. 
+
 134:34	(Bill Murray)	Yeah. 
+
 134:34	(Joe Rogan)	And I think some people actually obviously hated the act of what happened, but loved the way people reacted and how people felt with each other. It did feel different. New York City felt friendly, it felt united. It felt like people were proud to be American. 
+
 134:51	(Joe Rogan)	We were all together. There's bad people out there, they did this to us, but we're all together. 
+
 134:57	(Bill Murray)	Well, okay, so what we have here with the situation of like just using San Francisco as the idea is like, it's just a gentler version of something that we could all say, this is something that we have to go to war about. 
+
 135:10	(Joe Rogan)	Uh, yeah, well, it's a task. 
+
 135:12	(Bill Murray)	Whether it's any kind of a problem that we have as a group that we all are affected by or care about. 
+
 135:20	(Joe Rogan)	Well, it's too easy to ignore. It's too easy to just say, oh, there's the tents, let's go this way. And the reality is the health of the community, it's dependent upon the health of the lowest members of the community on the social rung. The lowest members are the people that are sick. 
+
 135:24	(Joe Rogan)	And if you don't take care of them, if you don't take care of the people that are mentally ill, that are homeless, that are addicted to drugs, that are on the street, that are desolate, that don't have friends, don't have love, don't have structure, don't have anything that they call upon, horrible childhood, the whole deal. If you don't, if you don't look at them, then your society sick. Because this is the foundation of the society, is the people. 
+
 135:48	(Joe Rogan)	If you got a group of people that are part of your community and you're completely ignoring their plight, that's not good for anybody. It's not good for big business. It's not good for the common folk. 
+
 136:04	(Joe Rogan)	That's not good for people in the neighborhood. It's not good for anybody. And it's gotten so far because it's so big now. 
+
 136:11	(Joe Rogan)	The problem is so enormous, it's almost too big to tackle. It's almost like, okay, you're dealing with la. You're dealing with one hundred thousand people living on the street. 
+
 136:19	(Joe Rogan)	That's so many fucking people. That's the entire population of Boulder. That's Boulder, Colorado. 
+
 136:24	(Joe Rogan)	Intense on the street in la. That's crazy. It's almost too big. 
+
 136:29	(Joe Rogan)	And I talked to Mayor Adler, who was the mayor of Austin, uh, at the time when I first moved here, and he was, he had a bunch of plans in place to help the homeless people. And they did an amazing job because it got pretty bad here during the pandemic. 
+
 136:42	(Bill Murray)	I remember there being homeless here. 
+
 136:43	(Joe Rogan)	Yeah, they, they got hotels, they put people up, they put together programs, they got people jobs. They, they. There's a company that, uh, we've had. What is his name that we. 
+
 136:54	(Joe Rogan)	Alan. That we had in here? Alan Graham, uh, from Loaves and Fishes, who. We went. 
+
 136:59	(Joe Rogan)	I went and visited his community. They set up. He has this, this community where they, um, build houses for these people. 
+
 137:01	(Joe Rogan)	They bought an enormous piece of land outside of Austin, and he sets up work programs for these people. Gives them a sense of purpose. It's an amazing place to be. 
+
 137:16	(Joe Rogan)	They're doing art and selling art. 
+
 137:17	(Bill Murray)	It's working. 
+
 137:18	(Joe Rogan)	Yes, it's working. Yeah. I mean, it doesn't work with everybody, but it works with a lot of them. And these people, they have a sense of community. 
+
 137:25	(Joe Rogan)	They all live in a safe area. And, you know, we walked around, I brought my kids, we walked around there. It was like, the whole thing was really nice. 
+
 137:30	(Joe Rogan)	It was really wonderful. It was really cool, what he's doing. 
+
 137:36	(Bill Murray)	Well, how did that. 
+
 137:37	(Bill Murray)	Well, so that guy, his plan, his way of working needs to obviously get a scale out there. It's got. Yeah, it's got to get around. So how he lives, make it, huh? 
+
 137:46	(Joe Rogan)	He lives there. And this is a guy who has money. He lives in the community with those people. 
+
 137:51	(Bill Murray)	This man must be deputized. 
+
 137:52	(Joe Rogan)	Well, he's a Christian, like a real Christian, like in the greatest sense of the word. Like, he's a guy who really believes in reaching out to people and helping people. This, uh, is. Yeah, this is Alan right here. 
+
 138:02	(Joe Rogan)	He's just a wonderful guy, like a really beautiful person and lives with these people. They're his neighbors and they're constantly Bringing people in. And he has all these different programs that people can sign up for to learn arts and crafts and learn how to sell things that you've made. 
+
 138:10	(Joe Rogan)	And it's really cool. And, you know, I mean, he's doing his part. He's. 
+
 138:24	(Joe Rogan)	It's small in relation to, like, the problem of San Francisco or. But you need people like that that really dedicate themselves to it. 
+
 138:33	(Bill Murray)	Uh, yeah, I've heard of loaves and fishes that this sounds. I didn't know all of this about it. 
+
 138:37	(Joe Rogan)	It's pretty amazing. It's a pretty amazing, um, place that he's got, and he's expanding it. He's. They're. 
+
 138:43	(Joe Rogan)	They're building new ones right now. So there's these small houses that these people live in, and they'll have, like, a community kitchen where they can go and barbecue and grill outside, and there's an arts and crafts center. These people, they. 
+
 138:54	(Joe Rogan)	They make cool chess pieces, and they sell them. They make paintings, they sell them jewelry. They're doing all these different things, and it gives them a sense of purpose. 
+
 139:02	(Bill Murray)	You got to get this guy to San Francisco. 
+
 139:04	(Joe Rogan)	Yes. Well, you need more people like him, is what it is. It's just he's a very unique guy. 
+
 139:08	(Bill Murray)	Well, there got to. There must be people. 
+
 139:09	(Joe Rogan)	There must be like him. But you. You mean. It's a lot. 
+
 139:12	(Joe Rogan)	I mean, he lives with them. I mean, he's in the community. Has one of those little houses in this, you know, giant area filled with people, and he's with them, is for encouragement, and, you know, it's. 
+
 139:24	(Joe Rogan)	It's a beautiful thing. 
+
 139:25	(Bill Murray)	It sounds really amazing. 
+
 139:26	(Joe Rogan)	Yeah, it's beautiful. 
+
 139:29	(Bill Murray)	Okay, should we wrap it up? 
+
 139:30	(Joe Rogan)	Bill Murray? 
+
 139:31	(Bill Murray)	Yeah. Okay. I'm sorry I gave you so long. 
+
 139:32	(Joe Rogan)	Um, no, it was amazing. It's an honor to meet you. I really enjoyed it very much, and, uh, I appreciate talking to you. Thank you. 
+
 139:39	(Joe Rogan)	And thanks for the shirt and thanks for the shorts. Yeah, well, I'm gonna wear those. 
+
 139:44	(Bill Murray)	Okay. But, you know, I won't just say that those shorts are very. Are. They're forgiving shorts. 
+
 139:51	(Bill Murray)	So if you've had a big meal. 
+
 139:52	(Joe Rogan)	Good. 
+
 139:52	(Bill Murray)	Beautiful. They still fit you. 
+
 139:53	(Joe Rogan)	I like that. 
+
 139:54	(Bill Murray)	They're good. 
+
 139:56	(Joe Rogan)	Can people buy these? 
+
 139:57	(Bill Murray)	Can they? 
+
 139:58	(Joe Rogan)	For sale? 
+
 139:59	(Bill Murray)	Yeah. 
+
 139:59	(Bill Murray)	Yeah, they sell, um. It's called William Marie Golf. Uh, they sell them, uh. They sell them online a lot, and they.
+
 140:06	(Bill Murray)	I know they sell them, um. They sell them in the golf shops. Some places in some stores. 
+
 140:11	(Bill Murray)	There. 
+
 140:11	(Bill Murray)	That's. That's. I. Right there. 
+
 140:13	(Joe Rogan)	Beautiful. Yeah, that's it. William. 
+
 140:16	(Bill Murray)	Look at that guy. 
+
 140:16	(Joe Rogan)	Look at that. Look at that handsome model. 
+
 140:18	(Bill Murray)	Yeah, that's a model. 
+
 140:19	(Joe Rogan)	That's a good looking fella. 
+
 140:21	(Bill Murray)	Uh, let's get loud. 
+
 140:23	(Joe Rogan)	All right. 
+
 140:24	(Bill Murray)	That may be a model, too. Hey, he's definitely a model. 
+
 140:26	(Joe Rogan)	He's beautiful. Well, thank you very much. I really enjoyed it. 
+
 140:30	(Bill Murray)	Same here. 
+
 140:30	(Joe Rogan)	Thank you. 
+
 140:31	(Bill Murray)	Enjoy it. 
+
 140:31	(Bill Murray)	Thank you for having me. 
+
 140:32	(Joe Rogan)	Bye, everybody. 
 

@@ -1,0 +1,1462 @@
+---
+created: 2025-03-14T12:24
+updated: 2025-10-22T14:50
+tags:
+  - source--podcast
+  - transcription
+source_url:
+youtube_url: https://www.youtube.com/watch?v=vZEcVY2iZsk
+media_series_title: The Joe Rogan Experience
+media_episode_number: 2288
+people:
+  - Jacques Vallée
+media_title: "Joe Rogan Experience #2288 - Jacques Vallée"
+publisher_notes: "Jacques Vallée is a venture capitalist, technologist, and prominent figure in the field of unidentified aerial phenomena. His new book is Forbidden Science 6: Scattered Castles, The Journals of Jacques Vallee 2010-2019."
+published_date: 2025-02-27
+view_count: 1715401
+reach_estimate: 24000000
+gist: "Rogan and Vallée dive into parapsychology at SRI and remote viewing: Vallée says his memo helps green-light Hal Puthoff and Russell Targ’s program, claims Ingo Swann coins “coordinate remote viewing” after a chat on memory addressing, and recounts a session where coordinates make him feel freezing on an Andean peak; they cite Intel use, finding a lost Soviet craft, and Joe McMoneagle allegedly sketching a secret Soviet sub. Rogan boosts “Telepathy Tapes,” asserting nonverbal autistic kids demonstrate verifiable psychic info transfer; Vallée adds Silicon Valley quietly recruits neurodivergent talent and muses humans may retain dormant senses. Vallée frames UAP data: France officially explains ~95% of reports but says the remaining 5% is “in your face,” points to pre-modern coins, paintings, and Sahara rock art, and defends three “egg” cases (Trinity, Socorro, Valensole) with small air-breathing beings, paralysis beams, ground traces, and multi-agency probes; he says a Socorro motor-pool chief’s car dies under a brilliant object and later tests clean. He describes a 1977 Omaha park fall of ~½-ton molten steel under a circling “round box” craft and later isotope work with Gary Nolan that finds nothing exotic but “stakes the ground” for aerospace forensics. He argues the Navy’s Tic Tac is an infrared image, not a photo, and discusses radar deception tech that can fake disappear-reappear tracks; he claims U.S. units sometimes fly “disguised” as UFOs to probe nuclear-site defenses, while conceding this cannot explain all events. Themes include ridicule, institutional risk, data loss (Blue Book samples “thrown away”), simulation talk, and Vallée’s own 1955 silver saucer sighting."
+---
+# 2025-03-12 Joe Rogan Experience 2288 - Jacques Vallée
+
+
+00:12 	(Joe Rogan)	What up, sir? Very good to see you. 
+
+00:14 	(Jacques Vallée)	Good to see you. 
+
+00:16 	(Joe Rogan)	I really enjoyed our conversation last night. We all went out to dinner, and Hal Puthoff blew my mind. 
+
+00:23 	(Jacques Vallée)	As you know, I've known him for a long time. 
+
+00:26 	(Joe Rogan)	Yeah? When did you meet him? What year? 
+
+00:27 	(Jacques Vallée)	Uh, I knew him at SRI, actually. I was at Stanford Research Institute before him, um, in one of the very early Internet research teams when, uh, there was no Internet. It was called the arpanet. It was the network of the Advanced Research Project Agency. 
+
+00:47 	(Jacques Vallée)	And it was all, you know, computer experiment and so on. I turned into. We had, um, engine number three on the Internet at SRI in California. 
+
+01:00 	(Jacques Vallée)	Engine number three. By the time I joined them, there were, like, thirty machines already. So, uh, and it was exciting. 
+
+01:09 	(Jacques Vallée)	And then, um, you know, uh, doctor Puthoff and Russell Tark came in with a proposal to SRI to do parapsychology research at SRI, which had never been done. And it was funny because the. So I was already there, you know, in a team. 
+
+01:30 	(Joe Rogan)	What year was this? What year? 
+
+01:34 	(Jacques Vallée)	Oh, God. Um. Uh, seventy four. 
+
+01:42 	(Joe Rogan)	Wow. 
+
+01:42 	(Jacques Vallée)	Seventy four. Yeah. Ah. And it was funny because I was in my office and the, uh, vice president of SRI came in, uh, closed the door and said, uh, Jacques, uh, you know, you've published some things controversial under your name on ufo's, um, and you haven't lost your scientific reputation, which is why you're here working for us at SRI, uh, on the arpanet. 
+
+02:20 	(Jacques Vallée)	But, um, you know, there's a proposal from, uh, doctor Puthoff and doctor Tark to do parapsychology research here, and we've never done that. And I said, well, you know, it's a very valid. I think it's a very valid area of research. 
+
+02:38 	(Jacques Vallée)	We should. You know, we're in the kind of institution that should do that. He said, well, let me draw something on your whiteboard. 
+
+02:46 	(Jacques Vallée)	And he drew a, uh, scale. A, uh, horizontal scale, and on one side there was a little square. He said, this is the most we can expect in terms of funding for research in parapsychology. 
+
+03:03 	(Jacques Vallée)	You know, it's maybe at most a million a year. Okay? And here is what I manage in this division, drew a huge cube, said, one hundred fifty million dollars. Should we jeopardize the research we do for Xerox and IBM and AT&T and bank of America and so on, just to do some research on psychic things? And, uh, I said, well, um, you know, the reason we get all this money from DOD and Bank of America and so on, is that we do the research that they can't do themselves. 
+
+03:47 	(Jacques Vallée)	We do, we do the, you know, we go out and we take risk. And uh, I think we should take, uh, the same risk, uh, uh, with Hal Puthoff and Russell Targ, because this could be, you know, there is a lot of literature on this already and we can bring the science into it, and they can bring the science into it, you know. And he said, um, well, there is a meeting of a board of directors of SRI, you know, in two days. 
+
+03:52 	(Jacques Vallée)	And most of them are against it. What do I tell them? And I said, well, I can, you know, I can write up the reasons why in science you have to take chances. And this is science. 
+
+03:53 	(Jacques Vallée)	I mean, this isn't just engineering. And he said, well, give me a memo by tomorrow at twelve. So I went home and I wrote a two page memo which was confidential. 
+
+03:53 	(Jacques Vallée)	I don't think anybody has seen it for the board explaining why there was scientific evidence, you know, enough of it, so that good research could be done. And uh, I, you know, obviously that may have helped in, uh, getting the approval for them to come in. And then after the first year, you know, they were there because, you know, the money kept coming and the results, you know, good scientific results came in. 
+
+05:28 	(Joe Rogan)	So when you say parapsychology, specifically, what were you attempting to study? 
+
+05:33 	(Jacques Vallée)	So most of parapsychology, as the name indicates, has been studied by psychologists, people who have experiences and they relate their experiences and they have strange dreams, they have all that. Uh, and then that has been structured by people doing experiments, for example, you know, trying to move objects with your mind, uh, trying to, of course, send uh, messages psychically to other people and, uh, or guessing what's written in a, uh, closed envelope and so on, that kind of thing. Uh, but again, those were done by good experimentalists, but it wasn't. Where is the physics of it? I mean, you know, because in physics those things are not supposed to happen. 
+
+06:28 	(Joe Rogan)	Without an understanding of a sense that perhaps we're not quite aware of. 
+
+06:33 	(Jacques Vallée)	That's right. And that, uh, you know, our physics has been dealing with objects and with atoms and all that. But it's clear in modern physics that there are other things and that the theories we have about the different fields in the universe are in conflict with each other. Relativity and quantum mechanics are in conflict. 
+
+06:59 	(Joe Rogan)	I was reading something that was God, I glanced at it quickly and I was running out the door, but I was going to ask Jamie to pull it up. There's new research that shows that human beings have the ability to detect the magnetic field the same way that birds do when they fly south, and, and other animals they believe do when they navigate terrain. They think that human beings have this ability, but perhaps it's something that we have ignored so long it's atrophied, or it's not something that we use. 
+
+07:35 	(Jacques Vallée)	That's a question for, um, you know, biologists or specialists of the brain. Although it may not be in the brain itself, it may be diffused in the organism. Uh, so I'm not really qualified, you know. 
+
+07:52 	(Joe Rogan)	Well, I was going to ask Jamie to pull up the article, but the point being that there perhaps are senses that we're either not aware of. Humans, like other animals, may sense Earth's magnetic field. Yeah, this is it. Okay, this is from a while ago. 
+
+08:05 	(Joe Rogan)	This is from twenty nineteen. Okay, this is not the same article, but it's probably a rehash. There's another similar one here from like a month ago that says. 
+
+08:14 	(Jacques Vallée)	Mhm. 
+
+08:14 	(Joe Rogan)	Exact same title. Yes, that's what I saw. This episode is brought to you by Intuit turbotax. We're all just trying to level up, right? I'm always trying to push myself. 
+
+08:23 	(Joe Rogan)	Whether it's training, learning something new, or just trying to be a better human. You put in work physically, mentally, and over time you evolve. It's twenty twenty five. 
+
+08:33 	(Joe Rogan)	Doing your taxes has evolved too. Just like we put in the work to level up, turbotax has put in the work to make taxes effortless. Because now taxes is getting matched up with a turbo tax live expert who has the latest tech. 
+
+08:51 	(Joe Rogan)	With that, they can cross check millions of data points to make sure that your return is one hundred percent accurate. That means you get the best possible outcome this tax season for your unique tax situation, all while you go about your day. It's twenty twenty five. 
+
+09:06 	(Joe Rogan)	It's time to file. Like it. Now, this is Taxes Intuit turbotax. 
+
+09:14 	(Joe Rogan)	Get an expert now at turbotax dot com. 
+
+09:17 	(Jacques Vallée)	You know, if you look at the history of, uh, the islands in the Pacific, like I spent some time in Tahiti and I looked at their traditions. They were navigating the Pacific, fine. They knew where they were going. Now, part of that was navigating with the moon, but part of it was something else. 
+
+09:39 	(Jacques Vallée)	And on every ship they had, uh, one man who was gifted in guiding with respect, of course, guiding with respect to what the ocean looked like to the moon and so on. But, uh, also, uh, that's never really been explained. They had an uncanny ability to get to the right islands, know, on the way to their destination and to guide those ships. 
+
+10:10 	(Jacques Vallée)	Otherwise they would have been, you know, they didn't have compasses. 
+
+10:15 	(Joe Rogan)	Right. 
+
+10:15 	(Jacques Vallée)	And uh, there are books now coming out. Certainly I found some of those books in, you know, in Tahiti, um, about the history of that and the research that's been done into those people. Uh, but they were, they were special people. They were, you know, they were gifted. 
+
+10:33 	(Jacques Vallée)	Uh, that's not something, you know, that I could do. 
+
+10:43 	(Joe Rogan)	Have you, um, heard or listened to the telepathy tapes? The telepathy tapes. Are you aware of this? 
+
+10:50 	(Jacques Vallée)	Uh, vaguely. 
+
+10:52 	(Joe Rogan)	It's a podcast that's about non verbal autistic kids that demonstrate psychic ability. Um, provable. They've got dozens of these cases on video where people in other rooms are looking at objects. The child, completely locked off, can't see them at all, will say and write down what those objects are, colors, numbers in sequence and very accurately. 
+
+11:17 	(Joe Rogan)	And so they believe that this is something that. Well, many of these parents have talked about it in the past, but felt foolish, felt like it was something that they would be ridiculed about. And so they didn't want to talk about it openly. 
+
+11:31 	(Joe Rogan)	But once they started gathering up information, they got more people to open up about this, then they start documenting it and they start coming up with ways to make sure that there couldn't be any possible way they could be communicating with each other. And uh, it's just utterly fascinating because they're showing that there is something going on. There's some way of transferring information back and forth, including. 
+
+11:54 	(Joe Rogan)	Some of these teachers have figured out a way to not just receive but also transmit the same way these children have. So people that aren't nonverbal and they aren't autistic, these people are able to do it as well. They've been able to create a bond with these children and communicate with them. 
+
+12:11 	(Jacques Vallée)	And there are companies in Silicon Valley that um, are heavily involved in advanced, um, processing and advanced uh, programming, specifically recruiting young, uh, men and women with that kind of talent. One of my, I have three grandsons that I love and one of them is, uh, it's not clear, you know, whether he's actually autistic in the current definition, but he certainly has some of that, you know, some of those indications. 
+
+12:46 	(Joe Rogan)	Of some sort of a gift. 
+
+12:47 	(Jacques Vallée)	Yeah. Of thinking and getting information in ways that are very different from the now. It may be that in evolution the reason sort uh, of quote, lower animals can do it and we cannot, uh, is that We've developed other ways of getting information that are more reliable in the long run. So it may be just one of the dormant abilities that we have that most of us don't develop, and we're not encouraged to grow it in school because it's disturbing for the rest of the class and so on. 
+
+13:30 	(Joe Rogan)	And perhaps it's something that people had before language and language and then written language, and then, of course, media sort of eroded those abilities. 
+
+13:41 	(Jacques Vallée)	Yes. Uh, and you find that also in South America and in Australia. You know, Australia, New Zealand, and the indigenous people. Yes, natives, but, you know, up to the current population. 
+
+14:02 	(Joe Rogan)	Right. So perhaps it's something that we all had and we've lost it now. When you were initially studying parapsychology, what. What were the protocols that you were using? Like, how were you trying to determine whether or not people were capable? 
+
+14:18 	(Jacques Vallée)	So, um, you know, again, uh, in my own. I've studied parapsychology more as a personal interest, but, uh, doctor Puthoff and doctor Tag were doing it with scientific controls. I mean, that was the point that. To look at it from a physics point of view, not just from a parapsychology or psychology point of view. 
+
+14:52 	(Jacques Vallée)	So they were designing tests that were, um, more tied to physical quantities. And one of the people that they brought in was Ingo Swann, who was an artist from New York. He was very uncomfortable with California. 
+
+15:10 	(Jacques Vallée)	The sky is always blue. You know, it's boring and so on. And he liked New York. 
+
+15:15 	(Jacques Vallée)	He liked the animation of the city and his friends and so on. But, um, I knew, of course, of him. I had read some of the things. 
+
+15:25 	(Jacques Vallée)	So when he came to SRI, he told me, um, that, you know, uh, remote viewing is one thing, parapsychology, uh, but it should be applied to science. And also, you know, it had to be applied to, um, intelligence in the sense of, you know, the intelligence agencies were funding SRI to do this. Okay. 
+
+15:54 	(Jacques Vallée)	Uh, the three letter agencies. There were a number of them who are very interested, because I knew that gift existed in pilots and in a number of people. 
+
+16:06 	(Joe Rogan)	And so they were trying to figure out a way to utilize this for. 
+
+16:09 	(Jacques Vallée)	Military applications, mostly to look at developments in the Soviet Union at that point. 
+
+16:15 	(Joe Rogan)	Oh, so they were trying. 
+
+16:16 	(Jacques Vallée)	But also no lost spacecraft. They found lost spacecraft in the middle of a jungle in Africa and so on. By parapsychology. 
+
+16:26 	(Joe Rogan)	Whose spacecraft? Ours? 
+
+16:28 	(Jacques Vallée)	Um, no, it was Russian. 
+
+16:31 	(Joe Rogan)	Uh, so they found it through, like, remote viewing. 
+
+16:34 	(Jacques Vallée)	Yes. 
+
+16:35 	(Joe Rogan)	Really? 
+
+16:36 	(Jacques Vallée)	So, ah, when, um. So Ingo was starting to go around the labs at SRI, he wanted to. He was he had never been in a scientific institution. It's full of computers and gadgets and measuring instruments and everything else. 
+
+16:39 	(Jacques Vallée)	So he wanted to know, uh. He, uh, saw that as the next domain where parapsychology could be applied in a strict, scientific, rational way. So I was one of the people that he wanted to talk to. 
+
+17:11 	(Jacques Vallée)	And I told him, do you know how a computer finds data? You have a computer and a machine full of chips. How does it deal with the real world? And he said, I have no idea. I mean, I've never looked inside a computer. 
+
+17:11 	(Jacques Vallée)	And I said, well, there's three ways. As a programmer I can declare, uh, uh, a variable. I can say X is always going to be three point one four, uh, PI, uh, but in many cases, I can give you the address of the place where I've put the data, but it's going to be different. 
+
+17:54 	(Jacques Vallée)	The address is going to be the same, but the data is going to change every time. But I can give you the address. It's, uh, twenty three fourteen. 
+
+18:03 	(Jacques Vallée)	Twenty three fourteen is where I'm going to put the age of the patient. Okay, but it's going to be different with every patient. So that's, uh, direct addressing. 
+
+18:17 	(Jacques Vallée)	Uh, but I can also put in that location. I can put the address of somewhere else which I'm going to compute in my program, and that's indirect addressing. And then there's the rest of the world, which is too big to put inside the machine. 
+
+18:17 	(Jacques Vallée)	I mean, the machine has a memory, maybe very big, but it's still limited. So it's going to go get the information from some memory device somewhere else, you know, maybe the World bank or the Library of Congress. And there I cannot give you the address, but I can give you, um, a sort of imaginary process by which you can derive the address when you get there and bring it into the memory of your computer and then work with it. 
+
+19:12 	(Jacques Vallée)	Um, he said, you know, that's it. That's what I need. And then he came up with the idea of coordinate remote viewing out of that conversation I had with him. 
+
+19:27 	(Jacques Vallée)	So that was my contribution to the actual project at the beginning. And then he thought as an address, he was going to take coordinates, longitude and latitude because we were going to look at, uh. They were going to. 
+
+19:43 	(Jacques Vallée)	I wasn't officially part of the, uh. But I was, you know, I had passed qualifications to be at SRI in a Department of Defense project. So I was one of the good guys. 
+
+19:59 	(Jacques Vallée)	So, uh, we had many conversations with coffee and so on in the lab with, uh, Ingo and later with Yuri Geller, that were absolutely fascinating to me. So I tried to. In some cases, they needed to talk to someone who knew technology and was interested in this, even though I wasn't, uh, on the project itself, but somebody who was inside so that the information didn't get out into the real world until they were ready to actually publish it. 
+
+20:40 	(Jacques Vallée)	Because everybody wanted to kill their project. I mean, there were so many skeptics saying, you know, this can't work. They are making it up. 
+
+20:47 	(Jacques Vallée)	They are fooled by a prestidigitator. You know, Uri Geller is a magician and all those things. Well, he is a magician, but he's also, you know, an extraordinary psychic. 
+
+21:03 	(Joe Rogan)	So could you explain? Um, so they're looking for this Russian spacecraft. So how do they. What's the environment in which they. Remote view. 
+
+21:13 	(Joe Rogan)	 How do they set this up? 
+
+21:15 	(Jacques Vallée)	So, um, Ingo, um. After the project was pretty much over, there was some continuous studies, and Ingo brought me back to work with him, uh, because he wanted to write a book, uh, that would be a synthesis of his methodology, you know, to answer your question of how do you do this? And he had a very structured way of, um, doing that with a number of. What he wanted to do was train people to do that, hopefully to his level. Um, so it was step by step. 
+
+22:02 	(Jacques Vallée)	So there was a. First, you had a pad of paper, you know, and the pen. And he was sitting at the end. 
+
+22:11 	(Jacques Vallée)	The table was about like this, you know, except there was nothing on it. In a room that had nothing on the walls, no windows. There was a chair here and a chair there. 
+
+22:22 	(Jacques Vallée)	So he was away from me. I couldn't see what he was reading. He had a stack of targets that were places on the Earth. 
+
+22:31 	(Jacques Vallée)	And, I mean, obviously the idea was to look at what was going on in, you know, Vladivostok or in some. 
+
+22:39 	(Joe Rogan)	When you say a stack of targets, can you explain. Is it a map? Is it just coordinates? 
+
+22:44 	(Jacques Vallée)	It was just coordinates. 
+
+22:46 	(Joe Rogan)	So just numbers. 
+
+22:47 	(Jacques Vallée)	He had gotten the maps and those were test things from, uh, geographic features on the Earth. Cities, mountains and so on. So, um, he would read out the coordinates. And I had a pad of paper and a number two pencil. 
+
+23:06 	(Jacques Vallée)	So everything was very coded, you know, very straight. And I would draw something that he called an ideogram. So it could be like this, you know, it could be a curve, it could be. 
+
+23:10 	(Jacques Vallée)	And then just first impression. His theory, which I think, you know, having experienced it, uh, we did that for a year now. I had a job somewhere else, but I was coming two mornings a Week, you know, to work with him. 
+
+23:10 	(Jacques Vallée)	And this was classified. So other people at SRI had no idea what was going on in that room that was dedicated to his work. Um, and the, um, he would read out. 
+
+23:24 	(Jacques Vallée)	His idea was that we can all get that signal. There is a signal. If I give you a longitude and a latitude, you potentially can describe what's there. 
+
+24:04 	(Jacques Vallée)	If it's a city, if it's a mountain, if it's, uh, someplace in the country. Uh, the reason you cannot is that the signal is overwhelming. The signal is extraordinarily large, much larger than we can hold it in our brains. 
+
+24:31 	(Jacques Vallée)	So the people who do that have a way of processing the signal and recalling it. And that's the secret, uh, that's the main thing to me that's come out of the SRI study, among many things. So his idea was, you have to stop the signal. 
+
+24:53 	(Jacques Vallée)	You have to catch it. It's, uh, going to be very, very fast. And most people just go on with their life. 
+
+25:00 	(Jacques Vallée)	It's just a passing thing, but you can recall the signal. So he would read out the coordinates again. Now my little scribble is going to turn into maybe a series of waves and then a city with skyscrapers after. 
+
+25:20 	(Jacques Vallée)	If we do that a number of ways now, there are a lot of errors that can come in, and then we can think, we recognize it and try to name it. That's the thing you shouldn't do. You shouldn't try to name it, because to name it put it in the other half of the brain, which is logical and rational and, you know, so, uh, the idea is to label that as an error. 
+
+25:35 	(Jacques Vallée)	You know, it's not a city by the bay. It's something else. So we go on and we keep just going on. 
+
+25:54 	(Jacques Vallée)	So you have to do that with a very patient guide, you know, to train yourself to do that. And SRI, you know, Hal and, uh, Ingo did that, you know, very well in training a cadre of people who could be almost, not quite, but almost as good as Ingo. And there were a couple who were as good as he was one time. 
+
+26:21 	(Jacques Vallée)	No, I said, but Ingo, you know, I'm not psychic. He said, well, you know, think about that, because you've shown evidence of having, of understanding the process. You know, there are some things that I did that would be classified as psychic, but I cannot do it. 
+
+26:22 	(Jacques Vallée)	I cannot control it. Right. 
+
+26:45 	(Joe Rogan)	It just happens randomly. 
+
+26:46 	(Jacques Vallée)	Yeah. 
+
+26:46 	(Joe Rogan)	What kind of, like, what kind of things? 
+
+26:48 	(Jacques Vallée)	Well, one time I get there eight thirty in the morning. We close the door, um, and he gives me A set of coordinates, longitude and latitude somewhere. And I get very cold right away and I get dizzy, you know, I mean, I have to grab the table and I'm not drawing anything. And Ingo says, jacques, what's wrong? And I said, ingo, I don't know where you're sending me, but I'm cold, I'm trembling, I'm afraid, I'm afraid of falling. 
+
+27:24 	(Jacques Vallée)	And, uh, you know, I really don't feel well. And he said, you are on top of a peak in the Andes. 
+
+27:34 	(Joe Rogan)	Whoa. 
+
+27:36 	(Jacques Vallée)	So he pulls out the thing, he gives it to me that comes from, um, you know, a photograph of, um, the Andes taken from an airplane with this peak. And they computed the coordinates of, uh, the peak. And that's what he was giving me. And I was there. 
+
+27:57 	(Joe Rogan)	You felt it physically, did you see it or did you just feel it? 
+
+28:00 	(Jacques Vallée)	No, it was just a physiological reaction of my whole body. Exactly as if you were on freezing cold peak. And I was very afraid of falling. 
+
+28:10 	(Joe Rogan)	Wow. 
+
+28:11 	(Jacques Vallée)	I was falling. And, uh, had you had any of. 
+
+28:15 	(Joe Rogan)	These that didn't work? Did they try any? 
+
+28:18 	(Jacques Vallée)	Oh, yeah, yes, sure. I'm not, uh, uh, you know, you should not use me as a remote, uh, viewer to launch, uh, you know, a tomahawk over somewhere. 
+
+28:31 	(Joe Rogan)	So it was. 
+
+28:31 	(Jacques Vallée)	That's a problem that, of course, the army has. You know, is it good enough so we can launch a rocket, destroy that thing? 
+
+28:39 	(Joe Rogan)	Uh, who is the best at it? Who's the best at remote? Is there one person that's consistently accurate? 
+
+28:46 	(Jacques Vallée)	There are a couple. And they, they are not. You know, Ingo was known because he wrote about it and so on. Uh, many of them. 
+
+28:57 	(Jacques Vallée)	Joe mcmonagall, uh, is, uh, probably the best one alive today. Uh, he described, um, a structure and he described a ship that was being built by the Russians, which was a super submarine in a hangar somewhere. And the Navy just laughed at him. 
+
+29:24 	(Jacques Vallée)	They said, that's crazy. Uh, it's in a hangar, uh, away from the sea. So why would you build a ship when you don't have the ocean? Well, it turned out he was right. 
+
+29:40 	(Jacques Vallée)	It was a super class new Soviet submarine. He described the inside of the building, which had no windows and so on. Uh, yeah, I mean, from a satellite they could see the building, but they couldn't see inside the building. 
+
+29:45 	(Jacques Vallée)	He described what was inside the building. He described the submarine. They described the length, and, you know, he actually measured it psychically and that turned out to be right. 
+
+30:09 	(Jacques Vallée)	And then when the submarine was built, they brought some bulldozers and they dug, uh, a Channel to the sea and off it went. 
+
+30:18 	(Joe Rogan)	This episode is brought to you by betterhelp. Being independent is good, but you should never be afraid to ask for help when you need it. After all, we're only human. We can't know everything. 
+
+30:29 	(Joe Rogan)	That's why it's crucial to have a support system. People you can go to when it gets rough. Think of friends, family members, your partner, hell, even your dog. 
+
+30:39 	(Joe Rogan)	When you're feeling down. Spending time with a furry friend can be a good pick me up, but I get it. Sometimes you don't want to or can't go to them for help. 
+
+30:48 	(Joe Rogan)	For these moments, try therapy. It can be a good source of support in any area of your life. Whether you're working on personal relationships, job stress, or something else. 
+
+31:00 	(Joe Rogan)	Therapy can teach you a multitude of different things to help you be your best self, like how to set boundaries, when to let go of toxic relationships, and what to do when you feel overwhelmed. And even more importantly, you can do it in a safe space. If you think therapy might be a good option for you, a good place to start is betterhelp. 
+
+31:20 	(Joe Rogan)	They have a diverse network of therapists and everything is online, which can be very convenient if you need a last minute session. It's also very easy to switch therapists if it's not working out. Build your support system with betterhelp. 
+
+31:34 	(Joe Rogan)	Visit betterhelp dot com JRE to get ten percent off your first month. That's betterhelp. H dash e dash l dash P dot com JRE so I had heard about this. 
+
+31:47 	(Jacques Vallée)	Those things were extraordinary. 
+
+31:49 	(Joe Rogan)	I had heard about this, but I didn't know it was that accurate. 
+
+31:54 	(Jacques Vallée)	Yeah, that happened. And he was, um, as opposed to, you know, one of us. He was right, you know, enough of the time that you could rely on what he was describing. And also they came up with a way of measuring, actually quantifying the value of your perception. 
+
+32:19 	(Jacques Vallée)	So I told Ingo, you know, let's do another one because I'm on a roll here, you know, after the speak in the Andes. He said, no, Jacques, you know, you're going home now. He said, uh, it's nine o'clock. 
+
+32:32 	(Jacques Vallée)	You know, we've only been here half an hour. Why are you sending me home? I mean, this is great. I got it. 
+
+32:40 	(Jacques Vallée)	He said, yeah, you got it. You don't need all the levels. I mean, you got to the top level. 
+
+32:42 	(Jacques Vallée)	You were there. 
+
+32:47 	(Joe Rogan)	Uh, why did he want to send you home? 
+
+32:50 	(Jacques Vallée)	He said, I want you to stay with that feeling. I don't want to do another one. That you'd miss and so on. I want you to keep that in mind because you got the whole thing. 
+
+33:02 	(Joe Rogan)	Is this based on past experiments and the way they were achieved, Achieving results? 
+
+33:07 	(Jacques Vallée)	Yes. 
+
+33:08 	(Joe Rogan)	So he didn't want to bombard you. 
+
+33:10 	(Jacques Vallée)	Every, you know, every test subject and so on. 
+
+33:13 	(Joe Rogan)	So he didn't want to give you another experience. He wanted you to take that experience and just sit with it. 
+
+33:18 	(Jacques Vallée)	Keep the experience with me, uh, during the day because I got the whole signal. 
+
+33:24 	(Joe Rogan)	Right. And did you feel like that if you did that, it would aid you in your ability to do it in the future? 
+
+33:30 	(Jacques Vallée)	It would, yes. I would lose that sense of, um, uh, direct access to something that bypasses the brain. You know, basically. You know, I was trained in mathematics and physics and astronomy. 
+
+33:51 	(Jacques Vallée)	So I, uh, use the power of my brain that's analytical, you know, and I'm a good programmer, computer programmer and so on. Uh, this is not. This is very different. 
+
+34:02 	(Jacques Vallée)	This is grabbing a signal which has everything in it. And being able to, uh, catch it very fast and just get a little bit of information and then catch it again, recall it. And that's what we were doing that five times, six times, ten times. 
+
+34:25 	(Jacques Vallée)	Until making sure that you don't try to name it, you don't try to, um, put a description on top of it. It's just, stay with the signal. And I think that's an amazing contribution from what doctor Puthoff and Tag and some of their subjects did. 
+
+34:46 	(Joe Rogan)	Was there a specific way that you achieved a state of mind that made you more able to perceive these coordinates or perceive what signal you're getting from remote viewing? 
+
+35:01 	(Jacques Vallée)	There was, um. I had a lot of admiration and love for Ingo, for what he was capable of doing and, you know, his art and his personality and so on. Uh, he was, you know, very much admired in the whole team. Um, and here I think it was the structure also of the experiment. 
+
+35:29 	(Jacques Vallée)	You know, I trusted what he was trying to teach me. I've always. 
+
+35:35 	(Joe Rogan)	So you were open to it? 
+
+35:37 	(Jacques Vallée)	Yes. 
+
+35:37 	(Joe Rogan)	You trusted it. So you were open to it. 
+
+35:39 	(Jacques Vallée)	I had, you know, both the admiration and the trust. 
+
+35:43 	(Joe Rogan)	Did he ask you to put your mind in a specific place? Was there a way of counting yourself into the idea? 
+
+35:50 	(Jacques Vallée)	Is not to put my mind into it, just to let it. 
+
+35:55 	(Joe Rogan)	Just let it come. Just be. 
+
+35:56 	(Jacques Vallée)	Because my mind is analytical. 
+
+35:58 	(Joe Rogan)	Right. 
+
+35:59 	(Jacques Vallée)	Of course. And, um, you know, I was always very good in math. Um, and, um, you know, I mean, you have to be if you're going to be an astronomer and m. So I can be very structured and so on this is not structured. 
+
+36:20 	(Jacques Vallée)	This is boom. And then you can begin to analyze, uh, it. But you have to analyze it, keeping your rational mind away from. 
+
+36:35 	(Joe Rogan)	So you just have to let the information come to you somehow or another, and not try to imagine the information or create the information. 
+
+36:44 	(Jacques Vallée)	Right. 
+
+36:44 	(Joe Rogan)	Just let it happen to you. And so you had seen him do this, and so you. And you knew that this was a valid field of research. So you were just open to it, and you just sat down there and tried to let it happen to you. 
+
+37:01 	(Joe Rogan)	 Did it happen any other time that resembled the Andes Peaks, where you have that overwhelming feeling of cold and falling? Did you have that feeling with anything else? 
+
+37:13 	(Jacques Vallée)	Yes, I had some of that, but this one was, you know, just completely shocking because it was. And I think that's a characteristic of the. When you really get it, you know, there is no question. Uh, and, you know, in the movie Patton, Yes, Patton is sent to North Africa because. 
+
+37:39 	(Jacques Vallée)	To fight Rommel. Rommel is there with his tanks, and the American army is going to. Isn't ready to invade Europe, but wants to start controlling the Germans in North Africa. 
+
+37:55 	(Jacques Vallée)	He's sent there, he lands. There is, uh, a lieutenant there with a jeep that takes him to the place where there was a battle and the Americans were decimated by. Rommel was just a genius German general, uh, great with tanks, just like he was, uh, uh, Patton considered him as his major enemy because both of them understood tanks. 
+
+38:30 	(Jacques Vallée)	Uh, so, uh, Patton gets in the jeep that's in the movie. It's just absolutely perfect. I've checked that this was historical, you know, exact in the movie. 
+
+38:30 	(Jacques Vallée)	Uh, they drive to the site of the battle, and they get to. In the desert in the jeep, and they get to a fork in the road and the driver takes to the left. And Patton said, uh, son, why don't we go to the right? Because that's where the battle was. 
+
+39:05 	(Jacques Vallée)	And, uh, the driver says, uh, sir, uh, you know, with all due respect, I was there in that battle. It's on the left. He said, uh, trust me, go to the right. 
+
+39:18 	(Jacques Vallée)	And they go to the right and they get to the edge of a plateau where you see a big plain. And Patton says, this is where the battle was with Hannibal. Came from the left with his elephants, you know, and the battle was there, you know, and I had been there. 
+
+39:40 	(Jacques Vallée)	I was there. Uh, Patton thought that in his. He was reincarnated from a Roman, uh, general who had been at that battle against Hannibal and his elephants. 
+
+39:58 	(Jacques Vallée)	And, uh, you know, the poor driver saying, how did this happen? You Know, how did I get here with. With this general who thinks he's reincarnated, who fought against Hannibal and, uh. Um. 
+
+40:17 	(Jacques Vallée)	M. I've worked with people, as you know, I've run a number of venture capital funds with, uh, people who had that kind of intuition. And you think finance is driven by greed and so on, but at some, uh, level, greed doesn't really matter. 
+
+40:40 	(Jacques Vallée)	It's getting to the truth of something, especially in venture capital, where you're going to change the way things are done with these gadgets, with computers, with uh, uh, rockets and so on. Uh, you're going to go to a new generation of things. So it hasn't been done before. 
+
+40:59 	(Jacques Vallée)	And the financial people, uh, you've got ten engineers in front of you who can do it. There is one who will succeed. Ah, nine who's going to fail. 
+
+40:59 	(Jacques Vallée)	And you have to pick. You have to pick the thinking that's going to succeed. You know, I mean, it's not the money and it's not the technology. 
+
+41:27 	(Jacques Vallée)	It's the mind of the driver who say, no, let's go to the right, let's not go to the left. You know, I mean, Patton was extraordinary in that. I mean, he was a remote viewer. 
+
+41:41 	(Jacques Vallée)	He demonstrated that again and again. You know, uh, there are some interesting books that I've collected from some of his lieutenants, you know, who you would. 
+
+41:52 	(Joe Rogan)	Also have to consider. That's an extraordinary state of mind to be a general in a world war. And the consequences of everything you do and what is at stake in this war is got to be a state of mind that's very, very unusual, with so many consequences, so much pressure that it, uh, probably makes some signals more clear if you have that ability to perceive them. Because you are. 
+
+42:19 	(Joe Rogan)	You must be in a heightened state awareness because Just the consequences of your life. 
+
+42:27 	(Jacques Vallée)	Exactly. But you also have to be detached. I mean, you know, eventually he's going to go to the battlefield where the, you know, uh, bodies of soldiers who've been killed, they're burning tanks and everything else. They show that in the movie. 
+
+42:32 	(Jacques Vallée)	I mean, that's where he's supposed to go. Yeah, but, you know, his. His mind is at a different level. 
+
+42:54 	(Jacques Vallée)	Uh, and when did they first start. 
+
+42:58 	(Joe Rogan)	Researching this and when did they believe that this was, uh, an ability that some people had. 
+
+43:04 	(Jacques Vallée)	Oh, uh, you know, way back in antiquity. 
+
+43:08 	(Joe Rogan)	Really? 
+
+43:08 	(Jacques Vallée)	Yeah. Uh, and, you know, they had, um, seers that the king would go consult. Uh, uh, whether he, um, uh, should engage in a war with. You know, they had. 
+
+43:32 	(Jacques Vallée)	The Greeks, had the Pythia you know, who was um, a woman who. They had an area, a volcanic area where they were fumes coming out of the earth. You know, that was supposed to be one of the doors to the underworld and so on. 
+
+43:49 	(Jacques Vallée)	And there was a special uh, cult around that place. And uh, you know the king uh, would go there before great decision and would ask the message from you know, the underworld or um, the message from the, from the mind of the woman who was interpreting what was coming from the earth. So that has been you know, regarded as um, uh, you know um, Hitler, Adolf Hitler was uh, in his. 
+
+44:36 	(Jacques Vallée)	Before the war, you know, as when he got to be the leader of Germany, he exhibited and he very much believed in those powers. I think he got to the point where he trusted it too much and he started making mistakes and that could be used against him because of drugs. You know, you have to uh, get the ego out of the way. 
+
+45:02 	(Jacques Vallée)	Of course that's hard to say thing, you know, for, for us to do. 
+
+45:06 	(Joe Rogan)	Especially to a uh, narcissist dictator who's on drugs. 
+
+45:09 	(Jacques Vallée)	That's right. Yeah, that's right. 
+
+45:13 	(Joe Rogan)	Well that, that's the always the age old problem with Sears. Like how do you know who's a charlatan and who's real? Because there's always a bunch of fake psychics, there's fake palm readers, fake tarot card readers, people that are just con artists that are just trying to swindle people out of money. But that doesn't discount the possibility that some people have these bizarre abilities. And that is something that people have sort of recognized forever. 
+
+45:31 	(Joe Rogan)	But it's always been dismissed especially in this modern day reductionist culture that likes to only look at things that are tried, true, proven, agreed upon and then trust the science like this concept that. 
+
+46:00 	(Jacques Vallée)	Well I think as you know uh, in science, I mean the burden is on you as a scientist to come up with an experiment that will discriminate between the random things and uh, will give you guides to.
+
+46:19 	(Joe Rogan)	Well I think that's what they've done with the telepathy tapes. And I'm hoping uh, the success of this and then they're going to do a whole series on it where they're doing a documentary and they're showing all the footage so you're gonna be able to see it for yourself. And I'm, I'm hoping that this stops the ridicule because there's a bunch of scientists when. And I think this is with the UAP topic as well. 
+
+46:43 	(Joe Rogan)	The uh, UFO topic as well. I think um, there's a bunch of people that don't want to consider it because there's too much bullshit out there and there's too much of a possibility that you could look like a fool. And to a very respected scientist whose research is very important, as you were talking about with, uh, the IBM thing, where there's hundreds of millions of dollars that are dedicated towards these. 
+
+47:05 	(Joe Rogan)	 Why would you risk all that and the credibility of all that on this nonsense about people seeing things with their brain in a closed room, finding coordinates, pretending they're on top of a mountain, all that kind of stuff? 
+
+47:18 	(Jacques Vallée)	Well, um, fortunately, certainly in California, there are people who can take risk and put a few million dollars behind, uh, something. 
+
+47:37 	(Joe Rogan)	Shout out to Stanford. Uh. 
+
+47:40 	(Jacques Vallée)	And, uh, as you know, I come from France. And in France, uh, it's very, very hard to do that because, uh, the system is very structured and very conventional and so on, even though France has had some of the brightest people in that kind of research. 
+
+47:57 	(Joe Rogan)	So it's just a cultural limitation of the culture. 
+
+48:02 	(Jacques Vallée)	Everything has to be rational. 
+
+48:05 	(Joe Rogan)	Uh, America's a little more chaotic. 
+
+48:08 	(Jacques Vallée)	And they also, as you know, France has had, for a long time has had a project on ufo's, official project, uh, uh, that takes reports from the public and they investigate them. And it's a very small team, but they have access to all the resources of French research. So they can get the weather people, they can get the Air Force, they can get the radar people, they can get all of that. So they can tap into the resources of a lot of different departments of the government. 
+
+48:32 	(Jacques Vallée)	So it's very powerful. So they, uh, will explain. They find a rational explanation for about ninety five percent of all the reports. 
+
+48:57 	(Jacques Vallée)	M. Which is true. I agree with that. 
+
+49:00 	(Jacques Vallée)	I've been there. 
+
+49:01 	(Joe Rogan)	So it's about ninety five percent you can explain away. 
+
+49:05 	(Jacques Vallée)	It's not hoaxes. Uh, those are people who really think that they've seen something unusual. But what was unusual to them may have been the moon rising through the fog. And it looks like an elongated disc. 
+
+49:18 	(Jacques Vallée)	And then after a while, things change and so on. 
+
+49:27 	(Joe Rogan)	Lightning. 
+
+49:28 	(Jacques Vallée)	Yeah, There's a few things they really think they've seen a flying saucer coming over. Uh, there are about two hundred or two hundred fifty possible physical things that really could surprise you that are unusual, that would create conditions under which a normal person would think that they are in the presence of a ufo. Then what's interesting is the other five percent. The other five percent is in your face. 
+
+50:01 	(Jacques Vallée)	Ah, you know, I have reports, um, of, um, something that moved, like the tic tac you know, from the French Air Force in the fifties. There was a French jet over Morocco that was flying, and there was a radar tracking, uh, the jet. And I had the reports from the French Air Force with the chart and that the thing, uh, he was chasing went up, you know, all in a fraction of a second, went to the top of the atmosphere, you know, just like the Nimitz case. 
+
+50:40 	(Jacques Vallée)	So those things are not new. I mean, they are in the files, if you take the trouble to look at the files. 
+
+50:46 	(Joe Rogan)	And they're in the files far back enough in history that it's impossible to imagine human technology achieving these things. 
+
+50:53 	(Jacques Vallée)	Absolutely. Well, especially in the fifties, I mean. 
+
+50:56 	(Joe Rogan)	Right. Well, the Kenneth Arnold. 
+
+50:58 	(Jacques Vallée)	Anything that had gone into space. 
+
+50:59 	(Joe Rogan)	Yeah, there's, there's a bunch of cases that rule out the possibility of human technology when you're talking about people using propeller planes and, and seeing these things. We were at a time technologically where it's not possible to imagine that someone had gone that far beyond us. Now we are in that time where you see things, you go, well, how much of that is some sort of top secret government program, some military program? And they have drones that can move at extraordinary speeds with some, uh, undisclosed propulsion system. That's possible today, at least theoretically. 
+
+51:37 	(Joe Rogan)	Um, we entertain those ideas. But back then, this is one of the more fascinating things. I told you last night that I consumed three of your books in the last six months. 
+
+51:46 	(Joe Rogan)	And, um, there was this series of three that you did that had a bunch of different encounters. Not just right now I'm m on the Invisible College, but the last ones that I read were, um, the ones on various contacts that people have had and the similarity of these stories, and they go way back, way back, way back. Before, it was sort of a cultural artifact. 
+
+52:13 	(Joe Rogan)	Like right now, I think in people's minds, the gray aliens are so iconic. A flying saucer like that, that's a copy of, uh, the sport model from Bob Lazar's Adventures. Uh, these things are in pop culture to the point where you almost would expect to see them. 
+
+52:30 	(Joe Rogan)	You know, you look for them. You, if you see something, you could imagine that you could twist it up in your mind and make it like that. But the problem is these stories go way before that. 
+
+52:44 	(Joe Rogan)	They're too similar. They go a long, long way back. And there's too many that are very, very similar to what we're talking about today, to the point where a rational person would have to say, maybe there's something more to this. 
+
+53:04 	(Joe Rogan)	 What do you got there? 
+
+53:05 	(Jacques Vallée)	Yeah, uh, I Brought you this. Uh, it's a token. It's not a coin. It's a token from Burgundy in France. 
+
+53:15 	(Jacques Vallée)	From the, you know, the. A few centuries ago, the Duke of, um, Burgundy was under attack. There was a lot of, uh, turmoil in French politics, and the king was fighting the noble. 
+
+53:34 	(Jacques Vallée)	The great nobility and so on, was in cahoots to get rid of the king and so on. And they were going to be attacked, and he needed money to raise an army. And he appealed to people, uh, in Burgundy to send him money. 
+
+53:40 	(Jacques Vallée)	And this was a token that, uh, they would. The king, uh, the duke, you know, would give people who had given him money to raise this army. And on the face of it is this disk that's holding up, um, that's protecting the land from forces above. 
+
+54:18 	(Jacques Vallée)	You know, there are all these arrows raining down on the land, and the land is protected by this flying disk. So it doesn't mean that they had seen a flying saucer at that time, but the idea has always been there of, you know, disk like objects that were not, meteors that were not, you know, all the natural explanation that were real disc. You find that in legends. 
+
+54:18 	(Jacques Vallée)	You find that in, you know, in history. Jimmy, can you see if you could. 
+
+54:54 	(Joe Rogan)	Find an image of this, we could show people. You found it? Yeah, that's it. 
+
+54:57 	(Jacques Vallée)	Yep. Yes. 
+
+55:00 	(Joe Rogan)	Wow. 
+
+55:02 	(Jacques Vallée)	And, uh, you see, it's protecting the land, uh, and it's hovering in the sky, uh, protecting it from all the thunder clouds above. Well, you know, there were a few of those things in history, and, you know, as you know, I've collected those with a group of. 
+
+55:26 	(Joe Rogan)	Couldn't that be interpreted as a shield? 
+
+55:29 	(Jacques Vallée)	Um, well, it is shown as a shield, you know, that's going to stop all those arrows. 
+
+55:36 	(Joe Rogan)	Right, but that's what they used to stop arrows back then. They used a shield. 
+
+55:40 	(Jacques Vallée)	Yes, yes. 
+
+55:41 	(Joe Rogan)	So that doesn't that just make. I mean, that doesn't seem to me to be a ufo. It seems to me to be a shield that they would protect. 
+
+55:48 	(Jacques Vallée)	Yes, but it's also, you know, it's not exactly the shape of a, uh, you know, of a shield. Most shields are, you know, more oblong, but some of them are round. But the point is, it's hovering in the sky, protecting the land underneath. 
+
+56:10 	(Joe Rogan)	Okay. I think some of the more compelling stuff is like the stuff in the ancient Hindu scripts, the vimanas, and all these different flying crafts that people described. Uh, they've always been a thing that. 
+
+56:24 	(Jacques Vallée)	People have described, and we've been able to trace it to actual investigations or actual Records. Because of course, when people described something like that, especially there was some sort of being associated with it. You know, it could be the devil. It could be. 
+
+56:45 	(Jacques Vallée)	So they had to see a priest and confess and, you know, and they were in trouble. If you reported that thing most of the time, you'd be in trouble because it couldn't be a normal thing. 
+
+57:00 	(Joe Rogan)	You'd be a heretic. 
+
+57:01 	(Jacques Vallée)	Today they just fire you from wherever you work. 
+
+57:06 	(Joe Rogan)	Yeah, probably. Or maybe you're a kook. And then stop peace. 
+
+57:09 	(Jacques Vallée)	They don't burn you alive. 
+
+57:12 	(Joe Rogan)	Yeah, that's lucky. Um, but people do, uh, have a fear, a legitimate fear of being ridiculed. And that could stop their ability to be promoted within whatever organization they're in. That you don't want to think, oh, there's Kooky Bob over there who thinks, uh, the aliens are watching us. 
+
+57:30 	(Jacques Vallée)	The best cases I get, uh, are from executives in Silicon Valley whose family has seen something or who have seen something. And they've described, you know, frankly, ufo's to me. And, uh, here's another one, different coin from our year later. 
+
+57:50 	(Joe Rogan)	So that looks way different. So that coin is much more compelling because that looks like something flying in the sky above the city. That doesn't look like a shield at all. And what is that peak at the bottom of it? The same thing? Yeah, that's very different. 
+
+58:04 	(Jacques Vallée)	You can tell. 
+
+58:05 	(Joe Rogan)	Much more compelling. 
+
+58:05 	(Jacques Vallée)	Those things have been in the culture, sort of repressed in the culture, and the anthropologists don't want to look at that. You know, they don't. 
+
+58:16 	(Joe Rogan)	There's a really old painting, um, like a biblical painting of, uh, these people that look like they're flying around and like, seated in these crafts. They're in the sky. I've never seen any sort of a conventional explanation. What is that artist depicting? 
+
+58:35 	(Jacques Vallée)	So usually the explanation, when you read, um, what the historians have said, it's supposed to be, you know, some God or some higher level entity that's coming to protect people and so on. But when you look at the detail, I mean, it really looks like a machine. It really looks mechanical. 
+
+59:01 	(Joe Rogan)	See if you can find that image. Jamie. Do you know the one I'm talking about? This one? Yeah, that's exactly. But we wanted like the one in the lower right. 
+
+59:09 	(Joe Rogan)	Well, both of them. But the lower. Like what is that? That looks like a craft. 
+
+59:12 	(Joe Rogan)	It looks like someone seated in a craft. 
+
+59:15 	(Jacques Vallée)	It's an, you know, an envoy from God or, uh, an angel who's been sent. But the problem with those is that the painting, you know, it may Relate to something that was written in the third century. The painting is a, uh, sixteenth century painting. So we didn't look at that that much. 
+
+59:37 	(Jacques Vallée)	I mean, it's interesting from a. Like the one with the Virgin with the. You know, so it may be that the. 
+
+59:44 	(Jacques Vallée)	The artist was witness to something and he wanted to memorialize it and he put it in his painting. But it's not tied to the time of the Virgin, you know. 
+
+59:58 	(Joe Rogan)	Right, right, right. They just added it in there. 
+
+60:01 	(Jacques Vallée)	You can't. Uh, we stayed away from that. We. We wanted to go to records of somebody having actually testified that he saw something or she saw something. 
+
+60:13 	(Joe Rogan)	Right. Not just artwork. 
+
+60:15 	(Jacques Vallée)	Right. 
+
+60:16 	(Joe Rogan)	Um, but it just is very bizarre that this artwork continually depicts people in crafts. And look, what is that thing flying. 
+
+60:26 	(Jacques Vallée)	Around like, uh, what the hell? And there is a communication with, uh, the man who's looking up at it. He's looking at it, and there is a sense of that. He's actually seeing it, uh, having a sense of what it is. 
+
+60:40 	(Joe Rogan)	It's like an Easter egg someone put into the painting. 
+
+60:43 	(Jacques Vallée)	So this movie, the artist sort of, um, you know, put that in as a side. Of course, the main theme is the Virgin and the Child. 
+
+60:56 	(Joe Rogan)	What's that one over there, Jamie, in the second row that says inside Ancient? Yeah, that one. What the hell is that? That's what really freaks me out, is the paintings, uh, on cave walls that look just like grays. Well, these bizarre paintings of things that just look like they are people wearing helmets. 
+
+61:20 	(Jacques Vallée)	And, uh, the most interesting to me come from the Sahara. You know, um, friends who are anthropologists who worked with the UN in Africa and so on in part of the Sahara. And one theory they have is that the culture that eventually moved to Egypt came from the Sahara. So I say, well, Sahara is just sand. 
+
+61:55 	(Jacques Vallée)	Well, it's just sand today. But we know that at one time it was flourishing. There were forests, there was water. 
+
+62:05 	(Jacques Vallée)	In fact, there is water, but it's underground water. It's a large amount of underground water. There was a sea there at one time. 
+
+62:15 	(Jacques Vallée)	And so, uh, there. There probably was an earlier civilization. And some of those come from the Tassili. 
+
+62:24 	(Jacques Vallée)	The Tassili is a region in the Sahara where there are a lot of those representations. So there were a lot of people living there at one time. And they painted that on the rocks. 
+
+62:35 	(Joe Rogan)	See if you can find some of those, Jamie. Yeah, you see similar things that indigenous people in Australia have painted similar things. It's all over the world in completely separate environments. Very similar features, um, in these cave paintings. 
+
+62:55 	(Jacques Vallée)	And, um. Well, I think, uh, archaeologists wouldn't disagree with that. I think they would say the problem is that we don't correlate it. I mean, they didn't write anything. 
+
+63:08 	(Joe Rogan)	Right. 
+
+63:09 	(Jacques Vallée)	You know, the, um. 
+
+63:11 	(Joe Rogan)	It's open to interpretation. 
+
+63:12 	(Jacques Vallée)	We don't have a good correlation, so we have to keep looking for that. But that's fascinating. But in our book we made the rule that, number one, um, we don't want isolated human figures, even with suits and so on. We really want a device, a flying device, you know, Otherwise you have, you know, you could fill forty books with images of strange creatures. 
+
+63:44 	(Joe Rogan)	Right. 
+
+63:44 	(Jacques Vallée)	Um, the. I mean, what are the things that people see, you know, in, uh. Um, around the ranch now, you know, in, uh, skinwalker in Utah, Arizona, and in all of that. So, um, have to be careful on the boundaries of those things. 
+
+64:06 	(Jacques Vallée)	But we wanted to get to a place where there was testimony about somebody seeing, uh, a, uh, flying disc that was strange to them in their culture. And remember, in those cultures, those were agricultural cultures. So with people who were used to being. 
+
+64:28 	(Jacques Vallée)	Interpreting the weather, looking at the M phases of the moon, looking at the rising time of the sun, and all that was important for their. For their agriculture. So they knew their environment very well, better than we do as people living in cities. 
+
+64:47 	(Jacques Vallée)	So, uh, we can take that to some extent that has scientific value, especially when you can build a model of a number of those, uh, across different centuries. But in that book, we were careful to break the book, um, into sections corresponding to different evolution of the culture, explaining first a couple of pages what was happening during that time in terms of new inventions, like when the telescope was invented, um, when certain things were discovered and so on. So we were careful to put it in context with every. 
+
+65:36 	(Jacques Vallée)	Reinterpreting the description by the witness in the context that was appropriate. 
+
+65:44 	(Joe Rogan)	Well, it was very thorough and very objective, which is what I really enjoyed about it, where you were very clear what we absolutely knew and very clear what could be nonsense and myth. And that one of the things that keeps occurring over and over again is these similar stories. The stories are really similar from the seventeen hundreds through the eighteen hundreds into the twentieth century. And then you, uh. 
+
+66:13 	(Joe Rogan)	Again, now it gets more muddy because now you have a bunch of people that realize that there's value in concocting a story and then talking about it and selling a book. And there's. I think there's people that are grifters, and I think they, you know, I probably had a few of them on. 
+
+66:32 	(Joe Rogan)	They are capitalizing on this desire that people have for stories. 
+
+66:38 	(Jacques Vallée)	Well also now, uh, we think that the government has the answer. So, uh, people spend their time, uh, you know, writing to different agencies and listening and listening to reports from pilots, which is fine, of course, uh, and people in the military, people in the intelligence community. But those are very valuable because they have, now they have instruments to actually measure what they see on an F eighteen and so on. And they are covered by radar and by AWACS and everything else. 
+
+67:17 	(Jacques Vallée)	So we can rely on that. So scientists and many people like the numerical aspect of it. I don't do that. 
+
+67:24 	(Jacques Vallée)	I mean, I don't pretend to have access to that. I mean we had access under Bigelow and under Bass to some of that, uh, you know, including some of the classified things that had happened. But there is a much richer pool of data which is, you know, a friend tells me about the sighting in the country somewhere. 
+
+67:24 	(Jacques Vallée)	I can go there, I can go see the people and I can find out exactly what happened. And uh, I continue to do that. And that's most of my data. 
+
+67:59 	(Jacques Vallée)	And it's ten times bigger than the stuff they talk about from the Pentagon. You know, I mean, it's real data from that. And I don't need to have a clearance to go see the people and sit down. 
+
+68:19 	(Jacques Vallée)	If I'm lucky, they'll invite me for lunch and you know, I can talk to the kids, I can talk to the wife, I can talk to the, the people who took care of the cattle and they'll tell me. And um, that's where most of my information is really coming from. And it's not, you know, it's just very much in your face. 
+
+68:42 	(Jacques Vallée)	Uh, and um, it's consistent. 
+
+68:46 	(Joe Rogan)	How consistent are the shapes of the crafts? 
+
+68:52 	(Jacques Vallée)	It's a tough question. You know, uh, many of the descriptions have to do with disks, you know, um, and eggs as well, different sizes. You know, some of them are very large. Um, some, a number of descriptions have to do with, you know, for a long time with cigar shaped objects, you know, cylindrical and rounded at the end sometimes with what people describe as windows that may just be openings with light, uh, you know, in the side of it doesn't have to be what we think of as a window. 
+
+69:36 	(Jacques Vallée)	And then you have some irregular shapes, you know, just balls of light, um, that physicists interpret as maybe plasma. But plasma doesn't survive in the air, you know, shouldn't survive in the air more than a minute maybe. But uh, people have, you know, seen uh, some of those things for minutes and longer, you know, long Enough to take pictures of it, so on. 
+
+69:36 	(Jacques Vallée)	And it's not necessarily glowing, it's not necessarily luminous the way you, um, know plasma would be. So, uh, we don't know what they are. And they've been reported all over the world. 
+
+70:22 	(Jacques Vallée)	Again, there are, you know, paintings, uh, of that kind of thing from the eighteenth century or the seventeenth century. So, um, that I've collected and published. So, uh, what are the most compelling categories? 
+
+70:40 	(Joe Rogan)	What are the most compelling paintings that we could find right now from like the seventeen hundreds or eighteen hundreds? 
+
+70:48 	(Jacques Vallée)	Um, I think there is a beautiful, beautiful, uh, painting of, uh, hills and three blue spheres that are not moving, that seem to be suspended in the air. Very, uh, distinct blue spheres that were seen. And somebody, you know, recorded it and somebody did a painting of the scene. Those are, um, things that people wanted to remember because they knew it was. 
+
+71:27 	(Joe Rogan)	And what year was this painting from? 
+
+71:29 	(Jacques Vallée)	Uh, I don't remember the year. I couldn't tell you. But it's a very old painting, sixteenth, seventeenth century. 
+
+71:35 	(Joe Rogan)	Um, do you know the name of it? Like, so Jamie could try to find it online? 
+
+71:40 	(Jacques Vallée)	Uh, no, I could send you the picture. 
+
+71:43 	(Joe Rogan)	Okay. Okay. So there's also a bunch of depictions of egg shaped crafts. Yes, this is very common as well, right? 
+
+71:55 	(Jacques Vallée)	Yes. 
+
+71:56 	(Joe Rogan)	And the couple that you, uh, had in one of your books from. Was it the mining people from, um, was it California or was it Nevada? 
+
+72:08 	(Jacques Vallée)	I wrote a book, the Shape, with Paola Harris called Trinity, about an egg shaped object that happened nineteen forty five near, uh, White Sands, that, uh, now we have reinvestigated it. The first book was criticized appropriately by someone who said I hadn't gone to enough of the written records. Well, now I've done that. So we've republished the book. 
+
+72:41 	(Jacques Vallée)	It's called Trinity, and it covers three cases. In all three cases, the object is actually shaped the size of a medium sized truck. Uh, it would fit in this room. 
+
+72:57 	(Jacques Vallée)	It would be about the size of this room. Um, then there is a case in Socorro, and there is a case in Valensol. So Corot and Valensol, and people have concentrated on the first one. 
+
+73:12 	(Jacques Vallée)	You know, they want it because it's, uh, it's two years before Roswell and there were witnesses there. You know, in Roswell there were no witnesses. There were people who came later who found the stuff and they reconstructed the story. 
+
+73:28 	(Jacques Vallée)	And it's a very interesting story. But at Trinity, um, they saw it arrive and they saw it crash. And they were there for ten days afterwards, uh, watching the recovery. 
+
+73:28 	(Jacques Vallée)	And they went inside one of them went inside and his father went inside also. So we have a very rich description of that. And where is it in the literature? Nowhere. 
+
+73:54 	(Jacques Vallée)	I mean, uh, Paola Harris found this, did research for four years on that and then told me about it. And then we did another four years of research together at the site and we found a lot of correlations, but there are the Socorro case and the Valensol case. 
+
+74:14 	(Joe Rogan)	Could you explain, Tell me, before we move on to those other cases, what correlations did you find? 
+
+74:19 	(Jacques Vallée)	Well, uh, in all three cases it's an egg shaped object. In all three cases there are traces that could be seen, could be, um, described, uh, could be, uh, analyzed. In all three cases, beings are short. They are, you know, about, uh, three feet, three and a half feet. 
+
+74:41 	(Jacques Vallée)	They breathe air. And ah, what kind of extraterrestrial is it that comes here and breathes the air? Okay, we don't go. If we go to the moon, we're not going to breathe the air. 
+
+74:58 	(Joe Rogan)	How do we know that it breathes at all? How do we know that these things breathe at all? 
+
+75:03 	(Jacques Vallée)	They had no breathing. 
+
+75:05 	(Joe Rogan)	But how do we even know Biological. 
+
+75:08 	(Jacques Vallée)	They had two eyes, uh, a small nose, small mouth. 
+
+75:12 	(Joe Rogan)	But couldn't they possibly be some sort of, uh, a creation instead of, uh, being a biological entity, couldn't they be some sort of artificial life? 
+
+75:21 	(Jacques Vallée)	So, um, I've asked, uh, Gary Nolan about that. You know, I'm not a biologist and um, I think it would be known if somebody had created metahuman. 
+
+75:41 	(Joe Rogan)	I don't mean somebody, I mean another life form from somewhere else. 
+
+75:45 	(Jacques Vallée)	There were stories of the Russians, uh, actually thinking about creating a dwarf human to pilot their ships because they didn't expect to have the energy to have a big rocket. It turned out they found Korolev. 
+
+76:10 	(Joe Rogan)	So they were trying to get tiny people to power their ships because they were lighter. 
+
+76:14 	(Jacques Vallée)	But the CIA was looking into rumors that the Russians in the fifties before Sputnik, that the Russians were trying to create, uh, uh, a humanoid that could pilot a spaceship. 
+
+76:34 	(Joe Rogan)	Well, I know that the Russians, there was some talk of them trying to create a human ape hybrid. They were trying to do something with chimpanzees and try to create some sort of a human chimpanzee hybrid for war. Which is a terrifying thought that they would, first of all, if they were successful, how terrifying would that be? But just that they were interested in doing that, creating a race of chimpanzee human warriors. 
+
+77:03 	(Jacques Vallée)	Um, there was no, to my knowledge, there hasn't been any correlation of that. And the the creatures that are described in Socorro in New Mexico and in Valensol in France. So those are three cases that I've been very involved in from the beginning, from day one. Um, involve creatures that are about three feet tall, that breathe our air, recognize our signals, communicate with us, uh, in funny ways, even mentally. 
+
+77:43 	(Jacques Vallée)	I mean, the witnesses describe getting images in their minds and so on in all three cases. And, uh, what's interesting is people can argue about Trinity all they want, like they argue about Roswell, but the case in Socorro and the case in France, in Valensol, were investigated by governments, you know, not by, uh, you know, the local, uh, UFO group, although the local UFO group did a good job in all those cases. But they were in Socorro. 
+
+78:20 	(Jacques Vallée)	It was first they, you know, the local police, local policemen saw the craft and the beings and described what happened. He was terrified. But, you know, when the thing took off, uh, he thought it was something to do with some new gadget or some work in the desert. 
+
+78:41 	(Jacques Vallée)	It's an area that's still in the same state today. I've gone back there with doctor Hynek's son, you know, with Paul Hynek, a few months ago. I've gone several, several times there. 
+
+78:55 	(Jacques Vallée)	And so after the police, um, turned out the FBI was in town on another case. They had no jurisdiction in New Mexico for that particular case. It wasn't a federal case, but they helped preserve the traces, you know, the FBI way. 
+
+79:12 	(Jacques Vallée)	And, uh, the local police was happy to have them there. And then there was. The state police came in and did an investigation. 
+
+79:16 	(Jacques Vallée)	And then people from the base, uh, uh, came in with experts in, um, explosives, experts in recovery, uh, of weapons and rockets and so on, because they felt it might be something that had come from, um, the Trinity Range that was out of its way and had crashed near Socorro, in which case they might have responsibility, including financial responsibility, if something was destroyed or whatever. So this, uh, was very serious. I have the whole file, okay? It's a big file. 
+
+80:02 	(Jacques Vallée)	Nobody's looking at it. I mean, the investigation in Washington now they are saying, we're going to look at the cases of the last twelve months. Well, what kind of science is that? Can you imagine scientists reading this? And this is the way they are going to solve the UFO problem, uh, by looking at vague pictures of lights in the sky for one year. 
+
+80:25 	(Jacques Vallée)	You know, why don't they go back to those records? Those are federal records. Okay, the case in Valensol. Five agencies of the French government. 
+
+80:34 	(Jacques Vallée)	So this guy was a farmer. He Had a field where he was growing plants to make perfumes. So this was high level, expensive crop. 
+
+80:48 	(Jacques Vallée)	This wasn't just alfalfa or something. And he goes there at five o'clock in the morning because, uh, he wants to do some, to water the thing and so on before the sun is up. Because it's going to be very, in the south of France. 
+
+81:05 	(Jacques Vallée)	It's going to be very hot. You can't work in the field during the early afternoon. So he wants to be done with that. 
+
+81:13 	(Jacques Vallée)	He sees this contraption, you know, in the middle of the field crushing, you know, the plants. And so he sneaks in and he's paralyzed. Okay. 
+
+81:25 	(Jacques Vallée)	Now, uh, there is an egg shaped object just like the one, you know, at Trinity, just like the one in Socorro. It's the size of a mid sized truck. There are two creatures in front of it, human, you know, human looking, two eyes, breathing air. 
+
+81:46 	(Jacques Vallée)	They look at him sort of amused. And one of them has something on his belt. He takes out points pointed at him and that's when he's paralyzed. 
+
+81:57 	(Jacques Vallée)	Now he's not. You, uh, know, as you know, I'm not a doctor, but I've gone to doctors about what kind of paralysis is that, where you can stand up and watch something, you just can't move. They said, well, there is a type of paralysis that will just inhibit the motor, you know, motor nerves. 
+
+82:18 	(Jacques Vallée)	But you'll still be up and aware. You're not going to fall down, uh, in a heap. And uh, from there he sees them going back inside the thing. 
+
+82:31 	(Jacques Vallée)	The thing takes off. It takes off like a shot out of a gun and it vanishes in midair. Okay. 
+
+82:39 	(Jacques Vallée)	Now he goes to see the gendarmes. This man is fairly wealthy. He owns quite a bit of, you know, several fields, expensive crops. 
+
+82:52 	(Jacques Vallée)	His wife is the mayor of the town. The gendarmes are going to be very careful with him because he's also from the Resistance. In World War two, when he was young, he joined the resistance and the Resistance in that part of uh, France fought, uh, in the Alps against the Germans. 
+
+83:12 	(Jacques Vallée)	And you know, they were regarded as heroes of World War two. Uh, and uh, so the gendarmes were very careful with him. There are some things he's not going to tell the gendarmes because he thinks, and uh, I went there. 
+
+83:32 	(Jacques Vallée)	He didn't want to talk to anybody from Paris. He didn't want to be on tv. He wanted to concentrate on his experience because he thought there was going to be something else. 
+
+83:45 	(Jacques Vallée)	And he was aware of some of his buddies this is a part of France where people talk, but they have secrets too. I mean, historically, you know, uh, there are things like that in the US you know, parts where people are not going to talk to strangers. The only reason I could go there was that I was. 
+
+83:53 	(Jacques Vallée)	I went there with, um, a, uh, lady who was from Paris, was from. With the government. She was with, uh, the gold government. 
+
+84:13 	(Jacques Vallée)	She had the rank of ambassador, and she had a vacation home there. So we went there for three days, and she knew everybody there. And he, uh, told us what he thought might happen again. 
+
+84:20 	(Jacques Vallée)	So he didn't want the gendarmes mixed in with what he was doing. 
+
+84:38 	(Joe Rogan)	Why did he think that something was going to happen again? 
+
+84:42 	(Jacques Vallée)	Um, they evidently. And, you know, he swore us to secrecy about what it was, but evidently there was communication with the beings when he was there. 
+
+84:55 	(Joe Rogan)	And so these beings, just tiny, look like people. Did they have different features than us, or was it just human beings? 
+
+85:02 	(Jacques Vallée)	They are just like the ones at Trinity and like the ones at, um, Socorro. So in that book, you have actually, uh, two, two and three. You have seven creatures that are humanoid, that breathe our air, that seem to understand us. You know, the visual, uh, you know, there is visual contact. 
+
+85:28 	(Jacques Vallée)	Um. Well, we can have visual contact with animals. I mean, that doesn't mean they are human or metahuman. 
+
+85:35 	(Jacques Vallée)	But, um, there is messages that come through all of that that the witnesses are reluctant to talk about in all three cases. So in Socorro, finally, the Air Force went there. They threw the Air Force out because the Air Force said, well, you know, that's just, uh, a gadget, uh, from the base. 
+
+86:00 	(Jacques Vallée)	And, um, that was stupid. So they finally sent doctor Hynek there. And, uh, uh, doctor Hynek asked me to organize the files that were coming. 
+
+86:13 	(Jacques Vallée)	I was at Northwestern at the time, you know, working. Uh, I had done my PhD already, and I was on the staff of the computing center. And we had a small team trying to help, you know, free, uh, trying to help Hynek keep the files together. 
+
+86:31 	(Jacques Vallée)	So we were, you know, in communication with him the whole time. And then I put the files together, and I have a file, you know, this is the official file. 
+
+86:44 	(Joe Rogan)	So these people were reluctant to talk about what these creatures were communicating with them. But did they talk about it at all? 
+
+86:52 	(Jacques Vallée)	It was very personal. 
+
+86:54 	(Joe Rogan)	Very personal, yeah. 
+
+86:57 	(Jacques Vallée)	There had been a communication that transcended their life. There was something else, something outside. So you could almost call it, uh, sort of a religious feeling. But, uh, it wasn't about divinity or God specifically, but it was about, you Know, the other side of life, some a bigger, meaningful life. 
+
+87:33 	(Jacques Vallée)	That's their interpretation. It may not be. There may be other things that they are trying to communicate. 
+
+87:42 	(Joe Rogan)	But it was a very profound yes. And all three cases had similar stories in that regard. 
+
+87:49 	(Jacques Vallée)	And in all three cases, there are traces that were measured. There were, you know, there is technology of sorts. And in the case of Socorro, people came up with all kinds of ideas that maybe it was a balloon, you know, I mean, uh, a special balloon. There were only twelve of them in the world, and so on. 
+
+88:17 	(Jacques Vallée)	Well, in the book, people haven't noticed it, but in the book, I was able to solve that problem because I found a transcript of a conversation with a, uh, man who was head of a motor pool, uh, on the army range at, uh, White Sands. Um, uh, and he had given his team some instructions on how to make m sure that the motor pool was working really well because White Sands is so big, when people went home, uh, they could get lost, uh, at White Sands. And then how are you going to find them? I mean, there are tracks, but there is no paved road at the time. 
+
+89:10 	(Jacques Vallée)	Uh, how are you going to find them? So you can launch a helicopter the next day looking for a lost car somewhere with a family in it. So he made rules, uh, that they had to call periodically to report where they were when they went home, fifty miles away across the desert, uh, so they could find them if there was something wrong with the car. He's driving home with his family. 
+
+89:40 	(Jacques Vallée)	This is after the Socorro thing is done. You know, they are all interrogating Lonnie Zamora, the cop who was driving that thing. And, uh, he sees a light over the mountains in the south west towards Mexico. 
+
+90:00 	(Jacques Vallée)	Uh, but it's still. You know, it's still in New Mexico, but it's in that direction. A light that's not a star. 
+
+90:09 	(Jacques Vallée)	It's really bright. And the light gets brighter and brighter and his car dies. Now he's head of a motor pool, okay, for the base. 
+
+90:22 	(Jacques Vallée)	Everybody reports to him. And they have all the. All the army cars and trucks and everything else. 
+
+90:30 	(Jacques Vallée)	The half tracks. Um, so, uh, he looks at that thing. Uh, he tries to call his team. 
+
+90:30 	(Jacques Vallée)	The radio doesn't work. Radio should work. Radio doesn't work. 
+
+90:46 	(Jacques Vallée)	And the thing gets very bright, and then it recedes. It goes away the way it apparently came in. We don't know if it came in or if it just got bright. 
+
+90:59 	(Jacques Vallée)	Okay? Uh, the car starts, he goes home. And then the next day, he goes to his shop. He gets his staff Together, he says, you guys are going to take this car apart. 
+
+91:13 	(Jacques Vallée)	I want to see every screw and every piece of it and every level and everything, and the seats and so on. I want to see all of that on the floor. And you're going to test it and you're going to tell me what's changed or if anything, how that car stopped in the middle of the desert and they couldn't find anything. 
+
+91:24 	(Jacques Vallée)	And that report was an official report, okay, that was never published. And it nails the whole thing. You know, that this was not a balloon, this was not an hallucination. 
+
+91:50 	(Jacques Vallée)	The patrolman wasn't drunk like they accused him of, uh, or making up a story and so on. Lanny Zamora, when doctor Hynek, uh, interrogated him, he said he wanted to talk to a priest and um, confess to a priest before he would talk to doctor Hynek, okay? That's the kind of man he was. And they essentially destroyed this guy because they thought it was, you know, bad reputation for the town of Socorro. 
+
+91:50 	(Jacques Vallée)	The tourists wouldn't come there because they'd be afraid of strange things flying. And the Air Force said, well, it's a one witness case. You know, there's this patrolman who saw this. 
+
+92:34 	(Jacques Vallée)	There were twelve witnesses. There was a guy, uh, uh, uh, who was driving on the main road, the same road where the Truman had been driving, who the thing passed right over his car. He thought he was going to be driven off the road by this big oval thing that just went right over the roof of a car into the desert. 
+
+92:57 	(Jacques Vallée)	Well, he called the police and reported it. There's a written report. He signed that report. 
+
+93:06 	(Jacques Vallée)	We know his name. They were. 
+
+93:08 	(Joe Rogan)	Without him having any knowledge of what happened. 
+
+93:11 	(Jacques Vallée)	That's, that's right. I mean he saw this some independently, you know, one of your gadgets tried to drive me off the road. 
+
+93:19 	(Joe Rogan)	Right. 
+
+93:20 	(Jacques Vallée)	There were, there were several people on, um, the road on the other side of this little, you know, desert thing. That's, you know, when it rains, the water rains all over the place, washes everything out, just sand and rocks. But on the other side there is a main road. Several people on the road saw the thing take off and reported it because it was just so strange. 
+
+93:47 	(Jacques Vallée)	So the Air Force put that aside. They neglected to, you know, this was, and they just kept saying it was a one witness case. It wasn't. 
+
+93:58 	(Jacques Vallée)	Most of those cases where they say it was one witness and you have to look at the, you have to look for the other guys. And um, again, uh, you know, I brought you something Can I tell you about it? Sure. 
+
+94:13 	(Joe Rogan)	What'd you bring? 
+
+94:13 	(Jacques Vallée)	So this is something that, uh. The case was so interesting that doctor Nolan and I and a couple of, uh, friends wrote it up and published it in the prime, uh, astronautics review in the world. Okay. It's, uh. 
+
+94:13 	(Jacques Vallée)	So after, uh. It took a couple of years for them to agree to look at it and so on, to look at the analysis. This happened in a suburb of Omaha, Nebraska. 
+
+94:45 	(Jacques Vallée)	But on the Iowa side, there is this town, suburb with a park. This is, uh, about a week before Christmas in nineteen seventy seven. Okay. 
+
+95:00 	(Jacques Vallée)	Um, people are there having a good time in the park in the evening. It's getting, you know, it's getting dark. Um, and, um, I want to make sure I'm. 
+
+95:16 	(Jacques Vallée)	Yeah. Um, they see something in the sky that looks like one of those boxes there. You know, it looks like a round box with lights around it. 
+
+95:32 	(Jacques Vallée)	And the lights are going, uh, around sort of. And it's pretty high, and it's flying over the town. Um, and then a mass of steel, liquid steel, falls in the park. 
+
+95:55 	(Jacques Vallée)	It falls on the levee in the park. There is about half a ton of it, liquid, glowing. It has nothing, no business being there. 
+
+96:09 	(Jacques Vallée)	So you have this mass of metal. Uh, obviously, they call them glowing. 
+
+96:15 	(Joe Rogan)	It's molten. 
+
+96:16 	(Jacques Vallée)	Yes. The weather is freezing. We know the temperature and everything else. It's freezing. 
+
+96:17 	(Jacques Vallée)	The grass is on fire around it. They call the firemen, the firemen call the police. The police gets there. 
+
+96:30 	(Jacques Vallée)	And, uh, the firemen get there, they stop the fire. The fire would have died by itself. There's no problem there. 
+
+96:39 	(Jacques Vallée)	They take pictures of the thing glowing. I have the pictures, Infrared, um, uh, Polaroid pictures of the thing glowing in the grass, burning, uh, I mean, liquid. And, uh, it's going to stay liquid for a couple of hours, and it cools down gradually. 
+
+97:05 	(Jacques Vallée)	And then people take pieces of it as souvenirs. So I have the pieces of it, and there they are now. Um, there was analysis done by two labs. 
+
+97:19 	(Jacques Vallée)	Obviously, the question is, where did that come from? Uh, and, uh, there is chromium, titanium and iron, which you can find in ordinary steel. But this isn't really. The composition isn't exactly what you'd expect industrial steel to be. 
+
+97:42 	(Jacques Vallée)	So one of the chemical analyses is done at the lab, um, for industrial steel. The investigators call the company. The company says, yes, we make steel. 
+
+98:03 	(Jacques Vallée)	Uh, so we have furnaces, but we empty the furnaces. This is over a weekend. The factory is closed. 
+
+98:12 	(Jacques Vallée)	There would be nobody there and certainly no liquid steel in our factory. On that Day. 
+
+98:19 	(Joe Rogan)	Half a ton of it. This is a half a ton that they found sitting there. 
+
+98:26 	(Jacques Vallée)	So, um, so then they called the Strategic Air Command, because B fifty two s fly over that town. B fifty two is a big thing. And the people saw something in the sky. So, you know, maybe it was the Air Force politely laughs at them and says, you know, we carry atom bombs, but we don't carry furnaces with molten steel. 
+
+98:53 	(Jacques Vallée)	Okay, so go look something somewhere else. And they say, good luck, by the way. This is a way you could test it. 
+
+98:58 	(Jacques Vallée)	This is a way. I mean, the Air Force, we think, people think, number one, there is nothing in the Bluebook files worth looking at. That's not true. 
+
+99:01 	(Jacques Vallée)	I spent four years. Doctor Hynek had copies of all the files. The files were not classified. 
+
+99:17 	(Jacques Vallée)	There were a few random cases that were classified for other reasons. Not because of the ufo, because of where it was or whatever, um, that I didn't have access to. I was just a graduate student, PhD. 
+
+99:34 	(Jacques Vallée)	Um, I went through. We convinced doctor Hynek and I convinced the Air Force to do a computer file of everything they had about ufo's, because before then it was just paper files all over the place. And if they were challenged by Carl Sagan or somebody like that at the time, they wouldn't be able to provide good statistics. 
+
+99:58 	(Jacques Vallée)	So they agreed for me to get the files and redo, punch them into punch cards, take it to a computer, uh, redo the statistics, looking, uh, at their explanation, and then my explanation for the cases. I did the whole thing. Thousands and thousands of cases. 
+
+100:22	(Jacques Vallée)	They were right. That majority were explainable. What we were looking for were the ones that were not explainable. 
+
+100:30	(Jacques Vallée)	This one cannot be explained. And there are enough of those. There are hundreds of those that scientists could have looked at. 
+
+100:41	(Jacques Vallée)	I went through the Air Force base with my French passport. At the time, I wasn't a citizen. You know, you had to wait five years before you could apply for American citizenship. 
+
+100:55	(Jacques Vallée)	So I was working. I had a small contract that was completely, you know, unclassified to recalibrate the statistics of the Blue Book files. So I had access to essentially all the Blue Book files. 
+
+101:12	(Jacques Vallée)	But, uh, I went into the base with a clearance for three days with doctor Hynek to go to the, uh, uh, division that was looking at the ufo's, and spent, uh, those three days with Major Quintanilla and his staff going through the files. And they had lots of, uh, remains of things and stones and strange metals and so on, which at the end of the project, all that was thrown away. So this is. 
+
+101:47	(Jacques Vallée)	Everything is going on now. Uh, this is for you, by the way, for your special collection of weird things. This is essentially. 
+
+101:57	(Jacques Vallée)	It's steel. There we go. So that's the area where the mass of steel glowing. 
+
+102:06	(Joe Rogan)	Um, and so this steel you can make on Earth. It's a composite of different materials. 
+
+102:17	(Jacques Vallée)	It's not exactly the steel that you'd use in construction or in. But it is essentially steel. And so I gave my samples to, um, you know, to Stanford, so that, uh, we could redo the analysis and not the chemical analysis, but the isotope analysis. So doctor Nolan and I took it to the lab. 
+
+102:46	(Jacques Vallée)	Doctor Nolan had two series of instruments that could do the analysis. We did both, and we confirmed essentially this. So there was no special change in the isotope ratios. 
+
+103:01	(Jacques Vallée)	If there was, that would indicate that somebody had manipulated the isotopes, which is not a hoax. Then you know for sure it's not a hoax because that's high caliber scientific laboratory work, and you need special instrument experts to interpret it. 
+
+103:26	(Joe Rogan)	Right. But that wasn't the case, right? No. The isotopes hadn't been m. Manipulated. 
+
+103:31	(Joe Rogan)	Have they found, because I've heard this about Gary Nolan in particular, that they do have samples of things that they can explain. 
+
+103:39	(Jacques Vallée)	So I gave him essentially all my samples, all the ones that I could relate to, reliable cases, because I don't want to give him junk. Uh, there's a lot of junk floating around that people think is strange. Um, so, yes, we're, uh, m going through all those, you know, and the idea is to publish it as we go. You know, to publish everything as we go. 
+
+104:11	(Jacques Vallée)	There are some that give the indication of being. But, you know, as always in science, we have to be careful. Our colleagues will say, very good. 
+
+104:23	(Jacques Vallée)	Um, you know, congratulations, you did that, um, with one instrument. Now you should redo it with a different lab, with a different machine and see what they find. Because, uh, doctor Nolan has some of those machines are machines that he's invented at Stanford. 
+
+104:44	(Jacques Vallée)	Okay. Uh, but they are tied to biology. I mean, this is not biology. 
+
+104:52	(Jacques Vallée)	This is steel. 
+
+104:53	(Joe Rogan)	Okay. 
+
+104:54	(Jacques Vallée)	And this is iron or copper or whatever. So, uh, we have to redo it with a different, um. So in this case, we have redone it with a different line of machines. There is a French machine that costs something like six million dollars that would fill half of this room. 
+
+105:14	(Jacques Vallée)	That's extremely good for, uh, testing for isotopes, but only on four different elements. Uh, with the other machine, the biological machine, we get the whole. The whole spectrum, except for some of the extreme elements, like radioactive elements and so on. 
+
+105:37	(Joe Rogan)	So what samples have they found that have been the most compelling? 
+
+105:41	(Jacques Vallée)	Uh, we're still working on that. But this paper is important. Even though we didn't find something out of range, but that's uh, in a way that's validation. What you have to do when somebody presents you with that kind of sample. 
+
+106:04	(Jacques Vallée)	Those are the steps. This is where the science is today. This is what the technology can tell you. 
+
+106:11	(Jacques Vallée)	Okay, so this is sort of a stake in the ground. Even though we didn't find ET okay, but we didn't find ET science. 
+
+106:21	(Joe Rogan)	We found physical evidence of something. 
+
+106:22	(Jacques Vallée)	But we've got the technology now. We know how to do it. One problem we had was that neither one of us is um, um, uh, an expert in materials. We're not experts in steel. 
+
+106:38	(Jacques Vallée)	So the people who, uh. This was reviewed by people who were materials experts and they came back with a whole page of questions. Why didn't you look at this? Why didn't you measure that? So, uh, doctor Nolan, the team had to redo about a year of work before they would accept the paper. 
+
+106:38	(Jacques Vallée)	So that's what you have to go through before scientists will look at it. But this one is in the literature, in the scientific literature. It's not in some UFO magazine in New Mexico. 
+
+107:15	(Jacques Vallée)	And um, we can now we have the methodology, we can apply it to the others. There are some that we've done with one machine, um, where there are indications now at Stanford. Stanford. 
+
+107:32	(Jacques Vallée)	It's funny because you've had three generations of people at Stanford looking at this before. Uh, doctor Nolan, I was there and I was gathering data and I was using the computer to do statistics and so on. And I worked for Professor Sturock who unfortunately died a few months ago at over one hundred. 
+
+107:56	(Jacques Vallée)	But he was still working in astrophysics. And uh, you know, I was on his astrophysics staff for a couple of years, looking at um, galaxies, looking at the structure of the sun, and um, looking at um, at certain types of strange stars that had special emissions and so on. So I was this computer guy and we uh, also looked at ufo, uh, materials, uh, especially a case from Brazil which he published and he got financial support to, to do the isotope analysis. 
+
+107:59	(Jacques Vallée)	And some of it was arguably different. So we want to redo it. Uh, uh, he donated all his materials to me when he retired, so I have all that and I passed it to uh, doctor Nolan. 
+
+108:19	(Jacques Vallée)	So Stanford now has uh, it's acquiring reputation as being a UFO analysis place. 
+
+109:09	(Joe Rogan)	Yeah, for sure. 
+
+109:10	(Jacques Vallée)	But it went from essentially solar physics and uh, very high energy physics. You Know that I was working on with doctor Sturrock, uh, to me with the computing center now with doctor Nolan in the medical school. So we've had. You know, they are, uh. 
+
+109:30	(Joe Rogan)	Well, I'm glad I'm willing to do that. Um, I had heard that there was some alloy that was uh, very difficult to comprehend, that someone would be able to construct that it would cost billions of dollars to make this, uh, particular type of alloy. That they had discovered something along those lines. 
+
+109:50	(Jacques Vallée)	Well, there are. I've seen those books. I've heard those things on the Internet. The question is, you know, scientists M will want to look at this. 
+
+110:02	(Jacques Vallée)	They want to know, well, how did you do it? How did you prepare the sample? We were given access to a sample that in fact is very strange. And it has different colors on fits in the palm of your hand, you know, so it's so significant size. Uh, remember doctor Nolan is looking at individual human cells with his device. 
+
+110:32	(Jacques Vallée)	Okay. So anything more than ten grams we don't need. We can work with very little material. 
+
+110:43	(Jacques Vallée)	Although of course we want to do different things with different parts of it. But this thing had some very interesting in cross of a red deposit. And all the people who had looked at it, including some official labs and some signed uh, uh, disclaimer saying they would not scrape off the interesting deposits that were on it. 
+
+111:13	(Jacques Vallée)	Well, all of them did. You know, I mean, after signing the thing, by the time it came you. It came to me, most of the interesting red stuff had been scraped off. 
+
+111:25	(Jacques Vallée)	So I don't know what they did, um, and I don't know what machine they used. And they didn't publish a paper. It took us four years to publish this paper. 
+
+111:37	(Jacques Vallée)	The paper came from Stanford with PhDs, four PhDs writing it. So, uh, that's. The bar is pretty high if you're going to actually publish this in an international review. 
+
+111:52	(Joe Rogan)	Yeah, and with an interesting title too. 
+
+111:53	(Jacques Vallée)	So we'll do others. You know, that's the plan if people. 
+
+111:57	(Joe Rogan)	Want to find this. It says, uh, improve instrumental techniques, including isotope analysis, uh, uh, applicable to the characterization of unusual materials with potential relevance to aerospace forensics. 
+
+112:10	(Jacques Vallée)	Yeah, he doesn't talk about ufo's. 
+
+112:12	(Joe Rogan)	There it is. That's a very tricky, uh, way relevance to aerospace forensics. 
+
+112:19	(Jacques Vallée)	People read between the lines. 
+
+112:21	(Joe Rogan)	Yeah, that's uh. What do you mean aerospace? Who's aerospace stuff. So this is the question. If these encounters happened, if this egg shaped, uh, craft was real, and if these small people, like things that breathe air, did communicate with people, where are they from? Is this something that has always been here. 
+
+112:41	(Joe Rogan)	 Is this something that visits here? Is it something that is here? 
+
+112:48	(Jacques Vallée)	So in the Bass project of, um, mister Bigelow, that was funded by the Defense Intelligence Agency, we had a template of things that the Pentagon wanted to have. And it said trajectory, composition, luminosity, radiation, and so on. Well, yeah, those are the things that you'd need if you were looking at a, uh, Russian aircraft or you were looking at, uh, you know, the Nimitz thing, whatever it was. But, uh, you know, is that really relevant? I mean, in science, you don't start from the conclusions. 
+
+113:41	(Jacques Vallée)	You're going to look at this. This is not something you've seen before, and you go on from there. You know, in the Nimitz case, we've all seen those photographs, and they are. 
+
+113:55	(Jacques Vallée)	I've stopped counting how many papers there are from the New York Times on down with the picture of the photograph, uh, that the F eighteen was taking, the pilot took from the thing. Well, nobody mentions that. This isn't a photograph. 
+
+114:17	(Jacques Vallée)	People think it's a photograph. So in the file, there is a memo from the folks at Raytheon. Raytheon makes the device, which is a big, you know, uh, a big thing that you hang under the wing of an F eighteen that's going to take these images. 
+
+114:36	(Jacques Vallée)	It's an image. It's not a photograph. It's looking into the infrared. 
+
+114:36	(Jacques Vallée)	It's not looking at the details. You know, there is a number painted on the thing. It's. 
+
+114:48	(Jacques Vallée)	And when you see it, it's looking at the heat. So when this was published by the New York Times, there was a very interesting memo with a little touch of humor, uh, from Raytheon to the Navy saying, you know, those things you've published and, you know, um, it was taken with one of the devices which we sold you to put under the wing of your aircraft. It's not a camera. 
+
+115:18	(Jacques Vallée)	It's not a photographic camera. You gave us specifications for what you wanted us to build, and that's what we gave you. You wanted something that could measure the temperature of the exhaust of an enemy aircraft that you're going to shoot down. 
+
+115:39	(Jacques Vallée)	The F eighteen goes behind that Russian thing, a mig or whatever. And, uh, the camera is painting the exhaust from the Russian guy so that you can distinguish between American Airlines seven hundred twenty three and a mig. Okay? That's going to help you discriminate what kind of enemy you've got. 
+
+116:05	(Jacques Vallée)	Is it friend or foe? First? If it's friend, you peel off, and that's fine. Uh, if it's an enemy. You're going to engage the guy. 
+
+116:15	(Jacques Vallée)	Okay? That's what we gave you. You didn't tell us you wanted a device to track flying saucers. Because we don't know what flying saucers are. 
+
+116:26	(Jacques Vallée)	If you do, you know, we'll build one. And that memo is just so funny. You know, it's an official, uh. 
+
+116:36	(Jacques Vallée)	Uh, you know, I make it a little bit funnier than it was, but, uh, it's an official memoir, and it's very straightforward. 
+
+116:45	(Joe Rogan)	Jamie, see if you could find a good photograph. Uh, excuse me. An image of, uh, the infrared image that was taken by those F eighteen. 
+
+116:54	(Jacques Vallée)	S. You have an image of a heat source. 
+
+116:57	(Joe Rogan)	Yes, of that, uh, Tic Tac. And then, um, they also got the video representation, the video of the thing taking off at some extreme rate of speed. Uh, that's it right there. So that's the image, right? 
+
+117:14	(Jacques Vallée)	Yeah. Well, the, uh. 
+
+117:19	(Joe Rogan)	Radar, um, the radar. 
+
+117:22	(Jacques Vallée)	Said that it took off and popped up somewhere else. And so we accept that, um, at face value, because it's in the New York Times. And that may be true. Um, in my work in venture capital, I've looked at all kinds of technology that's around. 
+
+117:47	(Jacques Vallée)	So I go to technology meetings. Those are open. They are not secret or anything. 
+
+117:53	(Jacques Vallée)	And people talk about their gadget or their device. They are looking for money to make, uh, in larger quantity. So, um, I found myself, uh, in a conversation with a guy from one of the aircraft companies in Southern California. 
+
+118:15	(Jacques Vallée)	And, um, I asked him, you know, there is a device that has a funny name, uh, like Dyspro or something like that. And, uh, uh, it measures the. It acquires radar signals. 
+
+118:43	(Jacques Vallée)	Uh, I think it's a dspr, you know, uh, for radar. And that gadget, I had never heard of it, and it's actually not classified. Now, it was developed initially so that you, uh, could analyze, uh, radar data. 
+
+119:08	(Jacques Vallée)	Ah, that was coming to you. If somebody was painting your aircraft on the radar, you could detect the characteristics of a radar pulse. Why would you want to do that? Well, um. 
+
+119:24	(Jacques Vallée)	You want to do that because I said, well, what does it look like? You know, is it classified? He said, no, it's not classified. You know, many, uh, airplanes, civilian airplanes, can carry it. You put it in the nose of your Piper Cub or whatever, and you fly around Los Angeles. 
+
+119:45	(Jacques Vallée)	And it will acquire the characteristics of all the radars in the Los Angeles area digitally. It's a digital thing. It's a computer, essentially, that acquires radar data, and then it feeds back radar characteristics of any aircraft you want somewhere Else. 
+
+120:08	(Jacques Vallée)	So if you want your papa cup to look like a B fifty two twenty miles away, you turn on, you know, um, I'm making it simple, but you program the thing and you can redirect the defense, the air defense, for example, to another place. 
+
+120:30	(Joe Rogan)	So you can send a signal to another place that makes it look like there's a B fifty two there? 
+
+120:35	(Jacques Vallée)	Yes. Or make it look like you've disappeared in mid air and reappeared somewhere else. Uh, digitally, it's a digital radar, ah, feedback device that once you know the characteristics of the radars that are painting you, you can, I mean, obviously suppose you want to travel to Moscow over the Iron Curtain without being shot down by the Soviet Air Force. Uh, you'd want to redirect all the radars. 
+
+120:55	(Jacques Vallée)	 I mean, you're on twenty radars, right? 
+
+121:16	(Joe Rogan)	One of the things that they said about the Tic Tac was that when they encountered it, it was somehow or another blocking their detection signals. 
+
+121:28	(Jacques Vallée)	Well, you know, I don't know that this, uh, dirt problem, I don't know how far it's gotten in the last thirty years. The guy I was talking to was telling me about technology of thirty years ago. Wow, it blew my mind. I didn't know you could do that. 
+
+121:46	(Joe Rogan)	Right. I didn't know until just now you could just paint. 
+
+121:50	(Jacques Vallée)	So, uh, that's um, I'm not sure where the technology is and who is cleared for that. You know, uh, pilots are cleared for certain things. Obviously for all their equipment on board they are not necessarily cleared for. So you have to ask, in the case of the Nimitz, what clearances did these pilots we see on tv, what clearances did they have? M. 
+
+122:20	(Jacques Vallée)	No, they have the electronic countermeasure clearance. They don't necessarily have it. I mean, some of them didn't have the camera. 
+
+122:29	(Jacques Vallée)	Some of those who are on TV today talking about these images, the image didn't come from them, it came from one of their buddies, you know, came afterwards. 
+
+122:41	(Joe Rogan)	There's also the question of where they came from. I've always questioned where they take place because they take place in the same areas where the United States always runs military training exercises. They take place off of San Diego, off of the East Coast. All these areas where we know that they run exercises all the time, restricted airspace. 
+
+123:04	(Joe Rogan)	If you were going to test equipment. 
+
+123:06	(Jacques Vallée)	I think this was in international waters. Yes. 
+
+123:10	(Joe Rogan)	Yeah, it was, but it was still off the coast of San Diego where they do these things, which is why the fighter pilots were there on the first trip. 
+
+123:16	(Jacques Vallée)	I mean, the Russians could fly there. 
+
+123:18	(Joe Rogan)	Right, not that area. But isn't the area off the east coast where some of those things restricted? 
+
+123:23	(Jacques Vallée)	I, I don't know. Okay, they want around Long Island. Long island is, is restricted. 
+
+123:29	(Joe Rogan)	Uh, says China's electronic war gadget turns small drones into flying stadium on radar. So this is an article from January of this year. And then I'll show you something else I found from here. So they can make it look like a flying sauce of an iPad, can make it look like as big as a sports stadium. 
+
+123:45	(Joe Rogan)	Whoa, look at this. The effect similar to a giant flying saucer suddenly materializing in midair would be reminiscent of a scene from a science fiction film, but is achievable according to peer reviewed paper published on january eighth. Whoa. 
+
+123:56	(Joe Rogan)	Just also. So then the month before that, here's their new stealth fighter that's painted with the, the stuff he just said that scatters the frequencies. 
+
+124:05	(Jacques Vallée)	You know, this isn't my feel. I um, uh, this is just something. 
+
+124:10	(Joe Rogan)	I stumbled across typing in the words he was saying. Yeah, just pretty cool. So they're testing this too. What I was getting at was if you're the United States government, if you're the military and you um, have this kind of equipment and you want to test it, what better way than to test it on people that don't know you're testing it on them? Send your fighter jets out there, have them encounter these things, run your, whatever experiment you're doing with making something appear and reappear and take off and come in m, give them these signals, given these disruptive deceptive signals and see whether or not they. 
+
+124:50	(Joe Rogan)	The problem is they had visual confirmation of these things. That's the real problem. The problem is they actually saw these things. 
+
+124:56	(Joe Rogan)	Like the, the Tic Tac was they visually saw four people. Right. 
+
+125:01	(Jacques Vallée)	Uh, I have a colleague in Silicon Valley who's been distinguished army career, and he told me that there were in fact um, tests of especially nuclear facilities, not necessarily the military, uh, but mostly the military facilities, uh, to test the ability to penetrate the perimeter. So those flights um, are um, not cleared with the people who manage the plant. So it's either a nuclear plant that makes uh, fuel for bombs or it's a, uh, base where nuclear weapons are stored. And there are m guys around the perimeter with machine guns and they are going to, you know, sound an alert if they see something coming over the fence. 
+
+126:04	(Jacques Vallée)	Well, suppose you come over the fence looking like a flying saucer, are they going to start shooting or not? Okay, so they, you know, he told me that he had Actually flown some of those missions. And I, uh, know another member of the Bass team who confirmed that told me he had been on some of those missions. They make their plane look like, uh. 
+
+126:34	(Jacques Vallée)	You know, they put lights around it and so that. So it can look like a flying saucer, essentially, or look like what, a ufo? What would be a UFO to the guard. 
+
+126:45	(Joe Rogan)	Right. 
+
+126:46	(Jacques Vallée)	So that the guard is. They want to see if they can penetrate. If you can disguise yourself to the extent that psychologically you can inhibit the reaction of the guards. And you can fly over the fence. 
+
+127:01	(Jacques Vallée)	Because if you can fly over the fence, you're in. 
+
+127:04	(Joe Rogan)	Right. 
+
+127:04	(Jacques Vallée)	You know, you can do a lot of damage. 
+
+127:06	(Joe Rogan)	Wow. 
+
+127:07	(Jacques Vallée)	So. 
+
+127:08	(Joe Rogan)	So pretend you're a ufo. 
+
+127:10	(Jacques Vallée)	So those. But I don't think they do hundreds of those. I think they probably do it very carefully at a couple of places. 
+
+127:22	(Joe Rogan)	But it's interesting that they have that ability. That's fascinating. That throws a lot of this stuff into question, like, what are we actually seeing? But it doesn't explain all these things. And the problem that I always have is the. 
+
+127:38	(Jacques Vallée)	The. 
+
+127:38	(Joe Rogan)	Just the abundance of encounters and how similar a lot of them are. And then what it must feel like. I've never had an experience, but what it must feel like to have that experience. That you probably would be very. 
+
+127:53	(Joe Rogan)	I wouldn't be reluctant, because I'm a known person to talk about silly things, but if you're not. If you're, like, a serious person, you have some sort of an encounter. I would imagine there's a lot of pressure on you to not tell people. 
+
+127:59	(Joe Rogan)	If you're a lawyer or a doctor or you're any sort of, like, respectable person that's a serious, uh, individual in whatever you're doing for a career. You don't want people to associate you with nonsense or think that, oh, um, maybe Mike is losing his mind. 
+
+128:24	(Jacques Vallée)	You can't, because you have people relying on your ability to. 
+
+128:27	(Joe Rogan)	So maybe you tell your friends, maybe tell your mother, maybe tell your wife, but you probably don't tell the press. If you're a scientist, I would imagine you would have to have significant evidence for you to stick your neck out. Or you're a person like yourself that's been very brave for all these years because you were talking about this stuff in the nineteen sixties, which is pretty crazy. 
+
+128:49	(Jacques Vallée)	Well, um, I had seen, um, Saint Jolie flying saucer when I was fifteen. 
+
+128:57	(Joe Rogan)	So can you describe it? 
+
+128:59	(Jacques Vallée)	I was in. I, uh, grew up in a town that's, uh, about forty five minutes out of Paris, uh, on the road to Normandy. And, uh, my father was a judge in that town for a while. And beautiful afternoon, uh, in the summer. 
+
+128:59	(Jacques Vallée)	I don't know the exact date, it would have been late June or July. Fifty, um, five. Nineteen fifty five. 
+
+129:31	(Jacques Vallée)	Um, so I was about fifteen, sixteen. I, uh, was still in school. And then the following year I was going to go to the university and my mother called me. 
+
+129:32	(Jacques Vallée)	I was working with my father, who was relaxing, doing some furniture. Um, and I was helping him and I heard my mother call from the yard and went down and saw an object that was absolutely a saucer. It looked like it was over the steeple of the, uh, cathedral there. 
+
+129:37	(Jacques Vallée)	And we were about half a kilometer away from it. And it was just suspended, it was silver and there was a clear dome on top of it. And we both saw that, uh, it was very clear. 
+
+129:51	(Jacques Vallée)	Um, and then the next day I asked a friend of mine from school who was, you know, we were the two good students in physics and so on. Um, and I told him I had seen that. And he said he had looked at it with binoculars. 
+
+130:51	(Jacques Vallée)	He had seen it too, and he had looked at it with binoculars. And I got him to draw it and he drew exactly what I had seen. Essentially a lens shaped thing with a dome on. 
+
+131:03	(Jacques Vallée)	A clear dome on top. 
+
+131:04	(Joe Rogan)	How long did you see it for? 
+
+131:06	(Jacques Vallée)	Um, I saw it for less than a minute. I think. I went inside. I don't remember what I did. 
+
+131:06	(Jacques Vallée)	Um, logically I probably went inside to get my father so that he could see it. 
+
+131:24	(Joe Rogan)	And then when he came out, it was gone. 
+
+131:26	(Jacques Vallée)	Um, well, he didn't even come out. He said it was probably one of the new, the new planes that were flying around because this was a time when the meteors and, you know, the early jets were being tried and they were training pilots with them and so on, both for civil aviation and for the, uh, air force in France. So, uh, he said, well, let's wait, you know, maybe this will be disclosable at some point. So I didn't say anything about it. 
+
+132:01	(Jacques Vallée)	Also, you know, the son of a judge, family, uh, of a judge isn't supposed to see strange things in the air over the town. So it was sensitive. 
+
+132:14	(Joe Rogan)	Um, what year was this when you were fifteen? How old do you know? 
+
+132:20	(Jacques Vallée)	It was nineteen fifty five. 
+
+132:21	(Joe Rogan)	Nineteen fifty five. 
+
+132:22	(Jacques Vallée)	So back then I was fifteen, sixteen. 
+
+132:25	(Joe Rogan)	Okay. So we could also apply that. Like if it was a jet, it would probably be very loud. 
+
+132:31	(Jacques Vallée)	Well, I'm sure it wouldn't just stand there, right? 
+
+132:34	(Joe Rogan)	It wouldn't be able to just sit. There was this thing Quiet after that. 
+
+132:39	(Jacques Vallée)	You know, I understood that it was after that I worked at Paris Observatory after I had my degree in astronomy. Tracking satellites. We tracked the very early satellite flights. And, uh, we were government office. 
+
+132:57	(Jacques Vallée)	So people were writing to us with what they had seen. And most of it we could explain. For one thing, they were seeing Echo and they were seeing some of the Russian rockets. 
+
+132:57	(Jacques Vallée)	So we would write back. I mean, we had to write back, French citizen. Uh, I had a card with a French flag on it. 
+
+133:01	(Jacques Vallée)	And we were serving, uh, the population. So we would explain those things pretty much the way they do now. You've seen the moon rising through the fog, or you've seen satellite, uh, so much Alpha, uh, twenty three. 
+
+133:41	(Jacques Vallée)	But then there were cases where were just like that, where they saw something we could not explain. But then we would tell them, but we wouldn't publish it. We wouldn't send it anywhere. 
+
+133:55	(Jacques Vallée)	For one thing, it wasn't our job. Our job was tracking satellites. 
+
+134:01	(Joe Rogan)	Right. But that one experience that you had when you were fifteen is what ignited your interest in this for so many years. Well, if you hadn't been doing. I mean, the thing that's very important about people like yourself is that you're so careful in how you document these things and the conclusions that you draw. 
+
+134:20	(Joe Rogan)	Because I think this field of UFO study is filled with so many people that claim to have answers, claim to know things. And this is going to happen. And this is coming. 
+
+134:27	(Joe Rogan)	And this is. This is disclosures imminent. And this. 
+
+134:27	(Joe Rogan)	And that's not. It never comes true. It's always. 
+
+134:38	(Joe Rogan)	You're just left waiting for some new evidence that supposedly they have. And this is the more frustrating aspects of it. Like when talking to Christopher Mellon, he's telling me there's high resolution photographs and video and how about showing me, show me some stuff, show me something. 
+
+134:56	(Joe Rogan)	Because, uh, as a person that I wasn't when I was fifteen, I didn't say anything. So I don't have that experience that you have. I just have this fascination with it, but also tempered by a little bit of cynicism because there's so much malarkey that's attached to this subject. 
+
+135:14	(Jacques Vallée)	Well, um, and some of it is, you know, some of it is legitimate. 
+
+135:21	(Joe Rogan)	Yeah. 
+
+135:22	(Jacques Vallée)	And I think ufologists in general, you know, they want disclosure, disclosure, disclosure. But we don't know. Uh, I'm very respectful of when I had clearances. I, uh, was just very respectful of those clearances because there are people who know what's on the other side of that. 
+
+135:48	(Jacques Vallée)	There was one case, um, in the Air Force files that it was classified. I mean, it was marked in the index with a star. And I'm punching the card and I put an asterisk there. 
+
+135:57	(Jacques Vallée)	And I had to ask doctor Hynek, you know, what happened? Can you tell me what happened there? And he said, yeah, uh, there was enough time that I can tell you. This came from a woman in Alaska, called the Air Force because she saw what she thought was a flying saucer. Certainly something that should not have been there. 
+
+136:29	(Jacques Vallée)	It was dark on the ground, but the sky was still light. And there was definitely, uh, a light that looked like it was under power that was flying, um, west. Now, west of Alaska. 
+
+136:51	(Jacques Vallée)	You know, there's a Korai Peninsula and there's a Soviet Union. So, uh, she thought it was a ufo. So it was reported as a ufo, but, um, uh, it was classified and it was called Unidentified. 
+
+137:12	(Jacques Vallée)	Well, you know, that was an inside, um, joke. It was a U two, but this was at sunset and the U two was illuminated by the sun, which, I mean, U two is painted in such a way that it shouldn't be visible from, but there are some, you know, conditions where you're going to see it, you know. And um, so it was classified. 
+
+137:36	(Jacques Vallée)	And if you had the clearance, you would read that it was unidentified. It would be listed, uh, in the statistics as unidentified. 
+
+137:52	(Joe Rogan)	But it was actually a utopia. 
+
+137:54	(Jacques Vallée)	Exactly what it was from the beginning. 
+
+137:56	(Joe Rogan)	Interesting. So some things are listed as unidentified because it's so classified. Yeah, that makes sense. 
+
+138:02	(Jacques Vallée)	And I have no problem with that. But, you know, tell me, if you ask me to write a computer program about it, tell, uh, me if, uh, it's worth my time or not. 
+
+138:14	(Joe Rogan)	I mean, what was your take on the Ryan Graves stuff? Like Ryan Graves and the fighter pilots that started seeing these, um, squares within a sphere. 
+
+138:25	(Jacques Vallée)	To me that's still a question. And the people I talk to, still wondering, you know, um, what is that? There are, um, strange physical systems that are floating around to gather faint signals and they have very strange shapes. So it could be those are balloons within balloons with little things attached to them going back to the days of nineteen forty seven, looking for, uh, atomic explosions. Russian. 
+
+139:14	(Jacques Vallée)	That's the way the Russian tests, atomic tests were detected first was with, um, balloons that had large antennas, you know, that were, um. 
+
+139:30	(Joe Rogan)	The thing about the Ryan Graves stuff, though is the physical characteristics, like in the way it moves, that, uh, these things are able to stay stationary and one hundred plus knot winds. 
+
+139:42	(Jacques Vallée)	I don't. 
+
+139:43	(Joe Rogan)	You don't know? 
+
+139:44	(Jacques Vallée)	Yeah, I have not researched it and I wouldn't be the guy to research. 
+
+139:48	(Joe Rogan)	Uh, if we are being visited, how many different civilizations do you think are visiting us? Because if there's all these different characteristics that these beings have. If some of them look like tall, albino, almost like human beings with large eyes, some of them look like the grays, some of them look like dwarfs. 
+
+140:13	(Jacques Vallée)	Um. Yes. And that's an embarrassment of riches in a way. 
+
+140:18	(Joe Rogan)	Right. 
+
+140:19	(Jacques Vallée)	Uh. Uh. Um. Of course, that opens the question, you know, is it a simulation? And Rizwan work, uh, has published a couple of books about that. 
+
+140:34	(Jacques Vallée)	He's a friend of ours, and, uh, doctor, uh, Nolan. And we've had many conversations about that. You know, we could be living in a simulation of sorts, where the people running the simulation might send whatever they want. 
+
+140:51	(Jacques Vallée)	I mean, it would be like a video game. So all of a sudden, you've got a new. But that's not completely. 
+
+141:00	(Jacques Vallée)	You can only go so far. In fact, first reaction is, well, you know, but look at the detail. Uh, we can't reproduce a detail on that scale. 
+
+141:12	(Jacques Vallée)	That's true, but, you know, wait ten years and we'll be able to do it. I mean, with quantum computing and all that. Uh, so, uh, that's not a good argument. 
+
+141:24	(Jacques Vallée)	It's an okay argument now, but it doesn't stand the test. Um, the other argument is, uh, you know, who would be doing it and why? I mean, that's true that there are some strange things. I mean, the fact that the moon is exactly the size to hide the sun. 
+
+141:24	(Jacques Vallée)	It's exactly, perfectly thirty minutes of arc, like the sun. So it gives us total eclipses, and it gives us a measuring tool. The Greeks knew, um, roughly how far the sun was with respect to the moon. 
+
+142:04	(Jacques Vallée)	They knew the ratio of the distances. They didn't get the exact distance, but they already knew that because they had done the math, you know, the geometry. So that's pretty strange, you know. 
+
+142:19	(Joe Rogan)	And it also protects our environment, but. 
+
+142:20	(Jacques Vallée)	Keeps stables on Earth that, you know, seem to be accidental that are just right for us to exist. 
+
+142:29	(Joe Rogan)	Yeah. 
+
+142:30	(Jacques Vallée)	So, um. But I'm not completely happy with that explanation. 
+
+142:40	(Joe Rogan)	Nor am I. I'm not happy with it. But it's very compelling. What's fascinating to me is that it is inevitable that if technology advances the way it is currently, within maybe even our lifetime, um, or within another lifetime, another hundred years, we will most certainly have an artificial reality that you cannot discern, indiscernible between that and the reality we currently experience. So if that's inevitable, you would kind of assume that perhaps it's already taken place. 
+
+143:13	(Joe Rogan)	And if it had already taken place, it would probably be very similar to what we're experiencing. Whereas enough of it seems fake and enough of it seems scripted. Enough of it seems very coincidental how things line up that it almost does seem like a simulation sometimes. 
+
+143:34	(Jacques Vallée)	Well, but there are also things that are strange, but that we could research, that we are doing a very bad job of researching. I got a phone call a couple of years ago from a woman who had been a student at a school, a high level preparatory school, uh, on the East Coast. And I had published a book in the eighties, early eighties about ufo's. And she was head of a lecture bureau for the kids. 
+
+144:02	(Jacques Vallée)	And she thought it would be fun to bring me there to talk about flying saucers because it would excite the students and so on. So I went there and I gave, uh, uh, a lecture at the level of. But those were very bright students. 
+
+144:33	(Jacques Vallée)	It was sort of an elite girls school. And then she drove me back to the airport and I went home. Never heard from her again. 
+
+144:45	(Jacques Vallée)	Uh, um, thirty five years pass, and she calls me and she says, um, you may not remember me, but I was the one who brought you to give a lecture at the school. Uh, do you ever come to Washington? And I said, I do remember you. Um, and I go to Washington a couple of times a year. 
+
+145:05	(Jacques Vallée)	And she says, well, uh, I'd like to tell you about an experience I had. And next time you come to Washington, ring me up and when you're done with your meetings, you know, I'll pick you up and I'll drive you to Dallas Airport. And so I do that. 
+
+145:05	(Jacques Vallée)	I call her. She picks me up in a very nice Mercedes. And, um, she says, I've never forgotten your lecture. 
+
+145:46	(Jacques Vallée)	I, uh, saw something here on the way to the airport where we're passing now, that I'd like to describe to you because it reminded me of your lecture. And I had never heard that anywhere else. Uh, you know, there are trees along the freeway on both sides. 
+
+146:05	(Jacques Vallée)	Beautiful. The freeway was dark and the sky was still, uh, blue. Uh, she said, I saw, uh, an elongated object, which was like to me twice, uh, seven hundred forty seven, with what people would probably think of as, uh, portholes or windows. 
+
+146:27	(Jacques Vallée)	They were just lights along the thing. The thing was elongated and it was moving slowly, minding its own business. It must be on ten radars, including the airport. 
+
+146:42	(Jacques Vallée)	And, um, it was moving over. And then the sky was perfectly clear. No clouds, no fog. 
+
+146:52	(Jacques Vallée)	It blended with the sky. I could just see the outline still. It didn't speed up. 
+
+146:55	(Jacques Vallée)	I could see the lights, and I could see the lights fading, and then there was nothing there. And I remember in your lecture in the eighties, you talked about things that could be going into another dimension. Okay, But I had. 
+
+146:55	(Jacques Vallée)	I thought that was interesting. And, you, uh, know, the kids thought it was an interesting idea. Um, and, yeah, in science, you know, people. 
+
+147:31	(Jacques Vallée)	You talk about different dimensions in physics and so on, but I had never seen it mentioned anywhere else. And there it was, you know, this thing faded from our universe and have no idea where it went, but it didn't speed up. So, um, they have radar. 
+
+147:53	(Jacques Vallée)	Thank you very much. Can I publish that? It said no way. I'm the CEO of an international commercial, uh, company. 
+
+148:01	(Jacques Vallée)	We work in several countries, and I can't have my name associated with it. Uh, now, uh, I've had probably a dozen cases like that with people from Silicon Valley. People, you know, uh, they report on Wall street about how their company is doing. 
+
+148:20	(Jacques Vallée)	They don't want a reporter saying, are you the same guy who sees flying saucers? You know, you're the CEO of this such and such microchip company in San Jose, you know. Uh, so, um, you know, they don't report it, but they want me or some of my colleagues to know about it because they know it could contribute to the research we're doing. And, uh, you know, doctor Nolan has had that experience as well as, you know, uh, but it's not going to the Air Force. 
+
+148:54	(Jacques Vallée)	It's not going to the newspapers. It's not going to the New York Times. Now, if those things can, you know, just jump out of our universe and go somewhere else, that rewrites the whole thing. 
+
+149:11	(Jacques Vallée)	You know, we're not talking about propulsion the way we think about propulsion. We're not talking about, you know, environmental, environment. We're not talking the passage of time, you know, in the same way that I would experience with my watch and so on. 
+
+149:17	(Jacques Vallée)	We're talking about something. The rules are different, and we need to go up and start thinking along those rules, or at least the possibility of those rules. It doesn't prove that there is another universe five minutes ahead of us, but there could be. 
+
+149:51	(Jacques Vallée)	And then all the papers that they publish saying there couldn't be flying saucers because there isn't life, you know, closer than, you know, two thousand light years from us. And it would take, at the speed of light, it would take two thousand years to come here. Well, there could be another universe five minutes ahead of us. 
+
+150:12	(Jacques Vallée)	It, uh, would take them five minutes to get Here. Okay. So that would explain why we have visitations throughout history and they look the same throughout history, because, you know, our technology, I mean, this technology or this microphone didn't exist twenty years ago. 
+
+150:32	(Joe Rogan)	Right. 
+
+150:32	(Jacques Vallée)	You know, it's a new microphone, and there were no microphones, you know, two hundred years ago, there were no microphones at all. So, um, how come those things look the same? How can we compare them to something somebody saw in the eighteenth century? That shouldn't happen, uh, unless your technology is stuck. 
+
+150:57	(Joe Rogan)	Right, right, right. Yeah. That is a fascinating aspect of it. You would expect that if you thought about how fast our technology evolves, technology from nineteen forty seven, from some other planet would be exponentially more advanced than what we experienced in forty seven, just based on how our technology evolves. 
+
+151:18	(Jacques Vallée)	And you'll have to think, I mean, we think about an aircraft in ways completely different. I mean, there are things that, yes, it came from the Wright brothers and so on, and there were speculation before on how you could fly, but what an aircraft does today is radically different. The whole physics is different. 
+
+151:41	(Joe Rogan)	And we're only talking about one hundred some years ago, which is pretty crazy. You go from this thing that Wilbur and or Wright, you know, kind of like get it to take some air for a little bit, to the Chinese jet, which is disguising, um, itself from radar and travels at insane speeds. And then the possibility of other propulsion systems that have been kept under wraps. 
+
+152:05	(Jacques Vallée)	To the Harrier that stays. 
+
+152:08	(Joe Rogan)	Yes. And then lands like that. Yeah. No, just the technology that we know, that we're aware of over the last two hundred years is pretty extraordinary. 
+
+152:08	(Joe Rogan)	And if you imagine something from somewhere that's had thousands of years to evolve past us. 
+
+152:26	(Jacques Vallée)	There are a couple of things I wanted to bring up that are in the book. Um, well, one is in the book, the other one isn't. Uh, what's in the book is I've tried to continue the parapsychology experiments that were done at SRI and now at lots of other places. Um, and I, um, got advice from people who said if you put yourself in certain types of conditions, you could try to manifest another form of intelligence or another form of essentially an apparition. 
+
+152:35	(Jacques Vallée)	Uh, it's not necessarily related to ufo's, but if you can do that, that would teach you what you could do also with some of the encounters that people describe, uh, that the witnesses tell me. So if I'm a good scientist, I should put myself in their place first and experience it myself. So I did a couple of sort of mental experiments like that in My home. 
+
+153:25	(Jacques Vallée)	I was alone at the time in my home. And, um, nothing happened. And then nothing like what I expected happened. 
+
+153:44	(Jacques Vallée)	And then I was asleep one night and all of a sudden I'm propelled outside of my body into another room. And there is an entity there. A massive sort of rectangular mass, you know, entity, uh, clearly, uh, you know, something that knows where it is and is thinking I'm terrified. 
+
+154:22	(Jacques Vallée)	Not terrified so much of the entity. It's like a sort of black, you know, rectangle. Uh, uh. 
+
+154:33	(Jacques Vallée)	But I'm terrified of being outside my body. I know people do experiments with that and there are people who can do it, uh, almost at will. I've never tried to do that. 
+
+154:36	(Jacques Vallée)	I think because I've heard, you know, cautions that it's very dangerous because, uh, what if you don't find your way back? Uh, so I'm terrified. I find myself back in my body. I get, you know, I sit up completely terrified, crying, screaming, uh, which is not usual with me because it was just, you know, it really was horrible. 
+
+154:54	(Jacques Vallée)	Uh, then I rationalized it. You know, the experience wasn't supposed to happen outside of my body. When people describe entities, uh, like Whitley Strieber describes it and so on, there is a very strong psychic impact. 
+
+155:37	(Jacques Vallée)	But, um, to me that was very shocking. It hasn't happened before and hasn't happened since. Uh, I'm not trying to make it happen, but I wanted to flag it and uh, to get advice mostly from other people. 
+
+155:59	(Joe Rogan)	Did you feel compelled to try it again? 
+
+156:01	(Jacques Vallée)	Um, I would try it again. 
+
+156:05	(Joe Rogan)	But you have not yet. 
+
+156:06	(Jacques Vallée)	No. 
+
+156:07	(Joe Rogan)	No, I could understand. It was that terrifying if you woke up screaming. 
+
+156:10	(Jacques Vallée)	Get counsel from, you know, my peers. 
+
+156:15	(Joe Rogan)	That's like similar to the monolith in two thousand one, right? Yeah. 
+
+156:21	(Jacques Vallée)	Well, um, you know, there's a scientist I know well in Silicon Valley who also started a number of companies that are, ah, publicly traded now, who invented the integrated circuit. His name is Federico Fagin. He's a physicist from Italy with a PhD. From Italy. 
+
+156:47	(Jacques Vallée)	He came to Silicon Valley in the very early days of the transistor, worked with the initial teams in those places. And uh, then, you know, there was a problem of how can you pack those things together in smaller and smaller places? And he's uh, uh, you know, recognized as uh, the father or one of the two or three people who invented the integrated circuit. So uh, for a long time he was celebrated in that capacity. 
+
+157:27	(Jacques Vallée)	What he didn't say is that he had seen the design outside of his body one night and that he had had multiple experiences Outside of his body. Now this is someone, you know, one of the fathers of Silicon Valley. I mean I, uh, recognize him as one of my mentors in venture capital in high technology investment. 
+
+157:55	(Jacques Vallée)	Um, but now he started to. I mean he's made enough money that he doesn't care anymore and he's sort of semi retiring. He doesn't like what's going on right now and he's probably going to go back to Europe. 
+
+158:13	(Jacques Vallée)	But the, um, there are a number of people like that whose names are in the Wall Street Journal or in the New York Times who've achieved something. Uh, but you find out that they also had and they experimented with it. In his case, he experimented systematically with the ability to go out of his. 
+
+158:41	(Joe Rogan)	Body, uh, and acquire this information from some other source or a vision. 
+
+158:50	(Jacques Vallée)	There isn't much, uh, there are a couple of books that mention steps you can take, but it seems to be pretty much up to the individual. Uh, in my case, I certainly wasn't trying to do that. I was precipitated instantly to the place where this being was. Um, there were also a couple of things that I never wrote about. 
+
+159:21	(Jacques Vallée)	Not that I wanted to hide them or was afraid of them, but I wanted to understand the context of it before I did and I talk about it in this book. Um, in the late seventies, uh, my wife, my first wife Janine, was uh, a psychologist. We bought a place in the country in Northern California, place in the Redwood forest. 
+
+159:59	(Jacques Vallée)	Because I wanted to re. Experience the pleasure of doing astronomy as an amateur. You know, a small telescope and so on. 
+
+160:08	(Jacques Vallée)	But I don't care. I want to look at the moon, I want to look at planets, I want to look at uh, Magellanic clouds, whatever. Uh, and the. 
+
+160:23	(Jacques Vallée)	So we built this, we had a, there was a house there, but I built an observatory in the middle of the forest. Our closest neighborhood. This was redwood forest, you know, uh, uncluttered and, you know, unspoiled, pretty much inaccessible. 
+
+160:45	(Jacques Vallée)	You know, if you didn't own the land, you know, you couldn't go cut the trees. So those were, there were some old redwoods there and some. And the closest neighbor was about three quarter miles away. 
+
+160:59	(Jacques Vallée)	Three quarter of a mile away. And uh, I felt this is going to be like a discontinuity in the forest and maybe it will attract whatever is out there and maybe we'll see ufo's. We never did. 
+
+161:13	(Jacques Vallée)	We owned the place for eighteen years. We'd go there with our kids and it was wonderful. Um, but we went there not every weekend, but pretty much as much as we could. 
+
+161:29	(Jacques Vallée)	And then, uh, our kids grew up and moved away. We moved back to the city. We sold the place the last night. 
+
+161:38	(Jacques Vallée)	Of uh, course, we had cleaned the place. We were selling it to friends of ours. Our neighbors had a winery. 
+
+161:47	(Jacques Vallée)	They wanted to expand the land. Uh, we had some flat land they wanted to use for the wine, and they wanted the house. And so the last night, everything has been moved out. 
+
+162:01	(Jacques Vallée)	My wife is still there because we had a car that was going to be, uh, uh, taken back to the city. And she had her car and she was ready to go. Middle of the night, there's a light that's filling the house by then. 
+
+162:20	(Jacques Vallée)	There are no curtains, nothing filling the house. Blue, sort of UV white blue. Ultraviolet light, very. 
+
+162:32	(Jacques Vallée)	Uh, she goes outside and the light is making everything clear. The forest, everything else. Uh, and, um, it's moving. 
+
+162:45	(Jacques Vallée)	It doesn't have a specific shape. You know, it's like a mass of light with light all around it. It's going down the driveway, which is a dirt, dirt road to the main road to the small road. 
+
+163:02	(Jacques Vallée)	And it's just moving along politely in front of the ranch and down to the street. It has no business being there. You know, no sound. 
+
+163:16	(Jacques Vallée)	It's not a car. It's not a car on fire. It's not the light. 
+
+163:22	(Jacques Vallée)	Again, everything is. All the details are there. You can see the grass, you can see the leaves on the trees. 
+
+163:31	(Jacques Vallée)	And why that Maybe you called for. 
+
+163:35	(Joe Rogan)	It and it took a long time to get there. 
+
+163:37	(Jacques Vallée)	Well, yeah. Or they just wanted to say goodbye. 
+
+163:41	(Joe Rogan)	Uh, yeah, maybe. Maybe they were there the whole time and they just didn't want to show themselves. Let's put on a show for Jacques. 
+
+163:47	(Jacques Vallée)	There was one time we used to sleep in the observatory. There was a small bedroom there with old books that I had collected. And she woke up and she saw a light that was like what people describe, small light. She didn't see where it came from or where it went, but it was moving along the walls. 
+
+163:47	(Jacques Vallée)	There were two of them. And then it vanished. Uh, she woke me up, but I had not seen it. 
+
+164:20	(Jacques Vallée)	It was gone by the time I woke up. 
+
+164:22	(Joe Rogan)	I talked to a man when I went to visit Skinwalker Ranch. There's a few people wanted to talk to us. But then once we brought the cameras out, only one guy wanted to talk to us. And he was very rational, very normal guy who lived in a modest home. 
+
+164:31	(Joe Rogan)	And he told a story about this ball of light that entered through his home. And it seemed to be somehow or another aware that he was there. He felt like it was, if not a living thing controlled by something that was alive. 
+
+164:31	(Joe Rogan)	And then it went through the walls and disappeared again. He said it was in his home for a few minutes. It's moving around. 
+
+165:04	(Jacques Vallée)	Well, as you know, uh, mister M. Bigelow has done experiments of his own with lights and with things like that. Putting interesting objects in certain places that are enclosed and, uh, seeing if something is going to look around or move them and so on. So very interesting. 
+
+165:31	(Joe Rogan)	Well, it's such a fascinating subject and like I said, I really appreciate all your years of research and the way you're so measured and so objective in your analysis. It really helps people like myself get at least some sort of an understanding of what's going on. 
+
+165:48	(Jacques Vallée)	Well, uh, what's important is to have guidelines for research. I look to some of the people you have here who've done some other exploring, and I try to learn from them and sort of refine my own criteria. 
+
+166:07	(Joe Rogan)	Yeah, well, thank you very much. Um, and your book again, uh, the one that's available now, this is, uh, Forbidden Science six. This is the sixth of these books. 
+
+166:19	(Jacques Vallée)	Um, Scattered Castles is a, uh. It's not classified, but it comes from the classified world. It's a repository of classified projects. So if you're cleared at a certain level, uh, you want to know what else is there that you would have access to or, uh, where certain things are being sent to you and you're authorized to. 
+
+166:49	(Jacques Vallée)	You could look up the names of those projects. It wouldn't tell you what the project does, uh, unless you're cleared for it, but it would tell you that there is a project. And so those names of secret projects are picked by a computer. 
+
+167:06	(Jacques Vallée)	They are random. And I thought this was funny. You know, scattered, uh, castles is sort of like, you know, all these files about strange ufo's and strange creatures. 
+
+167:20	(Joe Rogan)	Well, um, I can't wait to read it. Thank you so much. Thank you for everything. It was great having dinner with you and Hal put off and everybody else last night as well. 
+
+167:21	(Joe Rogan)	I really appreciate you very much. Thank you. Bye, everybody. 
+
