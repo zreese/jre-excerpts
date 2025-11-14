@@ -1,6 +1,6 @@
 ---
 created: 2023-10-26T15:55
-updated: 2025-10-22T14:58
+updated: 2025-11-14T09:57
 tags:
   - Joe-Rogan
 source_url: https://open.spotify.com/episode/6gr1cKBE8VywXpVlMdisDm
@@ -16,9 +16,6 @@ reach_estimate: 24000000
 gist: Coleman Hughes argues that America is not a fundamentally racist country, citing declining racial disparities and legal equality. He criticizes “anti-racism” and diversity, equity, and inclusion (DEI) initiatives as reinforcing racial essentialism and lowering standards, asserting that these frameworks promote a harmful view of Black inferiority. He cites examples like California repealing its affirmative action ban and President Biden’s race-conscious policies as regressive. Hughes defends colorblindness as the ideal, advocating for judging individuals solely on merit and character. He also disputes the significance of systemic racism, saying disparities often reflect cultural or class differences rather than discrimination.Hughes challenges police racism narratives, stating that data do not support claims of racial bias in police shootings and that use-of-force disparities disappear when controlling for crime rates. He criticizes media for sensationalism and accuses progressives of dishonestly promoting narratives of oppression. Rogan and Hughes argue that left-wing media amplify racial grievances for political power, referencing instances like the George Floyd protests, which Hughes says were based on misleading premises.He further warns that DEI efforts and racial preferences can stoke resentment, particularly among Asian Americans affected by college admissions practices, and he defends standardized testing and merit-based systems. They both express concern over self-censorship, likening DEI policies to 20th-century loyalty oaths. Hughes concludes that the U.S. has made enormous progress and should embrace a race-neutral approach to policy and identity.
 ---
 # 2023-10-20 The Joe Rogan Experience 2049 - Coleman Hughes
-
-## Full Transcript
-
 
 00:00 	(Joe Rogan)	By night, all day. What's up? Good to see you, man. What's cracking? 
 
@@ -418,15 +415,15 @@ gist: Coleman Hughes argues that America is not a fundamentally racist country, 
 
 42:09 	(Coleman Hughes)	Wow. 
 
-42:10 	(Joe Rogan)	It's one genus, it's sue Scroffa. It's one specific animal. And if you domesticate it, it's cute and it's babe, it's the pig. If you don't, it's this fucking plague of mammals that can have three litters a year, starts having a litter when it's six months old. 
+42:10 	(Joe Rogan)	It's one genus, it's Sus scrofa. It's one specific animal. And if you domesticate it, it's cute and it's Babe, it's the pig. If you don't, it's this fucking plague of mammals that can have three litters a year, starts having a litter when it's six months old. 
 
 42:28 	(Joe Rogan)	Within a couple of years, they're 200 pounds, and they eat constantly. And all they do is eat and fuck and make more pigs. And they're smart. 
 
-42:37 	(Joe Rogan)	Wow. Yeah. Wow. 
+42:37 	(Coleman Hughes)	Wow. 
 
-42:41 	(Joe Rogan)	So we know these things are fucking dangerous and if we're monkeying around with nature but also we know that there have been medical interventions, uh, there's been medical technology, there's been researches done that's enhanced people's lives, saved people's lives, rescued people from fatal diseases to cast light on the entire pharmaceutical industry. That it's like this horrible monster of a thing that's destroying lives. No, what it is is a bunch of people that are, like, you were saying, scientists who figure things out because it's cool, and they get married to people who just want to make money.
+42:41 	(Joe Rogan)	Yeah. Wow. So we know these things are fucking dangerous and if we're monkeying around with nature but also we know that there have been medical interventions, there's been medical technology, there's been researches done that's enhanced people's lives, saved people's lives, rescued people from fatal diseases to cast light on the entire pharmaceutical industry, that it's like this horrible monster of a thing that's destroying lives. No, what it is is a bunch of people that are, like, you were saying, scientists who figure things out because it's cool, and they get married to people who just want to make money.
 
-43:23 	(Joe Rogan)	And so they're stock market psychos, and there's a lot of psychos out there, and the psychos say, okay, we got this thing and we're making X, but I think we can get to Z. We just got to get this guy to say this and this regulation to pass, and then we're in Z, and this guy is thinking himself doing coke off a stripper's ass on a yacht. That's what he's thinking of. 
+43:23 	(Joe Rogan)	And so they're stock market psychos, and there's a lot of psychos out there, and the psychos say, okay, we got this thing and we're making X, but I think we can get to Z. We just got to get this guy to say this, and this regulation to pass, and then we're in Z, and this guy is thinking himself doing coke off a stripper's ass on a yacht. That's what he's thinking of. 
 
 43:43 	(Joe Rogan)	He's not thinking of saving the world. 
 
@@ -434,7 +431,7 @@ gist: Coleman Hughes argues that America is not a fundamentally racist country, 
 
 43:45 	(Joe Rogan)	But the scientists that are making all this stuff, they're just fucking scientists. And part of the problem with getting the money attached to the regulatory body and attached to the scientists is because then there's someone who doles out the funding, and maybe that guy is connected to the money side, and maybe that guy was actually a doctor. And now you've got this crazy situation where these doctors can't even tell the truth. That scientists can't tell the truth. 
 
-44:08 	(Joe Rogan)	They can't talk openly about the reservations that they have about some of these specific types of research that they're doing. Like, hey, should we be doing this? They can't say anything, uh, because they're connected. And if they get ostracized from that system, they are fucked. 
+44:08 	(Joe Rogan)	They can't talk openly about the reservations that they have about some of these specific types of research that they're doing. Like, “hey, should we be doing this?” They can't say anything, uh, because they're connected. And if they get ostracized from that system, they are fucked. 
 
 44:22 	(Joe Rogan)	Their career is fucked. There's no recourse. They don't have anything to fall back on. 
 
@@ -442,69 +439,77 @@ gist: Coleman Hughes argues that America is not a fundamentally racist country, 
 
 44:41 	(Joe Rogan)	That's the game they're playing. 
 
-44:42 	(Coleman Hughes)	Well, I think that most of the journalists I know aren't necessarily captured themselves by money, but they may be captured by ideology and groupthink. 
+44:42 	(Coleman Hughes)	Well, I think that the journalists, most of the journalists I know, aren't necessarily captured themselves by money, but they may be captured by ideology and groupthink. 
 
 44:51 	(Joe Rogan)	Yes, there's a lot of I'm sure. 
 
-44:53 	(Coleman Hughes)	Yeah. Um, but so, for example, on the money end, i, uh, was astounded that it was not widely reported and that you have to get to someone like RFK Jr. To tell you this, that the NIAID had a financial stake in the moderna vaccine. 
+44:53 	(Coleman Hughes)	Yeah. Um, but so, for example, on the money end, I, uh, was astounded that it was not widely reported and that you have to get to someone like RFK Jr to tell you this, that the NIAID had a financial stake in the Moderna vaccine. 
 
 45:12 	(Joe Rogan)	How much money did they make off of it? 
 
-45:14 	(Coleman Hughes)	Uh, one of the payments was like several hundred million dollars. That was one less. 
+45:14 	(Coleman Hughes)	Uh, one of the payments was like several hundred million dollars. That was one lump sum payment. 
 
-45:17 	(Joe Rogan)	Well, that's not enough to affect the way people think. No, that's not enough to affect the way I'm kidding. Sorry. It's just so crazy. 
+45:17 	(Joe Rogan)	Well, that's not enough to affect the way people think. No, that's not enough to affect the way-- I'm kidding. Sorry. It's just so crazy. 
 
-45:31 	(Coleman Hughes)	400 million? 
+45:30 	(Coleman Hughes)	I couldn't tell, I was like “what the fuck?”
 
-45:32 	(Joe Rogan)	Uh, that's not that much. That's just okay. It's just a little taste. 
+45:17 	(Joe Rogan)	Hahaha, sorry. I couldn't help myself! It's just so crazy, hundreds of millions of dollars. 
 
-45:37 	(Coleman Hughes)	Right? So when I see the director of the Nieid, anthony Fauci, former director, talk about the moderna vaccine, should as a journalist, should my default be to trust everything he says because he's the government? Or should I say he may be conflicted. Let's do what great journalism does and pressure test everything he says. Demand the documents on everything he says. And what he says may turn out to be right. 
+45:31 	(Coleman Hughes)	I think one month sent was like 400 million. 
+
+45:32 	(Joe Rogan)	Oh, that's not that much! That's just, y'know, it's just a little taste. 
+
+45:37 	(Coleman Hughes)	Right? So when I see the director of the NIAID, Anthony Fauci, former director, talk about the Moderna vaccine, should as a journalist, should my default be to trust everything he says because he's the government? Or should I say he may be conflicted. Let's do what great journalism does and pressure test everything he says. Demand the documents on everything he says. And what he says may turn out to be right. 
 
 45:38 	(Coleman Hughes)	I don't assume it's wrong. 
 
 46:06 	(Joe Rogan)	Right. 
 
-46:07 	(Coleman Hughes)	But that should be the job of mainstream journalists, is to pressure test everything when you don't do it. My point is, it's left to the RFK juniors of the world who end up getting certain things very wrong because they're one person, right? It's not what they so for were. Uh, like I told you, I was really going through all the claims in RFK Jr's book because some of them are just insane, turn out to be true. Some of them are insane, turn out not to be true. 
+46:07 	(Coleman Hughes)	But that should be the job of mainstream journalists, is to pressure test everything when you don't do it. My point is, it's left to the RFK Jrs of the world who end up getting certain things very wrong. Because they're one person, it's not what they do, and so for example, uh, like I told you, I was really going through all the claims in RFK Jr's book because some of them are just insane, turn out to be true. Some of them are insane, turn out not to be true. 
 
 46:34 	(Joe Rogan)	What did you find that wasn't true? 
 
-46:36 	(Coleman Hughes)	So, for example, he cited a study, he said that uh, uh, the DTP vaccine in the 1970s hurt or killed one out of 300 kids. So I clicked on the study. I read every single sentence of the study twice down. There was nothing in there that said one in 300. 
+46:36 	(Coleman Hughes)	So, for example, he cited a study, he said that uh, uh, the diphtheria, the DTP vaccine in the 1970s hurt or killed one out of 300 kids. So I clicked on the study. I read every single sentence of the study twice down. There was nothing in there that said one in 300. 
 
 46:56 	(Joe Rogan)	What was the data that they gave? 
 
 46:59 	(Coleman Hughes)	It didn't even give a clear number, and the numbers you could piece together were orders of magnitude smaller than that. And I was surprised to find that. 
 
-47:10 	(Joe Rogan)	Is that due to a lack of data, there's an assumption that the Vaer system is grossly underreported, correct? 
+47:10 	(Joe Rogan)	Is that due to a lack of data, there's an assumption that the VAERS system is grossly underreported, correct? 
 
-47:19 	(Coleman Hughes)	Yeah. 
+47:19 	(Coleman Hughes)	Yeah. There's an.. but, yes.
 
 47:22 	(Joe Rogan)	Is that an assumption? Is that proven? 
 
 47:24 	(Coleman Hughes)	I think so. I think that checks out. But with this claim, he was citing a specific study and he put it right there, and it just wasn't in the study. 
 
-47:32 	(Joe Rogan)	Right, right. So you have the actual data that's study. Right. If you're saying a study showed that, or if you're just saying the number and not saying where you're getting this information, then. 
+47:39 	(Joe Rogan)	Right. 
 
-47:47 	(Coleman Hughes)	Every single one of his claims this is why I thought it was such a cop out that that guy you were in a little Twitter. 
+47:39 	(Coleman Hughes)	So that's sloppy. That happens. 
 
-47:54 	(Joe Rogan)	Spat with oh, Peter Hotez. 
+47:45 	(Joe Rogan)	So you have the actual data that's in the study. Right. If you're saying a study showed that, or if you're just saying the number and not saying where you're getting this information, then... it's... he really should... 
 
-47:56 	(Coleman Hughes)	Yeah. Peter Hotels. If you're an expert on this and you have this guy that you're saying total, uh, misinformation, he's got every single one of the claims he made on your show in one of his books with a footnote. Peter Hotez, if this is his job and this is important to him, should absolutely spend the time. 
+47:47 	(Coleman Hughes)	RFK cites every single one of his claims. This is why I thought it was such a cop out that that guy you were in a little Twitter Spat with. 
 
-48:15 	(Coleman Hughes)	What could be more important? Right. If you're saying that I'm an expert in this and this guy is dangerous for the world, you can't then say, well, I don't have time to go in his book and click on every footnote and showing receipts for why he's wrong about everything. That was a total cop out of him to say, oh, this is not worth my time. 
+47:54 	(Joe Rogan)	Oh, Peter Hotez. 
 
-48:34 	(Coleman Hughes)	You can't debate a conspiracy theorist. I don't think any of that is true. 
+47:56 	(Coleman Hughes)	Yeah. Peter Hotez. If you're an expert on this and you have this guy that you're saying, uh, total misinformation, he's got every single one of the claims he made on your show in one of his books with a footnote. Peter Hotez, if this is his job and this is important to him, should absolutely spend the time... 
 
-48:37 	(Joe Rogan)	Well, I think he's very anxious. And let me tell you my history with Peter Hotez, because I met Peter Hotez in, like, 2012. I had him on an episode of, uh, joe Rogan Questions Everything, and we were talking about viruses. And I found him to be a really fascinating, very intelligent man who's dedicated his life to trying to help people, specifically of tropical diseases, because there's a real issue in tropical disease. 
+48:15 	(Coleman Hughes)	What could be more important? Right? If you're saying that I'm an expert in this and this guy is dangerous for the world, you can't then say, well, I don't have time to go in his book and click on every footnote and showing receipts for why he's wrong about everything. That was a total cop out of him to say, oh, “this is not worth my time.” 
 
-49:07 	(Joe Rogan)	He was telling me that people that live in tropical climates, like, the vast majority of them, have some kind of parasites. And what he wanted to talk about was that I think when COVID came along, there was this psychological angst that was overwhelming even to people that are fairly good at keeping their shit together. Like, I think of myself as someone who's pretty good at keeping my shit together. 
+48:34 	(Coleman Hughes)	“You can't debate a conspiracy theorist.” I don't think any of that is true. 
 
-49:20 	(Joe Rogan)	I don't freak out too much about things. And so with COVID I was like, all right, well, I guess this is a real thing, and we're going to have to hole up in the house for a while and two weeks to flatten the curve and make sure we have food and power. You start thinking about things like, okay, if I needed to get food for my family, if I needed to get out of here. 
+48:37 	(Joe Rogan)	Well, I think he's very anxious. And let me tell you my history with Peter Hotez, because I met Peter Hotez in, like, 2012. I had him on an episode of, uh, Joe Rogan Questions Everything, and we were talking about viruses. And I found him to be a really fascinating, very intelligent man who's dedicated his life to trying to help people, specifically of tropical diseases, because there's a real issue in tropical disease. 
 
-49:55 	(Joe Rogan)	How much gas do I need? There's a real air. There's a feeling in the air where, like, okay, we're in an, uh, unprecedented state of the unknown and chaos, and this could get worse. Like, this virus could mutate into something that's just killing everybody. 
+49:07 	(Joe Rogan)	He was telling me that people that live in tropical climates, like, the vast majority of them, have some kind of parasites. Y'know, which is just... y'know. And what he wanted to talk about was that. I think when COVID came along, there was this psychological angst that was overwhelming even to people that are fairly good at keeping their shit together. Like, I think of myself as someone who's pretty good at keeping my shit together. 
 
-50:12 	(Joe Rogan)	Um, that level of anxiety prompts people to look for solutions that are very binary, and it prompts people to dig their heels into decision is to do this. Like, should we go into the basement in the horror movie, or should we get the fuck out of here? I think we should get the fuck out of here. Let's go in the but we've got to go in the basement. 
+49:20 	(Joe Rogan)	I don't freak out too much about things. And so with COVID I was like, all right, well, I guess this is a real thing, and we're going to have to hole up in the house for a while and two weeks to flatten the curve and make sure we have food and power. You start thinking about things like, okay, if I needed to get food for my family, if I needed to get out of here, how much gas do I need? 
 
-50:35 	(Joe Rogan)	We've got to go in the basement. There's these decisions that people make in these traumatic situations, like, do we hide? Do we run? What do we do? And when they have a decision that they've made, like, the decision, there's only one decision. This decision is this. 
+49:55 	(Joe Rogan)	There's a real air. There's a feeling in the air where, like, okay, we're in an, uh, unprecedented state of the unknown and chaos, and this could get worse. Like, this virus could mutate into something that's just killing everybody. 
+
+50:12 	(Joe Rogan)	Um, that level of anxiety prompts people to look for solutions that are very binary, and it prompts people to dig their heels into what their decision is to do this. Like, “should we go into the basement in the horror movie, or should we get the fuck out of here?” “I think we should get the fuck out of here.” “Let's go in the but we've got to go in the basement. We've got to go in the basement. ” 
+
+50:35 	(Joe Rogan)	There's these decisions that people make in these traumatic situations, like, do we hide? Do we run? What do we do? And when they have a decision that they've made, like, the decision, there's only one decision. This decision is this. 
 
 50:49 	(Joe Rogan)	We have to take this one vaccine. That's the only thing that we could do. And everybody starts thinking, okay, well, we have a solution. 
 

@@ -1,6 +1,6 @@
 ---
 created: 2025-03-14T12:24
-updated: 2025-10-22T14:53
+updated: 2025-11-11T11:24
 tags:
   - source--podcast
   - transcription
@@ -1287,7 +1287,7 @@ gist: Woody Harrelson and Joe Rogan discuss vaccine skepticism, government corru
 
 78:11 	(Joe Rogan)	And it was a, uh, revolutionary, complete change of society from nineteen fifty to nineteen sixty. I mean, ten years, things became. The music and culture became almost unrecognizable. It could change so radically. 
 
-78:11 	(Joe Rogan)	And I think it was terrifying to the powers that be. And unfortunately, the propaganda that they pushed, just like the propaganda that we saw during the COVID times M and propaganda that you have whenever there's a war, that propaganda is sticky. That stuff sticks. 
+78:11 	(Joe Rogan)	And I think it was terrifying to the powers that be. And unfortunately, the propaganda that they pushed, just like the propaganda that we saw during the COVID times and propaganda that you have whenever there's a war, that propaganda is sticky. That stuff sticks. 
 
 78:22 	(Joe Rogan)	It sticks around for a long time. And unless you have viable representations of opposing narratives that are really effective, it's very hard for people to change their perspective on things without a personal experience. 
 

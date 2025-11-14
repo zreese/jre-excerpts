@@ -1,11 +1,11 @@
 ---
 created: 2025-10-09T13:21
-updated: 2025-10-09T13:37
+updated: 2025-11-10T13:00
 tags:
 youtube_url:
 citation:
 ---
-## Excerpt from [[jre-2375--tim-dillon--2025-05-04]]
+## Excerpt from [[jre-2375--tim-dillon--2025-09-04]]
 02:07:29‣(Joe Rogan)‣Tim Kennedy did that show Finding Hitler, where they went down there and--
 
 02:07:33‣(Tim Dillon)‣Do you think he went, survived? Hitler?

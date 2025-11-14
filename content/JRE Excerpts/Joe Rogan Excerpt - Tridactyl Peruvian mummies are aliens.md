@@ -1,13 +1,13 @@
 ---
 created: 2025-10-09T13:21
-updated: 2025-10-09T13:38
+updated: 2025-11-10T13:00
 tags:
   - UAPs
   - ancient-aliens
 youtube_url:
 citation:
 ---
-## Excerpt from [[jre-2375--tim-dillon--2025-05-04]]
+## Excerpt from [[jre-2375--tim-dillon--2025-09-04]]
 02:26:43‣(Joe Rogan)‣There's a lot of that, but I also think that's because, look, if you've been in charge of back engineering spaceships, so you've been in charge of lying to Congress and misappropriating funds in order to have the amount of money that you would need to do this stuff. And then through all of this, you've achieved substantial gains in whether it's fiber optics or whatever the technology that you've back engineered where you figured out how to make something that's completely spectacular. You're in a situation where as transparency becomes more and more of the norm, one of the things that's going to happen with AI and then most certainly with quantum computing is all encryption, all hiding, all that stuff goes away. It becomes a real problem with resources because almost all money is just ones and zeros. So like who's got access to it? Who does? It's going to be nuts. Like solving all that's going to be nuts. But also hiding information is going to be virtually impossible. And if there's people that know eventually at one point in time, they're going to have to pay the toll. So we've got to get ahead of this. And the best way to get ahead of this is like this Age of Disclosure documentary. One of the things that all these spooks, all these There's like former, former, you know, deep, deep state guys who are now whistleblowers. I'm doing air quotes with my fingers for people who are just listening. They all talk about amnesty. This is the, this is the secret to all this stuff. The secret to, the only way you're going to be able to do all this is you got to give amnesty for all the people that committed all these crimes because the general public needs to know that this stuff exists.
 
 02:28:35‣(Tim Dillon)‣That's right.

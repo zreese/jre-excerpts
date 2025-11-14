@@ -1,12 +1,12 @@
 ---
 created: 2025-10-09T13:21
-updated: 2025-10-09T14:55
+updated: 2025-11-10T13:00
 tags:
   - epstein
 youtube_url:
 citation:
 ---
-## Excerpt from [[jre-2375--tim-dillon--2025-05-04]]
+## Excerpt from [[jre-2375--tim-dillon--2025-09-04]]
 01:58:26	(Joe Rogan)	Look at this, by the way. Look at this quote. "I was only 14 years old when I met Jeffrey." One of nine female Epstein accusers who appealed at a news conference on Capitol Hill. "It was the summer of high school. I was working three jobs to try to support my mom." Of course, those were the type of people you grab, right? "When a friend of mine in the neighborhood told me I could make $300 to give another guy a massage." Wow. "It went from a dream job to the worst nightmare."
 
 01:58:53	(Tim Dillon)	People need to go to jail. I mean, this is the reality. People need to go to jail.
