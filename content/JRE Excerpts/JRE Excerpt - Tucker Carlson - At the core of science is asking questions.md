@@ -1,9 +1,9 @@
 ---
 created: 2025-10-09T13:21
-updated: 2025-11-10T15:37
+updated: 2026-02-02T12:52
 tags:
 published_date: 2024-04-19
-youtube_url:
+youtube_url: https://www.youtube.com/watch?v=DfTU5LA_kw8
 citation: "PowerfulJRE. “Joe Rogan Experience #2138 – Tucker Carlson.” YouTube video, April 19, 2024. https://www.youtube.com/watch?v=DfTU5LA_kw8. Accessed November 10, 2025."
 ---
 ## Excerpt from [[jre-2138--tucker-carlson--2024-04-19]]

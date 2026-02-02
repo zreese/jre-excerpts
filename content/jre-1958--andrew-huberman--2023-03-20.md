@@ -1,6 +1,6 @@
 ---
 created: 2025-11-14T12:23
-updated: 2025-11-14T13:27
+updated: 2025-11-14T13:55
 tags:
   - source--podcast
   - transcription
@@ -15,7 +15,7 @@ publisher_notes: Andrew Huberman, PhD, is a neuroscientist and tenured professor
 published_date: 2023-03-20
 view_count: 353937
 reach_estimate: 24000000
-gist: ""
+gist: "Rogan and Huberman frame U.S. plastic bans as pointless because China “dumps orders of magnitude more,” then move into a pro–lab-leak narrative where pangolin and raccoon-dog explanations are mocked, lab workers “got sick,” and media allegedly buried evidence due to corporate influence. Huberman claims labs routinely do gain-of-function, repeats the Chinese CRISPR-babies story, and argues the jailed scientist is likely still doing research. They cycle through health claims: Huntington’s is unavoidable once the gene is present; mustard or spicy food can trigger MS flares; Carolina Reaper peppers can cause “Thunderclap headache” and inflammation-driven brain damage; people who tolerate spice have higher testosterone; cold plunges raise dopamine for “hours” and outperform any drug; sauna plus cold shifts metabolism; and cold after lifting “blocks hypertrophy.” Huberman outlines five health pillars (sunlight, movement, nutrients, sleep, social connection). They argue amphetamines massively spike catecholamines and are heavily used by journalists and finance workers. Both attack legacy media and say only independents provide honest coverage. Huberman says 10–15% of big papers don’t replicate, ~2% involve fabrication, and journals choose hype; the Alzheimer’s amyloid fraud misdirected “trillions.” They describe universities as businesses where donors buy prestige and say Epstein gained access to scientists by funding labs. They close by promoting psychedelic therapy, citing MDMA/psilocybin trial success rates around 65% and saying the infamous “holes in the brain” MDMA toxicity paper was retracted after researchers injected meth by mistake."
 ---
 # 2023-03-20 Joe Rogan Experience 1958 - Andrew Huberman
 

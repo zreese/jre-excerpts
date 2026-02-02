@@ -1,13 +1,13 @@
 ---
 created: 2025-10-09T13:21
-updated: 2025-11-10T13:02
+updated: 2026-02-02T13:03
 tags:
   - election-fraud
 published_date: 2024-06-27
 youtube_url: https://youtu.be/72KBQzWcEQc?si=1VZlulUv5EJ2zJos&t=904
 citation: "PowerfulJRE. “Joe Rogan Experience #1593 – Dr. Carl Hart.” YouTube video, June 27, 2024. https://www.youtube.com/watch?v=72KBQzWcEQc. Accessed October 23, 2025."
 ---
-v## Excerpt from [[jre-1593--carl-hart--2024-06-27]]
+## Excerpt from [[jre-1593--carl-hart--2024-06-27]]
 
 00:14:31	(Carl Hart)	Yeah, yeah, I think so. But, but you know, I think that when you have, I'm telling you, man, uh, I'm putting this square on those people in Washington. Trump is one of them, of course, but I'm talking about the Ted Cruzs and all of those people as well. I mean those people, uh, they should be, they should face, uh, the criminal justice system for what they did. Um, because these folks who are out here, we all have the potential to be assholes. And then if you think that what you're doing is holding up, uh, the liberty that we promise in this country, that you are being a real patriot and you really believe that you've been manipulated to do that by these leaders, they should pay the price. And that's the thing that's really, um, I'm, um, really disturbed by... It's like, yeah, we'll, we should get Trump. Yep, absolutely. But we should go after those other people.
 
