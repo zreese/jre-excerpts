@@ -1,6 +1,6 @@
 ---
 created: 2025-10-09T14:01
-updated: 2026-02-03T10:19
+updated: 2026-02-03T10:26
 title: All JRE Excerpts
 ---
 
@@ -37,6 +37,7 @@ title: All JRE Excerpts
 [[JRE Excerpt - Rogan's conversion from Fox Moon Landing show]]  
 [[JRE Excerpt - Eddie Bravo, Space is Fake]]  
 [[JRE Excerpt - Tridactyl Peruvian mummies are aliens]]  
+[[JRE Excerpt - Rogan's NewsRadio character was based on real life Rogan]]  
 
 ## Ivermectin
 [[JRE Excerpt - Ivermectin alone is capable of driving this pathogen to extinction]]  

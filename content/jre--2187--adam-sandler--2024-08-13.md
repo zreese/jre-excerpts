@@ -1,22 +1,23 @@
 ---
-created: 2025-10-31T14:09
-updated: 2025-10-31T14:37
+created: 2026-02-03T14:09:00
+updated: 2026-02-03T10:23
 tags:
   - source--podcast
   - transcription
 source_url:
 youtube_url: https://www.youtube.com/watch?v=4T_0Tcts6aM
-media_series_title: ""
-media_episode_number:
+media_series_title: The Joe Rogan Experience
+media_episode_number: 2187
 people:
-media_title:
-publisher_notes: ""
-published_date:
-view_count:
-reach_estimate:
+  - Adam Sandler
+media_title: "Joe Rogan Experience #2187 - Adam Sandler"
+publisher_notes: Adam Sandler is an actor, comedian, and producer known for his work in films like "Happy Gilmore," "Spaceman," and "Uncut Gems." Look for his new Netflix comedy special "Love You" on August 27.
+published_date: 2024-08-13
+view_count: 10030681
+reach_estimate: 24000000
 gist: ""
 ---
-# 0000-00-00 Title - Guest
+# 2024-08-13 Joe Rogan Experience 2187 - Adam Sandler
 
 00:00:12‣(Joe Rogan)‣Hello, Adam Sandler.
 
