@@ -35,14 +35,19 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
       ],
+    //}),
+    //Component.Explorer({
+     // title: "Browse Transcripts", // title of the explorer component
+     // folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+     // folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
     }),
-    Component.Explorer(),
-  ],
-  right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.FrontmatterSidebar({}),
     Component.Backlinks(),
+  ],
+  right: [
+
   ],
 }
 

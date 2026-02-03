@@ -1,22 +1,23 @@
 ---
 created: 2025-11-10T10:19
-updated: 2025-11-10T10:30
+updated: 2026-02-03T10:15
 tags:
   - source--podcast
   - transcription
 source_url:
 youtube_url: https://www.youtube.com/watch?v=ko5htRmVIrU
-media_series_title: ""
-media_episode_number:
+media_series_title: The Joe Rogan Experience
+media_episode_number: 2396
 people:
-media_title:
-publisher_notes: ""
-published_date:
-view_count:
-reach_estimate:
+  - Andrew Schulz
+media_title: "Joe Rogan Experience #2396 - Andrew Schulz"
+publisher_notes: Andrew Schulz is a stand-up comic, actor, and podcaster. He's the host of the "Flagrant" podcast with Akaash Singh, and the "Brilliant Idiots" podcast with Charlamagne Tha God.
+published_date: 2025-10-18
+view_count: 1964472
+reach_estimate: 24000000
 gist: ""
 ---
-# 0000-00-00 Title - Guest
+# 2025-10-18 Joe Rogan Experience 2396 - Andrew Schulz
 00:00:12	(Joe Rogan)	You know, probably gonna play something for you. You've been getting into AI music at all?
 
 00:00:17	(Andrew Schulz)	Uh, music? A little. A little?
