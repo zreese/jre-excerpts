@@ -1,11 +1,13 @@
 ---
 created: 2025-10-09T13:21
-updated: 2025-10-09T14:55
+updated: 2026-02-06T15:39
 tags:
   - polyethylene-glycol
-youtube_url:
-citation:
+youtube_url: https://youtu.be/B75H_HkJQvE?si=z8Gvt08lUKu7SEDV&t=8120
+citation: "PowerfulJRE. “Joe Rogan Experience #2132 – Andrew Schulz.” YouTube video, April 6, 2024. https://www.youtube.com/watch?v=B75H_HkJQvE. Accessed February 6, 2026."
 ---
+## Excerpt from [[jre-2132--andrew-schulz--2024-04-06]]
+
 135:25	(Joe Rogan)	You'll be labeled an anti vaxxer. So Andrew Schultz and Joe Rogan float around anti vax conspiracy theories. 
 
 135:31	(Andrew Schulz)	Well, we're not, we're not conspiring right now, right? 

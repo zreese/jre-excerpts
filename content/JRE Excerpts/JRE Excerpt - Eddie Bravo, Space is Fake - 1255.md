@@ -1,10 +1,11 @@
 ---
 created: 2025-10-09T13:21
-updated: 2025-10-09T13:42
+updated: 2026-02-06T15:24
 tags:
   - space-is-fake
-youtube_url: https://rumble.com/v1n92t0-joe-rogan-experience-1255-alex-jones-returns.html
-citation:
+source_url: https://rumble.com/v1n92t0-joe-rogan-experience-1255-alex-jones-returns.html
+citation: "The Joe Rogan Experience. “Joe Rogan Experience #1255 – Alex Jones Returns!” Rumble video, February 28, 2019. https://rumble.com/v1n92t0-joe-rogan-experience-1255-alex-jones-returns.html. Accessed February 6, 2026."
+published_date: 2019-02-28
 ---
 ## Excerpt from [[jre-1255--alex-jones--2019-02-28]]
 03:29:57‣(Alex Jones)‣I was on the phone with you for 45 minutes this morning. I told you I have a 12 inch telescope. 12 inch diameter, opening aperture. Yes, it's a freaking moons are taking 35 millimeter. It's there, it's there.

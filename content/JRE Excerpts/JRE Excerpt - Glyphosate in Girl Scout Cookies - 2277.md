@@ -1,10 +1,12 @@
 ---
 created: 2025-10-09T13:03
-updated: 2025-10-09T14:22
+updated: 2026-02-06T15:02
 tags:
   - glyphosate
 citation: "PowerfulJRE, Joe Rogan Experience #2277 - Woody Harrelson, YouTube video, September 13, 2025, https://www.youtube.com/watch?v=ztXzOIH7x10. Accessed September 16, 2025."
 ---
+## Excerpt from [[jre-2277--woody-harrelson--2025-02-22]]
+
 143:06	(Woody Harrelson)	Because the congestion in the body is really what disease is. It's congestion.
 
 143:12	(Joe Rogan)	It's inflammation.

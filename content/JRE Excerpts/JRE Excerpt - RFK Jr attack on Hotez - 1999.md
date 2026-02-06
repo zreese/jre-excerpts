@@ -1,12 +1,13 @@
 ---
 created: 2025-10-09T13:21
-updated: 2025-11-14T14:52
+updated: 2026-02-06T15:07
 tags:
   - hotez-rogan-debate
 published_date: 2023-06-14
 youtube_url: https://youtu.be/p6LJXPOv4SM?si=It9mRXUnpu7eVAxC&t=6518
 citation: "PowerfulJRE. “Joe Rogan Experience #1999 – Robert Kennedy Jr.” YouTube video, June 14, 2023. https://www.youtube.com/watch?v=p6LJXPOv4SM. Accessed November 14, 2025."
 ---
+## Excerpt from [[jre-1999--rfkjr--2023-06-14]]
 
 01:48:43 	(RFK Jr) 	We would have done better if they'd just given everybody vitamin D. 
 

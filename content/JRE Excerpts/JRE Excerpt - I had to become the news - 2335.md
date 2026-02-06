@@ -1,11 +1,11 @@
 ---
 created: 2025-10-09T12:15
-updated: 2025-10-09T13:13
+updated: 2026-02-06T15:31
 tags:
   - attack-on-fauci
   - the-real-anthony-fauci
 ---
-# Rogan on 'becoming the news' after Ivermectin Villainization
+# Rogan on 'becoming the news' after Ivermectin villainization
 ## Excerpt from [[jre-2335--mary-talley-bowden--2025-06-10]]
 
 00:21:50	(Joe Rogan)	With good reason. Why I'm having you on. That's why I continue to talk people like stop with the COVID already. I get it folks, if this is not for you, move on. Mary and I will still be bitching about this for the next three years. Well, you know, for me it was just, it was such a wake up call because it's so weird to see your face on TV Green. First of all that was weird. And then this term horse dewormer. I'm like why you guys aren't concentrating on the fact that a 55 year old man is fine three days later during the worst strain. It was during the delta where everybody's freaking out. This one's gonna kill us all. And I was fine.

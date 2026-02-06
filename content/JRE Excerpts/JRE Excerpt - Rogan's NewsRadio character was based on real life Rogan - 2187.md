@@ -1,13 +1,13 @@
 ---
 created: 2025-10-09T13:21
-updated: 2026-02-03T10:26
+updated: 2026-02-05T09:04
 tags:
   - conspiracy-beliefs
 published_date: 2024-08-13
 youtube_url: https://www.youtube.com/watch?v=4T_0Tcts6aM
 citation: "PowerfulJRE. “Joe Rogan Experience #2187 – Adam Sandler.” YouTube video, August 13, 2024. https://www.youtube.com/watch?v=4T_0Tcts6aM. Accessed February 3, 2026."
 ---
-## Excerpt from [[jre--2187--adam-sandler--2024-08-13]]
+## Excerpt from [[jre-2187--adam-sandler--2024-08-13]]
 
 01:36:29‣(Joe Rogan)‣Well, it's funny how you have confidence when you're young and you really do think that you ready. Like, I remember thinking that, like, at open mic nights, like, you'd see someone on stage and they were bombing. Like, God, I wish I could go up there. You know, I was terrible. Yeah, I would bomb too.
 

@@ -1,11 +1,13 @@
 ---
 created: 2025-10-09T13:07
-updated: 2025-10-09T14:56
+updated: 2026-02-06T15:42
 tags:
   - glyphosate
+youtube_url: https://youtu.be/gcgC532OPhw?si=rkUEiCTjai4v1870&t=362
 citation: "PowerfulJRE. Joe Rogan Experience #2207 – Shawn Ryan. YouTube video. September 26, 2024. https://www.youtube.com/watch?v=gcgC532OPhw. Accessed September 16, 2025."
 ---
 ## Excerpt from [[jre-2207--shawn-ryan--2024-09-26]]
+
 06:03	(Shawn Ryan)​	What do you. What do you think about, uh, RFK's, you know, possibly getting in to, uh, investigate all that stuff?
 
 06:10	(Joe Rogan)	​I think it would be one of the best things for the health of the people in the United States, if you really care about health. I think there's a lot of us, and it was me at one point in time, and I've gotten more educated about it. A lot of us are very ignorant about what we're doing to our bodies with food and with medications. And I don't think we're being told the truth.

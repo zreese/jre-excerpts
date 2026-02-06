@@ -1,6 +1,6 @@
 ---
 created: 2025-10-09T13:21
-updated: 2025-10-23T13:50
+updated: 2026-02-06T15:13
 tags:
   - election-fraud
 published_date: 2024-04-06
@@ -80,5 +80,3 @@ citation: "PowerfulJRE. “Joe Rogan Experience #2132 – Andrew Schulz.” YouT
 147:50	(Joe Rogan)	Yeah. 
 
 147:51	(Andrew Schulz)	So that's going to skew it in a dramatic fashion. 
-
-147:53	(Joe Rogan)	Drama

@@ -1,10 +1,12 @@
 ---
 created: 2025-10-09T13:03
-updated: 2025-10-09T13:14
+updated: 2026-02-06T15:01
 citation: "PowerfulJRE, Joe Rogan Experience #2313 - Jillian Michaels, YouTube video, September 13, 2025, https://www.youtube.com/watch?v=JVP2dwURrD0. Accessed September 16, 2025."
 tags:
   - glyphosate
 ---
+## Excerpt from [[jre-2313--jillian-michaels--2025-04-30]]
+
 34:36       (Joe Rogan) Glyphosate is everywhere. It's so spooky.
 35:47       (Joe Rogan) And other countries won't even allow its use.
 35:49       (Jillian Michaels)      Nope.

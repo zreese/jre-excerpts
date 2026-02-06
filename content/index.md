@@ -1,64 +1,72 @@
 ---
 created: 2025-10-09T14:01
-updated: 2026-02-03T10:26
+updated: 2026-02-06T15:45
 title: All JRE Excerpts
 ---
 
 ## Glyphosate
-[[JRE Excerpt - Glyphosate Runoff]]  
-[[JRE Excerpt - Glyphosate in Girl Scout Cookies]]  
-[[JRE Excerpt - 90% of people have Glyphosate in their blood]]  
+[[JRE Excerpt - Glyphosate Runoff - 2313]]  
+[[JRE Excerpt - Glyphosate in Girl Scout Cookies - 2277]]  
+[[JRE Excerpt - 90% of people have Glyphosate in their blood - 2099]]  
 
 ## Peter Hotez
 ### Peter Hotez - Criticism
 [[JRE Excerpt - Musk Hotez Weight Comments Episode 2376]]  
-[[JRE Excerpt - Hotez diet comment with Huberman]]  
+[[JRE Excerpt - Hotez diet comment with Huberman - 1958]]  
 [[JRE Excerpt - Hotez Weight Comments episode 2277]]  
-[[JRE Excerpt - Hotez discusses diet with Rogan over Zoom]]  
-[[JRE Excerpt - Rogan grilling Hotez on junk food]]  
-[[JRE Excerpt - RFK Jr attack on Hotez]]  
-[[JRE Excerpt - RFK Jr on Hotez's autism book]]  
+[[JRE Excerpt - Hotez discusses diet with Rogan over Zoom - 1451]]  
+[[JRE Excerpt - Rogan grilling Hotez on junk food - 1261]]  
+[[JRE Excerpt - RFK Jr attack on Hotez - 1999]]  
+[[JRE Excerpt - RFK Jr on Hotez's autism book - 1999]]  
 ### Peter Hotez - Praise
-[[JRE Excerpt - Rogan's History with Hotez]]  
+[[JRE Excerpt - Rogan's History with Hotez - 2049]]  
 [[JRE Excerpt - Rogan citing Hotez as disease expert 780]]  
 [[JRE Excerpt - Rogan citing Hotez as disease expert 687]]  
-[[JRE Excerpt - Praising Peter Hotez on vaccines and autism]]  
+[[JRE Excerpt - Praising Peter Hotez on vaccines and autism - 1282]]  
 
 ## Rigged Elections / Stop the Steal / J6
-[[JRE Excerpt - Stop the Steal Bandwagon]]  
-[[JRE Excerpt - J6, FBI wanted J6 to be chaos]]  
-[[JRE Excerpt - J6, feds want MAGA fighting with liberals]]  
-[[JRE Excerpt - Asking Trump about rigged elections]]  
-[[JRE Excerpt - Rigged Election Talk]]  
-[[JRE Excerpt - Rejecting 2020 Rigged Election on Inauguration Day]]  
-[[JRE Excerpt - Alex Berenson, 2020 Election Manipulation is Not Zero]]  
+[[JRE Excerpt - Stop the Steal Bandwagon - 1593]]  
+[[JRE Excerpt - J6, FBI wanted J6 to be chaos - 2334]]  
+[[JRE Excerpt - J6, feds want MAGA fighting with liberals - 2329]]  
+[[JRE Excerpt - Asking Trump about rigged elections - 2219]]  
+[[JRE Excerpt - Rigged Election Talk - 2132]] - "If the 2020 elections weren't rigged... Let's say they weren't."   
+[[JRE Excerpt - Rejecting 2020 Rigged Election on Inauguration Day - 1599]] - "... the way Trump describes it, as if it's this grand scheme, we go to bed and all of a sudden, you know, we go to bed way ahead, and then all of a sudden they magically find all these votes and then it leans towards Biden. Like, no, no, no, no, no. This is how it was going to go."  
+[[JRE Excerpt - Alex Berenson, 2020 Election Manipulation is Not Zero - 2037]]  
 
 ## Conspiracy Beliefs
-[[JRE Excerpt - Rogan's conversion from Fox Moon Landing show]]  
-[[JRE Excerpt - Eddie Bravo, Space is Fake]]  
-[[JRE Excerpt - Tridactyl Peruvian mummies are aliens]]  
-[[JRE Excerpt - Rogan's NewsRadio character was based on real life Rogan]]  
+[[JRE Excerpt - Rogan's conversion from Fox Moon Landing show - 1282]]  
+[[JRE Excerpt - Eddie Bravo, Space is Fake - 1255]]  
+[[JRE Excerpt - Tridactyl Peruvian mummies are aliens - 2375]]  
+[[JRE Excerpt - Rogan's NewsRadio character was based on real life Rogan - 2187]]  
 
 ## Ivermectin
-[[JRE Excerpt - Ivermectin alone is capable of driving this pathogen to extinction]]  
+[[JRE Excerpt - Pierre Kory - "Ivermectin alone is capable of driving this pathogen to extinction" - 1671]]  
+[[JRE Excerpt - RFK Jr Ivermectin Claim - 1999]] - RFK Jr and Rogan talk about how Ivermectin studies were rigged, how they had to discredit it because of the EUA, because it doesn't make enough money, etc  
+
+## Myocarditis
+[[JRE Excerpt - RFK Jr Athletes Dying Suddenly - 1999]]  
 
 ## Epstein
-[[JRE Excerpt - Tim Dillon, Epstein worked for Israel]]  
+[[JRE Excerpt - Tim Dillon, Epstein worked for Israel - 2375]]  
+[[JRE Excerpt - Reading Epstein Emails with Mossad and a Smiley Face - 2446]]  
+[[JRE Excerpt - Ehsan Ahmad Epstein files government coverup - 2442]]  
+[[JRE Excerpt - Mike Benz on Epstein's Death - 2447]]  
+[[JRE Excerpt - Epstein's sex crimes are just the public narrative - 2447]]  
 
 ## Rogan's Antivax Conversion
-[[JRE Excerpt - CNN Ivermectin Mockery]]  
-[[JRE Excerpt - I had to become the news]]  
+[[JRE Excerpt - CNN Ivermectin Mockery - 1979]]  
+[[JRE Excerpt - I had to become the news - 2335]] - Rogan on 'becoming the news' after Ivermectin villainization 
 
 ## Rogan Breaking With Trump
-[[JRE Excerpt - No one with a heart is going to go along with ICE raids]]  
+[[JRE Excerpt - No one with a heart is going to go along with ICE raids - 2391]]  
 
 ## Miscellany 
-[[JRE Excerpt - Nick Fuentes]]  
-[[JRE Excerpt - Nick Fuentes doesn't know he's offensive]]  
-[[JRE Excerpt - Tucker Carlson - At the core of science is asking questions]]  
-[[JRE Excerpt - Pregnant Women Taking Tylenol]]  
-[[JRE Excerpt - Aaron Rogers mRNA Allergy]]  
-[[JRE Excerpt - Rogan mentioning Aaron Rodgers PEG Allergy]]  
-[[JRE Excerpt - Aaron Rodgers explaining his PEG allergy]]  
-[[JRE Excerpt - Fluoride lowers IQ]]  
-[[JRE Excerpt - Whitewashing Hitler]]  
+[[JRE Excerpt - Rogan defending Nick Fuentes - 2352]]  
+[[JRE Excerpt - Nick Fuentes doesn't know he's offensive - 2396]]  
+[[JRE Excerpt - Tucker Carlson - At the core of science is asking questions - 2138]]  
+[[JRE Excerpt - Pregnant Women Taking Tylenol - 2385]]  
+[[JRE Excerpt - Aaron Rogers mRNA Allergy - 2132]]  
+[[JRE Excerpt - Rogan mentioning Aaron Rodgers PEG Allergy - 1746]]  
+[[JRE Excerpt - Aaron Rodgers explaining his PEG allergy - 1865]]  
+[[JRE Excerpt - Fluoride lowers IQ - 2207]]  
+[[JRE Excerpt - Whitewashing Hitler - 2375]]  

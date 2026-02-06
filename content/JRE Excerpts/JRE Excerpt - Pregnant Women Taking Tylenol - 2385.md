@@ -1,7 +1,8 @@
 ---
 created: 2025-10-09T12:10
-updated: 2025-10-09T14:27
-youtube_url:
+updated: 2026-02-06T15:36
+youtube_url: https://youtu.be/qxj8M4ewjS0?si=YLvNn-9F4R2Rvs3f&t=4547
+citation: "PowerfulJRE. “Joe Rogan Experience #2385 – Rick Strassman.” YouTube video, September 26, 2025. https://www.youtube.com/watch?v=qxj8M4ewjS0. Accessed February 6, 2026."
 ---
 ## Excerpt from [[jre-2385--rick-strassman--2025-09-26]]
 

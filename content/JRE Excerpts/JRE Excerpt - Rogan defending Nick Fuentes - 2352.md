@@ -1,10 +1,10 @@
 ---
 created: 2025-10-09T13:21
-updated: 2025-11-10T13:03
+updated: 2026-02-06T15:35
 tags:
 published_date: 2025-07-18
 youtube_url: https://youtu.be/_jOGPvMftb8?si=pfT-vBXyOGItDkw7&t=8479
-citation:
+citation: "PowerfulJRE. “Joe Rogan Experience #2352 – James Talarico.” YouTube video, July 18, 2025. https://www.youtube.com/watch?v=_jOGPvMftb8. Accessed February 6, 2026."
 ---
 ## Excerpt from [[jre-2352--james-talarico--2025-07-18]]
 

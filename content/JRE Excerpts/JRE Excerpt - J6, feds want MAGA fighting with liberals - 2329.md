@@ -1,12 +1,12 @@
 ---
 created: 2025-10-09T13:21
-updated: 2025-10-13T13:08
+updated: 2026-02-06T15:12
 tags:
   - j6
   - deep-state
 published_date: 2025-05-29
-youtube_url: https://www.youtube.com/watch?v=RNJ82qpiZME
-citation:
+youtube_url: https://youtu.be/RNJ82qpiZME?si=000l0ULqlN6KzxMm&t=10436
+citation: "PowerfulJRE. “Joe Rogan Experience #2329 – Ehsan Ahmad.” YouTube video, May 29, 2025. https://www.youtube.com/watch?v=RNJ82qpiZME. Accessed February 6, 2026."
 ---
 # Excerpt from [[jre-2329--ehsan-ahmad--2025-05-29]]
 

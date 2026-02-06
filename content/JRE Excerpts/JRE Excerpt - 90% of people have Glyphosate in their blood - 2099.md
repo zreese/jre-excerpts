@@ -1,10 +1,12 @@
 ---
 created: 2025-10-09T13:06
-updated: 2025-10-09T14:27
+updated: 2026-02-06T15:05
 citation: "PowerfulJRE, Joe Rogan Experience #2099 - Aaron Rodgers, YouTube video, June 27, 2024, https://www.youtube.com/watch?v=c8rqfCDZlGc. Accessed September 16, 2025."
 tags:
   - glyphosate
 ---
+## Excerpt from [[jre-2099--aaron-rodgers--2024-02-07]]
+
 34:29 ​(Aaron Rodgers)​	Think about that. What if you didn't... What if you didn't have... Everybody's got lawns, right? What if you had your own fucking garden? Like, how different would things be?
 
 34:38 ​(Joe Rogan)	Well, you'd be a lot healthier.
