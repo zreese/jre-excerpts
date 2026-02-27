@@ -1,11 +1,11 @@
 ---
-created: 2025-10-09T13:21
-updated: 2025-11-21T13:18
+created: 2025-11-21T13:21:00
+updated: 2026-02-27T15:12
 tags:
   - hotez-rogan-debate
 published_date: 2016-04-04
 youtube_url: https://www.youtube.com/live/zwcAyE5lQd8?si=vYs2Tx9ec7iEzd8v&t=6506
-citation:
+citation: "PowerfulJRE. “Joe Rogan Experience #780 – Sturgill Simpson.” YouTube video, April 4, 2016. https://www.youtube.com/watch?v=zwcAyE5lQd8. Accessed February 27, 2026."
 ---
 ## Excerpt from [[jre-0780--sturgill-simpson--2016-04-04]]
 
@@ -25,4 +25,4 @@ citation:
 
 ---
 
-See also [[JRE Excerpt - Rogan citing Hotez as disease expert 687]]
+See also [[JRE Excerpt - Rogan citing Hotez as disease expert - 0687]]

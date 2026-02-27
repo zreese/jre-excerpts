@@ -1,10 +1,11 @@
 ---
 created: 2025-10-09T13:07
-updated: 2026-02-06T15:42
+updated: 2026-02-27T15:40
 tags:
   - glyphosate
 youtube_url: https://youtu.be/gcgC532OPhw?si=rkUEiCTjai4v1870&t=362
 citation: "PowerfulJRE. Joe Rogan Experience #2207 – Shawn Ryan. YouTube video. September 26, 2024. https://www.youtube.com/watch?v=gcgC532OPhw. Accessed September 16, 2025."
+published_date: 2024-09-26
 ---
 ## Excerpt from [[jre-2207--shawn-ryan--2024-09-26]]
 

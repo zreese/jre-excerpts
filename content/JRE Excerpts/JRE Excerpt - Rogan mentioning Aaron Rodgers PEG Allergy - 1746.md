@@ -1,10 +1,11 @@
 ---
 created: 2025-10-09T13:21
-updated: 2026-02-06T15:40
+updated: 2026-02-27T15:41
 tags:
   - polyethylene-glycol
 youtube_url: https://www.youtube.com/watch?v=AGv9HIEZUyY&t=4186s
 citation: "PowerfulJRE. “Joe Rogan Experience #1746 – Blaire White.” YouTube video, December 9, 2021. https://www.youtube.com/watch?v=AGv9HIEZUyY. Accessed February 6, 2026."
+published_date: 2021-12-09
 ---
 ## Excerpt from [[jre-1746--blaire-white--2021-12-09]]
 01:10:51	(Joe Rogan)	It could be just like Aaron Rodgers. Aaron Rodgers has an allergy to what is it again? It's propylene glycol some shit. He's one of the main ingredients in the lipid nanoparticles or whatever it is in the vaccine. It's an ingredient that he's literally allergic to. So he would go into shock. He would go into and what's it called? Apple-apptic, what's it called? It's called aflac--

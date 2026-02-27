@@ -1,6 +1,6 @@
 ---
-created: 2025-10-09T13:21
-updated: 2025-11-10T15:51
+created: 2025-11-10T13:21:00
+updated: 2026-02-27T15:10
 tags:
   - ivermectin
 published_date: 2021-06-21

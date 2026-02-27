@@ -1,6 +1,6 @@
 ---
 created: 2025-11-21T12:19
-updated: 2025-11-21T12:24
+updated: 2026-02-27T14:58
 tags:
   - source--podcast
   - transcription
@@ -16,6 +16,7 @@ published_date: 2015-08-24
 view_count: 151203
 reach_estimate: 24000000
 gist: ""
+citation: "PowerfulJRE. “Joe Rogan Experience #687 – Justin Wren.” YouTube video, August 24, 2015. https://www.youtube.com/watch?v=TghK2L9wO4A. Accessed February 27, 2026."
 ---
 # 2015-08-24 Joe Rogan Experience 687 - **Justin Wren**
 

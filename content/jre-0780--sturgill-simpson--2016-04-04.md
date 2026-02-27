@@ -1,6 +1,6 @@
 ---
 created: 2025-11-21T13:08
-updated: 2025-11-21T13:15
+updated: 2026-02-27T14:59
 tags:
   - source--podcast
   - transcription
@@ -16,6 +16,7 @@ published_date: 2016-04-04
 view_count: 365400
 reach_estimate: 24000000
 gist: ""
+citation: "PowerfulJRE. “Joe Rogan Experience #780 – Sturgill Simpson.” YouTube video, April 4, 2016. https://www.youtube.com/watch?v=zwcAyE5lQd8. Accessed February 27, 2026."
 ---
 # 2016-04-04 Joe Rogan Experience 780 - Sturgill Simpson
 00:00:00	(Joe Rogan)	Uh, yes. What's up, Sturgill motherfucking Simpson. Um, dude, you've been on a ride since the last time I talked to you.

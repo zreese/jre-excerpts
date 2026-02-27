@@ -1,6 +1,6 @@
 ---
-created: 2025-10-09T13:21
-updated: 2025-11-21T14:33
+created: 2025-11-21T13:21:00
+updated: 2026-02-27T15:10
 tags:
   - hotez-rogan-debate
 published_date: 2019-04-17

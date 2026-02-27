@@ -1,11 +1,11 @@
 ---
-created: 2025-10-09T13:21
-updated: 2025-11-21T13:18
+created: 2025-11-21T13:21:00
+updated: 2026-02-27T15:12
 tags:
   - hotez-rogan-debate
 published_date: 2015-08-24
 youtube_url: https://youtu.be/TghK2L9wO4A?si=mZhVu6VK6CvFd192&t=1988
-citation:
+citation: "PowerfulJRE. “Joe Rogan Experience #687 – Justin Wren.” YouTube video, August 24, 2015. https://www.youtube.com/watch?v=TghK2L9wO4A. Accessed February 27, 2026."
 ---
 ## Excerpt from [[jre-0687--justin-wren--2015-08-24]]
 
@@ -19,4 +19,4 @@ citation:
 
 ---
 
-See also [[JRE Excerpt - Rogan citing Hotez as disease expert 780]]
+See also [[JRE Excerpt - Rogan citing Hotez as disease expert - 0780]]

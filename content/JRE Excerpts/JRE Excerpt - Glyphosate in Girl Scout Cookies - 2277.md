@@ -1,9 +1,10 @@
 ---
 created: 2025-10-09T13:03
-updated: 2026-02-06T15:02
+updated: 2026-02-27T15:39
 tags:
   - glyphosate
 citation: "PowerfulJRE, Joe Rogan Experience #2277 - Woody Harrelson, YouTube video, September 13, 2025, https://www.youtube.com/watch?v=ztXzOIH7x10. Accessed September 16, 2025."
+published_date: 2025-02-22
 ---
 ## Excerpt from [[jre-2277--woody-harrelson--2025-02-22]]
 

@@ -1,10 +1,11 @@
 ---
 created: 2025-10-09T13:21
-updated: 2026-02-06T15:39
+updated: 2026-02-27T15:41
 tags:
   - polyethylene-glycol
 youtube_url: https://youtu.be/B75H_HkJQvE?si=z8Gvt08lUKu7SEDV&t=8120
 citation: "PowerfulJRE. “Joe Rogan Experience #2132 – Andrew Schulz.” YouTube video, April 6, 2024. https://www.youtube.com/watch?v=B75H_HkJQvE. Accessed February 6, 2026."
+published_date: 2024-04-06
 ---
 ## Excerpt from [[jre-2132--andrew-schulz--2024-04-06]]
 

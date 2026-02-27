@@ -1,7 +1,23 @@
 ---
 created: 2026-02-04T14:51
-updated: 2026-02-04T14:52
+updated: 2026-02-16T12:28
+tags:
+  - source--podcast
+  - transcription
+source_url:
+youtube_url:
+media_series_title: ""
+media_episode_number:
+people:
+media_title:
+publisher_notes: ""
+published_date:
+view_count:
+reach_estimate:
+citation:
+gist: ""
 ---
+# 0000-00-00 Title - Guest
 00:00:01	(Speaker A)	Joe Rogan podcast. Check it out. The Joe Rogan Experience. Train by day, Joe Rogan podcast by night, all day.
 
 00:00:12	(Speaker B)	Nice to meet you, sir.

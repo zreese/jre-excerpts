@@ -1,11 +1,12 @@
 ---
 created: 2025-10-09T13:21
-updated: 2026-02-06T15:30
+updated: 2026-02-27T15:43
 tags:
   - the-real-anthony-fauci
   - ivermectin
 youtube_url: https://youtu.be/CV-Qbbl_e6o?si=OEeJ1nKd_IPWHC9C&t=10400
 citation: "PowerfulJRE. “Joe Rogan Experience #1979 – Dr. Aseem Malhotra.” YouTube video, April 28, 2023. https://www.youtube.com/watch?v=CV-Qbbl_e6o. Accessed February 6, 2026."
+published_date: 2023-04-29
 ---
 ## Excerpt from [[jre-1979--aseem-malhotra--2023-04-29]]
 

@@ -1,6 +1,6 @@
 ---
-created: 2025-10-09T13:21
-updated: 2026-02-03T10:15
+created: 2026-02-03T13:21:00
+updated: 2026-02-27T15:10
 tags:
 published_date: 2025-10-18
 youtube_url: https://www.youtube.com/watch?v=ko5htRmVIrU

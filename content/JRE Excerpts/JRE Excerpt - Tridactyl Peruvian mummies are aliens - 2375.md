@@ -1,11 +1,12 @@
 ---
 created: 2025-10-09T13:21
-updated: 2026-02-06T15:26
+updated: 2026-02-27T15:44
 tags:
   - UAPs
   - ancient-aliens
 youtube_url: https://youtu.be/uB8BcRimf78?si=moMdstrdqiLY-KJl&t=8801
 citation: "PowerfulJRE. “Joe Rogan Experience #2375 – Tim Dillon.” YouTube video, September 4, 2025. https://www.youtube.com/watch?v=uB8BcRimf78. Accessed February 6, 2026."
+published_date: 2025-09-04
 ---
 ## Excerpt from [[jre-2375--tim-dillon--2025-09-04]]
 

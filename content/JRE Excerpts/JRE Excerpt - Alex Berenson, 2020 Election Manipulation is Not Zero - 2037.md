@@ -1,6 +1,6 @@
 ---
-created: 2025-10-09T13:21
-updated: 2025-10-23T14:47
+created: 2025-10-23T13:21:00
+updated: 2026-02-27T15:07
 tags:
   - election-fraud
 published_date: 2023-09-20
@@ -8,6 +8,7 @@ youtube_url: https://youtu.be/tznvMq2v5lU?si=vujdGSWFOkFlYgTo&t=9269
 citation: "PowerfulJRE. “Joe Rogan Experience #2037 – Alex Berenson.” YouTube video, June 27, 2024. https://www.youtube.com/watch?v=tznvMq2v5lU. Accessed October 23, 2025."
 ---
 ## Excerpt from [[jre-2037--alex-berenson--2023-09-20]]
+
 154:28	(Alex Berenson)	But so, okay, he's got the normal size hands, but so does he have this magnetism? 
 
 154:33	(Joe Rogan)	Well, he's very, very, very famous. And part of people's dissatisfaction with the current regime. Right? Especially people's dissatisfaction. If you see, you know, Biden's state of decline, regardless of how you feel about the policies, most people aren't even engaged. 

@@ -1,9 +1,10 @@
 ---
 created: 2025-10-09T13:06
-updated: 2026-02-06T15:05
+updated: 2026-02-27T15:39
 citation: "PowerfulJRE, Joe Rogan Experience #2099 - Aaron Rodgers, YouTube video, June 27, 2024, https://www.youtube.com/watch?v=c8rqfCDZlGc. Accessed September 16, 2025."
 tags:
   - glyphosate
+published_date: 2024-02-07
 ---
 ## Excerpt from [[jre-2099--aaron-rodgers--2024-02-07]]
 

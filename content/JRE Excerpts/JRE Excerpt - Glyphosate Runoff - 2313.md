@@ -1,9 +1,10 @@
 ---
 created: 2025-10-09T13:03
-updated: 2026-02-06T15:01
+updated: 2026-02-27T15:39
 citation: "PowerfulJRE, Joe Rogan Experience #2313 - Jillian Michaels, YouTube video, September 13, 2025, https://www.youtube.com/watch?v=JVP2dwURrD0. Accessed September 16, 2025."
 tags:
   - glyphosate
+published_date: 2025-04-30
 ---
 ## Excerpt from [[jre-2313--jillian-michaels--2025-04-30]]
 

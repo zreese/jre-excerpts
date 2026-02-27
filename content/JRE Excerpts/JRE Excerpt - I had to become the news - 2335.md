@@ -1,9 +1,11 @@
 ---
 created: 2025-10-09T12:15
-updated: 2026-02-06T15:31
+updated: 2026-02-27T15:42
 tags:
   - attack-on-fauci
   - the-real-anthony-fauci
+published_date: 2025-06-10
+citation: "PowerfulJRE. “Joe Rogan Experience #2335 - Dr. Mary Talley Bowden.” YouTube video, June 10, 2025. https://www.youtube.com/watch?v=Ru7BIqXQZns. Accessed February 27, 2026."
 ---
 # Rogan on 'becoming the news' after Ivermectin villainization
 ## Excerpt from [[jre-2335--mary-talley-bowden--2025-06-10]]

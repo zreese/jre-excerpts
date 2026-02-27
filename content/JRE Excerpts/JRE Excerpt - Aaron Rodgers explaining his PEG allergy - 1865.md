@@ -1,10 +1,11 @@
 ---
 created: 2025-10-09T13:21
-updated: 2026-02-06T15:41
+updated: 2026-02-27T15:40
 tags:
   - polyethylene-glycol
 youtube_url: https://youtu.be/zpRuH7jJNic?si=MC8egNsC8-F0-xWi&t=62
 citation: "PowerfulJRE. “Joe Rogan Experience #1865 – Aaron Rodgers.” YouTube video, August 26, 2022. https://www.youtube.com/watch?v=zpRuH7jJNic. Accessed February 6, 2026."
+published_date: 2022-08-26
 ---
 ## Excerpt from [[jre-1865--aaron-rodgers--2022-08-26]]
 00:01:00	(Joe Rogan)	Yeah, and no, you can't come. You didn't follow the rules. It defies science, defies logic. It doesn't make any sense. None of it makes sense, especially at this stage of the pandemic, air quotes. I mean, what the fuck, man? What was it like for you?

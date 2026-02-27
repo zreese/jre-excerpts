@@ -1,6 +1,6 @@
 ---
 created: 2025-09-18T13:13
-updated: 2025-09-18T14:31
+updated: 2026-02-27T15:42
 tags:
   - source--podcast
   - transcription
@@ -16,6 +16,7 @@ published_date: 2025-06-10
 view_count: 1199366
 reach_estimate: 24000000
 gist: Dr. Mary Talley Bowden claims COVID-19 vaccine campaigns were driven by ego, money, and corruption, not science. She insists the vaccines should have been pulled from the market early on due to safety issues and questions their effectiveness in preventing transmission or severe illness. She argues that early treatment with monoclonal antibodies and ivermectin was intentionally suppressed to push vaccine uptake, claiming ivermectin was safe, effective, and unfairly smeared as “horse dewormer.” Bowden sues the FDA over its anti-ivermectin messaging and claims her medical board persecution stems from her willingness to prescribe it. She alleges systemic censorship and propaganda by government, media, and pharmaceutical companies, referencing the Rolling Stone hospital overdose hoax and her suspension from Houston Methodist after tweeting skepticism. Bowden links COVID shots to long-term immune dysfunction, persistent spike protein, and rising sudden deaths, especially among athletes. She asserts “vaccine injuries” are being misdiagnosed as psychiatric issues and denied compensation, with no ICD-10 code to track them. She and Rogan suggest the shots are mislabeled gene therapy, not traditional vaccines, and cite DNA contamination (SV40) as a possible carcinogen. Rogan adds that he knows multiple people harmed by the vaccines, while Bowden claims she treats hundreds of vaccine-injured patients. They both promote figures like Robert Malone and Peter McCullough, calling them truth-tellers censored for challenging orthodoxy. Throughout, they characterize the pandemic response as a coordinated effort to suppress dissent and enrich pharmaceutical interests, with mainstream journalists complicit in discrediting dissenters.
+citation: "PowerfulJRE. “Joe Rogan Experience #2335 - Dr. Mary Talley Bowden.” YouTube video, June 10, 2025. https://www.youtube.com/watch?v=Ru7BIqXQZns. Accessed February 27, 2026."
 ---
 # 2025-06-10 The Joe Rogan Experience 2335 - Mary Talley Bowden
 00:00:08‣(Joe Rogan)‣All day. All right. Very nice to meet you.

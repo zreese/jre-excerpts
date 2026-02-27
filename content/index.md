@@ -1,6 +1,6 @@
 ---
 created: 2025-10-09T14:01
-updated: 2026-02-06T15:45
+updated: 2026-02-27T15:51
 title: All JRE Excerpts
 ---
 
@@ -11,17 +11,17 @@ title: All JRE Excerpts
 
 ## Peter Hotez
 ### Peter Hotez - Criticism
-[[JRE Excerpt - Musk Hotez Weight Comments Episode 2376]]  
+[[JRE Excerpt - Hotez Weight Comments - 2376]]  
 [[JRE Excerpt - Hotez diet comment with Huberman - 1958]]  
-[[JRE Excerpt - Hotez Weight Comments episode 2277]]  
+[[JRE Excerpt - Hotez Weight Comments - 2277]]  
 [[JRE Excerpt - Hotez discusses diet with Rogan over Zoom - 1451]]  
 [[JRE Excerpt - Rogan grilling Hotez on junk food - 1261]]  
 [[JRE Excerpt - RFK Jr attack on Hotez - 1999]]  
 [[JRE Excerpt - RFK Jr on Hotez's autism book - 1999]]  
 ### Peter Hotez - Praise
 [[JRE Excerpt - Rogan's History with Hotez - 2049]]  
-[[JRE Excerpt - Rogan citing Hotez as disease expert 780]]  
-[[JRE Excerpt - Rogan citing Hotez as disease expert 687]]  
+[[JRE Excerpt - Rogan citing Hotez as disease expert - 0780]]  
+[[JRE Excerpt - Rogan citing Hotez as disease expert - 0687]]  
 [[JRE Excerpt - Praising Peter Hotez on vaccines and autism - 1282]]  
 
 ## Rigged Elections / Stop the Steal / J6
@@ -40,11 +40,21 @@ title: All JRE Excerpts
 [[JRE Excerpt - Rogan's NewsRadio character was based on real life Rogan - 2187]]  
 
 ## Ivermectin
+[[JRE Excerpt - First Ivermectin mention - 1639]]  
+[[JRE Excerpt - Second Ivermectin Mention - 1652]] - Same story as the first one, but more detail  
 [[JRE Excerpt - Pierre Kory - "Ivermectin alone is capable of driving this pathogen to extinction" - 1671]]  
 [[JRE Excerpt - RFK Jr Ivermectin Claim - 1999]] - RFK Jr and Rogan talk about how Ivermectin studies were rigged, how they had to discredit it because of the EUA, because it doesn't make enough money, etc  
+[[JRE Excerpt - The attacks on Ivermectin validate it - 2454]]  
+[[JRE Excerpt - Rogan says yes, Ivermectin actually is a horse dewormer - 1679]]  
+[[JRE Excerpt - YouTube even censored Nobel Prize winners discussing Ivermectin - 1679]]  
+[[JRE Excerpt - Mel Gibson - Ivermectin Cures Cancer - 2254]]  
+[[JRE Excrept - Robert Malone - Gov conspired to kill Ivermectin and hydroxychloriquine - 1757]] - "But there is clearly a concerted effort on the part of multiple players in the pharmaceutical industry in concordance with the federal government to kill ivermectin as a potential alternative early treatment strategy."  
+[[JRE Excerpt - Kirk Milhoan was kicked out of medicine for using Ivermectin - 1757]]  
+[[JRE Excerpt - US Gov made Uttar Pradesh hide the role of Ivermectin in controlling pandemic - 1757]]  
 
 ## Myocarditis
 [[JRE Excerpt - RFK Jr Athletes Dying Suddenly - 1999]]  
+[[JRE Excerpt - Robert Malone - Hong Kong Myocarditis paper - 1757]] -  1 in 2,700 boys went to the hospital for heart problems after the vaccination  
 
 ## Epstein
 [[JRE Excerpt - Tim Dillon, Epstein worked for Israel - 2375]]  
@@ -69,4 +79,4 @@ title: All JRE Excerpts
 [[JRE Excerpt - Rogan mentioning Aaron Rodgers PEG Allergy - 1746]]  
 [[JRE Excerpt - Aaron Rodgers explaining his PEG allergy - 1865]]  
 [[JRE Excerpt - Fluoride lowers IQ - 2207]]  
-[[JRE Excerpt - Whitewashing Hitler - 2375]]  
+[[JRE Excerpt - Whitewashing Hitler - 2375]]   
