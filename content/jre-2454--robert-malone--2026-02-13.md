@@ -1,6 +1,6 @@
 ---
 created: 2026-02-16T12:35
-updated: 2026-02-16T16:11
+updated: 2026-03-27T13:49
 tags:
   - source--podcast
   - transcription
@@ -12,7 +12,7 @@ people:
   - Robert Malone
 media_title: "Joe Rogan Experience #2454 - Robert Malone, MD"
 publisher_notes: "Robert W. Malone, MD, MS, is a virologist and immunologist and an original inventor of mRNA delivery and vaccination as a technology, DNA vaccination, and multiple non-viral DNA and RNA/mRNA platform delivery technologies. He serves on the Centers for Disease Control and Prevention’s Advisory Committee on Immunization Practices and is the author of multiple books, the most recent of which is “PsyWar: Enforcing the New World Order,” co-written with his wife, Dr. Jill Glasspool Malone. The Drs. Malone are the founders of the Malone Institute, which focuses on issues related to government, the biological sciences, and medicine."
-published_date:
+published_date: 2026-02-13
 view_count: 621287
 reach_estimate: 24000000
 citation: "PowerfulJRE. “Joe Rogan Experience #2454 - Robert Malone, MD.” YouTube video, February 13, 2026. https://www.youtube.com/watch?v=qFwiXyZHYbU. Accessed February 16, 2026."
@@ -617,11 +617,15 @@ gist: Malone and Rogan frame his prior appearance as vindicated, claiming his wa
 
 02:13:34	(Robert Malone)	It's, it's perfect as a business model. What's not to like?
 
-02:13:37	(Joe Rogan)	It's so scary how many people just go along with it too.
+02:13:37	(Joe Rogan)	It's so scary how many people just go along with it too. You know—
 
-02:13:41	(Robert Malone)	Oh, they, they don't just go along with it. They are propagandized into believing it as— and promoting it because of the theology.
+02:13:41	(Robert Malone)	Oh, they, they don't just go along with it. They are propagandized into believing it as— 
 
-02:13:48	(Joe Rogan)	They've administered to— exactly. I was gonna say it's religious dogma. They've administered it to their children. They believe in it wholeheartedly. And when someone says something like vaccines don't cause autism, the whole audience will applaud. And you're like, how do you know? How do you know that? Well, you're so confident that you're applauding.
+02:13:46	(Joe Rogan)	And promoting it because of the— 
+
+02:13:48	(Robert Malone)	As a theology.
+
+02:13:48	(Joe Rogan)	They've administered to— exactly. I was gonna say it's religious dogma. They've administered it to their children. They believe in it wholeheartedly. And when someone says something like "vaccines don't cause autism," the whole audience will applaud. And you're like, how do you know? How do you know that? Where you're so confident that you're applauding.
 
 02:14:04	(Robert Malone)	Well, it's because what I've heard. I've heard it so many times. Of course I believe it.
 
@@ -629,11 +633,11 @@ gist: Malone and Rogan frame his prior appearance as vindicated, claiming his wa
 
 02:14:10	(Robert Malone)	It's just, it's It's just— well, it illustrates the power of what we're dealing with. Yeah. And once you get it by thinking through the vaccine story, I mean, you've— you're ruined now, my friend. 'Cause once you get it about vaccines, then you see it everywhere.
 
-02:14:29	(Joe Rogan)	Well, I had Suzanne Humphreys on who wrote that book, Dissolving Illusions.
+02:14:29	(Joe Rogan)	Well, I had Suzanne Humphries on who wrote that book, Dissolving Illusions.
 
-02:14:35	(Robert Malone)	Mhm.
+02:14:35	(Robert Malone)	Oh.
 
-02:14:35	(Joe Rogan)	And, you know, that book is a must-read for anybody who wants to really understand the history vaccines and what really happened in terms of the end of pandemics and the introduction of these vaccines, like, what actually took place?
+02:14:35	(Joe Rogan)	And, you know, that book is a must-read for anybody who wants to really understand the history vaccines and what really happened in terms of the end of pandemics and the introduction of these vaccines, like, what actually took place.
 
 02:14:49	(Robert Malone)	Yes, yes, oh, that, that, and, you know, there's a whole thread of, of how prevalent, uh, um, lead was in the population, in, in the powdered wigs and so many things that we had. And then when they got rid of the lead, that was concurrent with, uh, the onset of, uh, Widespread vaccination, and so the loss of life associated, or the improvement in loss of life and birth outcomes associated with getting the lead out of the population, well, that's ascribed to the vaccines by the people that are busy marketing vaccines. Right. And likewise— [CROSSTALK] All the work associated with, uh, water sanitation and all of that. No, that's all true. The first time I— to credit where credit is due, to do as a vaccinologist. The first time I really encountered that logic was Candace Owens had me on years ago, and she said, you know, we've done this deep dive and we've looked at this thing and these, these infectious diseases go down before the vaccines come up. Um, and yet we're told this narrative, right? And of course we're told this narrative.
 

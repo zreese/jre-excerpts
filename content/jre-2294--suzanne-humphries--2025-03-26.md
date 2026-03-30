@@ -1,6 +1,6 @@
 ---
 created: 2025-03-27T13:50
-updated: 2025-10-22T14:50
+updated: 2026-03-27T14:29
 tags:
   - source--podcast
   - transcription
@@ -14,6 +14,7 @@ media_title: "Joe Rogan Experience #2294 - Dr. Suzanne Humphries"
 publisher_notes: 'Dr Humphries is a conventionally educated medical doctor who was a participant in conventional hospital systems from 1989 until 2011 as an internist and nephrologist. She left her conventional hospital position in good standing, of her own volition in 2011. Since then, she’s been furthering her research into the medical literature on vaccines, immunity, history, and functional medicine. She is the author of "Dissolving Illusions: Disease, Vaccines, and the Forgotten History."'
 published_date: 2025-03-26
 reach_estimate: 24000000
+citation: "PowerfulJRE. “Joe Rogan Experience #2294 – Dr. Suzanne Humphries.” YouTube video, March 26, 2025. https://www.youtube.com/watch?v=207W1A_bJqI. Accessed March 27, 2026."
 gist: Suzanne Humphries claims that the COVID-19 vaccine, like flu shots, offers only “blood immunity” and not “lung immunity,” and suggests Anthony Fauci admitted the shots would not be licensed under older vaccine standards (distorting a Cell paper coauthored by Fauci, which discussed vaccine design challenges but did not claim they should not be authorized). She asserts vaccinated individuals are more likely to suffer from infection. Humphries revives the debunked claim that vaccines cause autism, calling supporting studies “lies,” despite extensive research refuting any causal link. She also says the SV40 virus in polio vaccines caused widespread cancers and is now contagious, though SV40 contamination was removed from vaccines in the 1960s, and no conclusive link to human cancer has been proven. She claims mercury in vaccines poses severe risks, ignoring the distinction between ethylmercury (used in vaccines, processed quickly) and toxic methylmercury. Humphries alleges censorship of COVID dissenters, pointing to a preprint by Pradhan suggesting SARS-CoV-2 has HIV-like sequences; this paper was retracted not due to censorship, but because experts widely discredited its conclusions. She suggests tetanus vaccines are made with “rotten meat” and COVID vaccines with “crap” grown in E. coli, inaccurately portraying standard vaccine manufacturing methods. Rogan echoes claims of coordinated media propaganda and public shaming of the unvaccinated, while Humphries accuses authorities of hiding the truth and introducing disease through vaccination.
 ---
 # 2025-03-26 The Joe Rogan Experience - Suzanne Humphries
@@ -993,11 +994,9 @@ gist: Suzanne Humphries claims that the COVID-19 vaccine, like flu shots, offers
 
 81:08 	(Joe Rogan)	Trusting the science and trusting the experts, those are two things at the front. 
 
-81:12 	(Suzanne Humphries)	Yeah, it's kind of a childlike situation that humanity, most of humanity is in, is that they're, you know, I think most people are good and they want to believe everybody else is good, and they want to believe that the government is looking out for them. And it's a really, It's a kind of horrifying. Imagine if it was true that your government actually wasn't looking out for you, and that might be one of the causes of your decreasing lifespan. Imagine that if the government might not care so much if your baby ends up with no stem cells or your baby gets cancer or autism, which will be outright. 
+81:12 	(Suzanne Humphries)	Yeah, it's kind of a childlike situation that humanity, most of humanity is in, is that they're, you know, I think most people are good and they want to believe everybody else is good, and they want to believe that the government is looking out for them. And it's a really, It's a kind of horrifying. Imagine if it was true that your government actually wasn't looking out for you, and that might be one of the causes of your decreasing lifespan. Imagine that if the government might not care so much if your baby ends up with no stem cells or your baby gets cancer or autism, which will be outright. I mean, look at autism. Hello. Like, do we -- 
 
-81:18 	(Suzanne Humphries)	I mean, look at autism. Hello. Like, do we. 
-
-81:45 	(Suzanne Humphries)	How many. I don't even know where to start with that. But that was another thing where there was no doubt whether or not well funded allowed to exist when it came to autism. 
+81:45 	(Suzanne Humphries)	How many-- I don't even know where to start with that. But that was another thing where there was no doubt whether or not well funded allowed to exist when it came to autism. 
 
 81:55 	(Suzanne Humphries)	And every autistic parent, parent of an autistic child will tell you this. Everyone that's tried to lobby and get to the truth with autism will tell you that the brick walls and, and the Plexiglas and the lead walls that went down were intense and still are intense. And the lying studies that they use to uphold vaccines don't cause autism are so easy to dismantle. 
 
@@ -1005,13 +1004,9 @@ gist: Suzanne Humphries claims that the COVID-19 vaccine, like flu shots, offers
 
 82:31 	(Joe Rogan)	I think for a lot of people, it's too horrible to believe, especially if they have an autistic child, that this was caused by a vaccine. I know a guy who told me that he believes the vaccine had an impact on his child having autism and then later was shaming people for not taking the COVID vaccine. That's how strong the impulse is, and that's how good the propaganda was, and that's how cowardly a lot of people are when it comes to fighting against a narrative. They get very scared of being socially ostracized, and they can't speak their mind. 
 
-83:05 	(Joe Rogan)	They can't tell the truth. And they'll whisper it to maybe this one guy that they're friends with, like, hey, you know, I don't want to take it, man, but I have to for work. Like, yeah, I don't trust them either, but, you know, shh. 
+83:05 	(Joe Rogan)	They can't tell the truth. And they'll whisper it to maybe this one guy that they're friends with, like, hey, you know, I don't want to take it, man, but I have to for work. Like, yeah, I don't trust them either, but, you know, shh, don't tell anybody I said that. You know, you don't want anybody thinking you're on the bad side. And we all saw the propaganda on television. 
 
-83:19 	(Joe Rogan)	Don't tell anybody I said that. You know, you don't want anybody thinking you're on the bad side. And we all saw the propaganda on television. 
-
-83:26 	(Joe Rogan)	There's some amazing montages that people put together lately of people saying horrible things about the vaccinated people, unvaccinated people, horrible things. Saying that, uh, it may be ghoulish to laugh when unvaccinated people die, but m m. It might be necessary. 
-
-83:43 	(Joe Rogan)	 Like, what? 
+83:26 	(Joe Rogan)	There's some amazing montages that people put together lately of people saying horrible things about the vaccinated people, unvaccinated people, horrible things. Saying that, uh, it may be ghoulish to laugh when unvaccinated people die, but it might be necessary. Like, what? 
 
 83:45 	(Suzanne Humphries)	A few of us have to take one for the team. 
 
@@ -1021,13 +1016,11 @@ gist: Suzanne Humphries claims that the COVID-19 vaccine, like flu shots, offers
 
 84:12 	(Joe Rogan)	You should do it too. You're fucking selfish. You get a lot of that. 
 
-84:12 	(Joe Rogan)	You get a lot of people who. They know they made a mistake, and they want you to make that mistake too. 
+84:12 	(Joe Rogan)	You get a lot of people who. They know they made a mistake, and they want you to make that mistake too. Y'know? 
 
-84:21 	(Suzanne Humphries)	Yeah, it would be good to know what really goes through their heads. I think Covid, it was, again, it was unique. Um, but when you talk to parents who have autistic children, the vast majority of them not only know absolutely without a doubt that their child became autistic usually within twenty four to forty eight hours after a certain vaccine, but, um, that every doctor told them it wasn't the case. And then they go digging deep into the scientific literature and learn how to sometimes resuscitate that child's brain or detox them and then recover them. 
+84:21 	(Suzanne Humphries)	Yeah, it would be good to know what really goes through their heads. I think Covid, it was, again, it was unique. Um, but when you talk to parents who have autistic children, the vast majority of them not only know absolutely without a doubt that their child became autistic usually within twenty four to forty eight hours after a certain vaccine, but, um, that every doctor told them it wasn't the case. And then they go digging deep into the scientific literature and learn how to sometimes resuscitate that child's brain or detox them and then recover them. And then. And they're actually beaten up even worse for doing that.  
 
-84:43 	(Suzanne Humphries)	And then. And they're actually beaten up even worse for doing that. Um, because they're just neurodiverse. 
-
-84:57 	(Suzanne Humphries)	You know, there's nothing wrong with your child. They're just quirky. No, your child banging its head against the wall, walking around with a baby bottle and a diaper at the age of eighteen, your big hairy son doing that. 
+84:57 	(Suzanne Humphries)	Um, because they're just neurodiverse. You know, there's nothing wrong with your child. They're just quirky. No, your child banging its head against the wall, walking around with a baby bottle and a diaper at the age of eighteen, your big hairy son doing that. 
 
 85:06 	(Suzanne Humphries)	That is not neurodiverse quirkiness. That is a serious pathological disease that probably could have been dealt to at the time and should have been prevented, should have never happened. So most parents that have that situation are on fire. 
 

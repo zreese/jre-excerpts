@@ -1,6 +1,6 @@
 ---
 created: 2025-10-09T14:01
-updated: 2026-02-27T15:51
+updated: 2026-03-30T10:55
 title: All JRE Excerpts
 ---
 
@@ -8,6 +8,11 @@ title: All JRE Excerpts
 [[JRE Excerpt - Glyphosate Runoff - 2313]]  
 [[JRE Excerpt - Glyphosate in Girl Scout Cookies - 2277]]  
 [[JRE Excerpt - 90% of people have Glyphosate in their blood - 2099]]  
+[[JRE Excerpt - RFK Jr - Trump's Glyphosate EO - 2461]]  
+[[JRE Excerpt - Gluten Intolerance is Actually Glyphosate 2202]]  
+
+## Peptides
+[[JRE Excerpt - Peptides Recommendation - Steve-O]]  
 
 ## Peter Hotez
 ### Peter Hotez - Criticism
@@ -39,6 +44,10 @@ title: All JRE Excerpts
 [[JRE Excerpt - Tridactyl Peruvian mummies are aliens - 2375]]  
 [[JRE Excerpt - Rogan's NewsRadio character was based on real life Rogan - 2187]]  
 
+## Autism/Measles
+[[JRE Excerpt - Is AI hardcoded to say vaccines don't cause autism - 2462]]  
+[[JRE Excerpt - How are people so confident that vaccines don't cause autism - 2454]]  
+[[JRE Excerpt - Lying Studies Autism Vaccines - Suzanne Humphries - 2294]]  
 ## Ivermectin
 [[JRE Excerpt - First Ivermectin mention - 1639]]  
 [[JRE Excerpt - Second Ivermectin Mention - 1652]] - Same story as the first one, but more detail  
@@ -65,10 +74,12 @@ title: All JRE Excerpts
 
 ## Rogan's Antivax Conversion
 [[JRE Excerpt - CNN Ivermectin Mockery - 1979]]  
-[[JRE Excerpt - I had to become the news - 2335]] - Rogan on 'becoming the news' after Ivermectin villainization 
+[[JRE Excerpt - I had to become the news - 2335]] - Rogan on 'becoming the news' after Ivermectin villainization  
+[[JRE Excerpt - Mel Gibson read TRAF - 2254]]  
 
 ## Rogan Breaking With Trump
 [[JRE Excerpt - No one with a heart is going to go along with ICE raids - 2391]]  
+[[JRE Excerpt - MAGA is a movement of a bunch of fucking dorks - Dave Smith - 2474]]  
 
 ## Miscellany 
 [[JRE Excerpt - Rogan defending Nick Fuentes - 2352]]  

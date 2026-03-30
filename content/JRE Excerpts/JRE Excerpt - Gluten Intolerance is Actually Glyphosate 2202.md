@@ -1,10 +1,13 @@
 ---
 created: 2025-10-09T12:54
-updated: 2025-10-09T13:12
+updated: 2026-03-30T10:55
 tags:
   - glyphosate
 citation: "PowerfulJRE. Joe Rogan Experience #2202 - Tom Segura. YouTube video, 3:23:44. January 14, 2025. https://www.youtube.com/watch?v=9IitdaHy6Q8. Accessed September 16, 2025."
+youtube_url: https://www.youtube.com/watch?v=9IitdaHy6Q8
 ---
+## Excerpt from [[jre-2202--tom-segura--2024-09-16]]
+
 107:35      (Joe Rogan)	Well, that's one of the things that's very interesting about Robert F. Kennedy junior being connected to Trump in this election. Really? Yeah, because if Trump winds up winning, they're gonna expose our food systems. Robert Kennedy, one of the things that he really wants to do is he wants to expose a bunch of problems we have in our food system.
 107:54      (Joe Rogan)	One is glyphosate. Glyphosate, which is used. It's an herbicide.
 107:57      (Joe Rogan)	It's used all over the fucking place. It's in a lot of food. Most people, they test.

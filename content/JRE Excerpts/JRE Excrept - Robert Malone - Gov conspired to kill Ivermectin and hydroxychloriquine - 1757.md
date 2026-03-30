@@ -1,6 +1,6 @@
 ---
 created: 2026-02-26T13:16
-updated: 2026-02-26T13:30
+updated: 2026-02-27T16:03
 tags:
 published_date: 2021-12-31
 youtube_url:
@@ -10,7 +10,7 @@ citation: "Random Stuff by me. “Joe Rogan Podcast #1757 – Dr Robert Malone M
 
 00:24:15	(Joe Rogan)	What do you think is going on with, uh, the, the pushback on Ivermectin?
 
-00:24:20	(Robert Malone)	So it's not just Ivermectin, it's hydroxychloroquine. And just to put a marker on that, there's good modeling studies that probably half a million excess deaths have happened in the United States through the intentional blockade of early treatment by the US government. That is— Half a million. Half a million. That is a well-documented number. Okay? And it's a combination of hydroxychloriquine and Ivermectin. Now when you ask me why, you're asking me to get into somebody's head. What I can say as a scientist is what I observe. Um, the behaviors, the actions, the correspondence, these bizarre things like, ah, you know, "Don't you know it's a horse drug, y'all?" right, which is amazingly pejorative. I live in Virginia, okay? I can tell you the people around me— I live in a rural county and I raise horses. Um, that was deeply offensive, um, to use that language in that way. Um, but there's clearly been an intentional push. And Zev Zelenko, who's a buddy, uh, the guy that came out with the original protocol, Zelenko Protocol, and was the one, by the way, that wrote the letter to, um, uh, to Trump advocating for hydroxychloroquine. Okay, kind of important to put that together. He's put together a great little video clip in which he clearly documents the conspiracy between Janet Woodcock and Rick Bright to make it so that physicians could not administer hydroxychloriquine outside of the hospital.
+00:24:20	(Robert Malone)	So it's not just Ivermectin, it's hydroxychloroquine. And just to put a marker on that, there's good modeling studies that probably half a million excess deaths have happened in the United States through the intentional blockade of early treatment by the US government. That is— Half a million. Half a million. That is a well-documented number. Okay? And it's a combination of hydroxychloroquine and Ivermectin. Now when you ask me why, you're asking me to get into somebody's head. What I can say as a scientist is what I observe. Um, the behaviors, the actions, the correspondence, these bizarre things like, ah, you know, "Don't you know it's a horse drug, y'all?" right, which is amazingly pejorative. I live in Virginia, okay? I can tell you the people around me— I live in a rural county and I raise horses. Um, that was deeply offensive, um, to use that language in that way. Um, but there's clearly been an intentional push. And Zev Zelenko, who's a buddy, uh, the guy that came out with the original protocol, Zelenko Protocol, and was the one, by the way, that wrote the letter to, um, uh, to Trump advocating for hydroxychloroquine. Okay, kind of important to put that together. He's put together a great little video clip in which he clearly documents the conspiracy between Janet Woodcock and Rick Bright to make it so that physicians could not administer hydroxychloroquine outside of the hospital.
 
 00:25:55	(Joe Rogan)	And who, who is Janet Woodcock and who's Rick Bright?
 
@@ -18,11 +18,11 @@ citation: "Random Stuff by me. “Joe Rogan Podcast #1757 – Dr Robert Malone M
 
 00:26:33	(Joe Rogan)	So between the two of them, was there— was some sort of a concerted effort to suppress the use of hydroxychloroquine?
 
-00:26:40	(Robert Malone)	Rick Bright, in, in videotaped testimony, has explicitly spoken about how they conspired to cook an— a strategy using emergency use authorization to make it so that hydroxychloriquine could only be administered in the hospital, which by the way is too late for when hydroxy should be used. 
+00:26:40	(Robert Malone)	Rick Bright, in, in videotaped testimony, has explicitly spoken about how they conspired to cook an— a strategy using emergency use authorization to make it so that hydroxychloroquine could only be administered in the hospital, which by the way is too late for when hydroxy should be used. 
 
 00:27:00	(Joe Rogan)	And why did they do that? 
 
-00:27:02	(Robert Malone)	That is what is the unknown. And, and there's so many whys and hows behind this. I like to say there's a stack of stuff that doesn't make sense. It's about this high. Now, there is— I can't prove, I can't get into Rick's head. I know Rick quite well. I don't know what— he's currently working for the Rockefellers. He did a whistleblower case and then he left the government. But, um, all I know is they did this and Rick admits on it on videotape that he did it. And, um, and he states that the reason was is that he believed there was no evidence of hydroxychloriquine being useful for this virus. Now that's false. Hydroxychloriquine was known to be effective against SARS-1. That 
+00:27:02	(Robert Malone)	That is what is the unknown. And, and there's so many whys and hows behind this. I like to say there's a stack of stuff that doesn't make sense. It's about this high. Now, there is— I can't prove, I can't get into Rick's head. I know Rick quite well. I don't know what— he's currently working for the Rockefellers. He did a whistleblower case and then he left the government. But, um, all I know is they did this and Rick admits on it on videotape that he did it. And, um, and he states that the reason was is that he believed there was no evidence of hydroxychloroquine being useful for this virus. Now that's false. hydroxychloroquine was known to be effective against SARS-1. 
 
 00:27:54	(Joe Rogan)	That, wasn't that regular chloroquine? 
 
@@ -44,7 +44,7 @@ citation: "Random Stuff by me. “Joe Rogan Podcast #1757 – Dr Robert Malone M
 
 00:31:55	(Robert Malone)	Uh, it's that— those terms, 90 or 96 or 98, um, it's —those are really not— um, they're kind of irrelevant. Uh, you know, the— you can have something that's 99.9% similar and, ah, the difference is all the difference.
 
-00:32:16	(Joe Rogan)	But if chloroquine worked on the original SARS or it showed efficacy in original SARS, is it safe to assume, like, without adequate tests that hydroxychloriquine would work work on—
+00:32:16	(Joe Rogan)	But if chloroquine worked on the original SARS or it showed efficacy in original SARS, is it safe to assume, like, without adequate tests that hydroxychloroquine would work work on—
 
 00:32:26	(Robert Malone)	It's the decision that was made by the Chinese government. Okay, that's my point. I got the original Chinese protocols. This is what they were using. 
 

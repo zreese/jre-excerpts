@@ -1,7 +1,8 @@
 ---
 created: 2026-02-09T13:24
-updated: 2026-02-09T13:50
+updated: 2026-03-30T10:54
 tags:
+  - the-real-anthony-fauci
 published_date: 2025-01-09
 youtube_url:
 citation: "PowerfulJRE. “Joe Rogan Experience #2254 – Mel Gibson.” YouTube video, January 9, 2025. https://www.youtube.com/watch?v=1rYtrS5IbrQ. Accessed February 9, 2026."
