@@ -1,6 +1,6 @@
 ---
 created: 2026-03-30T10:38
-updated: 2026-03-30T10:50
+updated: 2026-03-30T11:03
 tags:
   - breaking-with-trump
 published_date: 2026-03-26
@@ -11,7 +11,11 @@ citation: "PowerfulJRE. “Joe Rogan Experience #2474 – Dave Smith.” YouTube
 
 01:52:02	(Dave Smith)	This is something that I'm encouraged by, is that I think what you just said there, I really do believe that you said speak for supermajorities of the American people. And that's why even though Donald Trump has shattered his coalition by lying us into this stupid war on behalf of a foreign country, that coalition is still ripe for someone else to pick it up and run with it. And that's kind of what I'm hoping. I hope Thomas Massie runs for president. I think, by the way, they're doing a big money bomb for Thomas Massie on March 30th. And I think him winning reelection in Congress is like the most important political election in the country right now, because he's done nothing wrong except actually stand up for America First and for all the stuff that Donald Trump and Tulsi Gabbard and all these people ran on. And he's gotten the, the Israel lobby and the Adelsons— but I repeat myself— have been pouring millions of dollars, uh, into his race to try to unseat him for the crime of not going along with the Epstein cover-up and not going along with another stupid war and having some, like, fiscal sanity. So I hope, I hope he wins. I don't— I hope he runs for president. 
 
-01:53:00	(Joe Rogan)	Imagine those— Imagine those being 3 negatives that people are saying he's not MAGA. Yeah. Well, then, okay. Well, then— what is MAGA then?
+01:53:00	(Joe Rogan)	Imagine those being 3 negatives— Imagine those being 3 negatives. That people are saying he's not MAGA. 
+
+01:52:05	(Dave Smith)	Yeah. Well, then, okay. 
+
+01:53:07	(Joe Rogan)	Well, then— what is MAGA then?
 
 01:53:08	(Dave Smith)	Well, if that's like, I don't know, like my position is always like, if you're saying, if, if not supporting covering up the Epstein files or not supporting a stupid war of choice, a war of aggression on behalf of Israel means I'm not MAGA, then okay, I'm not MAGA. I don't, I'm not attached to the, the, the, you know, the phrase make America great again. I don't care. Then, fine. 
 
